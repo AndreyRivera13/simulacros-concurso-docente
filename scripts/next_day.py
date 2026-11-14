@@ -11,6 +11,13 @@ Uso:
 import json, os, sys, pathlib, urllib.request, datetime as dt
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+try:
+    _G = json.loads((ROOT / "data" / "guia.json").read_text())
+    _D = {d["id"]: d["nombre"] for d in _G["documentos"]}
+    EJES = {e["id"]: {"nombre": e["nombre"], "docs": [_D.get(x, x) for x in e.get("docs", [])]}
+            for v in _G["versiones"].values() for e in v["ejes"]}
+except Exception:
+    EJES = {}
 PLAN = json.loads((ROOT / "data/plan.json").read_text())
 N = PLAN["meta"]["questions_per_topic"]
 
@@ -25,7 +32,7 @@ def brief(v, date):
     for p in sorted((ROOT / "data" / v).glob("*.json"))[-7:]:
         for t in json.loads(p.read_text())["topics"]:
             recent_q += [q["q"].split("\n")[0][:90] for q in t["questions"]]
-    topics = "\n".join(f"## {t['id']}\n- Título: {t['title']}\n- Eje: {t['track']}\n- Enfoque: {t['focus']}" for t in day["topics"])
+    topics = "\n".join(f"## {t['id']}\n- Título: {t['title']}\n- Eje: {t['track']}\n- Eje oficial (data/guia.json): {t.get('eje','')} — {EJES.get(t.get('eje',''),{}).get('nombre','')}\n- Documentos oficiales base: {'; '.join(EJES.get(t.get('eje',''),{}).get('docs',[]))}\n- Enfoque: {t['focus']}" for t in day["topics"])
     return f"""Eres un experto en el concurso docente de Colombia (CNSC) y en {vp['name']}.
 Genera el simulacro del día {day['n']} ({date}) para la versión {v} ({vp['name']}, aspirante: {vp['person']}).
 Dificultad: {day['difficulty']}. Tipo de día: {day['kind']}.

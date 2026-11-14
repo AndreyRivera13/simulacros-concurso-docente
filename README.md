@@ -22,9 +22,12 @@ Material de práctica **no oficial**.
 index.html, assets/        # app estática (JS sin dependencias)
 data/plan.json             # plan completo de ambas versiones (generado por scripts/build_plan.py)
 data/index.json            # días disponibles por versión (lo actualiza build_day.py)
+data/guia.json             # Guía de estudio: concurso, ejes oficiales, documentos y días del plan (build_guide.py)
 data/<V>/<AAAA-MM-DD>.json # simulacro de un día (lo produce build_day.py; no editar a mano)
 drafts/<V>/<AAAA-MM-DD>.txt# borrador fuente del día (formato de texto, correcta primero)
 scripts/build_plan.py      # (re)genera plan.json — temario, ejes, fechas, dificultad
+scripts/build_guide.py     # (re)genera guia.json desde fuentes oficiales y cruza cada eje con plan.json
+scripts/check_links.py     # verifica que todos los enlaces oficiales respondan 200
 scripts/next_day.py        # próximo día pendiente; encargo de generación (prompt); opcional --llm
 scripts/build_day.py       # valida borrador, baraja opciones con balance, escribe JSON e index
 scripts/daily.sh           # trabajo diario completo: generar → validar → commit → push
@@ -67,7 +70,17 @@ python tests/e2e.py https://andreyrivera13.github.io/simulacros-concurso-docente
 O todo en uno (si ya existen los borradores o hay API de LLM configurada): `scripts/daily.sh`.
 
 Para cambiar el plan (fechas, temas, 3 temas/día, etc.) edite `scripts/build_plan.py` y ejecútelo; los ids de los
-temas ya generados no deben cambiar.
+temas ya generados no deben cambiar. Cada tema declara su `eje` oficial; después ejecute `python3 scripts/build_guide.py`
+(falla si algún eje del plan no existe en la guía) y `python3 scripts/check_links.py`.
+
+## Guía de estudio (pestaña `#guia`)
+
+Basada solo en documentos oficiales: Acuerdos de convocatoria y Anexo técnico CNSC 2026 (etapas, pruebas, mínimos, pesos,
+antecedentes), Res. MEN 003842 de 2022 (competencias y requisitos), referentes del MEN (Estándares, Lineamientos y DBA de
+Ciencias Naturales; PNEA; Guía 30 y Orientaciones Curriculares de T&I 2022; Competencias TIC 2013) y normas del Gestor
+Normativo de Función Pública. A la fecha de creación (14-nov-2026) la CNSC **no** ha publicado la Guía de orientación ni los
+ejes temáticos 2026-2027; cuando se publiquen, actualice `scripts/build_guide.py` (y, si cambian los ejes, `build_plan.py`
+para los días aún no generados). Cada tema del simulacro enlaza a `#guia-<eje>`.
 
 ## Pruebas E2E
 

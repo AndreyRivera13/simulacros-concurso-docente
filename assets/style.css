@@ -34,3 +34,12 @@ button{font-family:inherit}
 .empty{background:#fff;border:1px dashed var(--line);border-radius:12px;padding:20px;text-align:center}
 .foot{color:var(--mut);font-size:.8rem;padding:30px 16px}
 @media (max-width:600px){.plan td:nth-child(3),.plan th:nth-child(3){display:none}}
+.views{flex-wrap:wrap}
+.guia h2{color:var(--navy);margin:26px 0 8px;font-size:1.2rem}.guia .warn{background:#fff3e0;border:1px solid #f0b37a;border-radius:12px;padding:12px 14px;font-size:.93rem}
+.guia table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;margin:8px 0}.guia th,.guia td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top;font-size:.88rem;text-align:left}.guia th{background:#eaf0f8}
+.guia .eje{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:12px 0;scroll-margin-top:12px}.guia .eje.hl{outline:3px solid #f0b400}
+.guia .eje h3{margin:0;color:var(--navy)}.guia .comp{display:inline-block;font-size:.78rem;background:#e3ecfb;color:var(--navy);padding:2px 8px;border-radius:20px;margin:4px 0}
+.guia .ofi{font-size:.88rem;color:#33415c}.guia ul{margin:6px 0;padding-left:20px}.guia .docs a{font-size:.88rem}
+.guia details summary{cursor:pointer;color:var(--acc);font-size:.9rem}.guia .chips a{display:inline-block;font-size:.78rem;background:#f0f4fa;border:1px solid var(--line);border-radius:14px;padding:1px 8px;margin:2px;text-decoration:none;color:var(--navy)}
+.guia .chips a.done{background:#e8f5e9}.guia .toc a{display:inline-block;margin:2px 8px 2px 0;font-size:.88rem}.src{font-size:.82rem;color:var(--mut)}
+.glink{font-size:.85rem;margin-left:6px}.dayinfo .glinks{font-size:.85rem;margin-top:2px}

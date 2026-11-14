@@ -163,16 +163,16 @@ Q: ¿Qué significa que la prueba psicotécnica sea "clasificatoria"?
 E: Las pruebas clasificatorias aportan puntaje ponderado para definir la posición en la lista; no tienen mínimo eliminatorio.
 
 Q: ¿Qué se evalúa en la etapa de valoración de antecedentes?
-+ La formación académica y la experiencia acreditadas adicionales a los requisitos mínimos.
++ El título exigido como requisito mínimo y la formación y experiencia adicionales acreditadas.
 - Los antecedentes disciplinarios y penales del aspirante.
 - El desempeño en un examen escrito de cultura general.
-E: Se puntúan estudios y experiencia que superan los requisitos mínimos del empleo, con los documentos cargados en SIMO.
+E: Según el Acuerdo de convocatoria 2026 (art. 13) y el Anexo técnico (num. 5), se valora el título de requisito mínimo (5 puntos) y la educación, formación continua, Saber Pro, segunda lengua y experiencia adicionales, con los documentos cargados en SIMO.
 
-Q: Antes de aplicar las pruebas, la CNSC revisa si el aspirante cumple los requisitos del empleo. ¿Cómo se llama esta etapa y qué consecuencia tiene?
+Q: En el concurso 2026, después de las pruebas escritas, la CNSC revisa si quienes aprobaron la prueba eliminatoria cumplen los requisitos del empleo. ¿Cómo se llama esta etapa y qué consecuencia tiene?
 + Verificación de requisitos mínimos: quien no los cumple queda "no admitido".
 - Valoración de antecedentes: quien no los cumple pierde puntos pero continúa.
 - Entrevista: quien no los cumple debe explicarlo en audiencia.
-E: La verificación de requisitos mínimos (VRM) no da puntaje; define si el aspirante es admitido o no admitido al proceso.
+E: En los Acuerdos 2026 (art. 3) la VRM se hace después de publicar los resultados de las pruebas escritas y solo a quienes superan la prueba de aptitudes; no da puntaje, define si el aspirante es admitido o no admitido.
 
 Q: ¿Qué componentes evalúa la prueba de aptitudes y competencias básicas para un docente de aula?
 + Aptitudes (p. ej., razonamiento y lectura crítica) y competencias del área y pedagógicas.
@@ -223,10 +223,10 @@ Q: Un aspirante quiere saber qué funciones y requisitos tiene el empleo de doce
 E: La ficha del empleo en SIMO y el manual del MEN establecen requisitos mínimos de formación y funciones.
 
 Q: ¿Cuál es el orden lógico de las etapas del concurso docente?
-+ Convocatoria y divulgación → inscripción → verificación de requisitos → pruebas → valoración de antecedentes → lista de elegibles → nombramiento en periodo de prueba.
++ Convocatoria → inscripciones → pruebas escritas → verificación de requisitos mínimos → antecedentes y entrevista → lista de elegibles → audiencia de escogencia de vacante → nombramiento en periodo de prueba.
 - Inscripción → nombramiento → pruebas → convocatoria → lista de elegibles.
-- Pruebas → inscripción → convocatoria → verificación de requisitos → nombramiento.
-E: El proceso parte del acuerdo de convocatoria, sigue con la inscripción en SIMO y la verificación, luego las pruebas y antecedentes, y termina con listas y nombramientos.
+- Convocatoria → inscripciones → verificación de requisitos → nombramiento → pruebas escritas → lista de elegibles.
+E: Es el orden del artículo 3 de los Acuerdos de convocatoria 2026: en este concurso las pruebas escritas van ANTES de la verificación de requisitos mínimos; luego antecedentes y entrevista, lista de elegibles, audiencia pública de escogencia y nombramiento.
 
 Q: Un aspirante considera que su puntaje de la prueba fue mal calificado. ¿Qué puede hacer dentro del proceso?
 + Presentar una reclamación ante la CNSC/operador dentro del plazo fijado en la convocatoria, a través de SIMO.
