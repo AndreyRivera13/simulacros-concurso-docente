@@ -85,9 +85,24 @@ def run_version(browser, v):
             "per_topic": [f"{a}/{b}" for a, b in exp_topic], "plan_rows": rows, "today_highlight": today_rows == 1, "start_banner": banner,
             "checks": checks, "errors": errs, "pass": not errs, "screenshot": str(shot)}
 
+def check_today(browser, v, fake="2026-11-17"):
+    """Con el reloj fijado en una fecha del plan, el plan resalta ese día y el simulacro por defecto es el de ese día."""
+    import datetime as dt
+    ctx = browser.new_context(timezone_id="America/Bogota"); page = ctx.new_page()
+    page.clock.set_fixed_time(dt.datetime.fromisoformat(fake + "T12:00:00-05:00"))
+    page.goto(BASE + f"?v={v}#plan", wait_until="networkidle"); page.wait_for_selector(".plan table")
+    hl = page.locator(".plan tr.today").get_attribute("data-date") if page.locator(".plan tr.today").count() else None
+    page.goto(BASE + f"?v={v}#quiz", wait_until="networkidle"); page.wait_for_selector(".q .option")
+    d = re.search(r"[?&]d=(\d{4}-\d{2}-\d{2})", page.url).group(1)
+    ctx.close()
+    return {"fake_today": fake, "highlighted": hl, "default_quiz": d, "pass": hl == fake and d == fake}
+
 with sync_playwright() as p:
     b = p.chromium.launch()
     results = [run_version(b, v) for v in ("A", "B")]
+    for r in results:
+        t = check_today(b, r["version"]); r["today_check"] = t
+        if not t["pass"]: r["errors"].append(f"resaltado de hoy: {t}"); r["pass"] = False
     b.close()
 print(json.dumps(results, ensure_ascii=False, indent=1))
 sys.exit(0 if all(r["pass"] for r in results) else 1)
