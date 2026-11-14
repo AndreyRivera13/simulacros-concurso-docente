@@ -73,6 +73,19 @@ Para cambiar el plan (fechas, temas, 3 temas/día, etc.) edite `scripts/build_pl
 temas ya generados no deben cambiar. Cada tema declara su `eje` oficial; después ejecute `python3 scripts/build_guide.py`
 (falla si algún eje del plan no existe en la guía) y `python3 scripts/check_links.py`.
 
+## Resultados en la nube y pestaña Progreso (`#progreso`)
+
+Cada intento se guarda en Supabase (proyecto `simulacros-concurso-docente`, ref `ggcgbjonlxxcmegknfxi`), tabla
+`public.quiz_attempts` (esquema y políticas en `supabase/schema.sql`). El navegador genera `id` y un `owner_token`
+secreto; cada respuesta hace un guardado parcial (misma fila) y al completar el día se guarda de inmediato.
+RLS: lectura pública (sin `owner_token`), inserción anónima, actualización solo con el encabezado `x-owner-token`
+del intento, sin borrado. Si no hay conexión, el intento queda en `localStorage` (`scd.att.<V>.<fecha>`) y se
+reintenta al cargar, al volver la conexión y cada 30 s. La pestaña Progreso muestra el historial de ambas personas,
+puntaje por tema, totales, promedio y tendencia, con filtro por versión. Nota: los proyectos gratuitos de Supabase se
+pausan tras ~7 días sin uso; si pasa, reactívelo desde el panel (los intentos siguen guardándose localmente).
+
+Las pruebas E2E crean intentos reales; al final imprimen `TEST_ATTEMPT_IDS=...` para borrarlos con SQL.
+
 ## Guía de estudio (pestaña `#guia`)
 
 Basada solo en documentos oficiales: Acuerdos de convocatoria y Anexo técnico CNSC 2026 (etapas, pruebas, mínimos, pesos,

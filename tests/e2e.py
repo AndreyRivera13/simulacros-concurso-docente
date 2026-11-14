@@ -13,6 +13,76 @@ from playwright.sync_api import sync_playwright
 BASE = sys.argv[1].rstrip("/") + "/"
 DATE = sys.argv[2] if len(sys.argv) > 2 else None
 OUT = pathlib.Path(__file__).resolve().parent.parent
+SB_URL = "https://ggcgbjonlxxcmegknfxi.supabase.co/rest/v1/quiz_attempts"
+SB_KEY = "sb_publishable_TY2maiftFyPDWj_SovDXCQ_7kUE5Lbq"   # clave pública (la misma del sitio)
+TEST_IDS = []   # intentos creados por la prueba; se borran después vía SQL (MCP/consola de Supabase)
+
+def sb_get(page, attempt_id):
+    r = page.request.get(f"{SB_URL}?id=eq.{attempt_id}&select=id,quiz_date,version,person,topic_scores,answered,total_correct,total_questions,percentage,completed",
+                         headers={"apikey": SB_KEY})
+    return r.json()
+
+def check_cloud(page, v, date, exp_total, n_total, exp_topic, errs):
+    """Guardado en Supabase al completar + lectura de vuelta."""
+    page.wait_for_selector('#results .save-status[data-state="ok"]', timeout=20000)
+    aid = page.locator("#results").get_attribute("data-attempt-id")
+    TEST_IDS.append(aid)
+    rows = sb_get(page, aid)
+    out = {"attempt_id": aid, "rows": len(rows)}
+    if len(rows) != 1: errs.append(f"Supabase: {len(rows)} filas para el intento {aid}"); return out
+    r = rows[0]
+    exp = {"quiz_date": date, "version": v, "person": {"A": "Yasmin", "B": "Andrey"}[v], "answered": n_total, "total_correct": exp_total, "total_questions": n_total, "completed": True}
+    for k, val in exp.items():
+        if r[k] != val: errs.append(f"Supabase {k}: {r[k]!r} != {val!r}")
+    if abs(float(r["percentage"]) - round(exp_total * 100 / n_total, 2)) > 0.01: errs.append(f"Supabase percentage {r['percentage']}")
+    got = [(t["correct"], t["total"]) for t in r["topic_scores"]]
+    if got != list(exp_topic): errs.append(f"Supabase topic_scores {got} != {exp_topic}")
+    out.update({"readback": {k: r[k] for k in ("total_correct", "total_questions", "percentage", "completed")}, "topic_scores": got})
+    return out
+
+def check_offline_partial(browser, v, date):
+    """Sin conexión: guarda local y queda pendiente; al volver la conexión se sube como intento PARCIAL (misma fila)."""
+    errs = []
+    ctx = browser.new_context(timezone_id="America/Bogota"); page = ctx.new_page()
+    page.goto(BASE + f"?v={v}&d={date}#quiz", wait_until="networkidle"); page.wait_for_selector(".q .option")
+    ctx.set_offline(True)
+    page.locator('[data-q="0-0"] .option').first.click()
+    page.locator('[data-q="0-1"] .option').first.click()
+    page.wait_for_selector('#scorebar .save-status[data-state="pending"]', timeout=10000)
+    att = page.evaluate(f"JSON.parse(localStorage.getItem('scd.att.{v}.{date}'))")
+    if not att or not att.get("dirty"): errs.append("offline: no quedó pendiente en localStorage")
+    ctx.set_offline(False)
+    ok = page.evaluate("window.__scdSync()")
+    page.wait_for_selector('#scorebar .save-status[data-state="ok"]', timeout=15000)
+    TEST_IDS.append(att["id"])
+    rows = sb_get(page, att["id"])
+    if len(rows) != 1 or rows[0]["answered"] != 2 or rows[0]["completed"]: errs.append(f"offline->online: fila {rows}")
+    # un tercer answer actualiza la MISMA fila (guardado parcial)
+    page.locator('[data-q="0-2"] .option').first.click()
+    page.wait_for_function(f"(() => {{ const a = JSON.parse(localStorage.getItem('scd.att.{v}.{date}')); return a && !a.dirty && a.rev >= 3; }})()", timeout=15000)
+    rows = sb_get(page, att["id"])
+    if len(rows) != 1 or rows[0]["answered"] != 3: errs.append(f"guardado parcial no actualizó la fila: {rows}")
+    ctx.close()
+    return {"attempt_id": att["id"], "synced": ok, "answered_after": rows[0]["answered"] if rows else None, "errors": errs, "pass": not errs}
+
+def check_progress(browser, ids_by_v):
+    errs = []
+    ctx = browser.new_context(viewport={"width": 1100, "height": 1000}, timezone_id="America/Bogota"); page = ctx.new_page()
+    page.goto(BASE + "#progreso", wait_until="networkidle")
+    page.wait_for_selector('#progreso[data-loaded="cloud"]', timeout=20000)
+    if page.locator('nav.views a[href="#progreso"]').count() != 1: errs.append("falta pestaña Progreso")
+    for v, (aid, tot) in ids_by_v.items():
+        row = page.locator(f'#prog-table tr[data-attempt="{aid}"]')
+        if row.count() != 1: errs.append(f"progreso: no aparece el intento {v} {aid}"); continue
+        if row.locator(".tot").inner_text().strip() != tot: errs.append(f"progreso: total {v} {row.locator('.tot').inner_text()} != {tot}")
+    if page.locator("#trend circle").count() < 2: errs.append("progreso: gráfica sin puntos")
+    if page.locator("#avg-A").inner_text() == "—" or page.locator("#avg-B").inner_text() == "—": errs.append("progreso: promedio vacío")
+    page.screenshot(path=str(OUT / "test-progreso.png"), full_page=True)
+    page.locator('.fbtn[data-filter="B"]').click(); page.wait_for_selector('.fbtn.on[data-filter="B"]')
+    if page.locator('#prog-table tr[data-version="A"]').count() != 0: errs.append("filtro B muestra filas de A")
+    if page.locator('#prog-table tr[data-version="B"]').count() < 1: errs.append("filtro B sin filas")
+    ctx.close()
+    return {"errors": errs, "pass": not errs}
 
 def run_version(browser, v):
     errs, checks = [], 0
@@ -63,6 +133,7 @@ def run_version(browser, v):
     for ti, (ok_t, n) in enumerate(exp_topic):
         rt = page.locator(f'[data-result-topic="{ti}"] .rt-score').inner_text().strip()
         if rt != f"{ok_t} / {n}": errs.append(f"resultado tema {ti}: '{rt}' != '{ok_t} / {n}'")
+    cloud = check_cloud(page, v, date, exp_total, n_total, exp_topic, errs)
     sb = page.locator("#scorebar").inner_text()
     if f"{n_total}/{n_total}" not in sb or f"Correctas {exp_total}" not in sb: errs.append(f"barra de puntaje: '{sb}'")
     res.scroll_into_view_if_needed(); page.wait_for_timeout(300)
@@ -84,7 +155,7 @@ def run_version(browser, v):
     ctx.close()
     return {"version": v, "date": date, "questions": n_total, "expected_correct": exp_total, "shown": total_txt,
             "per_topic": [f"{a}/{b}" for a, b in exp_topic], "plan_rows": rows, "today_highlight": today_rows == 1, "start_banner": banner,
-            "checks": checks, "guide": gres, "errors": errs, "pass": not errs, "screenshot": str(shot)}
+            "checks": checks, "cloud": cloud, "guide": gres, "errors": errs, "pass": not errs, "screenshot": str(shot)}
 
 OFFICIAL = ("cnsc.gov.co", "mineducacion.gov.co", "funcionpublica.gov.co", "colombiaaprende.edu.co", "minambiente.gov.co", "secretariasenado.gov.co")
 
@@ -151,6 +222,17 @@ with sync_playwright() as p:
     for r in results:
         t = check_today(b, r["version"]); r["today_check"] = t
         if not t["pass"]: r["errors"].append(f"resaltado de hoy: {t}"); r["pass"] = False
+    for r in results:
+        idx = json.loads(b.new_context().request.get(BASE + "data/index.json").text())[r["version"]]
+        other = next(d for d in idx if d != r["date"])
+        off = check_offline_partial(b, r["version"], other); r["offline_partial"] = off
+        if not off["pass"]: r["errors"] += off["errors"]; r["pass"] = False
+    prog = check_progress(b, {r["version"]: (r["cloud"]["attempt_id"], r["shown"].replace(" ", "")) for r in results})
+    for r in results:
+        r["progress_page"] = prog
+        if not prog["pass"]: r["errors"] += prog["errors"]; r["pass"] = False
     b.close()
 print(json.dumps(results, ensure_ascii=False, indent=1))
+print("TEST_ATTEMPT_IDS=" + ",".join(TEST_IDS))
+pathlib.Path("/tmp/scd_test_ids.txt").write_text("\n".join(TEST_IDS))
 sys.exit(0 if all(r["pass"] for r in results) else 1)

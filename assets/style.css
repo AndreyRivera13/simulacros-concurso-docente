@@ -43,3 +43,8 @@ button{font-family:inherit}
 .guia details summary{cursor:pointer;color:var(--acc);font-size:.9rem}.guia .chips a{display:inline-block;font-size:.78rem;background:#f0f4fa;border:1px solid var(--line);border-radius:14px;padding:1px 8px;margin:2px;text-decoration:none;color:var(--navy)}
 .guia .chips a.done{background:#e8f5e9}.guia .toc a{display:inline-block;margin:2px 8px 2px 0;font-size:.88rem}.src{font-size:.82rem;color:var(--mut)}
 .glink{font-size:.85rem;margin-left:6px}.dayinfo .glinks{font-size:.85rem;margin-top:2px}
+.save-status{font-size:.85rem;margin-left:8px;opacity:.95}.save-line .save-status{margin:0;color:var(--mut)}
+.prog h3{color:var(--navy);margin:20px 0 6px}.pcards{display:flex;gap:12px;flex-wrap:wrap}.pcard{flex:1;min-width:240px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.prog table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden}.prog th,.prog td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top;font-size:.88rem;text-align:left}.prog th{background:#eaf0f8}.prog ul{margin:0;padding-left:16px}
+.prog svg{background:#fff;border:1px solid var(--line);border-radius:12px}.legend{font-size:.88rem;margin:4px 0}.legend span{margin-right:14px}
+.filter{margin-top:8px}.fbtn.on{background:var(--navy);color:#fff;border-color:var(--navy)}
