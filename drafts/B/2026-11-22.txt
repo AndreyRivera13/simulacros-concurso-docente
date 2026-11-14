@@ -1,0 +1,241 @@
+## componentes-del-area-guia-30-2008-y-orientacione
+Q: ¿Qué es la Guía 30 («Ser competente en tecnología: ¡una necesidad para el desarrollo!»)?
++ Un documento del MEN (2008) con orientaciones generales para la educación en tecnología.
+- Una ley que fija las horas de tecnología en cada colegio.
+- Un manual de uso de herramientas informáticas para estudiantes.
+E: La Guía 30 es un referente de calidad del MEN; no es una ley ni un manual técnico.
+
+Q: ¿Cuáles son los cuatro componentes que organizan la competencia en tecnología en la Guía 30?
++ Naturaleza y evolución de la tecnología; apropiación y uso de la tecnología; solución de problemas con tecnología; tecnología y sociedad.
+- Hardware, software, redes y seguridad.
+- Diseño, producción, venta y reciclaje.
+E: Esos son los componentes de la Guía 30; los otros distractores son listas de temas informáticos o de procesos productivos.
+
+Q: Un estudiante analiza cómo el invento de la imprenta cambió la forma de difundir el conocimiento. ¿Qué componente de la Guía 30 se trabaja principalmente?
++ Naturaleza y evolución de la tecnología.
+- Apropiación y uso de la tecnología.
+- Solución de problemas con tecnología.
+E: Analizar el origen, evolución e impacto histórico de un artefacto corresponde a la naturaleza y evolución de la tecnología.
+
+Q: Un grupo de 7.º aprende a leer el manual de una impresora 3D y a operarla con seguridad. ¿Qué componente se trabaja principalmente?
++ Apropiación y uso de la tecnología.
+- Tecnología y sociedad.
+- Naturaleza y evolución de la tecnología.
+E: Saber manejar de forma adecuada, segura y eficiente un artefacto es apropiación y uso.
+
+Q: Un grupo identifica que su escuela desperdicia agua, propone alternativas y construye un prototipo de riego. ¿Qué componente se trabaja principalmente?
++ Solución de problemas con tecnología.
+- Naturaleza y evolución de la tecnología.
+- Apropiación y uso de la tecnología.
+E: Identificar una necesidad, diseñar y probar una solución es el componente de solución de problemas.
+
+Q: Estudiantes debaten sobre el impacto ambiental y social de desechar celulares viejos. ¿Qué componente se trabaja principalmente?
++ Tecnología y sociedad.
+- Solución de problemas con tecnología.
+- Apropiación y uso de la tecnología.
+E: Valorar los efectos sociales, éticos y ambientales de la tecnología corresponde a tecnología y sociedad.
+
+Q: ¿Cómo agrupa la Guía 30 los grados escolares para definir competencias?
++ 1.º a 3.º, 4.º a 5.º, 6.º a 7.º, 8.º a 9.º y 10.º a 11.º.
+- Primaria, secundaria y media únicamente.
+- Cada grado por separado.
+E: La Guía 30 define competencias y desempeños por grupos de grados, igual que otros estándares básicos.
+
+Q: Según la Guía 30, ¿qué significa ser competente en tecnología?
++ Saber usar, comprender, evaluar y resolver problemas con la tecnología de forma responsable.
+- Memorizar los nombres de los inventos más importantes.
+- Dominar un único programa o herramienta.
+E: La competencia es un saber hacer reflexivo en diferentes contextos, no una memorización ni una destreza aislada.
+
+Q: En la Guía 30, la tecnología se entiende como:
++ La actividad humana que busca resolver problemas y satisfacer necesidades mediante artefactos, procesos y sistemas.
+- Solo el conjunto de computadores y aparatos electrónicos.
+- Una ciencia que descubre las leyes de la naturaleza.
+E: La tecnología es más amplia que la informática y se diferencia de la ciencia, que busca explicar la naturaleza.
+
+Q: ¿Cuál es la diferencia general entre ciencia y tecnología?
++ La ciencia busca comprender y explicar fenómenos; la tecnología busca transformar el entorno para resolver problemas.
+- La ciencia produce artefactos y la tecnología produce teorías.
+- No existe ninguna diferencia entre ambas.
+E: Se relacionan y se retroalimentan, pero sus propósitos son distintos.
+
+Q: Al diseñar un puente de palitos de madera, los estudiantes dibujan bocetos, construyen un modelo, lo prueban con peso y lo mejoran. ¿Qué proceso están aplicando?
++ El proceso de diseño tecnológico: idear, diseñar, construir, probar y mejorar.
+- Un experimento científico para descubrir una ley.
+- Un procedimiento de mantenimiento correctivo.
+E: Probar y mejorar un prototipo hace parte del ciclo de diseño tecnológico.
+
+Q: ¿Qué es un prototipo?
++ Un modelo inicial que permite probar una idea o solución antes de producirla definitivamente.
+- El producto final listo para la venta.
+- Un plano sin ninguna construcción.
+E: Los prototipos sirven para evaluar y corregir antes de fabricar la versión definitiva.
+
+Q: Un docente propone que sus estudiantes completen una guía de pasos para armar un artefacto, sin plantear problema ni alternativas. ¿Qué componente de la Guía 30 queda menos desarrollado?
++ La solución de problemas con tecnología.
+- La naturaleza de la tecnología, que nunca puede trabajarse.
+- El uso de herramientas, que no se emplea en la actividad.
+E: Seguir pasos dados no desarrolla análisis de necesidades ni creatividad para proponer soluciones.
+
+Q: ¿Qué es una «evidencia de aprendizaje» en un área como Tecnología e Informática?
++ Una muestra observable de lo que el estudiante sabe y sabe hacer, como un prototipo, un informe o una sustentación.
+- La nota final del periodo.
+- La asistencia a clase.
+E: Las evidencias permiten valorar el nivel de desarrollo de la competencia más allá de una calificación.
+
+Q: En las Orientaciones Curriculares de Tecnología e Informática (2022), el área integra de forma articulada:
++ La tecnología y la informática, con énfasis en uso, apropiación, pensamiento computacional y solución de problemas.
+- Solo el manejo de aplicaciones de ofimática.
+- Solo la robótica como actividad extracurricular.
+E: El área no se reduce a ofimática ni a robótica; se orienta al desarrollo integral de competencias en tecnología e informática.
+
+Q: Un docente integra Tecnología e Informática con Ciencias Naturales para que los estudiantes construyan una estación meteorológica con sensores. ¿Qué principio pedagógico se evidencia?
++ La integración de áreas en proyectos que resuelven problemas reales.
+- La separación estricta de las áreas del currículo.
+- La memorización de componentes electrónicos.
+E: Los proyectos interdisciplinarios favorecen la aplicación del conocimiento en contextos reales.
+
+Q: ¿Qué debe hacer un docente al planear una unidad de Tecnología e Informática con base en referentes de calidad?
++ Definir aprendizajes esperados, actividades que los desarrollen y evidencias para evaluarlos.
+- Escoger solo las herramientas digitales disponibles y planear a partir de ellas.
+- Copiar el plan de otro colegio sin adaptarlo al contexto.
+E: La planeación parte de lo que se espera que el estudiante aprenda, y se adapta al contexto institucional.
+
+Q: Un colegio rural sin conectividad quiere trabajar el área de Tecnología e Informática. ¿Qué es lo más coherente con las orientaciones del área?
++ Desarrollar proyectos tecnológicos y pensamiento computacional con actividades «desconectadas» y recursos locales.
+- Posponer el área hasta tener internet.
+- Limitarse a mostrar videos sin ninguna actividad práctica.
+E: El área puede abordarse sin conexión (por ejemplo, algoritmos con tarjetas o prototipos con materiales), lo que promueve la equidad.
+
+Q: ¿Qué función tiene la Resolución 003842 de 2022 para quien aspira al cargo de docente?
++ Define el Manual de Funciones, Requisitos y Competencias para docentes y directivos docentes.
+- Establece los contenidos del área de Tecnología e Informática.
+- Reglamenta la evaluación de estudiantes.
+E: Es el manual de cargos: describe funciones, requisitos y competencias; no es un currículo ni una norma de evaluación escolar.
+
+Q: ¿Por qué es importante que el estudiante evalúe una solución tecnológica según criterios como costo, seguridad e impacto ambiental?
++ Porque una buena solución no solo funciona: también debe ser viable, segura y responsable con el entorno.
+- Porque lo único importante es que el artefacto sea llamativo.
+- Porque los criterios solo los define el fabricante.
+E: Evaluar con criterios múltiples hace parte de la competencia en solución de problemas y de la relación tecnología-sociedad.
+
+## convivencia-escolar-ley-1620-de-2013-y-decreto-1
+Q: ¿Qué creó la Ley 1620 de 2013?
++ El Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar.
+- El Sistema Nacional de Evaluación de Estudiantes.
+- El Escalafón Nacional Docente.
+E: La Ley 1620 organiza la convivencia escolar; la evaluación de estudiantes y el escalafón se regulan en otras normas.
+
+Q: ¿Qué hace el Decreto 1965 de 2013?
++ Reglamenta la Ley 1620 de 2013, es decir, precisa cómo se aplica.
+- Deroga la Ley 1620 de 2013.
+- Fija las funciones de los coordinadores académicos.
+E: Un decreto reglamentario desarrolla y concreta una ley; no la deroga.
+
+Q: ¿Quién preside el Comité Escolar de Convivencia?
++ El rector del establecimiento educativo.
+- El personero estudiantil.
+- El presidente del consejo de padres.
+E: El rector preside el comité; los demás son integrantes.
+
+Q: ¿Cuál de las siguientes personas es integrante del Comité Escolar de Convivencia?
++ El personero de los estudiantes.
+- El alcalde del municipio.
+- El jefe de la secretaría de educación.
+E: El comité reúne a miembros de la comunidad educativa, como el personero, el docente orientador, el coordinador, representantes de padres y de estudiantes y un docente que lidere procesos de convivencia.
+
+Q: ¿Cuál es una función del Comité Escolar de Convivencia?
++ Activar la ruta de atención integral cuando se presenta una situación que lo requiere.
+- Nombrar y retirar a los docentes del colegio.
+- Fijar el calendario académico.
+E: Entre sus funciones están liderar acciones de convivencia y activar la ruta; el nombramiento y el calendario le corresponden a otras instancias.
+
+Q: ¿Con qué frecuencia mínima debe reunirse ordinariamente el Comité Escolar de Convivencia?
++ Una vez cada tres meses.
+- Una vez al año.
+- Cada semana.
+E: El Decreto 1965 señala sesiones ordinarias, mínimo una cada tres meses, y extraordinarias cuando se requiera.
+
+Q: ¿Cuáles son los cuatro componentes de la Ruta de Atención Integral para la Convivencia Escolar?
++ Promoción, prevención, atención y seguimiento.
+- Diagnóstico, sanción, expulsión y archivo.
+- Información, denuncia, castigo y perdón.
+E: La ruta tiene esos cuatro componentes; no se limita a sancionar.
+
+Q: ¿Qué busca el componente de promoción de la ruta?
++ Fortalecer la convivencia y los derechos humanos mediante políticas institucionales y proyectos pedagógicos.
+- Sancionar a los estudiantes que cometan faltas.
+- Reportar los casos a la Fiscalía.
+E: La promoción actúa de forma positiva y anticipada: construye clima escolar, no sanciona.
+
+Q: Dos estudiantes discuten a gritos por un balón durante el recreo, sin golpes ni daños. ¿Qué tipo de situación es?
++ Situación tipo I.
+- Situación tipo II.
+- Situación tipo III.
+E: Los conflictos manejados inadecuadamente y situaciones esporádicas sin daño al cuerpo o a la salud son tipo I.
+
+Q: Un estudiante es burlado de manera repetida en el grupo de WhatsApp del curso y se siente muy afectado. ¿Qué tipo de situación es?
++ Situación tipo II, por tratarse de ciberacoso repetido.
+- Situación tipo I, por ser solo palabras.
+- Situación tipo III, siempre.
+E: El acoso escolar y el ciberacoso, cuando son repetidos o sistemáticos y no constituyen delito, son tipo II.
+
+Q: Un estudiante es agredido sexualmente por una persona de la comunidad. ¿Qué tipo de situación es?
++ Situación tipo III, porque es un presunto delito.
+- Situación tipo I, porque se maneja en el aula.
+- Situación tipo II, porque solo requiere reunión de padres.
+E: Los presuntos delitos contra la libertad, integridad y formación sexual son tipo III.
+
+Q: Ante una situación tipo III, ¿qué debe hacer el rector?
++ Informar de inmediato a los padres y a la Policía Nacional, y reportar el caso en el sistema de información.
+- Esperar a la siguiente reunión ordinaria del comité para decidir.
+- Resolver el caso en una mediación entre las partes.
+E: Los presuntos delitos no se resuelven en mediación; se deben remitir de inmediato a las autoridades.
+
+Q: ¿Qué se hace, en general, ante una situación tipo II en la que hay daños al cuerpo o a la salud?
++ Brindar atención inmediata en salud, informar a los padres y activar los protocolos.
+- Ignorar el caso hasta que se repita.
+- Pedir al estudiante agredido que cambie de colegio.
+E: La prioridad es proteger a los estudiantes involucrados y notificar a los padres; no se ignoran los casos ni se traslada a la víctima.
+
+Q: Un docente presencia una pelea con golpes que dejó a un estudiante con moretones. ¿Qué es lo más adecuado?
++ Atender al estudiante, informar al rector y a los padres y registrar el caso para activar la ruta.
+- Resolverlo con un abrazo entre ambos y no registrar nada.
+- Esperar a que los padres lo descubran.
+E: Si hay daño al cuerpo, se debe garantizar la atención y reportar el caso; no registrar el hecho impide el seguimiento.
+
+Q: ¿Qué es el manual de convivencia?
++ El documento del PEI que define derechos, deberes, normas y procedimientos para la convivencia escolar.
+- Un reglamento solo para docentes.
+- Un documento que fija las notas mínimas para aprobar.
+E: El manual de convivencia hace parte del PEI y debe construirse con la comunidad educativa.
+
+Q: ¿Quién debe participar en la construcción y actualización del manual de convivencia?
++ Toda la comunidad educativa: estudiantes, padres, docentes y directivos.
+- Solo el rector.
+- Solo la secretaría de educación.
+E: La Ley 1620 y el Decreto 1965 promueven la participación de la comunidad en la revisión del manual.
+
+Q: Un docente descubre que un estudiante sufre maltrato en su casa. ¿Qué es lo más adecuado según la lógica de la Ley 1098 de 2006 (Código de la Infancia y la Adolescencia)?
++ Informar a las instancias del colegio y a las autoridades de protección para garantizar los derechos del niño.
+- Callar para no meterse en asuntos familiares.
+- Castigar al estudiante para que cambie de actitud.
+E: Los niños son sujetos de derechos y su protección corresponde a la familia, la sociedad y el Estado; el docente debe activar los canales de protección.
+
+Q: ¿Qué principio es clave en el manejo de la información de los casos de convivencia escolar?
++ La confidencialidad y el respeto por la dignidad de los involucrados.
+- La publicación de los nombres en la cartelera del colegio.
+- La difusión inmediata en los grupos de padres.
+E: Las actas y los casos se manejan con reserva para proteger a los menores involucrados.
+
+Q: En una clase de Tecnología e Informática, un grupo crea un meme ofensivo sobre un compañero y lo difunde en redes. ¿Cuál es la reacción más adecuada?
++ Tratarlo como posible ciberacoso: atender al afectado, hablar con los involucrados, informar a los padres y activar la ruta.
+- Ignorarlo, porque ocurrió fuera del aula.
+- Borrar el meme y no volver a mencionarlo.
+E: El ciberacoso es una situación de convivencia; debe atenderse, registrarse y seguir la ruta, además de realizar una acción pedagógica sobre el uso responsable de la tecnología.
+
+Q: ¿Qué se busca con el componente de prevención de la ruta de atención integral?
++ Intervenir los factores de riesgo para evitar que ocurran situaciones que afecten la convivencia.
+- Sancionar a quien ya cometió una falta.
+- Reportar los casos a la Policía.
+E: La prevención actúa antes de que aparezca el problema, identificando riesgos y fortaleciendo competencias ciudadanas.

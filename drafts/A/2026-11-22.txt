@@ -1,0 +1,241 @@
+## referentes-de-calidad-estandares-lineamientos-y-
+Q: ¿Cuál de las siguientes afirmaciones describe mejor lo que son los Estándares Básicos de Competencias en Ciencias Naturales?
++ Criterios públicos que señalan lo que los estudiantes deben saber y saber hacer en cada grupo de grados.
+- Un plan de estudios obligatorio con contenidos, horarios y textos únicos para todo el país.
+- Una lista de temas que el docente debe evaluar en cada periodo escolar.
+E: Los estándares son referentes de calidad que orientan el currículo, pero no son un plan de estudios cerrado: cada institución lo construye en su PEI.
+
+Q: Los Estándares Básicos de Ciencias Naturales se organizan por grupos de grados. ¿Cuál es esa agrupación?
++ 1.º a 3.º, 4.º a 5.º, 6.º a 7.º, 8.º a 9.º y 10.º a 11.º.
+- 1.º a 2.º, 3.º a 4.º, 5.º a 6.º, 7.º a 8.º y 9.º a 11.º.
+- Un estándar distinto para cada grado, de 1.º a 11.º.
+E: Los estándares se formulan por conjuntos de grados para permitir procesos de desarrollo gradual; los DBA, en cambio, sí se formulan grado a grado.
+
+Q: En los Estándares de Ciencias Naturales, ¿cuáles son los tres grandes grupos de estándares?
++ Me aproximo al conocimiento como científico natural, manejo conocimientos propios de las ciencias naturales y desarrollo compromisos personales y sociales.
+- Entorno vivo, entorno social y entorno cultural.
+- Observación, experimentación y memorización.
+E: Esa es la estructura de los estándares. Entorno vivo, entorno físico y ciencia-tecnología-sociedad son subdivisiones del segundo grupo (conocimientos propios).
+
+Q: Un docente de 8.º diseña una práctica en la que los estudiantes formulan hipótesis, controlan variables y analizan datos. ¿A qué grupo de estándares responde principalmente?
++ Me aproximo al conocimiento como científico natural.
+- Desarrollo compromisos personales y sociales.
+- Manejo conocimientos propios: solo entorno vivo.
+E: Formular hipótesis, controlar variables y analizar datos son habilidades de indagación científica, que se agrupan en «me aproximo al conocimiento como científico natural».
+
+Q: Dentro de «manejo conocimientos propios de las ciencias naturales», ¿qué tres componentes se distinguen?
++ Entorno vivo, entorno físico y ciencia, tecnología y sociedad.
+- Biología, química y física como asignaturas separadas.
+- Ecología, genética y astronomía.
+E: Los estándares organizan los conocimientos en entorno vivo, entorno físico (procesos químicos y físicos) y ciencia, tecnología y sociedad, sin separarlos en asignaturas.
+
+Q: ¿A qué componente pertenece el estándar «explico las funciones de los seres vivos a partir de las relaciones entre diferentes sistemas de órganos»?
++ Entorno vivo.
+- Entorno físico.
+- Ciencia, tecnología y sociedad.
+E: Las funciones de los seres vivos y sus sistemas de órganos corresponden al entorno vivo; el entorno físico trata de materia, energía y fuerzas.
+
+Q: Una docente trabaja con sus estudiantes la discusión sobre los efectos de un pesticida en el río de la vereda y las alternativas para reducirlos. ¿Qué componente de los estándares se favorece más?
++ Ciencia, tecnología y sociedad, junto con compromisos personales y sociales.
+- Solo entorno físico, por tratarse de una sustancia química.
+- Solo entorno vivo, por mencionar el río.
+E: El caso integra ciencia, impacto tecnológico y toma de decisiones responsables, que son el eje CTS y los compromisos personales y sociales.
+
+Q: ¿Qué son los Derechos Básicos de Aprendizaje (DBA)?
++ Un conjunto de saberes y habilidades clave que los estudiantes deben aprender en cada grado.
+- La evaluación nacional que se aplica al terminar cada grado.
+- El currículo oficial que todas las instituciones deben copiar.
+E: Los DBA son referentes que explicitan aprendizajes por grado; no son currículo ni prueba, sino una herramienta para construir las mallas y planes de aula en coherencia con los estándares.
+
+Q: ¿Cuál es la diferencia principal entre estándares y DBA?
++ Los estándares se formulan por grupos de grados y los DBA grado por grado, y los DBA se articulan con los estándares.
+- Los estándares son para primaria y los DBA para bachillerato.
+- Los DBA reemplazaron por completo a los estándares y los derogaron.
+E: Los DBA se construyeron en coherencia con los estándares y los lineamientos, no los sustituyen; precisan aprendizajes grado a grado.
+
+Q: Los Lineamientos Curriculares de Ciencias Naturales y Educación Ambiental (1998) sirven principalmente para:
++ Orientar a las instituciones y docentes en la fundamentación pedagógica y epistemológica del área para construir su currículo.
+- Fijar el número de horas semanales de cada asignatura.
+- Establecer los criterios de ascenso en el escalafón docente.
+E: Los lineamientos ofrecen fundamentos y orientaciones, respetando la autonomía escolar; no regulan horarios ni escalafón.
+
+Q: Una institución afirma que, como tiene autonomía escolar, no necesita consultar estándares, lineamientos ni DBA. ¿Qué se puede decir al respecto?
++ La autonomía permite construir el currículo, pero este debe tener en cuenta los referentes de calidad nacionales.
+- Es correcto: la autonomía escolar es absoluta y libre de referentes.
+- Es correcto, siempre que el PEI se apruebe en el consejo de padres.
+E: La Ley 115 reconoce la autonomía escolar, pero dentro de los lineamientos que establece el MEN; los referentes de calidad son la guía común de lo que debe lograrse.
+
+Q: Un docente de 3.º quiere que sus estudiantes comparen materiales según su capacidad de conducir calor. ¿Qué componente de los estándares trabaja?
++ Entorno físico.
+- Entorno vivo.
+- Compromisos personales y sociales exclusivamente.
+E: Las propiedades de los materiales y la transferencia de calor hacen parte del entorno físico, donde se estudian los procesos químicos y físicos.
+
+Q: ¿Qué es una «competencia» en el sentido de los estándares básicos?
++ Un saber hacer flexible en contextos diversos, que combina conocimientos, habilidades y actitudes.
+- La capacidad de repetir definiciones con exactitud.
+- El puntaje obtenido por el estudiante en las pruebas Saber.
+E: Las competencias implican usar el conocimiento para resolver situaciones nuevas; memorizar definiciones no las agota.
+
+Q: Un docente evalúa solo con preguntas de definición de conceptos. Desde el enfoque de los estándares, ¿qué debería ajustar?
++ Incluir situaciones y problemas donde el estudiante use los conceptos para explicar, indagar y argumentar.
+- Aumentar la cantidad de definiciones por evaluar.
+- Reducir la evaluación a una sola prueba final.
+E: El enfoque por competencias exige evidencias de uso del conocimiento, no solo de recordación.
+
+Q: ¿Cuál de las siguientes acciones corresponde al desarrollo de «compromisos personales y sociales»?
++ Valorar el cuidado del propio cuerpo y asumir una postura responsable frente al uso de los recursos naturales.
+- Memorizar la tabla periódica completa.
+- Realizar un experimento siguiendo una guía paso a paso.
+E: Este grupo busca actitudes éticas y ciudadanas frente a la ciencia y el ambiente, no solo conocimientos o procedimientos.
+
+Q: ¿Qué significa que los DBA no constituyen un currículo?
++ Que son referentes para construirlo, pero cada institución define sus secuencias, metodologías y recursos.
+- Que son opcionales y pueden ignorarse en la planeación.
+- Que solo se aplican en colegios oficiales.
+E: Los DBA orientan lo que debe aprenderse, pero la organización de los aprendizajes en el tiempo corresponde a cada institución.
+
+Q: El Manual de Funciones, Requisitos y Competencias adoptado por la Resolución 003842 de 2022 define, para los docentes, entre otras cosas:
++ Funciones, requisitos y competencias esperadas del cargo de docente.
+- La escala de valoración de los estudiantes.
+- El calendario escolar de cada entidad territorial.
+E: Ese manual describe el perfil del cargo: funciones, requisitos y competencias; no regula evaluación de estudiantes ni calendarios.
+
+Q: Una docente articula un DBA de grado 6.º con un estándar del grupo 6.º-7.º y diseña una unidad con actividades de indagación. ¿Qué hace esa práctica?
++ Alinea la planeación de aula con los referentes de calidad y con evidencias de aprendizaje.
+- Reemplaza el plan de estudios institucional.
+- Evita la necesidad de evaluar.
+E: Combinar DBA y estándares es una forma coherente de planear; no reemplaza el plan de estudios ni la evaluación.
+
+Q: En ciencias naturales, ¿qué se espera de la «disposición para reconocer la dimensión social del conocimiento»?
++ Que el estudiante comprenda que el conocimiento científico se construye socialmente y tiene efectos en la sociedad y el ambiente.
+- Que acepte los resultados científicos sin discutirlos.
+- Que trabaje siempre de forma individual.
+E: La ciencia es una actividad humana colectiva con impactos sociales; por eso el estándar promueve el análisis crítico y el diálogo.
+
+Q: Los Lineamientos Curriculares incluyen la Educación Ambiental dentro del área. ¿Qué implica esto para el docente de ciencias naturales?
++ Integrar en su enseñanza la comprensión de las relaciones entre sociedad y naturaleza y la acción responsable sobre el entorno.
+- Que la educación ambiental se dicta solo en una semana al año.
+- Que la educación ambiental depende solo de otra área.
+E: Al llamarse «Ciencias Naturales y Educación Ambiental», el área incluye la dimensión ambiental de forma transversal y disciplinar.
+
+## lectura-critica-tesis-argumentos-e-inferencias
+Q: ¿Qué es la tesis de un texto argumentativo?
++ La postura o idea central que el autor defiende.
+- El primer ejemplo que aparece en el texto.
+- El resumen de todos los datos citados.
+E: La tesis es la afirmación principal que se sostiene con argumentos; los ejemplos y datos la apoyan.
+
+Q: «Los museos virtuales no reemplazan la visita presencial, pero amplían el acceso de quienes viven lejos.» ¿Cuál es la idea principal?
++ Los museos virtuales complementan, sin sustituir, la visita presencial al ampliar el acceso.
+- Los museos virtuales son mejores que los presenciales.
+- Los museos presenciales deben cerrarse.
+E: El texto reconoce un límite (no reemplazan) y un aporte (amplían el acceso); los distractores exageran o cambian lo afirmado.
+
+Q: «Si el río se contamina, los peces mueren; por eso, proteger la cuenca es proteger la pesca.» ¿Qué función cumple la primera parte de la oración?
++ Es la premisa que sustenta la conclusión.
+- Es la conclusión.
+- Es un ejemplo irrelevante.
+E: Se parte de una relación causal (premisa) para concluir que proteger la cuenca protege la pesca.
+
+Q: Un texto afirma que «todos los jóvenes pasan el día en redes sociales y por eso rinden poco». ¿Qué falla tiene el argumento?
++ Generaliza sin evidencia y supone una relación causal no demostrada.
+- Utiliza demasiadas cifras.
+- Solo menciona a los adultos.
+E: Hay generalización apresurada («todos») y causa supuesta sin pruebas.
+
+Q: ¿Qué es una inferencia?
++ Una conclusión que se deriva de la información del texto, aunque no esté dicha explícitamente.
+- Una copia literal de un fragmento.
+- Una opinión personal sin relación con el texto.
+E: Inferir es deducir a partir de pistas del texto; lo literal no es inferencia y la opinión desligada tampoco.
+
+Q: «Cuando sonó el timbre, Marta guardó rápido sus cuadernos, miró el reloj y salió corriendo hacia el paradero.» ¿Qué se puede inferir?
++ Marta tenía prisa por llegar a algún lugar.
+- Marta odia la escuela.
+- Marta perdió sus cuadernos.
+E: Guardar rápido, mirar el reloj y correr sugieren afán; las otras opciones no tienen apoyo textual.
+
+Q: Un autor critica una política de transporte escribiendo solo sobre sus fallas y omitiendo sus resultados positivos. ¿Qué rasgo del texto se evidencia?
++ Parcialidad: presenta solo la información que favorece su postura.
+- Neutralidad total.
+- Estructura narrativa.
+E: Seleccionar solo lo desfavorable muestra sesgo; un texto argumentativo puede ser parcial, pero es importante reconocerlo.
+
+Q: ¿Qué diferencia hay entre un hecho y una opinión?
++ El hecho puede verificarse con evidencia; la opinión expresa una valoración personal.
+- El hecho siempre es positivo y la opinión negativa.
+- No hay diferencia entre ambos.
+E: Distinguir hechos verificables de juicios de valor es básico para la lectura crítica.
+
+Q: «Los estudiantes que leen 30 minutos diarios mejoran su comprensión; por tanto, la lectura diaria debería incluirse en el horario escolar.» ¿Cuál es la conclusión?
++ La lectura diaria debería incluirse en el horario escolar.
+- Los estudiantes leen 30 minutos diarios.
+- La comprensión no cambia con la lectura.
+E: «Por tanto» introduce la conclusión; lo anterior es la premisa.
+
+Q: ¿Cuál de las siguientes expresiones suele introducir un argumento de causa?
++ «Debido a que…»
+- «Sin embargo…»
+- «Por ejemplo…»
+E: «Debido a que» señala la razón o causa; «sin embargo» marca contraste y «por ejemplo» ilustra.
+
+Q: Un texto dice: «Aunque la tecnología facilita el aprendizaje, no garantiza por sí sola que los estudiantes aprendan.» ¿Qué relación expresa «aunque»?
++ Concesión: reconoce un aspecto positivo pero introduce una limitación.
+- Causa.
+- Secuencia temporal.
+E: «Aunque» concede algo para después matizarlo, por eso la postura del autor es que la tecnología no basta.
+
+Q: Un docente lee un artículo que afirma «el 80 % de los colegios no tiene biblioteca» sin citar fuente. ¿Qué debería hacer un lector crítico?
++ Verificar la fuente y la fecha del dato antes de aceptarlo.
+- Aceptarlo porque tiene una cifra.
+- Rechazarlo solo por ser una cifra.
+E: Un dato sin fuente no es evidencia suficiente; hay que contrastarlo antes de usarlo en un argumento.
+
+Q: ¿Cuál es el supuesto implícito en «Si el colegio prohíbe los celulares, los estudiantes se concentrarán más»?
++ Que los celulares son la principal causa de la distracción.
+- Que los estudiantes no tienen celulares.
+- Que los profesores prefieren enseñar sin tecnología.
+E: El argumento asume, sin demostrarlo, que el celular es la causa de la falta de concentración.
+
+Q: ¿Qué intención predomina en un texto que busca convencer al lector de adoptar una conducta, como reciclar?
++ Persuasiva.
+- Narrativa.
+- Descriptiva.
+E: Convencer al lector de actuar es una intención persuasiva o argumentativa.
+
+Q: «En el parque había tres columpios oxidados, el pasto crecía sin control y la reja estaba rota.» ¿Cuál es la intención principal del autor?
++ Describir el estado de abandono del parque.
+- Convencer al lector de que compre columpios.
+- Explicar cómo se fabrican los columpios.
+E: Se enumeran rasgos físicos para pintar una imagen; es un texto descriptivo.
+
+Q: ¿Cuál es la mejor manera de reconocer la idea principal de un párrafo?
++ Identificar la idea de la que dependen y a la que se refieren las demás oraciones.
+- Escoger siempre la primera oración.
+- Elegir la oración más larga.
+E: La idea principal no siempre está al inicio ni es la más extensa; se reconoce por su capacidad de englobar las demás.
+
+Q: «Los estudiantes de la jornada de la tarde llegan más cansados; en consecuencia, rinden menos en las primeras horas.» ¿Cuál es la relación entre las dos partes?
++ La primera parte es causa y la segunda su consecuencia.
+- La segunda es causa y la primera su consecuencia.
+- Ambas son independientes.
+E: «En consecuencia» indica que lo que sigue es resultado de lo anterior.
+
+Q: Un texto presenta dos posturas opuestas sobre el uso de uniformes y concluye que «lo importante es escuchar a la comunidad educativa». ¿Qué rasgo de la conclusión se observa?
++ Es una postura mediadora que no se inclina por ninguna de las dos posturas.
+- Defiende rotundamente el uso del uniforme.
+- Rechaza cualquier norma institucional.
+E: El autor propone un criterio de decisión (escuchar) sin favorecer a ninguno de los extremos.
+
+Q: Un estudiante afirma: «El autor dice que debemos eliminar las tareas», pero el texto dice «conviene revisar la cantidad y calidad de las tareas». ¿Qué error de lectura cometió?
++ Exageró y distorsionó lo dicho por el autor.
+- Hizo una inferencia válida.
+- Identificó correctamente la tesis.
+E: «Revisar» no equivale a «eliminar»; atribuirle al autor algo que no dijo es un error de comprensión literal.
+
+Q: Un columnista escribe: «Si permitimos que los estudiantes usen calculadora, dejarán de aprender a calcular y terminarán sin ninguna habilidad matemática.» ¿Qué tipo de razonamiento defectuoso se observa?
++ Pendiente resbaladiza: plantea una cadena de consecuencias extremas sin demostrarla.
+- Argumento de autoridad: cita a un experto reconocido.
+- Falsa analogía: compara dos objetos distintos sin justificación.
+E: El autor pasa de un hecho (usar calculadora) a un resultado extremo (ninguna habilidad matemática) sin pruebas intermedias.
