@@ -1,0 +1,278 @@
+## programacion-variables-condicionales-y-ciclos
+Q: En Python, ¿qué imprime el código?
+x = 7
+y = 2
+print(x // y)
++ 3
+- 3.5
+- 1
+E: El operador // es división entera: 7 // 2 = 3. La división normal (/) daría 3.5 y el módulo (%) daría 1.
+
+Q: En Python, ¿qué imprime print(7 % 3)?
++ 1
+- 2
+- 2.33
+E: El operador % devuelve el residuo de la división: 7 = 3 × 2 + 1.
+
+Q: ¿Qué tipo de dato es el valor "25" (entre comillas) en Python?
++ Una cadena de texto (str).
+- Un entero (int).
+- Un número decimal (float).
+E: Las comillas lo convierten en texto; para operar como número habría que convertirlo con int("25").
+
+Q: ¿Qué imprime el código?
+a = "3"
+b = "4"
+print(a + b)
++ 34
+- 7
+- Un error de sintaxis.
+E: Con cadenas, el operador + concatena: "3" + "4" = "34".
+
+Q: ¿Qué imprime el siguiente código?
+nota = 3.0
+if nota >= 3.0:
+    print("Aprobó")
+else:
+    print("Reprobó")
++ Aprobó
+- Reprobó
+- No imprime nada.
+E: 3.0 >= 3.0 es verdadero, por lo que se ejecuta el bloque del if.
+
+Q: ¿Cuántas veces se imprime "Hola"?
+for i in range(5):
+    print("Hola")
++ 5 veces.
+- 4 veces.
+- 6 veces.
+E: range(5) genera 0, 1, 2, 3, 4: cinco iteraciones.
+
+Q: ¿Qué valores genera range(2, 10, 3) en Python?
++ 2, 5, 8.
+- 2, 5, 8, 11.
+- 3, 6, 9.
+E: Empieza en 2, avanza de 3 en 3 y se detiene antes de 10.
+
+Q: ¿Qué imprime el código?
+s = 0
+for i in range(1, 6):
+    s = s + i
+print(s)
++ 15
+- 10
+- 21
+E: Suma 1 + 2 + 3 + 4 + 5 = 15 (range(1, 6) no incluye el 6).
+
+Q: ¿Qué problema tiene el código?
+n = 1
+while n > 0:
+    n = n + 1
++ Es un ciclo infinito, porque n nunca deja de ser mayor que 0.
+- No se ejecuta ninguna vez.
+- Se ejecuta exactamente una vez.
+E: La condición siempre es verdadera; un ciclo while necesita que la condición llegue a ser falsa.
+
+Q: ¿Qué diferencia hay entre un ciclo for y un ciclo while?
++ El for se usa típicamente cuando se conoce el número de repeticiones; el while repite mientras se cumpla una condición.
+- El while no puede usar condiciones.
+- El for solo existe en Scratch.
+E: Ambos repiten, pero el while es útil cuando no se sabe de antemano cuántas iteraciones habrá.
+
+Q: ¿Qué resultado da la expresión lógica (5 > 3) and (2 > 4)?
++ False
+- True
+- 5
+E: and requiere que ambas condiciones sean verdaderas; 2 > 4 es falsa.
+
+Q: ¿Qué resultado da (5 > 3) or (2 > 4)?
++ True
+- False
+- Error
+E: or es verdadero si al menos una condición es verdadera.
+
+Q: ¿Qué imprime el código?
+x = 10
+if x > 15:
+    print("A")
+elif x > 5:
+    print("B")
+else:
+    print("C")
++ B
+- A
+- C
+E: x > 15 es falso; x > 5 es verdadero, así que se imprime "B" y no se evalúa el else.
+
+Q: En Scratch, ¿qué bloque se usa para repetir un conjunto de acciones un número fijo de veces?
++ "repetir (10)".
+- "si ... entonces".
+- "al presionar bandera verde".
+E: "repetir (n)" es un ciclo de conteo; "si ... entonces" es un condicional y la bandera verde es un evento.
+
+Q: ¿Qué es una variable en programación?
++ Un espacio con nombre en memoria que almacena un valor que puede cambiar.
+- Un valor que nunca cambia durante la ejecución.
+- Un tipo de error.
+E: Las variables guardan datos y su contenido puede actualizarse.
+
+Q: ¿Qué imprime el código?
+x = 5
+x = x * 2
+x -= 3
+print(x)
++ 7
+- 10
+- 13
+E: x pasa a 10 y luego 10 − 3 = 7.
+
+Q: Un estudiante escribe el siguiente código y obtiene un error. ¿Cuál es la causa?
+edad = input("Edad: ")
+if edad > 18:
+    print("Mayor de edad")
++ input() devuelve texto y se compara con un número; debe convertirse con int().
+- La palabra edad está reservada en Python.
+- if no admite el operador >.
+E: En Python 3, input() retorna str; comparar str con int genera TypeError.
+
+Q: ¿Cuántas veces se ejecuta el cuerpo del ciclo?
+i = 0
+while i < 10:
+    i = i + 2
++ 5 veces.
+- 10 veces.
+- 4 veces.
+E: i toma 0, 2, 4, 6, 8 antes de llegar a 10: son cinco iteraciones.
+
+Q: ¿Qué función cumple la indentación (sangría) en Python?
++ Define los bloques de código que pertenecen a un if, for, while o función.
+- Es solo estética y no tiene efecto.
+- Indica comentarios.
+E: En Python la sangría es parte de la sintaxis; una indentación incorrecta produce errores o cambia la lógica.
+
+Q: Para que estudiantes de 6.º comprendan los ciclos, ¿qué secuencia didáctica es más adecuada?
++ Partir de una actividad desconectada, programar en bloques (Scratch) y luego pasar a un lenguaje textual.
+- Empezar con la teoría de compiladores.
+- Dictar la sintaxis de cinco lenguajes diferentes.
+E: Ir de lo concreto a lo abstracto y de bloques a texto reduce la carga cognitiva y favorece la comprensión.
+
+## decreto-1290-de-2009-evaluacion-y-promocion
+Q: ¿Qué regula el Decreto 1290 de 2009?
++ La evaluación del aprendizaje y la promoción de los estudiantes de básica y media.
+- La evaluación del desempeño de los docentes.
+- La convivencia escolar.
+E: El Decreto 1290 (compilado en el Decreto 1075 de 2015) regula la evaluación y promoción de los estudiantes.
+
+Q: ¿Cuál es la escala de valoración nacional del Decreto 1290?
++ Desempeño Superior, Alto, Básico y Bajo.
+- Excelente, Sobresaliente, Aceptable, Insuficiente y Deficiente.
+- A, B, C, D y E.
+E: El artículo 5 fija esta escala; cada institución define su escala propia y su equivalencia con la nacional.
+
+Q: ¿Qué significa "desempeño básico" en la escala nacional?
++ La superación de los desempeños necesarios en relación con las áreas obligatorias y fundamentales.
+- La no superación de los desempeños.
+- El desempeño máximo esperado.
+E: El básico implica alcanzar lo necesario según estándares y lineamientos; el bajo es su no superación.
+
+Q: ¿Quién define el Sistema Institucional de Evaluación de los Estudiantes (SIEE)?
++ Cada establecimiento educativo, y lo aprueba el consejo directivo.
+- El Ministerio de Educación, de forma igual para todos los colegios.
+- Cada docente para su asignatura.
+E: El Decreto 1290 otorga autonomía a la institución para definir el SIEE, que debe aprobar el consejo directivo e incorporar al PEI.
+
+Q: ¿Cuáles son los tres ámbitos de evaluación de los estudiantes según el Decreto 1290?
++ Internacional, nacional e institucional.
+- Familiar, escolar y municipal.
+- Diagnóstico, formativo y sumativo.
+E: El artículo 1 reconoce las pruebas internacionales, las pruebas Saber (nacional) y la evaluación en el aula (institucional).
+
+Q: ¿Cuál es un propósito de la evaluación institucional según el Decreto 1290?
++ Proporcionar información para reorientar los procesos educativos y diseñar estrategias de apoyo.
+- Clasificar a los estudiantes para expulsar a los de menor desempeño.
+- Calcular el salario de los docentes.
+E: El artículo 3 incluye identificar características y ritmos de aprendizaje, reorientar procesos, apoyar a estudiantes con dificultades y determinar la promoción.
+
+Q: Una estudiante de 7.º muestra desempeño superior en todas las áreas durante el primer periodo. ¿Qué figura le permite avanzar al grado siguiente?
++ La promoción anticipada, que el consejo académico recomienda y el consejo directivo decide.
+- La repitencia voluntaria.
+- La graduación anticipada que concede la secretaría de educación.
+E: El artículo 7 prevé la promoción anticipada en el primer periodo para estudiantes con desempeño superior.
+
+Q: ¿Quién determina los criterios de promoción y el porcentaje de asistencia exigido?
++ El establecimiento, en su SIEE.
+- El Decreto 1290, que fija un tope de 5 % de repitencia.
+- El ICFES.
+E: El Decreto 1290 eliminó el límite nacional de reprobación y dejó a cada institución definir sus criterios de promoción.
+
+Q: ¿Qué instancia suele crear el SIEE para analizar casos de estudiantes con desempeño bajo y recomendar actividades de apoyo?
++ La comisión de evaluación y promoción.
+- El comité escolar de convivencia.
+- El consejo de padres.
+E: Las comisiones de evaluación y promoción, definidas en el SIEE, hacen seguimiento y recomiendan estrategias de superación.
+
+Q: Un padre considera que la valoración final de su hijo es injusta. Según el Decreto 1290, ¿qué debe tener el SIEE?
++ Instancias, procedimientos y mecanismos de atención y resolución de reclamaciones.
+- Una prohibición de reclamar después de publicadas las notas.
+- Un mecanismo para que el padre cambie la nota directamente.
+E: El artículo 4 exige que el SIEE incluya instancias y procedimientos para reclamaciones de padres y estudiantes.
+
+Q: ¿Qué deben contener los informes de evaluación que se entregan a padres?
++ Valoración de cada área en la escala institucional con su equivalencia en la escala nacional y una descripción del avance.
+- Solo un número de 0 a 100 sin explicación.
+- Únicamente la lista de inasistencias.
+E: El decreto pide informes claros y comprensibles, con la equivalencia a la escala nacional.
+
+Q: ¿Cuál es un derecho del estudiante según el artículo 12 del Decreto 1290?
++ Conocer el sistema de evaluación, los criterios, procedimientos e instrumentos desde el inicio del año.
+- Elegir la nota final que desea.
+- No presentar actividades de recuperación.
+E: El estudiante tiene derecho a ser evaluado de forma integral, conocer el SIEE, recibir respuestas a sus inquietudes y recibir apoyo.
+
+Q: ¿Cuál es un deber del estudiante según el Decreto 1290?
++ Cumplir con los compromisos académicos y de convivencia definidos por el establecimiento.
+- Diseñar el SIEE.
+- Aprobar las notas de sus compañeros.
+E: El artículo 13 establece deberes como cumplir compromisos y realizar las actividades de superación de debilidades.
+
+Q: ¿Qué características debe tener la evaluación del aprendizaje según el espíritu del Decreto 1290?
++ Integral, continua y formativa, considerando ritmos y estilos de aprendizaje.
+- Exclusivamente sumativa y al final del año.
+- Basada solo en exámenes escritos.
+E: El decreto orienta una evaluación que identifique avances y dificultades para mejorar el aprendizaje.
+
+Q: ¿Qué requisito establece el Decreto 1290 para obtener el título de bachiller?
++ Haber cumplido los requisitos de promoción adoptados por el establecimiento en su PEI, de acuerdo con la ley.
+- Obtener más de 300 puntos en Saber 11.
+- Aprobar un examen de la secretaría de educación.
+E: El artículo 18 vincula la graduación al cumplimiento de los requisitos de promoción institucionales.
+
+Q: Un estudiante que no fue promovido el año anterior demuestra en el primer periodo que superó sus dificultades. ¿Qué puede hacer el establecimiento?
++ Aplicar promoción anticipada para estudiantes no promovidos, si así lo contempla su SIEE.
+- Nada, porque está prohibido promover a repitentes.
+- Enviarlo a validar en el ICFES.
+E: El artículo 7 dispone que los establecimientos definan en su SIEE los criterios para la promoción de quienes no fueron promovidos.
+
+Q: ¿Qué responsabilidad tiene el MEN según el Decreto 1290?
++ Expedir orientaciones para la evaluación y realizar pruebas censales a través del ICFES, entre otras.
+- Aprobar el SIEE de cada colegio.
+- Fijar la nota mínima de cada institución.
+E: El MEN orienta y acompaña, y las pruebas nacionales se aplican vía ICFES; el SIEE lo define y aprueba cada institución.
+
+Q: ¿Cuál es la responsabilidad de la secretaría de educación (ETC) frente al Decreto 1290?
++ Orientar y acompañar a los establecimientos en la definición del SIEE y resolver reclamaciones que se presenten.
+- Calificar a los estudiantes al final del año.
+- Diseñar las preguntas de los exámenes institucionales.
+E: El decreto asigna a las entidades territoriales funciones de orientación, acompañamiento y atención de reclamaciones.
+
+Q: Un docente utiliza solo pruebas escritas de memoria y no realimenta. ¿Qué principio del Decreto 1290 se está desconociendo?
++ La evaluación como proceso formativo para identificar dificultades y reorientar el aprendizaje.
+- La obligación de evaluar únicamente con proyectos.
+- La prohibición de usar exámenes escritos.
+E: El decreto no prohíbe exámenes, pero exige que la evaluación sirva para mejorar, con información útil para el estudiante.
+
+Q: ¿Qué equivalencia corresponde con mayor probabilidad a un estudiante que "supera ampliamente los desempeños esperados" en la escala nacional?
++ Desempeño superior.
+- Desempeño básico.
+- Desempeño alto.
+E: Superior corresponde a superar de manera excelente lo previsto; alto, a un buen nivel; básico, a lo necesario.

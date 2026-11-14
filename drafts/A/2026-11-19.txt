@@ -1,0 +1,241 @@
+## materia-propiedades-mezclas-y-metodos-de-separac
+Q: ¿Cuál de las siguientes es una propiedad específica (intensiva) de la materia?
++ La densidad.
+- La masa.
+- El volumen.
+E: Las propiedades específicas no dependen de la cantidad de muestra y permiten identificar sustancias; masa y volumen son generales (extensivas).
+
+Q: Un bloque tiene una masa de 54 g y un volumen de 20 cm³. ¿Cuál es su densidad?
++ 2,7 g/cm³.
+- 1 080 g/cm³.
+- 0,37 g/cm³.
+E: d = m/V = 54 g / 20 cm³ = 2,7 g/cm³ (valor que coincide con el aluminio).
+
+Q: ¿Cuál de los siguientes es un cambio químico?
++ La oxidación de un clavo de hierro.
+- La fusión del hielo.
+- La disolución de azúcar en agua.
+E: En la oxidación se forma una sustancia nueva (óxido de hierro); fusión y disolución no cambian la composición de las sustancias.
+
+Q: El agua de mar es un ejemplo de:
++ Mezcla homogénea (solución).
+- Sustancia pura compuesta.
+- Mezcla heterogénea.
+E: Las sales están disueltas uniformemente en el agua; no se distinguen fases a simple vista.
+
+Q: ¿Qué método permite separar la sal del agua de mar recuperando también el agua?
++ Destilación.
+- Filtración.
+- Decantación.
+E: Al calentar, el agua se evapora y luego se condensa; la sal queda en el recipiente. La filtración no separa sustancias disueltas.
+
+Q: ¿Qué método es más adecuado para separar arena de agua?
++ Filtración.
+- Destilación fraccionada.
+- Cromatografía.
+E: La arena es un sólido insoluble y queda retenida en el papel filtro.
+
+Q: Para separar los pigmentos de la tinta de un marcador, ¿qué técnica se usa en el laboratorio escolar?
++ Cromatografía en papel.
+- Imantación.
+- Tamizado.
+E: Los pigmentos avanzan a distinta velocidad con el solvente según su afinidad, y se separan en bandas.
+
+Q: Una mezcla de limaduras de hierro y azufre en polvo puede separarse mediante:
++ Imantación (separación magnética).
+- Destilación.
+- Evaporación.
+E: El hierro es atraído por el imán y el azufre no; en una mezcla, cada componente conserva sus propiedades.
+
+Q: ¿Qué método separa dos líquidos inmiscibles como agua y aceite?
++ Decantación con embudo de separación.
+- Filtración con papel.
+- Tamizado.
+E: Los líquidos inmiscibles forman dos fases de distinta densidad, que se separan en el embudo de decantación.
+
+Q: Para separar alcohol (punto de ebullición 78 °C) del agua (100 °C), se aprovecha:
++ La diferencia en sus puntos de ebullición, mediante destilación.
+- La diferencia de solubilidad en aceite.
+- La diferencia de color.
+E: El alcohol se evapora primero; al condensarse se recoge separado del agua.
+
+Q: ¿Cuál de las siguientes es una sustancia pura?
++ El agua destilada.
+- El aire.
+- La leche.
+E: El agua destilada tiene composición fija (H₂O); el aire y la leche son mezclas.
+
+Q: ¿Qué diferencia a un elemento de un compuesto?
++ El elemento está formado por un solo tipo de átomo; el compuesto, por dos o más elementos combinados químicamente en proporción fija.
+- El compuesto se puede separar por métodos físicos.
+- El elemento siempre es líquido.
+E: Los compuestos solo se descomponen por métodos químicos; las mezclas sí se separan por métodos físicos.
+
+Q: Un cubo de hielo flota en el agua líquida. ¿Qué lo explica?
++ El hielo es menos denso que el agua líquida.
+- El hielo tiene más masa que el agua.
+- El agua líquida es menos densa que el hielo.
+E: Al congelarse, el agua forma una red con puentes de hidrógeno que ocupa más volumen, por lo que su densidad baja.
+
+Q: El paso directo de sólido a gas, como el de la naftalina, se llama:
++ Sublimación.
+- Condensación.
+- Solidificación.
+E: En la sublimación una sustancia pasa de sólido a gas sin pasar por líquido.
+
+Q: Durante la ebullición del agua pura a presión constante, ¿qué ocurre con la temperatura?
++ Permanece constante mientras coexisten líquido y vapor.
+- Aumenta de forma continua.
+- Disminuye.
+E: La energía suministrada se usa para el cambio de estado (calor latente), no para subir la temperatura.
+
+Q: Según la teoría cinético-molecular, ¿qué distingue a un gas de un sólido?
++ En el gas las partículas están muy separadas y se mueven libremente; en el sólido vibran en posiciones fijas.
+- En el gas las partículas son más grandes.
+- En el sólido las partículas no tienen energía.
+E: La diferencia está en la separación y libertad de movimiento de las partículas, no en su tamaño.
+
+Q: ¿Por qué se considera la ensalada de frutas una mezcla heterogénea?
++ Porque sus componentes se distinguen a simple vista y su composición no es uniforme.
+- Porque tiene composición fija.
+- Porque sus componentes reaccionan entre sí.
+E: En las mezclas heterogéneas se observan fases o componentes distintos.
+
+Q: Al quemar una hoja de papel, la masa de la ceniza es menor que la del papel. ¿Cómo se explica sin violar la conservación de la masa?
++ Parte de la materia se transformó en gases (CO₂, vapor de agua) que escaparon al ambiente.
+- La masa se destruyó durante la combustión.
+- El fuego convierte la masa en luz.
+E: En un sistema cerrado la masa total de reactivos y productos se conserva (Lavoisier); en este caso los gases salieron del sistema.
+
+Q: Una propiedad que permite identificar a una sustancia es el punto de fusión. ¿Por qué?
++ Porque cada sustancia pura funde a una temperatura característica a una presión dada.
+- Porque todas las sustancias funden a 0 °C.
+- Porque depende de la cantidad de muestra.
+E: El punto de fusión es una propiedad intensiva; se usa también para verificar la pureza.
+
+Q: En una práctica de separación de mezclas, ¿qué medida de bioseguridad es indispensable al calentar en destilación?
++ Usar gafas, no tapar herméticamente el sistema y calentar de forma gradual.
+- Calentar el balón cerrado para que no escape el vapor.
+- Oler directamente el destilado para identificarlo.
+E: Un sistema cerrado puede explotar por la presión; las gafas protegen de salpicaduras y no se huelen sustancias directamente.
+
+## convivencia-escolar-ley-1620-de-2013-y-decreto-1
+Q: ¿Qué crea la Ley 1620 de 2013?
++ El Sistema Nacional de Convivencia Escolar y Formación para los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar.
+- El Sistema Nacional de Evaluación de Estudiantes.
+- El Estatuto de Profesionalización Docente.
+E: La Ley 1620 crea ese sistema y la Ruta de Atención Integral; el Decreto 1965 de 2013 la reglamenta.
+
+Q: ¿Cuáles son los cuatro componentes de la Ruta de Atención Integral para la Convivencia Escolar?
++ Promoción, prevención, atención y seguimiento.
+- Denuncia, sanción, expulsión y archivo.
+- Diagnóstico, planeación, ejecución y evaluación.
+E: El artículo 30 de la Ley 1620 define estos componentes de la ruta.
+
+Q: Dos estudiantes discuten por un balón y se empujan sin causar lesiones; es la primera vez que ocurre. ¿Qué tipo de situación es?
++ Tipo I.
+- Tipo II.
+- Tipo III.
+E: Las situaciones tipo I son conflictos manejados inadecuadamente y esporádicos que no causan daños al cuerpo ni a la salud.
+
+Q: Un grupo de estudiantes publica de forma reiterada memes ofensivos sobre una compañera en redes sociales. No constituye delito ni causó incapacidad. ¿Cómo se clasifica?
++ Situación tipo II (ciberacoso repetido o sistemático).
+- Situación tipo I.
+- Situación tipo III.
+E: Las tipo II incluyen agresión escolar, acoso y ciberacoso que no sean delito y se presenten de forma repetida o sistemática, o causen daño sin incapacidad.
+
+Q: Un docente conoce un caso de presunto abuso sexual de un estudiante. ¿Qué tipo de situación es y a quién se debe informar?
++ Tipo III; el rector informa de inmediato a la Policía de Infancia y Adolescencia y demás autoridades competentes.
+- Tipo II; se resuelve con mediación en el aula.
+- Tipo I; se registra en el observador y se cierra el caso.
+E: Las tipo III son situaciones que constituyen presuntos delitos; deben ponerse en conocimiento de las autoridades de inmediato.
+
+Q: ¿Quién preside el Comité Escolar de Convivencia?
++ El rector del establecimiento.
+- El personero estudiantil.
+- El presidente del consejo de padres.
+E: El artículo 12 de la Ley 1620 establece que el rector preside el comité.
+
+Q: ¿Cuál de los siguientes integra el Comité Escolar de Convivencia?
++ El personero estudiantil.
+- El secretario de educación municipal.
+- Un representante de la Policía.
+E: Lo integran rector, personero, docente con función de orientación, coordinador, presidente del consejo de padres, presidente del consejo de estudiantes y un docente que lidere procesos de convivencia.
+
+Q: ¿Con qué periodicidad mínima debe sesionar el Comité Escolar de Convivencia según el Decreto 1965?
++ Al menos una vez cada dos meses.
+- Una vez al año.
+- Solo cuando ocurre una situación tipo III.
+E: El decreto fija sesiones ordinarias mínimo cada dos meses, además de las extraordinarias.
+
+Q: ¿Cómo define la Ley 1620 el acoso escolar (bullying)?
++ Conducta negativa, intencional, metódica y sistemática de agresión, intimidación o humillación, repetida en el tiempo, con desequilibrio de poder.
+- Cualquier discusión entre dos estudiantes.
+- Una broma ocasional entre amigos.
+E: La intencionalidad, la repetición y el desequilibrio de poder distinguen el acoso de un conflicto ocasional.
+
+Q: Ante una situación tipo I, ¿qué debe hacer primero el docente según el protocolo?
++ Reunir inmediatamente a las partes y mediar de manera pedagógica para que expongan sus puntos de vista y busquen la reparación.
+- Remitir el caso a la Fiscalía.
+- Suspender a los estudiantes por una semana.
+E: El protocolo de tipo I prioriza la mediación pedagógica, la reparación y la reconciliación, dejando constancia.
+
+Q: En una situación tipo II con daño al cuerpo, ¿cuál es la primera acción del protocolo?
++ Brindar atención inmediata en salud física y mental a los afectados.
+- Citar a los padres para el mes siguiente.
+- Publicar los nombres de los implicados en cartelera.
+E: El protocolo de tipo II inicia garantizando la atención en salud y, si es necesario, remitiendo a las autoridades de restablecimiento de derechos.
+
+Q: ¿Qué principio de la Ley 1620 exige proteger la identidad y los datos de los involucrados?
++ La confidencialidad y protección de la intimidad.
+- La publicidad de las actuaciones.
+- La obligatoriedad de la sanción.
+E: Los protocolos deben garantizar el derecho a la intimidad y la confidencialidad de los documentos e información.
+
+Q: El componente de "promoción" de la Ruta de Atención Integral busca:
++ Fomentar el mejoramiento de la convivencia y el clima escolar para generar un entorno favorable al ejercicio de los derechos.
+- Sancionar a los agresores de forma ejemplar.
+- Atender casos de violencia ya ocurridos.
+E: La promoción desarrolla competencias y políticas institucionales; la prevención actúa sobre riesgos y la atención responde a los casos.
+
+Q: ¿Qué documento institucional debe actualizarse para incluir las disposiciones de la Ley 1620?
++ El manual de convivencia.
+- El plan de área de matemáticas.
+- El acta de grado.
+E: La Ley 1620 y el Decreto 1965 exigen ajustar el manual de convivencia con las situaciones, protocolos y medidas pedagógicas.
+
+Q: ¿Qué es el ciberacoso según la Ley 1620?
++ Forma de intimidación con uso deliberado de tecnologías de información (internet, redes, teléfonos) para maltrato psicológico continuado.
+- El uso de celulares en clase.
+- Una situación tipo I siempre.
+E: El ciberacoso usa las TIC de manera deliberada y continuada; su clasificación depende de la gravedad.
+
+Q: Un estudiante de 13 años es agredido con arma blanca y queda con incapacidad médica. ¿Qué tipo de situación es?
++ Tipo III, por tratarse de un presunto delito contra la integridad personal.
+- Tipo I, si fue la primera vez.
+- Tipo II, por haber ocurrido en el colegio.
+E: Las lesiones personales que generan incapacidad configuran presunto delito; se activa el protocolo tipo III.
+
+Q: ¿Qué niveles tiene el Sistema Nacional de Convivencia Escolar?
++ Nacional (Comité Nacional), territorial (comités municipales, distritales y departamentales) y escolar (comité escolar).
+- Solo el nivel escolar.
+- Nacional e internacional.
+E: El sistema se organiza en tres niveles con comités en cada uno.
+
+Q: ¿Qué deber tienen los docentes según el artículo 19 de la Ley 1620?
++ Identificar, reportar y realizar el seguimiento a los casos de acoso, violencia escolar y vulneración de derechos.
+- Resolver judicialmente los casos de violencia.
+- Imponer multas a los padres de familia.
+E: Los docentes deben reportar al comité de convivencia y aportar a la prevención y seguimiento.
+
+Q: ¿Qué es una medida pedagógica en el marco de la Ley 1620?
++ Una acción que busca la reflexión, la reparación del daño y la reconciliación, en lugar de un castigo sin sentido formativo.
+- Una multa económica al estudiante.
+- La expulsión inmediata de la institución.
+E: El enfoque es formativo y restaurativo, sin desconocer el debido proceso ni las sanciones previstas en el manual.
+
+Q: La Ley 1620 relaciona la convivencia con la educación para la sexualidad porque:
++ Busca formar para el ejercicio de los derechos humanos, sexuales y reproductivos y prevenir la violencia.
+- Prohíbe hablar de sexualidad en los colegios.
+- Obliga a separar a estudiantes por sexo.
+E: El sistema integra formación en derechos, educación para la sexualidad y prevención de la violencia escolar.

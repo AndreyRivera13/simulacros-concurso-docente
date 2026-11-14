@@ -1,0 +1,3821 @@
+{
+ "meta": {
+  "start": "2026-11-15",
+  "end": "2027-01-31",
+  "inscription_estimate": "2027-02-01",
+  "inscription_note": "ESTIMADO: la CNSC no ha fijado el día exacto. Su cronograma preliminar ubica las inscripciones en vacantes SIN reserva en febrero de 2027 (las de vacantes reservadas para personas con discapacidad van del 23-nov-2026 al 15-ene-2027, Resolución 11673 de 2026). Se toma el 1-feb-2027 como fecha objetivo. La prueba escrita se estima para el segundo semestre (octubre) de 2027.",
+  "sources": [
+   "https://www.concursosdelestado.com/concursos/docentes-fechas",
+   "https://caracol.com.co/2026/11/09/concurso-docente-2026-2027-quienes-son-las-unicas-personas-que-tendran-inscripcion-gratuita/",
+   "https://www.elcolombiano.com/colombia/concurso-docente-2026-cnsc-fechas-inscripcion-pruebas-OD41420086"
+  ],
+  "questions_per_topic": 20,
+  "timezone": "America/Bogota"
+ },
+ "versions": {
+  "A": {
+   "name": "Ciencias Naturales y Educación Ambiental",
+   "person": "Yasmin",
+   "tracks": [
+    "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+    "Conocimiento general del concurso"
+   ],
+   "days": [
+    {
+     "n": 1,
+     "date": "2026-11-15",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "celula-estructura-organelos-y-transporte-de-memb",
+       "title": "Célula: estructura, organelos y transporte de membrana",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "procariota vs eucariota, animal vs vegetal, función de organelos, difusión, ósmosis, transporte activo"
+      },
+      {
+       "id": "el-concurso-docente-etapas-pruebas-y-puntajes",
+       "title": "El concurso docente: etapas, pruebas y puntajes",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "CNSC, SIMO, OPEC, convocatoria, prueba de aptitudes y competencias básicas (eliminatoria), psicotécnica, valoración de antecedentes, entrevista, lista de elegibles, periodo de prueba"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "date": "2026-11-16",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "fotosintesis-y-respiracion-celular",
+       "title": "Fotosíntesis y respiración celular",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "fases, reactivos y productos, ubicación, factores limitantes, diseño experimental con variables"
+      },
+      {
+       "id": "ley-115-de-1994-fines-objetivos-y-areas-obligato",
+       "title": "Ley 115 de 1994: fines, objetivos y áreas obligatorias",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "artículos 5, 13, 14, 20-23, niveles y ciclos, áreas obligatorias"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "date": "2026-11-17",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "genetica-mendeliana-y-cuadros-de-punnett",
+       "title": "Genética mendeliana y cuadros de Punnett",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "leyes de Mendel, monohíbridos y dihíbridos, dominancia incompleta, codominancia, grupos sanguíneos, herencia ligada al sexo"
+      },
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion",
+       "title": "Decreto 1290 de 2009: evaluación y promoción",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "SIEE, escala nacional, comisión de evaluación y promoción, promoción anticipada, informes"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "date": "2026-11-18",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "ecosistemas-flujo-de-energia-cadenas-y-redes-tro",
+       "title": "Ecosistemas: flujo de energía, cadenas y redes tróficas",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "niveles tróficos, regla del 10 %, pirámides, relaciones interespecíficas, bioacumulación"
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "ingreso, periodo de prueba, escalafón (grados y niveles), evaluaciones, ascenso, retiro"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "date": "2026-11-19",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "materia-propiedades-mezclas-y-metodos-de-separac",
+       "title": "Materia: propiedades, mezclas y métodos de separación",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "propiedades generales/específicas, cambios físicos y químicos, sustancias puras, mezclas homogéneas/heterogéneas, filtración, destilación, cromatografía, densidad"
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "sistema nacional, comité escolar de convivencia, ruta de atención integral, situaciones tipo I, II y III"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "date": "2026-11-20",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "educacion-ambiental-prae-pnea-ley-1549-de-2012-y",
+       "title": "Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Decreto 1743 de 1994, Política Nacional de Educación Ambiental 2002, Ley 1549, CIDEA, PROCEDA, enfoque sistémico e interdisciplinario"
+      },
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "porcentajes, regla de tres, promedio, mediana, moda, interpretación de tablas"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "date": "2026-11-21",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s1-1",
+       "title": "Repaso semana 1: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Célula: estructura, organelos y transporte de membrana",
+        "Fotosíntesis y respiración celular",
+        "Genética mendeliana y cuadros de Punnett",
+        "Ecosistemas: flujo de energía, cadenas y redes tróficas",
+        "Materia: propiedades, mezclas y métodos de separación",
+        "Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA"
+       ],
+       "focus": "casos nuevos e integradores sobre: Célula: estructura, organelos y transporte de membrana; Fotosíntesis y respiración celular; Genética mendeliana y cuadros de Punnett; Ecosistemas: flujo de energía, cadenas y redes tróficas; Materia: propiedades, mezclas y métodos de separación; Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA"
+      },
+      {
+       "id": "repaso-s1-2",
+       "title": "Repaso semana 1: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "El concurso docente: etapas, pruebas y puntajes",
+        "Ley 115 de 1994: fines, objetivos y áreas obligatorias",
+        "Decreto 1290 de 2009: evaluación y promoción",
+        "Estatuto docente: Decreto Ley 1278 de 2002",
+        "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013",
+        "Razonamiento cuantitativo: porcentajes, proporciones y estadística"
+       ],
+       "focus": "casos nuevos e integradores sobre: El concurso docente: etapas, pruebas y puntajes; Ley 115 de 1994: fines, objetivos y áreas obligatorias; Decreto 1290 de 2009: evaluación y promoción; Estatuto docente: Decreto Ley 1278 de 2002; Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013; Razonamiento cuantitativo: porcentajes, proporciones y estadística"
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "date": "2026-11-22",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "adn-arn-y-sintesis-de-proteinas",
+       "title": "ADN, ARN y síntesis de proteínas",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "estructura, replicación, transcripción, traducción, código genético, mutaciones"
+      },
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias",
+       "title": "Lectura crítica: tesis, argumentos e inferencias",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "idea principal, tesis, argumentos, supuestos, inferencias, intención del autor"
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "date": "2026-11-23",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "division-celular-mitosis-y-meiosis",
+       "title": "División celular: mitosis y meiosis",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "ciclo celular, fases, diferencias, variabilidad genética, no disyunción"
+      },
+      {
+       "id": "constitucion-politica-y-derecho-a-la-educacion",
+       "title": "Constitución Política y derecho a la educación",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "artículos 1, 4, 44, 67, 68, 125, 130"
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "date": "2026-11-24",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "evolucion-seleccion-natural-y-especiacion",
+       "title": "Evolución: selección natural y especiación",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Darwin, Lamarck, evidencias, deriva, aislamiento reproductivo, resistencia a antibióticos"
+      },
+      {
+       "id": "pei-autonomia-escolar-y-gobierno-escolar",
+       "title": "PEI, autonomía escolar y gobierno escolar",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 115 arts. 73, 77, 142-145, Decreto 1860 de 1994, personero, consejo directivo, consejo académico, manual de convivencia"
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "date": "2026-11-25",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "clasificacion-de-los-seres-vivos-y-biodiversidad",
+       "title": "Clasificación de los seres vivos y biodiversidad de Colombia",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "dominios y reinos, taxonomía, nomenclatura binomial, endemismo, especies amenazadas, ecosistemas estratégicos (páramo)"
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y-",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "ajustes razonables, PIAR, DUA, barreras, educación inclusiva"
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "date": "2026-11-26",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "ciclos-biogeoquimicos-agua-carbono-y-nitrogeno",
+       "title": "Ciclos biogeoquímicos: agua, carbono y nitrógeno",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "procesos, microorganismos, alteraciones humanas, eutrofización"
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec",
+       "title": "Ley 715 de 2001: competencias y funciones del rector",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "SGP, entidades territoriales certificadas, funciones de rectores"
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "date": "2026-11-27",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "sistemas-digestivo-y-circulatorio",
+       "title": "Sistemas digestivo y circulatorio",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "digestión mecánica y química, enzimas, absorción, corazón, circulación mayor y menor, sangre"
+      },
+      {
+       "id": "prueba-psicotecnica-competencias-comportamentale",
+       "title": "Prueba psicotécnica: competencias comportamentales",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "orientación al logro, trabajo en equipo, comunicación, liderazgo, negociación, compromiso social, iniciativa"
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "date": "2026-11-28",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s2-1",
+       "title": "Repaso semana 2: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "ADN, ARN y síntesis de proteínas",
+        "División celular: mitosis y meiosis",
+        "Evolución: selección natural y especiación",
+        "Clasificación de los seres vivos y biodiversidad de Colombia",
+        "Ciclos biogeoquímicos: agua, carbono y nitrógeno",
+        "Sistemas digestivo y circulatorio"
+       ],
+       "focus": "casos nuevos e integradores sobre: ADN, ARN y síntesis de proteínas; División celular: mitosis y meiosis; Evolución: selección natural y especiación; Clasificación de los seres vivos y biodiversidad de Colombia; Ciclos biogeoquímicos: agua, carbono y nitrógeno; Sistemas digestivo y circulatorio"
+      },
+      {
+       "id": "repaso-s2-2",
+       "title": "Repaso semana 2: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Lectura crítica: tesis, argumentos e inferencias",
+        "Constitución Política y derecho a la educación",
+        "PEI, autonomía escolar y gobierno escolar",
+        "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA",
+        "Ley 715 de 2001: competencias y funciones del rector",
+        "Prueba psicotécnica: competencias comportamentales"
+       ],
+       "focus": "casos nuevos e integradores sobre: Lectura crítica: tesis, argumentos e inferencias; Constitución Política y derecho a la educación; PEI, autonomía escolar y gobierno escolar; Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA; Ley 715 de 2001: competencias y funciones del rector; Prueba psicotécnica: competencias comportamentales"
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "date": "2026-11-29",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "sistemas-respiratorio-y-excretor",
+       "title": "Sistemas respiratorio y excretor",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "intercambio gaseoso, ventilación, nefrona, regulación hídrica"
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio",
+       "title": "Evaluación formativa, rúbricas y retroalimentación",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación para el aprendizaje, autoevaluación, coevaluación, heteroevaluación, rúbricas, retroalimentación efectiva"
+      }
+     ]
+    },
+    {
+     "n": 16,
+     "date": "2026-11-30",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "sistemas-nervioso-y-endocrino-homeostasis",
+       "title": "Sistemas nervioso y endocrino; homeostasis",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "neurona, sinapsis, arco reflejo, hormonas, retroalimentación negativa, glucemia"
+      },
+      {
+       "id": "teorias-del-aprendizaje",
+       "title": "Teorías del aprendizaje",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Piaget, Vygotsky (ZDP), Ausubel (aprendizaje significativo), Bruner, constructivismo"
+      }
+     ]
+    },
+    {
+     "n": 17,
+     "date": "2026-12-01",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "reproduccion-humana-y-educacion-para-la-sexualid",
+       "title": "Reproducción humana y educación para la sexualidad",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "aparatos reproductores, ciclo menstrual, fecundación, ITS, métodos de prevención, enfoque de derechos"
+      },
+      {
+       "id": "planeacion-de-clase-y-secuencias-didacticas",
+       "title": "Planeación de clase y secuencias didácticas",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "objetivos, desempeños, momentos de la clase, coherencia curricular"
+      }
+     ]
+    },
+    {
+     "n": 18,
+     "date": "2026-12-02",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "microorganismos-salud-y-enfermedad",
+       "title": "Microorganismos, salud y enfermedad",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "bacterias, virus, hongos, protozoos, vacunas, inmunidad, antibióticos, epidemiología básica"
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "protección integral, interés superior, corresponsabilidad, obligaciones de las instituciones educativas"
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "date": "2026-12-03",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "modelos-atomicos-y-tabla-periodica",
+       "title": "Modelos atómicos y tabla periódica",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Dalton a Bohr y modelo cuántico, partículas subatómicas, isótopos, configuración electrónica, propiedades periódicas"
+      },
+      {
+       "id": "razonamiento-cuantitativo-probabilidad-e-interpr",
+       "title": "Razonamiento cuantitativo: probabilidad e interpretación de gráficas",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "probabilidad simple, conteo, gráficas de barras, líneas y circulares"
+      }
+     ]
+    },
+    {
+     "n": 20,
+     "date": "2026-12-04",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "enlace-quimico-y-nomenclatura-inorganica",
+       "title": "Enlace químico y nomenclatura inorgánica",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "iónico, covalente, metálico, electronegatividad, óxidos, hidróxidos, ácidos, sales"
+      },
+      {
+       "id": "lectura-critica-textos-discontinuos-y-falacias",
+       "title": "Lectura crítica: textos discontinuos y falacias",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "tablas, infografías, falacias ad hominem, generalización apresurada, falsa causa"
+      }
+     ]
+    },
+    {
+     "n": 21,
+     "date": "2026-12-05",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s3-1",
+       "title": "Repaso semana 3: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Sistemas respiratorio y excretor",
+        "Sistemas nervioso y endocrino; homeostasis",
+        "Reproducción humana y educación para la sexualidad",
+        "Microorganismos, salud y enfermedad",
+        "Modelos atómicos y tabla periódica",
+        "Enlace químico y nomenclatura inorgánica"
+       ],
+       "focus": "casos nuevos e integradores sobre: Sistemas respiratorio y excretor; Sistemas nervioso y endocrino; homeostasis; Reproducción humana y educación para la sexualidad; Microorganismos, salud y enfermedad; Modelos atómicos y tabla periódica; Enlace químico y nomenclatura inorgánica"
+      },
+      {
+       "id": "repaso-s3-2",
+       "title": "Repaso semana 3: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Evaluación formativa, rúbricas y retroalimentación",
+        "Teorías del aprendizaje",
+        "Planeación de clase y secuencias didácticas",
+        "Código de Infancia y Adolescencia: Ley 1098 de 2006",
+        "Razonamiento cuantitativo: probabilidad e interpretación de gráficas",
+        "Lectura crítica: textos discontinuos y falacias"
+       ],
+       "focus": "casos nuevos e integradores sobre: Evaluación formativa, rúbricas y retroalimentación; Teorías del aprendizaje; Planeación de clase y secuencias didácticas; Código de Infancia y Adolescencia: Ley 1098 de 2006; Razonamiento cuantitativo: probabilidad e interpretación de gráficas; Lectura crítica: textos discontinuos y falacias"
+      }
+     ]
+    },
+    {
+     "n": 22,
+     "date": "2026-12-06",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "reacciones-quimicas-y-balanceo",
+       "title": "Reacciones químicas y balanceo",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "tipos de reacción, ley de conservación de la masa, balanceo por tanteo, evidencias de reacción"
+      },
+      {
+       "id": "educacion-rural-escuela-nueva-y-enfoque-diferenc",
+       "title": "Educación rural, Escuela Nueva y enfoque diferencial",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "multigrado, guías de aprendizaje, etnoeducación, interculturalidad"
+      }
+     ]
+    },
+    {
+     "n": 23,
+     "date": "2026-12-07",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "estequiometria-y-reactivo-limite",
+       "title": "Estequiometría y reactivo límite",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "mol, masa molar, relaciones molares, rendimiento, reactivo límite"
+      },
+      {
+       "id": "uso-pedagogico-de-las-tic",
+       "title": "Uso pedagógico de las TIC",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "TPACK, SAMR, recursos educativos abiertos, ciudadanía digital"
+      }
+     ]
+    },
+    {
+     "n": 24,
+     "date": "2026-12-08",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "soluciones-concentracion-y-diluciones",
+       "title": "Soluciones: concentración y diluciones",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "% m/m, % m/v, molaridad, C1V1=C2V2, solubilidad y temperatura"
+      },
+      {
+       "id": "regimen-disciplinario-y-etica-del-servidor-publi",
+       "title": "Régimen disciplinario y ética del servidor público",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 1952 de 2019 (Código General Disciplinario), deberes, prohibiciones, faltas"
+      }
+     ]
+    },
+    {
+     "n": 25,
+     "date": "2026-12-09",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "acidos-bases-y-ph",
+       "title": "Ácidos, bases y pH",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Arrhenius, Brønsted-Lowry, escala de pH, indicadores, neutralización, lluvia ácida"
+      },
+      {
+       "id": "derecho-de-peticion-tutela-y-participacion",
+       "title": "Derecho de petición, tutela y participación",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 1755 de 2015, acción de tutela, mecanismos de participación"
+      }
+     ]
+    },
+    {
+     "n": 26,
+     "date": "2026-12-10",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "gases-ideales",
+       "title": "Gases ideales",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Boyle, Charles, Gay-Lussac, PV=nRT, presión atmosférica, teoría cinética"
+      },
+      {
+       "id": "proyectos-pedagogicos-transversales",
+       "title": "Proyectos pedagógicos transversales",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 115 art. 14, educación para la sexualidad, democracia, tiempo libre, ambiente"
+      }
+     ]
+    },
+    {
+     "n": 27,
+     "date": "2026-12-11",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "quimica-organica-y-biomoleculas",
+       "title": "Química orgánica y biomoléculas",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "carbono, hidrocarburos, grupos funcionales, carbohidratos, lípidos, proteínas, ácidos nucleicos, enzimas"
+      },
+      {
+       "id": "competencias-y-pruebas-saber-icfes",
+       "title": "Competencias y pruebas Saber (ICFES)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "uso comprensivo del conocimiento, explicación de fenómenos, indagación, análisis de resultados"
+      }
+     ]
+    },
+    {
+     "n": 28,
+     "date": "2026-12-12",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s4-1",
+       "title": "Repaso semana 4: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Reacciones químicas y balanceo",
+        "Estequiometría y reactivo límite",
+        "Soluciones: concentración y diluciones",
+        "Ácidos, bases y pH",
+        "Gases ideales",
+        "Química orgánica y biomoléculas"
+       ],
+       "focus": "casos nuevos e integradores sobre: Reacciones químicas y balanceo; Estequiometría y reactivo límite; Soluciones: concentración y diluciones; Ácidos, bases y pH; Gases ideales; Química orgánica y biomoléculas"
+      },
+      {
+       "id": "repaso-s4-2",
+       "title": "Repaso semana 4: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Educación rural, Escuela Nueva y enfoque diferencial",
+        "Uso pedagógico de las TIC",
+        "Régimen disciplinario y ética del servidor público",
+        "Derecho de petición, tutela y participación",
+        "Proyectos pedagógicos transversales",
+        "Competencias y pruebas Saber (ICFES)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Educación rural, Escuela Nueva y enfoque diferencial; Uso pedagógico de las TIC; Régimen disciplinario y ética del servidor público; Derecho de petición, tutela y participación; Proyectos pedagógicos transversales; Competencias y pruebas Saber (ICFES)"
+      }
+     ]
+    },
+    {
+     "n": 29,
+     "date": "2026-12-13",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "cinematica-mru-mrua-y-caida-libre",
+       "title": "Cinemática: MRU, MRUA y caída libre",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "posición, velocidad, aceleración, gráficas, ecuaciones"
+      },
+      {
+       "id": "evaluacion-de-desempeno-y-ascenso-ecdf",
+       "title": "Evaluación de desempeño y ascenso: ECDF",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación anual de desempeño, evaluación de competencias para ascenso y reubicación"
+      }
+     ]
+    },
+    {
+     "n": 30,
+     "date": "2026-12-14",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "leyes-de-newton-y-friccion",
+       "title": "Leyes de Newton y fricción",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "inercia, F=ma, acción-reacción, diagramas de cuerpo libre, peso vs masa"
+      },
+      {
+       "id": "el-concurso-docente-etapas-pruebas-y-puntajes-v2",
+       "title": "El concurso docente: etapas, pruebas y puntajes (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "CNSC, SIMO, OPEC, convocatoria, prueba de aptitudes y competencias básicas (eliminatoria), psicotécnica, valoración de antecedentes, entrevista, lista de elegibles, periodo de prueba"
+      }
+     ]
+    },
+    {
+     "n": 31,
+     "date": "2026-12-15",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "trabajo-energia-potencia-y-conservacion",
+       "title": "Trabajo, energía, potencia y conservación",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "energía cinética y potencial, conservación, eficiencia, potencia"
+      },
+      {
+       "id": "ley-115-de-1994-fines-objetivos-y-areas-obligato-v2",
+       "title": "Ley 115 de 1994: fines, objetivos y áreas obligatorias (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "artículos 5, 13, 14, 20-23, niveles y ciclos, áreas obligatorias"
+      }
+     ]
+    },
+    {
+     "n": 32,
+     "date": "2026-12-16",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "fluidos-presion-pascal-y-arquimedes",
+       "title": "Fluidos: presión, Pascal y Arquímedes",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "presión hidrostática, principio de Pascal, empuje, flotación, densidad"
+      },
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion-v2",
+       "title": "Decreto 1290 de 2009: evaluación y promoción (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "SIEE, escala nacional, comisión de evaluación y promoción, promoción anticipada, informes"
+      }
+     ]
+    },
+    {
+     "n": 33,
+     "date": "2026-12-17",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "termodinamica-calor-temperatura-y-cambios-de-fas",
+       "title": "Termodinámica: calor, temperatura y cambios de fase",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "escalas, calor específico, calor latente, conducción, convección, radiación"
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002-v2",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002 (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "ingreso, periodo de prueba, escalafón (grados y niveles), evaluaciones, ascenso, retiro"
+      }
+     ]
+    },
+    {
+     "n": 34,
+     "date": "2026-12-18",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "ondas-y-sonido",
+       "title": "Ondas y sonido",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "longitud de onda, frecuencia, v=λf, ondas mecánicas y electromagnéticas, efecto Doppler, resonancia"
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1-v2",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "sistema nacional, comité escolar de convivencia, ruta de atención integral, situaciones tipo I, II y III"
+      }
+     ]
+    },
+    {
+     "n": 35,
+     "date": "2026-12-19",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s5-1",
+       "title": "Repaso semana 5: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Cinemática: MRU, MRUA y caída libre",
+        "Leyes de Newton y fricción",
+        "Trabajo, energía, potencia y conservación",
+        "Fluidos: presión, Pascal y Arquímedes",
+        "Termodinámica: calor, temperatura y cambios de fase",
+        "Ondas y sonido"
+       ],
+       "focus": "casos nuevos e integradores sobre: Cinemática: MRU, MRUA y caída libre; Leyes de Newton y fricción; Trabajo, energía, potencia y conservación; Fluidos: presión, Pascal y Arquímedes; Termodinámica: calor, temperatura y cambios de fase; Ondas y sonido"
+      },
+      {
+       "id": "repaso-s5-2",
+       "title": "Repaso semana 5: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Evaluación de desempeño y ascenso: ECDF",
+        "El concurso docente: etapas, pruebas y puntajes (2.ª vuelta)",
+        "Ley 115 de 1994: fines, objetivos y áreas obligatorias (2.ª vuelta)",
+        "Decreto 1290 de 2009: evaluación y promoción (2.ª vuelta)",
+        "Estatuto docente: Decreto Ley 1278 de 2002 (2.ª vuelta)",
+        "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Evaluación de desempeño y ascenso: ECDF; El concurso docente: etapas, pruebas y puntajes (2.ª vuelta); Ley 115 de 1994: fines, objetivos y áreas obligatorias (2.ª vuelta); Decreto 1290 de 2009: evaluación y promoción (2.ª vuelta); Estatuto docente: Decreto Ley 1278 de 2002 (2.ª vuelta); Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 36,
+     "date": "2026-12-20",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "optica-reflexion-refraccion-y-lentes",
+       "title": "Óptica: reflexión, refracción y lentes",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "leyes de reflexión, índice de refracción, lentes convergentes y divergentes, ojo y visión"
+      },
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion-v2",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "porcentajes, regla de tres, promedio, mediana, moda, interpretación de tablas"
+      }
+     ]
+    },
+    {
+     "n": 37,
+     "date": "2026-12-21",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "electricidad-y-circuitos",
+       "title": "Electricidad y circuitos",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "carga, corriente, voltaje, resistencia, ley de Ohm, serie y paralelo, potencia eléctrica"
+      },
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias-v2",
+       "title": "Lectura crítica: tesis, argumentos e inferencias (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "idea principal, tesis, argumentos, supuestos, inferencias, intención del autor"
+      }
+     ]
+    },
+    {
+     "n": 38,
+     "date": "2026-12-22",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "magnetismo-y-electromagnetismo",
+       "title": "Magnetismo y electromagnetismo",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "imanes, campo magnético, inducción, motores y generadores"
+      },
+      {
+       "id": "constitucion-politica-y-derecho-a-la-educacion-v2",
+       "title": "Constitución Política y derecho a la educación (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "artículos 1, 4, 44, 67, 68, 125, 130"
+      }
+     ]
+    },
+    {
+     "n": 39,
+     "date": "2026-12-23",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "ciencias-de-la-tierra-y-el-espacio",
+       "title": "Ciencias de la Tierra y el espacio",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "estaciones, fases lunares, sistema solar, tectónica de placas, sismos, rocas"
+      },
+      {
+       "id": "pei-autonomia-escolar-y-gobierno-escolar-v2",
+       "title": "PEI, autonomía escolar y gobierno escolar (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 115 arts. 73, 77, 142-145, Decreto 1860 de 1994, personero, consejo directivo, consejo académico, manual de convivencia"
+      }
+     ]
+    },
+    {
+     "n": 40,
+     "date": "2026-12-24",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "cambio-climatico-y-efecto-invernadero",
+       "title": "Cambio climático y efecto invernadero",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "gases de efecto invernadero, evidencia, mitigación y adaptación, huella de carbono"
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y--v2",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "ajustes razonables, PIAR, DUA, barreras, educación inclusiva"
+      }
+     ]
+    },
+    {
+     "n": 41,
+     "date": "2026-12-25",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "recurso-hidrico-suelo-y-conservacion",
+       "title": "Recurso hídrico, suelo y conservación",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "cuencas, contaminación del agua, erosión, agroquímicos, CTS"
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec-v2",
+       "title": "Ley 715 de 2001: competencias y funciones del rector (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "SGP, entidades territoriales certificadas, funciones de rectores"
+      }
+     ]
+    },
+    {
+     "n": 42,
+     "date": "2026-12-26",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s6-1",
+       "title": "Repaso semana 6: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Óptica: reflexión, refracción y lentes",
+        "Electricidad y circuitos",
+        "Magnetismo y electromagnetismo",
+        "Ciencias de la Tierra y el espacio",
+        "Cambio climático y efecto invernadero",
+        "Recurso hídrico, suelo y conservación"
+       ],
+       "focus": "casos nuevos e integradores sobre: Óptica: reflexión, refracción y lentes; Electricidad y circuitos; Magnetismo y electromagnetismo; Ciencias de la Tierra y el espacio; Cambio climático y efecto invernadero; Recurso hídrico, suelo y conservación"
+      },
+      {
+       "id": "repaso-s6-2",
+       "title": "Repaso semana 6: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Razonamiento cuantitativo: porcentajes, proporciones y estadística (2.ª vuelta)",
+        "Lectura crítica: tesis, argumentos e inferencias (2.ª vuelta)",
+        "Constitución Política y derecho a la educación (2.ª vuelta)",
+        "PEI, autonomía escolar y gobierno escolar (2.ª vuelta)",
+        "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (2.ª vuelta)",
+        "Ley 715 de 2001: competencias y funciones del rector (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Razonamiento cuantitativo: porcentajes, proporciones y estadística (2.ª vuelta); Lectura crítica: tesis, argumentos e inferencias (2.ª vuelta); Constitución Política y derecho a la educación (2.ª vuelta); PEI, autonomía escolar y gobierno escolar (2.ª vuelta); Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (2.ª vuelta); Ley 715 de 2001: competencias y funciones del rector (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 43,
+     "date": "2026-12-27",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "residuos-solidos-economia-circular-y-energias-re",
+       "title": "Residuos sólidos, economía circular y energías renovables",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "las 3R/5R, separación en la fuente, compostaje, energías limpias"
+      },
+      {
+       "id": "prueba-psicotecnica-competencias-comportamentale-v2",
+       "title": "Prueba psicotécnica: competencias comportamentales (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "orientación al logro, trabajo en equipo, comunicación, liderazgo, negociación, compromiso social, iniciativa"
+      }
+     ]
+    },
+    {
+     "n": 44,
+     "date": "2026-12-28",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "gestion-del-riesgo-en-la-escuela",
+       "title": "Gestión del riesgo en la escuela",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "amenaza, vulnerabilidad, riesgo, plan escolar de gestión del riesgo, Ley 1523 de 2012"
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio-v2",
+       "title": "Evaluación formativa, rúbricas y retroalimentación (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación para el aprendizaje, autoevaluación, coevaluación, heteroevaluación, rúbricas, retroalimentación efectiva"
+      }
+     ]
+    },
+    {
+     "n": 45,
+     "date": "2026-12-29",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "didactica-de-las-ciencias-indagacion-trabajo-pra",
+       "title": "Didáctica de las ciencias: indagación, trabajo práctico y bioseguridad",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "ciclo de indagación, preguntas investigables, variables, laboratorio seguro, ideas previas, cambio conceptual"
+      },
+      {
+       "id": "teorias-del-aprendizaje-v2",
+       "title": "Teorías del aprendizaje (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Piaget, Vygotsky (ZDP), Ausubel (aprendizaje significativo), Bruner, constructivismo"
+      }
+     ]
+    },
+    {
+     "n": 46,
+     "date": "2026-12-30",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "estandares-dba-y-lineamientos-curriculares-de-ci",
+       "title": "Estándares, DBA y Lineamientos curriculares de Ciencias Naturales",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "entornos vivo, físico, CTS; me aproximo al conocimiento como científico; competencias uso comprensivo, explicación, indagación"
+      },
+      {
+       "id": "planeacion-de-clase-y-secuencias-didacticas-v2",
+       "title": "Planeación de clase y secuencias didácticas (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "objetivos, desempeños, momentos de la clase, coherencia curricular"
+      }
+     ]
+    },
+    {
+     "n": 47,
+     "date": "2026-12-31",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "celula-estructura-organelos-y-transporte-de-memb-v2",
+       "title": "Célula: estructura, organelos y transporte de membrana (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "procariota vs eucariota, animal vs vegetal, función de organelos, difusión, ósmosis, transporte activo"
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20-v2",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006 (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "protección integral, interés superior, corresponsabilidad, obligaciones de las instituciones educativas"
+      }
+     ]
+    },
+    {
+     "n": 48,
+     "date": "2027-01-01",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "fotosintesis-y-respiracion-celular-v2",
+       "title": "Fotosíntesis y respiración celular (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "fases, reactivos y productos, ubicación, factores limitantes, diseño experimental con variables"
+      },
+      {
+       "id": "razonamiento-cuantitativo-probabilidad-e-interpr-v2",
+       "title": "Razonamiento cuantitativo: probabilidad e interpretación de gráficas (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "probabilidad simple, conteo, gráficas de barras, líneas y circulares"
+      }
+     ]
+    },
+    {
+     "n": 49,
+     "date": "2027-01-02",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s7-1",
+       "title": "Repaso semana 7: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Residuos sólidos, economía circular y energías renovables",
+        "Gestión del riesgo en la escuela",
+        "Didáctica de las ciencias: indagación, trabajo práctico y bioseguridad",
+        "Estándares, DBA y Lineamientos curriculares de Ciencias Naturales",
+        "Célula: estructura, organelos y transporte de membrana (2.ª vuelta)",
+        "Fotosíntesis y respiración celular (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Residuos sólidos, economía circular y energías renovables; Gestión del riesgo en la escuela; Didáctica de las ciencias: indagación, trabajo práctico y bioseguridad; Estándares, DBA y Lineamientos curriculares de Ciencias Naturales; Célula: estructura, organelos y transporte de membrana (2.ª vuelta); Fotosíntesis y respiración celular (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s7-2",
+       "title": "Repaso semana 7: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Prueba psicotécnica: competencias comportamentales (2.ª vuelta)",
+        "Evaluación formativa, rúbricas y retroalimentación (2.ª vuelta)",
+        "Teorías del aprendizaje (2.ª vuelta)",
+        "Planeación de clase y secuencias didácticas (2.ª vuelta)",
+        "Código de Infancia y Adolescencia: Ley 1098 de 2006 (2.ª vuelta)",
+        "Razonamiento cuantitativo: probabilidad e interpretación de gráficas (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Prueba psicotécnica: competencias comportamentales (2.ª vuelta); Evaluación formativa, rúbricas y retroalimentación (2.ª vuelta); Teorías del aprendizaje (2.ª vuelta); Planeación de clase y secuencias didácticas (2.ª vuelta); Código de Infancia y Adolescencia: Ley 1098 de 2006 (2.ª vuelta); Razonamiento cuantitativo: probabilidad e interpretación de gráficas (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 50,
+     "date": "2027-01-03",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "genetica-mendeliana-y-cuadros-de-punnett-v2",
+       "title": "Genética mendeliana y cuadros de Punnett (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "leyes de Mendel, monohíbridos y dihíbridos, dominancia incompleta, codominancia, grupos sanguíneos, herencia ligada al sexo"
+      },
+      {
+       "id": "lectura-critica-textos-discontinuos-y-falacias-v2",
+       "title": "Lectura crítica: textos discontinuos y falacias (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "tablas, infografías, falacias ad hominem, generalización apresurada, falsa causa"
+      }
+     ]
+    },
+    {
+     "n": 51,
+     "date": "2027-01-04",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "ecosistemas-flujo-de-energia-cadenas-y-redes-tro-v2",
+       "title": "Ecosistemas: flujo de energía, cadenas y redes tróficas (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "niveles tróficos, regla del 10 %, pirámides, relaciones interespecíficas, bioacumulación"
+      },
+      {
+       "id": "educacion-rural-escuela-nueva-y-enfoque-diferenc-v2",
+       "title": "Educación rural, Escuela Nueva y enfoque diferencial (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "multigrado, guías de aprendizaje, etnoeducación, interculturalidad"
+      }
+     ]
+    },
+    {
+     "n": 52,
+     "date": "2027-01-05",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "materia-propiedades-mezclas-y-metodos-de-separac-v2",
+       "title": "Materia: propiedades, mezclas y métodos de separación (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "propiedades generales/específicas, cambios físicos y químicos, sustancias puras, mezclas homogéneas/heterogéneas, filtración, destilación, cromatografía, densidad"
+      },
+      {
+       "id": "uso-pedagogico-de-las-tic-v2",
+       "title": "Uso pedagógico de las TIC (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "TPACK, SAMR, recursos educativos abiertos, ciudadanía digital"
+      }
+     ]
+    },
+    {
+     "n": 53,
+     "date": "2027-01-06",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "educacion-ambiental-prae-pnea-ley-1549-de-2012-y-v2",
+       "title": "Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Decreto 1743 de 1994, Política Nacional de Educación Ambiental 2002, Ley 1549, CIDEA, PROCEDA, enfoque sistémico e interdisciplinario"
+      },
+      {
+       "id": "regimen-disciplinario-y-etica-del-servidor-publi-v2",
+       "title": "Régimen disciplinario y ética del servidor público (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 1952 de 2019 (Código General Disciplinario), deberes, prohibiciones, faltas"
+      }
+     ]
+    },
+    {
+     "n": 54,
+     "date": "2027-01-07",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "adn-arn-y-sintesis-de-proteinas-v2",
+       "title": "ADN, ARN y síntesis de proteínas (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "estructura, replicación, transcripción, traducción, código genético, mutaciones"
+      },
+      {
+       "id": "derecho-de-peticion-tutela-y-participacion-v2",
+       "title": "Derecho de petición, tutela y participación (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 1755 de 2015, acción de tutela, mecanismos de participación"
+      }
+     ]
+    },
+    {
+     "n": 55,
+     "date": "2027-01-08",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "division-celular-mitosis-y-meiosis-v2",
+       "title": "División celular: mitosis y meiosis (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "ciclo celular, fases, diferencias, variabilidad genética, no disyunción"
+      },
+      {
+       "id": "proyectos-pedagogicos-transversales-v2",
+       "title": "Proyectos pedagógicos transversales (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 115 art. 14, educación para la sexualidad, democracia, tiempo libre, ambiente"
+      }
+     ]
+    },
+    {
+     "n": 56,
+     "date": "2027-01-09",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s8-1",
+       "title": "Repaso semana 8: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Genética mendeliana y cuadros de Punnett (2.ª vuelta)",
+        "Ecosistemas: flujo de energía, cadenas y redes tróficas (2.ª vuelta)",
+        "Materia: propiedades, mezclas y métodos de separación (2.ª vuelta)",
+        "Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA (2.ª vuelta)",
+        "ADN, ARN y síntesis de proteínas (2.ª vuelta)",
+        "División celular: mitosis y meiosis (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Genética mendeliana y cuadros de Punnett (2.ª vuelta); Ecosistemas: flujo de energía, cadenas y redes tróficas (2.ª vuelta); Materia: propiedades, mezclas y métodos de separación (2.ª vuelta); Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA (2.ª vuelta); ADN, ARN y síntesis de proteínas (2.ª vuelta); División celular: mitosis y meiosis (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s8-2",
+       "title": "Repaso semana 8: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Lectura crítica: textos discontinuos y falacias (2.ª vuelta)",
+        "Educación rural, Escuela Nueva y enfoque diferencial (2.ª vuelta)",
+        "Uso pedagógico de las TIC (2.ª vuelta)",
+        "Régimen disciplinario y ética del servidor público (2.ª vuelta)",
+        "Derecho de petición, tutela y participación (2.ª vuelta)",
+        "Proyectos pedagógicos transversales (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Lectura crítica: textos discontinuos y falacias (2.ª vuelta); Educación rural, Escuela Nueva y enfoque diferencial (2.ª vuelta); Uso pedagógico de las TIC (2.ª vuelta); Régimen disciplinario y ética del servidor público (2.ª vuelta); Derecho de petición, tutela y participación (2.ª vuelta); Proyectos pedagógicos transversales (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 57,
+     "date": "2027-01-10",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "evolucion-seleccion-natural-y-especiacion-v2",
+       "title": "Evolución: selección natural y especiación (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Darwin, Lamarck, evidencias, deriva, aislamiento reproductivo, resistencia a antibióticos"
+      },
+      {
+       "id": "competencias-y-pruebas-saber-icfes-v2",
+       "title": "Competencias y pruebas Saber (ICFES) (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "uso comprensivo del conocimiento, explicación de fenómenos, indagación, análisis de resultados"
+      }
+     ]
+    },
+    {
+     "n": 58,
+     "date": "2027-01-11",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "clasificacion-de-los-seres-vivos-y-biodiversidad-v2",
+       "title": "Clasificación de los seres vivos y biodiversidad de Colombia (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "dominios y reinos, taxonomía, nomenclatura binomial, endemismo, especies amenazadas, ecosistemas estratégicos (páramo)"
+      },
+      {
+       "id": "evaluacion-de-desempeno-y-ascenso-ecdf-v2",
+       "title": "Evaluación de desempeño y ascenso: ECDF (2.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación anual de desempeño, evaluación de competencias para ascenso y reubicación"
+      }
+     ]
+    },
+    {
+     "n": 59,
+     "date": "2027-01-12",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "ciclos-biogeoquimicos-agua-carbono-y-nitrogeno-v2",
+       "title": "Ciclos biogeoquímicos: agua, carbono y nitrógeno (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "procesos, microorganismos, alteraciones humanas, eutrofización"
+      },
+      {
+       "id": "el-concurso-docente-etapas-pruebas-y-puntajes-v3",
+       "title": "El concurso docente: etapas, pruebas y puntajes (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "CNSC, SIMO, OPEC, convocatoria, prueba de aptitudes y competencias básicas (eliminatoria), psicotécnica, valoración de antecedentes, entrevista, lista de elegibles, periodo de prueba"
+      }
+     ]
+    },
+    {
+     "n": 60,
+     "date": "2027-01-13",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "sistemas-digestivo-y-circulatorio-v2",
+       "title": "Sistemas digestivo y circulatorio (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "digestión mecánica y química, enzimas, absorción, corazón, circulación mayor y menor, sangre"
+      },
+      {
+       "id": "ley-115-de-1994-fines-objetivos-y-areas-obligato-v3",
+       "title": "Ley 115 de 1994: fines, objetivos y áreas obligatorias (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "artículos 5, 13, 14, 20-23, niveles y ciclos, áreas obligatorias"
+      }
+     ]
+    },
+    {
+     "n": 61,
+     "date": "2027-01-14",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "sistemas-respiratorio-y-excretor-v2",
+       "title": "Sistemas respiratorio y excretor (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "intercambio gaseoso, ventilación, nefrona, regulación hídrica"
+      },
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion-v3",
+       "title": "Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "SIEE, escala nacional, comisión de evaluación y promoción, promoción anticipada, informes"
+      }
+     ]
+    },
+    {
+     "n": 62,
+     "date": "2027-01-15",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "sistemas-nervioso-y-endocrino-homeostasis-v2",
+       "title": "Sistemas nervioso y endocrino; homeostasis (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "neurona, sinapsis, arco reflejo, hormonas, retroalimentación negativa, glucemia"
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002-v3",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002 (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "ingreso, periodo de prueba, escalafón (grados y niveles), evaluaciones, ascenso, retiro"
+      }
+     ]
+    },
+    {
+     "n": 63,
+     "date": "2027-01-16",
+     "kind": "repaso",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "repaso-s9-1",
+       "title": "Repaso semana 9: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Evolución: selección natural y especiación (2.ª vuelta)",
+        "Clasificación de los seres vivos y biodiversidad de Colombia (2.ª vuelta)",
+        "Ciclos biogeoquímicos: agua, carbono y nitrógeno (2.ª vuelta)",
+        "Sistemas digestivo y circulatorio (2.ª vuelta)",
+        "Sistemas respiratorio y excretor (2.ª vuelta)",
+        "Sistemas nervioso y endocrino; homeostasis (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Evolución: selección natural y especiación (2.ª vuelta); Clasificación de los seres vivos y biodiversidad de Colombia (2.ª vuelta); Ciclos biogeoquímicos: agua, carbono y nitrógeno (2.ª vuelta); Sistemas digestivo y circulatorio (2.ª vuelta); Sistemas respiratorio y excretor (2.ª vuelta); Sistemas nervioso y endocrino; homeostasis (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s9-2",
+       "title": "Repaso semana 9: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Competencias y pruebas Saber (ICFES) (2.ª vuelta)",
+        "Evaluación de desempeño y ascenso: ECDF (2.ª vuelta)",
+        "El concurso docente: etapas, pruebas y puntajes (3.ª vuelta)",
+        "Ley 115 de 1994: fines, objetivos y áreas obligatorias (3.ª vuelta)",
+        "Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta)",
+        "Estatuto docente: Decreto Ley 1278 de 2002 (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Competencias y pruebas Saber (ICFES) (2.ª vuelta); Evaluación de desempeño y ascenso: ECDF (2.ª vuelta); El concurso docente: etapas, pruebas y puntajes (3.ª vuelta); Ley 115 de 1994: fines, objetivos y áreas obligatorias (3.ª vuelta); Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta); Estatuto docente: Decreto Ley 1278 de 2002 (3.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 64,
+     "date": "2027-01-17",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "reproduccion-humana-y-educacion-para-la-sexualid-v2",
+       "title": "Reproducción humana y educación para la sexualidad (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "aparatos reproductores, ciclo menstrual, fecundación, ITS, métodos de prevención, enfoque de derechos"
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1-v3",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "sistema nacional, comité escolar de convivencia, ruta de atención integral, situaciones tipo I, II y III"
+      }
+     ]
+    },
+    {
+     "n": 65,
+     "date": "2027-01-18",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "microorganismos-salud-y-enfermedad-v2",
+       "title": "Microorganismos, salud y enfermedad (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "bacterias, virus, hongos, protozoos, vacunas, inmunidad, antibióticos, epidemiología básica"
+      },
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion-v3",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "porcentajes, regla de tres, promedio, mediana, moda, interpretación de tablas"
+      }
+     ]
+    },
+    {
+     "n": 66,
+     "date": "2027-01-19",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "modelos-atomicos-y-tabla-periodica-v2",
+       "title": "Modelos atómicos y tabla periódica (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Dalton a Bohr y modelo cuántico, partículas subatómicas, isótopos, configuración electrónica, propiedades periódicas"
+      },
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias-v3",
+       "title": "Lectura crítica: tesis, argumentos e inferencias (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "idea principal, tesis, argumentos, supuestos, inferencias, intención del autor"
+      }
+     ]
+    },
+    {
+     "n": 67,
+     "date": "2027-01-20",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "enlace-quimico-y-nomenclatura-inorganica-v2",
+       "title": "Enlace químico y nomenclatura inorgánica (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "iónico, covalente, metálico, electronegatividad, óxidos, hidróxidos, ácidos, sales"
+      },
+      {
+       "id": "constitucion-politica-y-derecho-a-la-educacion-v3",
+       "title": "Constitución Política y derecho a la educación (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "artículos 1, 4, 44, 67, 68, 125, 130"
+      }
+     ]
+    },
+    {
+     "n": 68,
+     "date": "2027-01-21",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "reacciones-quimicas-y-balanceo-v2",
+       "title": "Reacciones químicas y balanceo (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "tipos de reacción, ley de conservación de la masa, balanceo por tanteo, evidencias de reacción"
+      },
+      {
+       "id": "pei-autonomia-escolar-y-gobierno-escolar-v3",
+       "title": "PEI, autonomía escolar y gobierno escolar (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 115 arts. 73, 77, 142-145, Decreto 1860 de 1994, personero, consejo directivo, consejo académico, manual de convivencia"
+      }
+     ]
+    },
+    {
+     "n": 69,
+     "date": "2027-01-22",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "estequiometria-y-reactivo-limite-v2",
+       "title": "Estequiometría y reactivo límite (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "mol, masa molar, relaciones molares, rendimiento, reactivo límite"
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y--v3",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "ajustes razonables, PIAR, DUA, barreras, educación inclusiva"
+      }
+     ]
+    },
+    {
+     "n": 70,
+     "date": "2027-01-23",
+     "kind": "repaso",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "repaso-s10-1",
+       "title": "Repaso semana 10: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Reproducción humana y educación para la sexualidad (2.ª vuelta)",
+        "Microorganismos, salud y enfermedad (2.ª vuelta)",
+        "Modelos atómicos y tabla periódica (2.ª vuelta)",
+        "Enlace químico y nomenclatura inorgánica (2.ª vuelta)",
+        "Reacciones químicas y balanceo (2.ª vuelta)",
+        "Estequiometría y reactivo límite (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Reproducción humana y educación para la sexualidad (2.ª vuelta); Microorganismos, salud y enfermedad (2.ª vuelta); Modelos atómicos y tabla periódica (2.ª vuelta); Enlace químico y nomenclatura inorgánica (2.ª vuelta); Reacciones químicas y balanceo (2.ª vuelta); Estequiometría y reactivo límite (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s10-2",
+       "title": "Repaso semana 10: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta)",
+        "Razonamiento cuantitativo: porcentajes, proporciones y estadística (3.ª vuelta)",
+        "Lectura crítica: tesis, argumentos e inferencias (3.ª vuelta)",
+        "Constitución Política y derecho a la educación (3.ª vuelta)",
+        "PEI, autonomía escolar y gobierno escolar (3.ª vuelta)",
+        "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta); Razonamiento cuantitativo: porcentajes, proporciones y estadística (3.ª vuelta); Lectura crítica: tesis, argumentos e inferencias (3.ª vuelta); Constitución Política y derecho a la educación (3.ª vuelta); PEI, autonomía escolar y gobierno escolar (3.ª vuelta); Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (3.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 71,
+     "date": "2027-01-24",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "soluciones-concentracion-y-diluciones-v2",
+       "title": "Soluciones: concentración y diluciones (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "% m/m, % m/v, molaridad, C1V1=C2V2, solubilidad y temperatura"
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec-v3",
+       "title": "Ley 715 de 2001: competencias y funciones del rector (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "SGP, entidades territoriales certificadas, funciones de rectores"
+      }
+     ]
+    },
+    {
+     "n": 72,
+     "date": "2027-01-25",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "acidos-bases-y-ph-v2",
+       "title": "Ácidos, bases y pH (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Arrhenius, Brønsted-Lowry, escala de pH, indicadores, neutralización, lluvia ácida"
+      },
+      {
+       "id": "prueba-psicotecnica-competencias-comportamentale-v3",
+       "title": "Prueba psicotécnica: competencias comportamentales (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "orientación al logro, trabajo en equipo, comunicación, liderazgo, negociación, compromiso social, iniciativa"
+      }
+     ]
+    },
+    {
+     "n": 73,
+     "date": "2027-01-26",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "gases-ideales-v2",
+       "title": "Gases ideales (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "Boyle, Charles, Gay-Lussac, PV=nRT, presión atmosférica, teoría cinética"
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio-v3",
+       "title": "Evaluación formativa, rúbricas y retroalimentación (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación para el aprendizaje, autoevaluación, coevaluación, heteroevaluación, rúbricas, retroalimentación efectiva"
+      }
+     ]
+    },
+    {
+     "n": 74,
+     "date": "2027-01-27",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "quimica-organica-y-biomoleculas-v2",
+       "title": "Química orgánica y biomoléculas (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "carbono, hidrocarburos, grupos funcionales, carbohidratos, lípidos, proteínas, ácidos nucleicos, enzimas"
+      },
+      {
+       "id": "teorias-del-aprendizaje-v3",
+       "title": "Teorías del aprendizaje (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "Piaget, Vygotsky (ZDP), Ausubel (aprendizaje significativo), Bruner, constructivismo"
+      }
+     ]
+    },
+    {
+     "n": 75,
+     "date": "2027-01-28",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "cinematica-mru-mrua-y-caida-libre-v2",
+       "title": "Cinemática: MRU, MRUA y caída libre (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "posición, velocidad, aceleración, gráficas, ecuaciones"
+      },
+      {
+       "id": "planeacion-de-clase-y-secuencias-didacticas-v3",
+       "title": "Planeación de clase y secuencias didácticas (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "objetivos, desempeños, momentos de la clase, coherencia curricular"
+      }
+     ]
+    },
+    {
+     "n": 76,
+     "date": "2027-01-29",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "leyes-de-newton-y-friccion-v2",
+       "title": "Leyes de Newton y fricción (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "inercia, F=ma, acción-reacción, diagramas de cuerpo libre, peso vs masa"
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20-v3",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006 (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "protección integral, interés superior, corresponsabilidad, obligaciones de las instituciones educativas"
+      }
+     ]
+    },
+    {
+     "n": 77,
+     "date": "2027-01-30",
+     "kind": "repaso",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "repaso-s11-1",
+       "title": "Repaso semana 11: Disciplinar",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": true,
+       "covers": [
+        "Soluciones: concentración y diluciones (2.ª vuelta)",
+        "Ácidos, bases y pH (2.ª vuelta)",
+        "Gases ideales (2.ª vuelta)",
+        "Química orgánica y biomoléculas (2.ª vuelta)",
+        "Cinemática: MRU, MRUA y caída libre (2.ª vuelta)",
+        "Leyes de Newton y fricción (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Soluciones: concentración y diluciones (2.ª vuelta); Ácidos, bases y pH (2.ª vuelta); Gases ideales (2.ª vuelta); Química orgánica y biomoléculas (2.ª vuelta); Cinemática: MRU, MRUA y caída libre (2.ª vuelta); Leyes de Newton y fricción (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s11-2",
+       "title": "Repaso semana 11: Conocimiento general del concurso",
+       "track": "Conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Ley 715 de 2001: competencias y funciones del rector (3.ª vuelta)",
+        "Prueba psicotécnica: competencias comportamentales (3.ª vuelta)",
+        "Evaluación formativa, rúbricas y retroalimentación (3.ª vuelta)",
+        "Teorías del aprendizaje (3.ª vuelta)",
+        "Planeación de clase y secuencias didácticas (3.ª vuelta)",
+        "Código de Infancia y Adolescencia: Ley 1098 de 2006 (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Ley 715 de 2001: competencias y funciones del rector (3.ª vuelta); Prueba psicotécnica: competencias comportamentales (3.ª vuelta); Evaluación formativa, rúbricas y retroalimentación (3.ª vuelta); Teorías del aprendizaje (3.ª vuelta); Planeación de clase y secuencias didácticas (3.ª vuelta); Código de Infancia y Adolescencia: Ley 1098 de 2006 (3.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 78,
+     "date": "2027-01-31",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "trabajo-energia-potencia-y-conservacion-v2",
+       "title": "Trabajo, energía, potencia y conservación (2.ª vuelta)",
+       "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+       "review": false,
+       "focus": "energía cinética y potencial, conservación, eficiencia, potencia"
+      },
+      {
+       "id": "razonamiento-cuantitativo-probabilidad-e-interpr-v3",
+       "title": "Razonamiento cuantitativo: probabilidad e interpretación de gráficas (3.ª vuelta)",
+       "track": "Conocimiento general del concurso",
+       "review": false,
+       "focus": "probabilidad simple, conteo, gráficas de barras, líneas y circulares"
+      }
+     ]
+    }
+   ]
+  },
+  "B": {
+   "name": "Tecnología e Informática",
+   "person": "Andrey",
+   "tracks": [
+    "Disciplinar: Tecnología e Informática",
+    "Leyes y conocimiento general del concurso"
+   ],
+   "days": [
+    {
+     "n": 1,
+     "date": "2026-11-15",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "naturaleza-y-evolucion-de-la-tecnologia",
+       "title": "Naturaleza y evolución de la tecnología",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "Guía 30 MEN: técnica, tecnología, ciencia, innovación, invención, artefactos, procesos y sistemas; historia de la tecnología"
+      },
+      {
+       "id": "leyes-desde-cero-constitucion-estado-social-de-d",
+       "title": "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "qué es una norma, Constitución, leyes, decretos, decretos ley, resoluciones, acuerdos, cómo se citan, ramas del poder"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "date": "2026-11-16",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "algoritmos-y-pensamiento-computacional",
+       "title": "Algoritmos y pensamiento computacional",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "descomposición, patrones, abstracción, algoritmos, pseudocódigo, diagramas de flujo, trazas"
+      },
+      {
+       "id": "derecho-a-la-educacion-y-estructura-del-sector-e",
+       "title": "Derecho a la educación y estructura del sector educativo",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "arts. 44, 67, 68 de la Constitución; MEN, secretarías, entidades territoriales certificadas, Decreto 1075 de 2015"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "date": "2026-11-17",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "hardware-y-arquitectura-del-computador",
+       "title": "Hardware y arquitectura del computador",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "CPU, memoria RAM/ROM, almacenamiento, periféricos, unidades de medida, modelo de von Neumann"
+      },
+      {
+       "id": "ley-115-de-1994-fines-niveles-areas-obligatorias",
+       "title": "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "art. 5, niveles y grados, art. 23 (Tecnología e Informática), art. 73 PEI, art. 77 autonomía, art. 142 gobierno escolar"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "date": "2026-11-18",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "electricidad-y-electronica-basica",
+       "title": "Electricidad y electrónica básica",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "voltaje, corriente, resistencia, ley de Ohm, potencia, circuitos serie y paralelo, componentes, seguridad eléctrica"
+      },
+      {
+       "id": "el-concurso-docente-etapas-pruebas-puntajes-y-si",
+       "title": "El concurso docente: etapas, pruebas, puntajes y SIMO",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "CNSC, SIMO, OPEC, prueba eliminatoria, psicotécnica, valoración de antecedentes, entrevista, lista de elegibles, periodo de prueba, requisitos para profesionales no licenciados"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "date": "2026-11-19",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "programacion-variables-condicionales-y-ciclos",
+       "title": "Programación: variables, condicionales y ciclos",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "tipos de datos, operadores, if/else, while, for, Scratch y Python, trazas de código"
+      },
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion",
+       "title": "Decreto 1290 de 2009: evaluación y promoción",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "SIEE, escala nacional, comisión de evaluación y promoción, promoción anticipada"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "date": "2026-11-20",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "redes-e-internet",
+       "title": "Redes e Internet",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "LAN/WAN, topologías, IP, DNS, router/switch, modelo TCP/IP, HTTP/HTTPS, Wi-Fi"
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "ingreso, profesionales no licenciados, periodo de prueba, escalafón, evaluaciones, retiro"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "date": "2026-11-21",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s1-1",
+       "title": "Repaso semana 1: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Naturaleza y evolución de la tecnología",
+        "Algoritmos y pensamiento computacional",
+        "Hardware y arquitectura del computador",
+        "Electricidad y electrónica básica",
+        "Programación: variables, condicionales y ciclos",
+        "Redes e Internet"
+       ],
+       "focus": "casos nuevos e integradores sobre: Naturaleza y evolución de la tecnología; Algoritmos y pensamiento computacional; Hardware y arquitectura del computador; Electricidad y electrónica básica; Programación: variables, condicionales y ciclos; Redes e Internet"
+      },
+      {
+       "id": "repaso-s1-2",
+       "title": "Repaso semana 1: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa",
+        "Derecho a la educación y estructura del sector educativo",
+        "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI",
+        "El concurso docente: etapas, pruebas, puntajes y SIMO",
+        "Decreto 1290 de 2009: evaluación y promoción",
+        "Estatuto docente: Decreto Ley 1278 de 2002"
+       ],
+       "focus": "casos nuevos e integradores sobre: Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa; Derecho a la educación y estructura del sector educativo; Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI; El concurso docente: etapas, pruebas, puntajes y SIMO; Decreto 1290 de 2009: evaluación y promoción; Estatuto docente: Decreto Ley 1278 de 2002"
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "date": "2026-11-22",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "guia-30-componentes-y-competencias-del-area",
+       "title": "Guía 30: componentes y competencias del área",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "apropiación y uso, solución de problemas con tecnología, tecnología y sociedad; grupos de grados; desempeños"
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "comité escolar de convivencia, ruta de atención integral, situaciones tipo I, II y III"
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "date": "2026-11-23",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "sistemas-operativos-y-software",
+       "title": "Sistemas operativos y software",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "funciones del SO, tipos de software, licencias, archivos y carpetas, procesos"
+      },
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias",
+       "title": "Lectura crítica: tesis, argumentos e inferencias",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "idea principal, tesis, argumentos, supuestos, inferencias"
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "date": "2026-11-24",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "sistemas-numericos-y-representacion-de-la-inform",
+       "title": "Sistemas numéricos y representación de la información",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "binario, decimal, hexadecimal, conversiones, bits y bytes, ASCII/Unicode"
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec",
+       "title": "Ley 715 de 2001: competencias y funciones del rector",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "SGP, entidades territoriales certificadas, funciones de rectores"
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "date": "2026-11-25",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "ofimatica-procesador-de-texto-y-hoja-de-calculo",
+       "title": "Ofimática: procesador de texto y hoja de cálculo",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "referencias relativas y absolutas, funciones SUMA, PROMEDIO, SI, CONTAR.SI, gráficos"
+      },
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "porcentajes, regla de tres, promedio, mediana, moda, tablas"
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "date": "2026-11-26",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "bases-de-datos-y-modelo-relacional",
+       "title": "Bases de datos y modelo relacional",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "tablas, claves primaria y foránea, relaciones, SQL SELECT/WHERE, normalización básica"
+      },
+      {
+       "id": "gobierno-escolar-y-manual-de-convivencia-decreto",
+       "title": "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "consejo directivo, consejo académico, personero, representante, consejo de padres"
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "date": "2026-11-27",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "programacion-funciones-listas-y-estructuras-de-d",
+       "title": "Programación: funciones, listas y estructuras de datos",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "funciones, parámetros, retorno, listas/arreglos, recorridos, búsqueda"
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y-",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "ajustes razonables, PIAR, DUA"
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "date": "2026-11-28",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s2-1",
+       "title": "Repaso semana 2: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Guía 30: componentes y competencias del área",
+        "Sistemas operativos y software",
+        "Sistemas numéricos y representación de la información",
+        "Ofimática: procesador de texto y hoja de cálculo",
+        "Bases de datos y modelo relacional",
+        "Programación: funciones, listas y estructuras de datos"
+       ],
+       "focus": "casos nuevos e integradores sobre: Guía 30: componentes y competencias del área; Sistemas operativos y software; Sistemas numéricos y representación de la información; Ofimática: procesador de texto y hoja de cálculo; Bases de datos y modelo relacional; Programación: funciones, listas y estructuras de datos"
+      },
+      {
+       "id": "repaso-s2-2",
+       "title": "Repaso semana 2: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013",
+        "Lectura crítica: tesis, argumentos e inferencias",
+        "Ley 715 de 2001: competencias y funciones del rector",
+        "Razonamiento cuantitativo: porcentajes, proporciones y estadística",
+        "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994",
+        "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA"
+       ],
+       "focus": "casos nuevos e integradores sobre: Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013; Lectura crítica: tesis, argumentos e inferencias; Ley 715 de 2001: competencias y funciones del rector; Razonamiento cuantitativo: porcentajes, proporciones y estadística; Gobierno escolar y manual de convivencia: Decreto 1860 de 1994; Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA"
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "date": "2026-11-29",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "proceso-de-diseno-tecnologico-y-solucion-de-prob",
+       "title": "Proceso de diseño tecnológico y solución de problemas",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "identificar el problema, requerimientos, alternativas, prototipo, prueba, evaluación"
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "protección integral, interés superior, corresponsabilidad, obligaciones de las instituciones"
+      }
+     ]
+    },
+    {
+     "n": 16,
+     "date": "2026-11-30",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "maquinas-simples-mecanismos-y-transmision-de-mov",
+       "title": "Máquinas simples, mecanismos y transmisión de movimiento",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "palanca, polea, plano inclinado, engranajes, relación de transmisión"
+      },
+      {
+       "id": "prueba-psicotecnica-competencias-comportamentale",
+       "title": "Prueba psicotécnica: competencias comportamentales",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "orientación al logro, trabajo en equipo, comunicación, liderazgo, negociación"
+      }
+     ]
+    },
+    {
+     "n": 17,
+     "date": "2026-12-01",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "materiales-herramientas-y-procesos-de-fabricacio",
+       "title": "Materiales, herramientas y procesos de fabricación",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "propiedades de materiales, metales, polímeros, cerámicos, maderas, procesos"
+      },
+      {
+       "id": "teorias-del-aprendizaje",
+       "title": "Teorías del aprendizaje",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "Piaget, Vygotsky, Ausubel, Bruner, constructivismo, conectivismo"
+      }
+     ]
+    },
+    {
+     "n": 18,
+     "date": "2026-12-02",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "electronica-digital-y-compuertas-logicas",
+       "title": "Electrónica digital y compuertas lógicas",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "AND, OR, NOT, NAND, tablas de verdad, álgebra booleana básica"
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio",
+       "title": "Evaluación formativa, rúbricas y retroalimentación",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación para el aprendizaje, auto/co/heteroevaluación, rúbricas"
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "date": "2026-12-03",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "robotica-educativa-y-arduino",
+       "title": "Robótica educativa y Arduino",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "sensores, actuadores, microcontrolador, entradas/salidas digitales y analógicas, PWM"
+      },
+      {
+       "id": "regimen-disciplinario-del-servidor-publico-ley-1",
+       "title": "Régimen disciplinario del servidor público: Ley 1952 de 2019",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "deberes, prohibiciones, faltas, sanciones, debido proceso"
+      }
+     ]
+    },
+    {
+     "n": 20,
+     "date": "2026-12-04",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "ciberseguridad-y-ciudadania-digital",
+       "title": "Ciberseguridad y ciudadanía digital",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "contraseñas, phishing, malware, huella digital, ciberacoso, grooming"
+      },
+      {
+       "id": "derecho-de-peticion-accion-de-tutela-y-mecanismo",
+       "title": "Derecho de petición, acción de tutela y mecanismos de participación",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 1755 de 2015, tutela art. 86, cumplimiento, populares"
+      }
+     ]
+    },
+    {
+     "n": 21,
+     "date": "2026-12-05",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s3-1",
+       "title": "Repaso semana 3: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Proceso de diseño tecnológico y solución de problemas",
+        "Máquinas simples, mecanismos y transmisión de movimiento",
+        "Materiales, herramientas y procesos de fabricación",
+        "Electrónica digital y compuertas lógicas",
+        "Robótica educativa y Arduino",
+        "Ciberseguridad y ciudadanía digital"
+       ],
+       "focus": "casos nuevos e integradores sobre: Proceso de diseño tecnológico y solución de problemas; Máquinas simples, mecanismos y transmisión de movimiento; Materiales, herramientas y procesos de fabricación; Electrónica digital y compuertas lógicas; Robótica educativa y Arduino; Ciberseguridad y ciudadanía digital"
+      },
+      {
+       "id": "repaso-s3-2",
+       "title": "Repaso semana 3: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Código de Infancia y Adolescencia: Ley 1098 de 2006",
+        "Prueba psicotécnica: competencias comportamentales",
+        "Teorías del aprendizaje",
+        "Evaluación formativa, rúbricas y retroalimentación",
+        "Régimen disciplinario del servidor público: Ley 1952 de 2019",
+        "Derecho de petición, acción de tutela y mecanismos de participación"
+       ],
+       "focus": "casos nuevos e integradores sobre: Código de Infancia y Adolescencia: Ley 1098 de 2006; Prueba psicotécnica: competencias comportamentales; Teorías del aprendizaje; Evaluación formativa, rúbricas y retroalimentación; Régimen disciplinario del servidor público: Ley 1952 de 2019; Derecho de petición, acción de tutela y mecanismos de participación"
+      }
+     ]
+    },
+    {
+     "n": 22,
+     "date": "2026-12-06",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "desarrollo-web-html-css-y-javascript",
+       "title": "Desarrollo web: HTML, CSS y JavaScript",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "estructura HTML, selectores CSS, eventos JS, cliente-servidor"
+      },
+      {
+       "id": "planeacion-de-clase-y-secuencias-didacticas",
+       "title": "Planeación de clase y secuencias didácticas",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "objetivos, desempeños, momentos de la clase"
+      }
+     ]
+    },
+    {
+     "n": 23,
+     "date": "2026-12-07",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "ingenieria-de-software-y-metodologias-agiles",
+       "title": "Ingeniería de software y metodologías ágiles",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "ciclo de vida, requisitos, Scrum, pruebas, control de versiones"
+      },
+      {
+       "id": "razonamiento-cuantitativo-probabilidad-e-interpr",
+       "title": "Razonamiento cuantitativo: probabilidad e interpretación de gráficas",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "probabilidad simple, conteo, gráficas"
+      }
+     ]
+    },
+    {
+     "n": 24,
+     "date": "2026-12-08",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "tecnologia-sociedad-y-ambiente",
+       "title": "Tecnología, sociedad y ambiente",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "impactos, ética, sostenibilidad, obsolescencia, RAEE, brecha digital"
+      },
+      {
+       "id": "lectura-critica-textos-discontinuos-y-falacias",
+       "title": "Lectura crítica: textos discontinuos y falacias",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "tablas, infografías, falacias"
+      }
+     ]
+    },
+    {
+     "n": 25,
+     "date": "2026-12-09",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "inteligencia-artificial-y-datos",
+       "title": "Inteligencia artificial y datos",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "aprendizaje automático, sesgos, uso ético de IA en el aula, datos personales"
+      },
+      {
+       "id": "proyectos-pedagogicos-transversales-y-educacion-",
+       "title": "Proyectos pedagógicos transversales y educación ambiental",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 115 art. 14, PRAE, educación para la sexualidad"
+      }
+     ]
+    },
+    {
+     "n": 26,
+     "date": "2026-12-10",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "didactica-de-la-tecnologia-e-informatica",
+       "title": "Didáctica de la tecnología e informática",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "aprendizaje basado en proyectos y retos, STEM/STEAM, evaluación en tecnología"
+      },
+      {
+       "id": "uso-pedagogico-de-las-tic-y-competencias-tic-doc",
+       "title": "Uso pedagógico de las TIC y competencias TIC docentes",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "competencias TIC para el desarrollo profesional docente (MEN 2013), TPACK, SAMR"
+      }
+     ]
+    },
+    {
+     "n": 27,
+     "date": "2026-12-11",
+     "kind": "estudio",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "dibujo-tecnico-y-representacion-grafica",
+       "title": "Dibujo técnico y representación gráfica",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "vistas, escalas, acotado, isometría, bocetos"
+      },
+      {
+       "id": "evaluacion-de-desempeno-y-ascenso-ecdf",
+       "title": "Evaluación de desempeño y ascenso: ECDF",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación anual, evaluación de competencias para ascenso y reubicación"
+      }
+     ]
+    },
+    {
+     "n": 28,
+     "date": "2026-12-12",
+     "kind": "repaso",
+     "difficulty": "Intermedio",
+     "topics": [
+      {
+       "id": "repaso-s4-1",
+       "title": "Repaso semana 4: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Desarrollo web: HTML, CSS y JavaScript",
+        "Ingeniería de software y metodologías ágiles",
+        "Tecnología, sociedad y ambiente",
+        "Inteligencia artificial y datos",
+        "Didáctica de la tecnología e informática",
+        "Dibujo técnico y representación gráfica"
+       ],
+       "focus": "casos nuevos e integradores sobre: Desarrollo web: HTML, CSS y JavaScript; Ingeniería de software y metodologías ágiles; Tecnología, sociedad y ambiente; Inteligencia artificial y datos; Didáctica de la tecnología e informática; Dibujo técnico y representación gráfica"
+      },
+      {
+       "id": "repaso-s4-2",
+       "title": "Repaso semana 4: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Planeación de clase y secuencias didácticas",
+        "Razonamiento cuantitativo: probabilidad e interpretación de gráficas",
+        "Lectura crítica: textos discontinuos y falacias",
+        "Proyectos pedagógicos transversales y educación ambiental",
+        "Uso pedagógico de las TIC y competencias TIC docentes",
+        "Evaluación de desempeño y ascenso: ECDF"
+       ],
+       "focus": "casos nuevos e integradores sobre: Planeación de clase y secuencias didácticas; Razonamiento cuantitativo: probabilidad e interpretación de gráficas; Lectura crítica: textos discontinuos y falacias; Proyectos pedagógicos transversales y educación ambiental; Uso pedagógico de las TIC y competencias TIC docentes; Evaluación de desempeño y ascenso: ECDF"
+      }
+     ]
+    },
+    {
+     "n": 29,
+     "date": "2026-12-13",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "energia-fuentes-transformacion-y-uso-eficiente",
+       "title": "Energía: fuentes, transformación y uso eficiente",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "renovables/no renovables, transformaciones, consumo kWh, eficiencia"
+      },
+      {
+       "id": "educacion-rural-escuela-nueva-y-enfoque-diferenc",
+       "title": "Educación rural, Escuela Nueva y enfoque diferencial",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "multigrado, etnoeducación, interculturalidad"
+      }
+     ]
+    },
+    {
+     "n": 30,
+     "date": "2026-12-14",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "programacion-orientada-a-objetos",
+       "title": "Programación orientada a objetos",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "clases, objetos, atributos, métodos, encapsulamiento, herencia, polimorfismo"
+      },
+      {
+       "id": "leyes-desde-cero-constitucion-estado-social-de-d-v2",
+       "title": "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "qué es una norma, Constitución, leyes, decretos, decretos ley, resoluciones, acuerdos, cómo se citan, ramas del poder"
+      }
+     ]
+    },
+    {
+     "n": 31,
+     "date": "2026-12-15",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "computacion-en-la-nube-iot-y-tecnologias-emergen",
+       "title": "Computación en la nube, IoT y tecnologías emergentes",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "IaaS, PaaS, SaaS, IoT, realidad aumentada, impresión 3D"
+      },
+      {
+       "id": "derecho-a-la-educacion-y-estructura-del-sector-e-v2",
+       "title": "Derecho a la educación y estructura del sector educativo (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "arts. 44, 67, 68 de la Constitución; MEN, secretarías, entidades territoriales certificadas, Decreto 1075 de 2015"
+      }
+     ]
+    },
+    {
+     "n": 32,
+     "date": "2026-12-16",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "proteccion-de-datos-y-propiedad-intelectual",
+       "title": "Protección de datos y propiedad intelectual",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "Ley 1581 de 2012, habeas data, derechos de autor, licencias libres y Creative Commons"
+      },
+      {
+       "id": "ley-115-de-1994-fines-niveles-areas-obligatorias-v2",
+       "title": "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "art. 5, niveles y grados, art. 23 (Tecnología e Informática), art. 73 PEI, art. 77 autonomía, art. 142 gobierno escolar"
+      }
+     ]
+    },
+    {
+     "n": 33,
+     "date": "2026-12-17",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "naturaleza-y-evolucion-de-la-tecnologia-v2",
+       "title": "Naturaleza y evolución de la tecnología (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "Guía 30 MEN: técnica, tecnología, ciencia, innovación, invención, artefactos, procesos y sistemas; historia de la tecnología"
+      },
+      {
+       "id": "el-concurso-docente-etapas-pruebas-puntajes-y-si-v2",
+       "title": "El concurso docente: etapas, pruebas, puntajes y SIMO (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "CNSC, SIMO, OPEC, prueba eliminatoria, psicotécnica, valoración de antecedentes, entrevista, lista de elegibles, periodo de prueba, requisitos para profesionales no licenciados"
+      }
+     ]
+    },
+    {
+     "n": 34,
+     "date": "2026-12-18",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "algoritmos-y-pensamiento-computacional-v2",
+       "title": "Algoritmos y pensamiento computacional (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "descomposición, patrones, abstracción, algoritmos, pseudocódigo, diagramas de flujo, trazas"
+      },
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion-v2",
+       "title": "Decreto 1290 de 2009: evaluación y promoción (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "SIEE, escala nacional, comisión de evaluación y promoción, promoción anticipada"
+      }
+     ]
+    },
+    {
+     "n": 35,
+     "date": "2026-12-19",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s5-1",
+       "title": "Repaso semana 5: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Energía: fuentes, transformación y uso eficiente",
+        "Programación orientada a objetos",
+        "Computación en la nube, IoT y tecnologías emergentes",
+        "Protección de datos y propiedad intelectual",
+        "Naturaleza y evolución de la tecnología (2.ª vuelta)",
+        "Algoritmos y pensamiento computacional (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Energía: fuentes, transformación y uso eficiente; Programación orientada a objetos; Computación en la nube, IoT y tecnologías emergentes; Protección de datos y propiedad intelectual; Naturaleza y evolución de la tecnología (2.ª vuelta); Algoritmos y pensamiento computacional (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s5-2",
+       "title": "Repaso semana 5: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Educación rural, Escuela Nueva y enfoque diferencial",
+        "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa (2.ª vuelta)",
+        "Derecho a la educación y estructura del sector educativo (2.ª vuelta)",
+        "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI (2.ª vuelta)",
+        "El concurso docente: etapas, pruebas, puntajes y SIMO (2.ª vuelta)",
+        "Decreto 1290 de 2009: evaluación y promoción (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Educación rural, Escuela Nueva y enfoque diferencial; Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa (2.ª vuelta); Derecho a la educación y estructura del sector educativo (2.ª vuelta); Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI (2.ª vuelta); El concurso docente: etapas, pruebas, puntajes y SIMO (2.ª vuelta); Decreto 1290 de 2009: evaluación y promoción (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 36,
+     "date": "2026-12-20",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "hardware-y-arquitectura-del-computador-v2",
+       "title": "Hardware y arquitectura del computador (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "CPU, memoria RAM/ROM, almacenamiento, periféricos, unidades de medida, modelo de von Neumann"
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002-v2",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002 (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "ingreso, profesionales no licenciados, periodo de prueba, escalafón, evaluaciones, retiro"
+      }
+     ]
+    },
+    {
+     "n": 37,
+     "date": "2026-12-21",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "electricidad-y-electronica-basica-v2",
+       "title": "Electricidad y electrónica básica (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "voltaje, corriente, resistencia, ley de Ohm, potencia, circuitos serie y paralelo, componentes, seguridad eléctrica"
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1-v2",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "comité escolar de convivencia, ruta de atención integral, situaciones tipo I, II y III"
+      }
+     ]
+    },
+    {
+     "n": 38,
+     "date": "2026-12-22",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "programacion-variables-condicionales-y-ciclos-v2",
+       "title": "Programación: variables, condicionales y ciclos (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "tipos de datos, operadores, if/else, while, for, Scratch y Python, trazas de código"
+      },
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias-v2",
+       "title": "Lectura crítica: tesis, argumentos e inferencias (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "idea principal, tesis, argumentos, supuestos, inferencias"
+      }
+     ]
+    },
+    {
+     "n": 39,
+     "date": "2026-12-23",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "redes-e-internet-v2",
+       "title": "Redes e Internet (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "LAN/WAN, topologías, IP, DNS, router/switch, modelo TCP/IP, HTTP/HTTPS, Wi-Fi"
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec-v2",
+       "title": "Ley 715 de 2001: competencias y funciones del rector (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "SGP, entidades territoriales certificadas, funciones de rectores"
+      }
+     ]
+    },
+    {
+     "n": 40,
+     "date": "2026-12-24",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "guia-30-componentes-y-competencias-del-area-v2",
+       "title": "Guía 30: componentes y competencias del área (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "apropiación y uso, solución de problemas con tecnología, tecnología y sociedad; grupos de grados; desempeños"
+      },
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion-v2",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "porcentajes, regla de tres, promedio, mediana, moda, tablas"
+      }
+     ]
+    },
+    {
+     "n": 41,
+     "date": "2026-12-25",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "sistemas-operativos-y-software-v2",
+       "title": "Sistemas operativos y software (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "funciones del SO, tipos de software, licencias, archivos y carpetas, procesos"
+      },
+      {
+       "id": "gobierno-escolar-y-manual-de-convivencia-decreto-v2",
+       "title": "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994 (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "consejo directivo, consejo académico, personero, representante, consejo de padres"
+      }
+     ]
+    },
+    {
+     "n": 42,
+     "date": "2026-12-26",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s6-1",
+       "title": "Repaso semana 6: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Hardware y arquitectura del computador (2.ª vuelta)",
+        "Electricidad y electrónica básica (2.ª vuelta)",
+        "Programación: variables, condicionales y ciclos (2.ª vuelta)",
+        "Redes e Internet (2.ª vuelta)",
+        "Guía 30: componentes y competencias del área (2.ª vuelta)",
+        "Sistemas operativos y software (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Hardware y arquitectura del computador (2.ª vuelta); Electricidad y electrónica básica (2.ª vuelta); Programación: variables, condicionales y ciclos (2.ª vuelta); Redes e Internet (2.ª vuelta); Guía 30: componentes y competencias del área (2.ª vuelta); Sistemas operativos y software (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s6-2",
+       "title": "Repaso semana 6: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Estatuto docente: Decreto Ley 1278 de 2002 (2.ª vuelta)",
+        "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (2.ª vuelta)",
+        "Lectura crítica: tesis, argumentos e inferencias (2.ª vuelta)",
+        "Ley 715 de 2001: competencias y funciones del rector (2.ª vuelta)",
+        "Razonamiento cuantitativo: porcentajes, proporciones y estadística (2.ª vuelta)",
+        "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994 (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Estatuto docente: Decreto Ley 1278 de 2002 (2.ª vuelta); Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (2.ª vuelta); Lectura crítica: tesis, argumentos e inferencias (2.ª vuelta); Ley 715 de 2001: competencias y funciones del rector (2.ª vuelta); Razonamiento cuantitativo: porcentajes, proporciones y estadística (2.ª vuelta); Gobierno escolar y manual de convivencia: Decreto 1860 de 1994 (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 43,
+     "date": "2026-12-27",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "sistemas-numericos-y-representacion-de-la-inform-v2",
+       "title": "Sistemas numéricos y representación de la información (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "binario, decimal, hexadecimal, conversiones, bits y bytes, ASCII/Unicode"
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y--v2",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "ajustes razonables, PIAR, DUA"
+      }
+     ]
+    },
+    {
+     "n": 44,
+     "date": "2026-12-28",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "ofimatica-procesador-de-texto-y-hoja-de-calculo-v2",
+       "title": "Ofimática: procesador de texto y hoja de cálculo (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "referencias relativas y absolutas, funciones SUMA, PROMEDIO, SI, CONTAR.SI, gráficos"
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20-v2",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006 (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "protección integral, interés superior, corresponsabilidad, obligaciones de las instituciones"
+      }
+     ]
+    },
+    {
+     "n": 45,
+     "date": "2026-12-29",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "bases-de-datos-y-modelo-relacional-v2",
+       "title": "Bases de datos y modelo relacional (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "tablas, claves primaria y foránea, relaciones, SQL SELECT/WHERE, normalización básica"
+      },
+      {
+       "id": "prueba-psicotecnica-competencias-comportamentale-v2",
+       "title": "Prueba psicotécnica: competencias comportamentales (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "orientación al logro, trabajo en equipo, comunicación, liderazgo, negociación"
+      }
+     ]
+    },
+    {
+     "n": 46,
+     "date": "2026-12-30",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "programacion-funciones-listas-y-estructuras-de-d-v2",
+       "title": "Programación: funciones, listas y estructuras de datos (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "funciones, parámetros, retorno, listas/arreglos, recorridos, búsqueda"
+      },
+      {
+       "id": "teorias-del-aprendizaje-v2",
+       "title": "Teorías del aprendizaje (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "Piaget, Vygotsky, Ausubel, Bruner, constructivismo, conectivismo"
+      }
+     ]
+    },
+    {
+     "n": 47,
+     "date": "2026-12-31",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "proceso-de-diseno-tecnologico-y-solucion-de-prob-v2",
+       "title": "Proceso de diseño tecnológico y solución de problemas (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "identificar el problema, requerimientos, alternativas, prototipo, prueba, evaluación"
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio-v2",
+       "title": "Evaluación formativa, rúbricas y retroalimentación (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación para el aprendizaje, auto/co/heteroevaluación, rúbricas"
+      }
+     ]
+    },
+    {
+     "n": 48,
+     "date": "2027-01-01",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "maquinas-simples-mecanismos-y-transmision-de-mov-v2",
+       "title": "Máquinas simples, mecanismos y transmisión de movimiento (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "palanca, polea, plano inclinado, engranajes, relación de transmisión"
+      },
+      {
+       "id": "regimen-disciplinario-del-servidor-publico-ley-1-v2",
+       "title": "Régimen disciplinario del servidor público: Ley 1952 de 2019 (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "deberes, prohibiciones, faltas, sanciones, debido proceso"
+      }
+     ]
+    },
+    {
+     "n": 49,
+     "date": "2027-01-02",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s7-1",
+       "title": "Repaso semana 7: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Sistemas numéricos y representación de la información (2.ª vuelta)",
+        "Ofimática: procesador de texto y hoja de cálculo (2.ª vuelta)",
+        "Bases de datos y modelo relacional (2.ª vuelta)",
+        "Programación: funciones, listas y estructuras de datos (2.ª vuelta)",
+        "Proceso de diseño tecnológico y solución de problemas (2.ª vuelta)",
+        "Máquinas simples, mecanismos y transmisión de movimiento (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Sistemas numéricos y representación de la información (2.ª vuelta); Ofimática: procesador de texto y hoja de cálculo (2.ª vuelta); Bases de datos y modelo relacional (2.ª vuelta); Programación: funciones, listas y estructuras de datos (2.ª vuelta); Proceso de diseño tecnológico y solución de problemas (2.ª vuelta); Máquinas simples, mecanismos y transmisión de movimiento (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s7-2",
+       "title": "Repaso semana 7: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (2.ª vuelta)",
+        "Código de Infancia y Adolescencia: Ley 1098 de 2006 (2.ª vuelta)",
+        "Prueba psicotécnica: competencias comportamentales (2.ª vuelta)",
+        "Teorías del aprendizaje (2.ª vuelta)",
+        "Evaluación formativa, rúbricas y retroalimentación (2.ª vuelta)",
+        "Régimen disciplinario del servidor público: Ley 1952 de 2019 (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (2.ª vuelta); Código de Infancia y Adolescencia: Ley 1098 de 2006 (2.ª vuelta); Prueba psicotécnica: competencias comportamentales (2.ª vuelta); Teorías del aprendizaje (2.ª vuelta); Evaluación formativa, rúbricas y retroalimentación (2.ª vuelta); Régimen disciplinario del servidor público: Ley 1952 de 2019 (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 50,
+     "date": "2027-01-03",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "materiales-herramientas-y-procesos-de-fabricacio-v2",
+       "title": "Materiales, herramientas y procesos de fabricación (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "propiedades de materiales, metales, polímeros, cerámicos, maderas, procesos"
+      },
+      {
+       "id": "derecho-de-peticion-accion-de-tutela-y-mecanismo-v2",
+       "title": "Derecho de petición, acción de tutela y mecanismos de participación (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 1755 de 2015, tutela art. 86, cumplimiento, populares"
+      }
+     ]
+    },
+    {
+     "n": 51,
+     "date": "2027-01-04",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "electronica-digital-y-compuertas-logicas-v2",
+       "title": "Electrónica digital y compuertas lógicas (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "AND, OR, NOT, NAND, tablas de verdad, álgebra booleana básica"
+      },
+      {
+       "id": "planeacion-de-clase-y-secuencias-didacticas-v2",
+       "title": "Planeación de clase y secuencias didácticas (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "objetivos, desempeños, momentos de la clase"
+      }
+     ]
+    },
+    {
+     "n": 52,
+     "date": "2027-01-05",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "robotica-educativa-y-arduino-v2",
+       "title": "Robótica educativa y Arduino (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "sensores, actuadores, microcontrolador, entradas/salidas digitales y analógicas, PWM"
+      },
+      {
+       "id": "razonamiento-cuantitativo-probabilidad-e-interpr-v2",
+       "title": "Razonamiento cuantitativo: probabilidad e interpretación de gráficas (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "probabilidad simple, conteo, gráficas"
+      }
+     ]
+    },
+    {
+     "n": 53,
+     "date": "2027-01-06",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "ciberseguridad-y-ciudadania-digital-v2",
+       "title": "Ciberseguridad y ciudadanía digital (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "contraseñas, phishing, malware, huella digital, ciberacoso, grooming"
+      },
+      {
+       "id": "lectura-critica-textos-discontinuos-y-falacias-v2",
+       "title": "Lectura crítica: textos discontinuos y falacias (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "tablas, infografías, falacias"
+      }
+     ]
+    },
+    {
+     "n": 54,
+     "date": "2027-01-07",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "desarrollo-web-html-css-y-javascript-v2",
+       "title": "Desarrollo web: HTML, CSS y JavaScript (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "estructura HTML, selectores CSS, eventos JS, cliente-servidor"
+      },
+      {
+       "id": "proyectos-pedagogicos-transversales-y-educacion--v2",
+       "title": "Proyectos pedagógicos transversales y educación ambiental (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "Ley 115 art. 14, PRAE, educación para la sexualidad"
+      }
+     ]
+    },
+    {
+     "n": 55,
+     "date": "2027-01-08",
+     "kind": "estudio",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "ingenieria-de-software-y-metodologias-agiles-v2",
+       "title": "Ingeniería de software y metodologías ágiles (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "ciclo de vida, requisitos, Scrum, pruebas, control de versiones"
+      },
+      {
+       "id": "uso-pedagogico-de-las-tic-y-competencias-tic-doc-v2",
+       "title": "Uso pedagógico de las TIC y competencias TIC docentes (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "competencias TIC para el desarrollo profesional docente (MEN 2013), TPACK, SAMR"
+      }
+     ]
+    },
+    {
+     "n": 56,
+     "date": "2027-01-09",
+     "kind": "repaso",
+     "difficulty": "Intermedio-alto",
+     "topics": [
+      {
+       "id": "repaso-s8-1",
+       "title": "Repaso semana 8: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Materiales, herramientas y procesos de fabricación (2.ª vuelta)",
+        "Electrónica digital y compuertas lógicas (2.ª vuelta)",
+        "Robótica educativa y Arduino (2.ª vuelta)",
+        "Ciberseguridad y ciudadanía digital (2.ª vuelta)",
+        "Desarrollo web: HTML, CSS y JavaScript (2.ª vuelta)",
+        "Ingeniería de software y metodologías ágiles (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Materiales, herramientas y procesos de fabricación (2.ª vuelta); Electrónica digital y compuertas lógicas (2.ª vuelta); Robótica educativa y Arduino (2.ª vuelta); Ciberseguridad y ciudadanía digital (2.ª vuelta); Desarrollo web: HTML, CSS y JavaScript (2.ª vuelta); Ingeniería de software y metodologías ágiles (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s8-2",
+       "title": "Repaso semana 8: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Derecho de petición, acción de tutela y mecanismos de participación (2.ª vuelta)",
+        "Planeación de clase y secuencias didácticas (2.ª vuelta)",
+        "Razonamiento cuantitativo: probabilidad e interpretación de gráficas (2.ª vuelta)",
+        "Lectura crítica: textos discontinuos y falacias (2.ª vuelta)",
+        "Proyectos pedagógicos transversales y educación ambiental (2.ª vuelta)",
+        "Uso pedagógico de las TIC y competencias TIC docentes (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Derecho de petición, acción de tutela y mecanismos de participación (2.ª vuelta); Planeación de clase y secuencias didácticas (2.ª vuelta); Razonamiento cuantitativo: probabilidad e interpretación de gráficas (2.ª vuelta); Lectura crítica: textos discontinuos y falacias (2.ª vuelta); Proyectos pedagógicos transversales y educación ambiental (2.ª vuelta); Uso pedagógico de las TIC y competencias TIC docentes (2.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 57,
+     "date": "2027-01-10",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "tecnologia-sociedad-y-ambiente-v2",
+       "title": "Tecnología, sociedad y ambiente (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "impactos, ética, sostenibilidad, obsolescencia, RAEE, brecha digital"
+      },
+      {
+       "id": "evaluacion-de-desempeno-y-ascenso-ecdf-v2",
+       "title": "Evaluación de desempeño y ascenso: ECDF (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación anual, evaluación de competencias para ascenso y reubicación"
+      }
+     ]
+    },
+    {
+     "n": 58,
+     "date": "2027-01-11",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "inteligencia-artificial-y-datos-v2",
+       "title": "Inteligencia artificial y datos (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "aprendizaje automático, sesgos, uso ético de IA en el aula, datos personales"
+      },
+      {
+       "id": "educacion-rural-escuela-nueva-y-enfoque-diferenc-v2",
+       "title": "Educación rural, Escuela Nueva y enfoque diferencial (2.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "multigrado, etnoeducación, interculturalidad"
+      }
+     ]
+    },
+    {
+     "n": 59,
+     "date": "2027-01-12",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "didactica-de-la-tecnologia-e-informatica-v2",
+       "title": "Didáctica de la tecnología e informática (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "aprendizaje basado en proyectos y retos, STEM/STEAM, evaluación en tecnología"
+      },
+      {
+       "id": "leyes-desde-cero-constitucion-estado-social-de-d-v3",
+       "title": "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "qué es una norma, Constitución, leyes, decretos, decretos ley, resoluciones, acuerdos, cómo se citan, ramas del poder"
+      }
+     ]
+    },
+    {
+     "n": 60,
+     "date": "2027-01-13",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "dibujo-tecnico-y-representacion-grafica-v2",
+       "title": "Dibujo técnico y representación gráfica (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "vistas, escalas, acotado, isometría, bocetos"
+      },
+      {
+       "id": "derecho-a-la-educacion-y-estructura-del-sector-e-v3",
+       "title": "Derecho a la educación y estructura del sector educativo (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "arts. 44, 67, 68 de la Constitución; MEN, secretarías, entidades territoriales certificadas, Decreto 1075 de 2015"
+      }
+     ]
+    },
+    {
+     "n": 61,
+     "date": "2027-01-14",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "energia-fuentes-transformacion-y-uso-eficiente-v2",
+       "title": "Energía: fuentes, transformación y uso eficiente (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "renovables/no renovables, transformaciones, consumo kWh, eficiencia"
+      },
+      {
+       "id": "ley-115-de-1994-fines-niveles-areas-obligatorias-v3",
+       "title": "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "art. 5, niveles y grados, art. 23 (Tecnología e Informática), art. 73 PEI, art. 77 autonomía, art. 142 gobierno escolar"
+      }
+     ]
+    },
+    {
+     "n": 62,
+     "date": "2027-01-15",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "programacion-orientada-a-objetos-v2",
+       "title": "Programación orientada a objetos (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "clases, objetos, atributos, métodos, encapsulamiento, herencia, polimorfismo"
+      },
+      {
+       "id": "el-concurso-docente-etapas-pruebas-puntajes-y-si-v3",
+       "title": "El concurso docente: etapas, pruebas, puntajes y SIMO (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "CNSC, SIMO, OPEC, prueba eliminatoria, psicotécnica, valoración de antecedentes, entrevista, lista de elegibles, periodo de prueba, requisitos para profesionales no licenciados"
+      }
+     ]
+    },
+    {
+     "n": 63,
+     "date": "2027-01-16",
+     "kind": "repaso",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "repaso-s9-1",
+       "title": "Repaso semana 9: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Tecnología, sociedad y ambiente (2.ª vuelta)",
+        "Inteligencia artificial y datos (2.ª vuelta)",
+        "Didáctica de la tecnología e informática (2.ª vuelta)",
+        "Dibujo técnico y representación gráfica (2.ª vuelta)",
+        "Energía: fuentes, transformación y uso eficiente (2.ª vuelta)",
+        "Programación orientada a objetos (2.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Tecnología, sociedad y ambiente (2.ª vuelta); Inteligencia artificial y datos (2.ª vuelta); Didáctica de la tecnología e informática (2.ª vuelta); Dibujo técnico y representación gráfica (2.ª vuelta); Energía: fuentes, transformación y uso eficiente (2.ª vuelta); Programación orientada a objetos (2.ª vuelta)"
+      },
+      {
+       "id": "repaso-s9-2",
+       "title": "Repaso semana 9: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Evaluación de desempeño y ascenso: ECDF (2.ª vuelta)",
+        "Educación rural, Escuela Nueva y enfoque diferencial (2.ª vuelta)",
+        "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa (3.ª vuelta)",
+        "Derecho a la educación y estructura del sector educativo (3.ª vuelta)",
+        "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI (3.ª vuelta)",
+        "El concurso docente: etapas, pruebas, puntajes y SIMO (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Evaluación de desempeño y ascenso: ECDF (2.ª vuelta); Educación rural, Escuela Nueva y enfoque diferencial (2.ª vuelta); Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa (3.ª vuelta); Derecho a la educación y estructura del sector educativo (3.ª vuelta); Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI (3.ª vuelta); El concurso docente: etapas, pruebas, puntajes y SIMO (3.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 64,
+     "date": "2027-01-17",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "computacion-en-la-nube-iot-y-tecnologias-emergen-v2",
+       "title": "Computación en la nube, IoT y tecnologías emergentes (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "IaaS, PaaS, SaaS, IoT, realidad aumentada, impresión 3D"
+      },
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion-v3",
+       "title": "Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "SIEE, escala nacional, comisión de evaluación y promoción, promoción anticipada"
+      }
+     ]
+    },
+    {
+     "n": 65,
+     "date": "2027-01-18",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "proteccion-de-datos-y-propiedad-intelectual-v2",
+       "title": "Protección de datos y propiedad intelectual (2.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "Ley 1581 de 2012, habeas data, derechos de autor, licencias libres y Creative Commons"
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002-v3",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002 (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "ingreso, profesionales no licenciados, periodo de prueba, escalafón, evaluaciones, retiro"
+      }
+     ]
+    },
+    {
+     "n": 66,
+     "date": "2027-01-19",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "naturaleza-y-evolucion-de-la-tecnologia-v3",
+       "title": "Naturaleza y evolución de la tecnología (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "Guía 30 MEN: técnica, tecnología, ciencia, innovación, invención, artefactos, procesos y sistemas; historia de la tecnología"
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1-v3",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "comité escolar de convivencia, ruta de atención integral, situaciones tipo I, II y III"
+      }
+     ]
+    },
+    {
+     "n": 67,
+     "date": "2027-01-20",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "algoritmos-y-pensamiento-computacional-v3",
+       "title": "Algoritmos y pensamiento computacional (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "descomposición, patrones, abstracción, algoritmos, pseudocódigo, diagramas de flujo, trazas"
+      },
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias-v3",
+       "title": "Lectura crítica: tesis, argumentos e inferencias (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "idea principal, tesis, argumentos, supuestos, inferencias"
+      }
+     ]
+    },
+    {
+     "n": 68,
+     "date": "2027-01-21",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "hardware-y-arquitectura-del-computador-v3",
+       "title": "Hardware y arquitectura del computador (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "CPU, memoria RAM/ROM, almacenamiento, periféricos, unidades de medida, modelo de von Neumann"
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec-v3",
+       "title": "Ley 715 de 2001: competencias y funciones del rector (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "SGP, entidades territoriales certificadas, funciones de rectores"
+      }
+     ]
+    },
+    {
+     "n": 69,
+     "date": "2027-01-22",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "electricidad-y-electronica-basica-v3",
+       "title": "Electricidad y electrónica básica (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "voltaje, corriente, resistencia, ley de Ohm, potencia, circuitos serie y paralelo, componentes, seguridad eléctrica"
+      },
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion-v3",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "porcentajes, regla de tres, promedio, mediana, moda, tablas"
+      }
+     ]
+    },
+    {
+     "n": 70,
+     "date": "2027-01-23",
+     "kind": "repaso",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "repaso-s10-1",
+       "title": "Repaso semana 10: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Computación en la nube, IoT y tecnologías emergentes (2.ª vuelta)",
+        "Protección de datos y propiedad intelectual (2.ª vuelta)",
+        "Naturaleza y evolución de la tecnología (3.ª vuelta)",
+        "Algoritmos y pensamiento computacional (3.ª vuelta)",
+        "Hardware y arquitectura del computador (3.ª vuelta)",
+        "Electricidad y electrónica básica (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Computación en la nube, IoT y tecnologías emergentes (2.ª vuelta); Protección de datos y propiedad intelectual (2.ª vuelta); Naturaleza y evolución de la tecnología (3.ª vuelta); Algoritmos y pensamiento computacional (3.ª vuelta); Hardware y arquitectura del computador (3.ª vuelta); Electricidad y electrónica básica (3.ª vuelta)"
+      },
+      {
+       "id": "repaso-s10-2",
+       "title": "Repaso semana 10: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta)",
+        "Estatuto docente: Decreto Ley 1278 de 2002 (3.ª vuelta)",
+        "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta)",
+        "Lectura crítica: tesis, argumentos e inferencias (3.ª vuelta)",
+        "Ley 715 de 2001: competencias y funciones del rector (3.ª vuelta)",
+        "Razonamiento cuantitativo: porcentajes, proporciones y estadística (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta); Estatuto docente: Decreto Ley 1278 de 2002 (3.ª vuelta); Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta); Lectura crítica: tesis, argumentos e inferencias (3.ª vuelta); Ley 715 de 2001: competencias y funciones del rector (3.ª vuelta); Razonamiento cuantitativo: porcentajes, proporciones y estadística (3.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 71,
+     "date": "2027-01-24",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "programacion-variables-condicionales-y-ciclos-v3",
+       "title": "Programación: variables, condicionales y ciclos (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "tipos de datos, operadores, if/else, while, for, Scratch y Python, trazas de código"
+      },
+      {
+       "id": "gobierno-escolar-y-manual-de-convivencia-decreto-v3",
+       "title": "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994 (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "consejo directivo, consejo académico, personero, representante, consejo de padres"
+      }
+     ]
+    },
+    {
+     "n": 72,
+     "date": "2027-01-25",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "redes-e-internet-v3",
+       "title": "Redes e Internet (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "LAN/WAN, topologías, IP, DNS, router/switch, modelo TCP/IP, HTTP/HTTPS, Wi-Fi"
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y--v3",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "ajustes razonables, PIAR, DUA"
+      }
+     ]
+    },
+    {
+     "n": 73,
+     "date": "2027-01-26",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "guia-30-componentes-y-competencias-del-area-v3",
+       "title": "Guía 30: componentes y competencias del área (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "apropiación y uso, solución de problemas con tecnología, tecnología y sociedad; grupos de grados; desempeños"
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20-v3",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006 (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "protección integral, interés superior, corresponsabilidad, obligaciones de las instituciones"
+      }
+     ]
+    },
+    {
+     "n": 74,
+     "date": "2027-01-27",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "sistemas-operativos-y-software-v3",
+       "title": "Sistemas operativos y software (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "funciones del SO, tipos de software, licencias, archivos y carpetas, procesos"
+      },
+      {
+       "id": "prueba-psicotecnica-competencias-comportamentale-v3",
+       "title": "Prueba psicotécnica: competencias comportamentales (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "orientación al logro, trabajo en equipo, comunicación, liderazgo, negociación"
+      }
+     ]
+    },
+    {
+     "n": 75,
+     "date": "2027-01-28",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "sistemas-numericos-y-representacion-de-la-inform-v3",
+       "title": "Sistemas numéricos y representación de la información (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "binario, decimal, hexadecimal, conversiones, bits y bytes, ASCII/Unicode"
+      },
+      {
+       "id": "teorias-del-aprendizaje-v3",
+       "title": "Teorías del aprendizaje (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "Piaget, Vygotsky, Ausubel, Bruner, constructivismo, conectivismo"
+      }
+     ]
+    },
+    {
+     "n": 76,
+     "date": "2027-01-29",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "ofimatica-procesador-de-texto-y-hoja-de-calculo-v3",
+       "title": "Ofimática: procesador de texto y hoja de cálculo (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "referencias relativas y absolutas, funciones SUMA, PROMEDIO, SI, CONTAR.SI, gráficos"
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio-v3",
+       "title": "Evaluación formativa, rúbricas y retroalimentación (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "evaluación para el aprendizaje, auto/co/heteroevaluación, rúbricas"
+      }
+     ]
+    },
+    {
+     "n": 77,
+     "date": "2027-01-30",
+     "kind": "repaso",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "repaso-s11-1",
+       "title": "Repaso semana 11: Disciplinar",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": true,
+       "covers": [
+        "Programación: variables, condicionales y ciclos (3.ª vuelta)",
+        "Redes e Internet (3.ª vuelta)",
+        "Guía 30: componentes y competencias del área (3.ª vuelta)",
+        "Sistemas operativos y software (3.ª vuelta)",
+        "Sistemas numéricos y representación de la información (3.ª vuelta)",
+        "Ofimática: procesador de texto y hoja de cálculo (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Programación: variables, condicionales y ciclos (3.ª vuelta); Redes e Internet (3.ª vuelta); Guía 30: componentes y competencias del área (3.ª vuelta); Sistemas operativos y software (3.ª vuelta); Sistemas numéricos y representación de la información (3.ª vuelta); Ofimática: procesador de texto y hoja de cálculo (3.ª vuelta)"
+      },
+      {
+       "id": "repaso-s11-2",
+       "title": "Repaso semana 11: Leyes y conocimiento general del concurso",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": true,
+       "covers": [
+        "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994 (3.ª vuelta)",
+        "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (3.ª vuelta)",
+        "Código de Infancia y Adolescencia: Ley 1098 de 2006 (3.ª vuelta)",
+        "Prueba psicotécnica: competencias comportamentales (3.ª vuelta)",
+        "Teorías del aprendizaje (3.ª vuelta)",
+        "Evaluación formativa, rúbricas y retroalimentación (3.ª vuelta)"
+       ],
+       "focus": "casos nuevos e integradores sobre: Gobierno escolar y manual de convivencia: Decreto 1860 de 1994 (3.ª vuelta); Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA (3.ª vuelta); Código de Infancia y Adolescencia: Ley 1098 de 2006 (3.ª vuelta); Prueba psicotécnica: competencias comportamentales (3.ª vuelta); Teorías del aprendizaje (3.ª vuelta); Evaluación formativa, rúbricas y retroalimentación (3.ª vuelta)"
+      }
+     ]
+    },
+    {
+     "n": 78,
+     "date": "2027-01-31",
+     "kind": "estudio",
+     "difficulty": "Alto",
+     "topics": [
+      {
+       "id": "bases-de-datos-y-modelo-relacional-v3",
+       "title": "Bases de datos y modelo relacional (3.ª vuelta)",
+       "track": "Disciplinar: Tecnología e Informática",
+       "review": false,
+       "focus": "tablas, claves primaria y foránea, relaciones, SQL SELECT/WHERE, normalización básica"
+      },
+      {
+       "id": "regimen-disciplinario-del-servidor-publico-ley-1-v3",
+       "title": "Régimen disciplinario del servidor público: Ley 1952 de 2019 (3.ª vuelta)",
+       "track": "Leyes y conocimiento general del concurso",
+       "review": false,
+       "focus": "deberes, prohibiciones, faltas, sanciones, debido proceso"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-16",
+ "n": 2,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "algoritmos-y-pensamiento-computacional",
+   "title": "Algoritmos y pensamiento computacional",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "¿Qué es un algoritmo?",
+     "options": [
+      "Un componente físico del computador.",
+      "Un programa escrito obligatoriamente en Python.",
+      "Una secuencia finita, ordenada y precisa de pasos para resolver un problema."
+     ],
+     "answer": 2,
+     "explanation": "Un algoritmo es independiente del lenguaje; puede expresarse en lenguaje natural, pseudocódigo o diagramas de flujo."
+    },
+    {
+     "q": "¿Cuáles son los cuatro pilares habituales del pensamiento computacional?",
+     "options": [
+      "Hardware, software, redes y bases de datos.",
+      "Descomposición, reconocimiento de patrones, abstracción y diseño de algoritmos.",
+      "Entrada, proceso, salida y almacenamiento."
+     ],
+     "answer": 1,
+     "explanation": "Estos pilares describen cómo abordar problemas de forma que puedan resolverse con apoyo computacional o sin él."
+    },
+    {
+     "q": "Un estudiante divide el problema \"organizar la feria escolar\" en logística, presupuesto, publicidad e inscripciones. ¿Qué pilar aplica?",
+     "options": [
+      "Abstracción.",
+      "Descomposición.",
+      "Reconocimiento de patrones."
+     ],
+     "answer": 1,
+     "explanation": "Descomponer es dividir un problema complejo en partes más manejables."
+    },
+    {
+     "q": "Al diseñar un mapa del metro, se omiten calles y distancias reales y solo se muestran estaciones y conexiones. ¿Qué pilar se aplica?",
+     "options": [
+      "Depuración.",
+      "Descomposición.",
+      "Abstracción."
+     ],
+     "answer": 2,
+     "explanation": "La abstracción conserva lo relevante para el problema y elimina detalles innecesarios."
+    },
+    {
+     "q": "En un diagrama de flujo, ¿qué símbolo representa una decisión?",
+     "options": [
+      "El rombo.",
+      "El rectángulo.",
+      "El óvalo."
+     ],
+     "answer": 0,
+     "explanation": "El rombo indica una condición con salidas sí/no; el rectángulo, un proceso; el óvalo, inicio o fin."
+    },
+    {
+     "q": "¿Qué representa el paralelogramo en un diagrama de flujo?",
+     "options": [
+      "Entrada o salida de datos.",
+      "Un proceso de cálculo.",
+      "El inicio del algoritmo."
+     ],
+     "answer": 0,
+     "explanation": "El paralelogramo se usa para leer datos o mostrar resultados."
+    },
+    {
+     "q": "Considere el pseudocódigo. ¿Cuál es el valor final de y?\nx ← 5\ny ← 3\nx ← x + y\ny ← x − y",
+     "options": [
+      "5.",
+      "8.",
+      "3."
+     ],
+     "answer": 0,
+     "explanation": "x pasa a 8; luego y ← 8 − 3 = 5."
+    },
+    {
+     "q": "¿Qué valor muestra el algoritmo?\nsuma ← 0\npara i desde 1 hasta 4:\n    suma ← suma + i\nmostrar suma",
+     "options": [
+      "15.",
+      "10.",
+      "4."
+     ],
+     "answer": 1,
+     "explanation": "1 + 2 + 3 + 4 = 10."
+    },
+    {
+     "q": "Un algoritmo debe determinar si un número n es par. ¿Qué condición es correcta?",
+     "options": [
+      "Si n / 2 = 2, entonces es par.",
+      "Si n mod 2 = 1, entonces es par.",
+      "Si n mod 2 = 0, entonces es par."
+     ],
+     "answer": 2,
+     "explanation": "El operador módulo da el residuo; un número par tiene residuo 0 al dividir entre 2."
+    },
+    {
+     "q": "¿Cuál es una propiedad esencial de un algoritmo correcto?",
+     "options": [
+      "Debe repetirse infinitamente.",
+      "Debe terminar en un número finito de pasos.",
+      "Debe escribirse en inglés."
+     ],
+     "answer": 1,
+     "explanation": "Finitud, precisión (sin ambigüedad) y definición de entradas y salidas son características de un algoritmo."
+    },
+    {
+     "q": "Pseudocódigo: leer edad; si edad ≥ 18 entonces mostrar \"mayor\" sino mostrar \"menor\". Si edad = 18, ¿qué se muestra?",
+     "options": [
+      "\"menor\".",
+      "Nada, porque 18 no cumple la condición.",
+      "\"mayor\"."
+     ],
+     "answer": 2,
+     "explanation": "La condición \"mayor o igual que\" incluye el 18."
+    },
+    {
+     "q": "Un estudiante detecta que todos los ejercicios de áreas de rectángulos se resuelven con base × altura. ¿Qué pilar aplica?",
+     "options": [
+      "Depuración.",
+      "Reconocimiento de patrones.",
+      "Descomposición."
+     ],
+     "answer": 1,
+     "explanation": "Identificar similitudes permite reutilizar soluciones."
+    },
+    {
+     "q": "¿Qué es \"depurar\" (debugging) un algoritmo?",
+     "options": [
+      "Borrar el algoritmo y empezar otro.",
+      "Encontrar y corregir errores en el algoritmo o programa.",
+      "Dibujar el diagrama de flujo."
+     ],
+     "answer": 1,
+     "explanation": "La depuración incluye probar con datos, hacer trazas y corregir fallas lógicas o de sintaxis."
+    },
+    {
+     "q": "¿Cuántas veces se ejecuta el cuerpo del ciclo?\nn ← 10\nmientras n > 0:\n    n ← n − 3",
+     "options": [
+      "4 veces.",
+      "3 veces.",
+      "10 veces."
+     ],
+     "answer": 0,
+     "explanation": "n toma 10 → 7 → 4 → 1 → −2: el cuerpo se ejecuta 4 veces y el ciclo termina cuando n = −2."
+    },
+    {
+     "q": "¿Qué es una \"prueba de escritorio\" o traza?",
+     "options": [
+      "Ejecutar el programa en un servidor remoto.",
+      "Escribir el algoritmo en un escritorio de madera.",
+      "Seguir paso a paso el algoritmo con datos concretos, registrando el valor de las variables."
+     ],
+     "answer": 2,
+     "explanation": "La traza permite verificar la lógica antes de programar."
+    },
+    {
+     "q": "¿Qué estrategia es adecuada para enseñar algoritmos en grado 3.º sin computadores (actividades \"desconectadas\")?",
+     "options": [
+      "Que los estudiantes den instrucciones precisas a un compañero \"robot\" para llegar a un punto de una cuadrícula.",
+      "Que memoricen la sintaxis de Java.",
+      "Que copien la definición de algoritmo diez veces."
+     ],
+     "answer": 0,
+     "explanation": "Las actividades desconectadas desarrollan secuenciación, precisión y depuración de manera concreta."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un ejemplo cotidiano de algoritmo?",
+     "options": [
+      "Un libro de cuentos.",
+      "Una receta de cocina con pasos ordenados.",
+      "Una fotografía."
+     ],
+     "answer": 1,
+     "explanation": "La receta tiene entradas (ingredientes), pasos ordenados y una salida (el plato)."
+    },
+    {
+     "q": "Para hallar el mayor de tres números a, b y c, ¿qué estructura es necesaria?",
+     "options": [
+      "Estructuras condicionales que comparen los valores.",
+      "Un ciclo infinito.",
+      "Únicamente asignaciones sin comparar."
+     ],
+     "answer": 0,
+     "explanation": "Se requieren comparaciones (si a > b y a > c, etc.) para decidir cuál es el mayor."
+    },
+    {
+     "q": "¿Qué estructuras básicas de control permiten construir cualquier algoritmo según la programación estructurada?",
+     "options": [
+      "Secuencia, selección (decisión) y repetición (ciclo).",
+      "Variables, constantes y comentarios.",
+      "Entrada, salida y archivo."
+     ],
+     "answer": 0,
+     "explanation": "El teorema de Böhm-Jacopini establece que bastan secuencia, selección e iteración."
+    },
+    {
+     "q": "¿Cuál es el valor final de a?\na ← 2\npara i desde 1 hasta 3:\n    a ← a × 2",
+     "options": [
+      "6.",
+      "8.",
+      "16."
+     ],
+     "answer": 2,
+     "explanation": "2 → 4 → 8 → 16 (tres multiplicaciones por 2)."
+    }
+   ]
+  },
+  {
+   "id": "derecho-a-la-educacion-y-estructura-del-sector-e",
+   "title": "Derecho a la educación y estructura del sector educativo",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "Según el artículo 67 de la Constitución, la educación es:",
+     "options": [
+      "Un derecho de la persona y un servicio público que tiene una función social.",
+      "Un privilegio para quienes pueden pagarla.",
+      "Un servicio exclusivamente privado."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 67 la define como derecho y servicio público con función social."
+    },
+    {
+     "q": "¿Entre qué edades es obligatoria la educación según el artículo 67 de la Constitución?",
+     "options": [
+      "Entre los 5 y los 15 años, con mínimo un año de preescolar y nueve de básica.",
+      "Entre los 3 y los 11 años.",
+      "Entre los 7 y los 18 años."
+     ],
+     "answer": 0,
+     "explanation": "Así lo establece el texto constitucional."
+    },
+    {
+     "q": "¿Qué dice el artículo 67 sobre la gratuidad?",
+     "options": [
+      "Nunca es gratuita.",
+      "Es gratuita en todas las instituciones, públicas y privadas.",
+      "La educación será gratuita en las instituciones del Estado, sin perjuicio del cobro de derechos académicos a quienes puedan sufragarlos."
+     ],
+     "answer": 2,
+     "explanation": "Hoy existe política de gratuidad en la educación oficial de preescolar, básica y media."
+    },
+    {
+     "q": "¿Quiénes son responsables de la educación según el artículo 67?",
+     "options": [
+      "Solo la familia.",
+      "El Estado, la sociedad y la familia.",
+      "Solo el Estado."
+     ],
+     "answer": 1,
+     "explanation": "La Constitución establece la corresponsabilidad de estos tres actores."
+    },
+    {
+     "q": "El artículo 44 de la Constitución establece que los derechos de los niños:",
+     "options": [
+      "Prevalecen sobre los derechos de los demás.",
+      "Solo se aplican a mayores de 12 años.",
+      "Son iguales a los de cualquier adulto, sin prevalencia."
+     ],
+     "answer": 0,
+     "explanation": "La prevalencia de los derechos de los niños es principio constitucional; la educación está entre sus derechos fundamentales."
+    },
+    {
+     "q": "Según el artículo 68 de la Constitución, la enseñanza debe estar a cargo de:",
+     "options": [
+      "Cualquier persona que tenga título universitario.",
+      "Solo licenciados graduados en universidades públicas.",
+      "Personas de reconocida idoneidad ética y pedagógica."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 68 exige idoneidad ética y pedagógica, y remite a la ley la profesionalización docente."
+    },
+    {
+     "q": "¿Qué dice la Constitución (art. 68) sobre la educación religiosa en establecimientos del Estado?",
+     "options": [
+      "Está prohibida.",
+      "Es obligatoria la educación católica.",
+      "Ninguna persona podrá ser obligada a recibirla."
+     ],
+     "answer": 2,
+     "explanation": "Se garantiza la libertad de cultos y de conciencia."
+    },
+    {
+     "q": "¿Cuál es la entidad rectora de la política educativa en Colombia?",
+     "options": [
+      "La CNSC.",
+      "El ICFES.",
+      "El Ministerio de Educación Nacional."
+     ],
+     "answer": 2,
+     "explanation": "El MEN formula la política, fija lineamientos y estándares; el ICFES evalúa y la CNSC adelanta concursos."
+    },
+    {
+     "q": "¿Qué es una \"entidad territorial certificada\" (ETC) en educación?",
+     "options": [
+      "Una universidad acreditada.",
+      "Un colegio con certificado de calidad ISO.",
+      "Un departamento, distrito o municipio certificado que administra el servicio educativo, la planta docente y los recursos."
+     ],
+     "answer": 2,
+     "explanation": "Las ETC (Ley 715 de 2001) nombran y administran a los docentes; son las que ofertan las vacantes del concurso."
+    },
+    {
+     "q": "¿Qué municipios se certifican en educación según la Ley 715 de 2001?",
+     "options": [
+      "Solo las capitales de departamento con universidad pública.",
+      "Los que tienen más de 100 000 habitantes, y otros que cumplan los requisitos que se fijen.",
+      "Todos los municipios, sin excepción."
+     ],
+     "answer": 1,
+     "explanation": "Los distritos y municipios de más de 100 000 habitantes se certifican; los no certificados dependen del departamento."
+    },
+    {
+     "q": "Un docente trabaja en un municipio pequeño no certificado. ¿Qué entidad administra su nombramiento?",
+     "options": [
+      "El Ministerio de Educación directamente.",
+      "La secretaría de educación del departamento.",
+      "El alcalde del municipio."
+     ],
+     "answer": 1,
+     "explanation": "Los departamentos administran la educación en los municipios no certificados."
+    },
+    {
+     "q": "¿Qué es el Sistema General de Participaciones (SGP)?",
+     "options": [
+      "Una plataforma para inscribirse a concursos.",
+      "Los recursos que la Nación transfiere a las entidades territoriales para financiar educación, salud y otros servicios.",
+      "El sistema de participación de padres en el colegio."
+     ],
+     "answer": 1,
+     "explanation": "Lo crearon el Acto Legislativo 01 de 2001 y la Ley 715; con él se pagan, entre otros, los salarios docentes."
+    },
+    {
+     "q": "¿Qué función cumple el ICFES?",
+     "options": [
+      "Administrar los colegios privados.",
+      "Evaluar la calidad de la educación mediante pruebas como Saber 11 y Saber 3.°, 5.° y 9.°.",
+      "Nombrar a los docentes."
+     ],
+     "answer": 1,
+     "explanation": "El ICFES es la entidad de evaluación; sus resultados retroalimentan la política y las instituciones."
+    },
+    {
+     "q": "¿Qué norma compila hoy los decretos reglamentarios del sector educación?",
+     "options": [
+      "El Decreto 1075 de 2015.",
+      "La Ley 30 de 1992.",
+      "El Decreto 2277 de 1979."
+     ],
+     "answer": 0,
+     "explanation": "El 1075 es el Decreto Único Reglamentario del Sector Educación; la Ley 30 regula la educación superior."
+    },
+    {
+     "q": "¿Qué artículo de la Constitución obliga a estudiar la Constitución y la instrucción cívica en todas las instituciones de educación?",
+     "options": [
+      "El artículo 125.",
+      "El artículo 86.",
+      "El artículo 41."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 41 establece este estudio obligatorio y la promoción de prácticas democráticas."
+    },
+    {
+     "q": "¿Qué es la \"función social\" de la educación?",
+     "options": [
+      "Que solo forma para el trabajo.",
+      "Que busca el acceso al conocimiento, a la ciencia, a la técnica y a los valores de la cultura, en beneficio de la persona y la sociedad.",
+      "Que debe generar utilidades económicas."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 67 indica que la educación forma en el respeto a los derechos humanos, la paz, la democracia y la protección del ambiente."
+    },
+    {
+     "q": "Una niña de 9 años no ha sido matriculada por falta de cupo. ¿Qué mecanismo constitucional podría usar su familia para proteger su derecho a la educación?",
+     "options": [
+      "La acción de tutela.",
+      "Una consulta popular.",
+      "El recurso de casación."
+     ],
+     "answer": 0,
+     "explanation": "La educación de los niños es un derecho fundamental y su vulneración puede reclamarse por tutela."
+    },
+    {
+     "q": "¿Qué entidad inspecciona y vigila la prestación del servicio educativo según la Constitución?",
+     "options": [
+      "El Estado, que ejerce la suprema inspección y vigilancia de la educación.",
+      "Las asociaciones de padres exclusivamente.",
+      "Los sindicatos docentes."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 67 asigna al Estado la regulación, inspección y vigilancia para velar por la calidad."
+    },
+    {
+     "q": "¿Qué artículo de la Constitución señala que el ingreso a los cargos de carrera se hace por concurso de méritos?",
+     "options": [
+      "El artículo 125.",
+      "El artículo 67.",
+      "El artículo 44."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 125 es la base constitucional del concurso docente."
+    },
+    {
+     "q": "¿Qué nivel de la administración se encarga directamente de nombrar al docente que gana el concurso?",
+     "options": [
+      "La CNSC.",
+      "La entidad territorial certificada (gobernador o alcalde, a través de la secretaría de educación).",
+      "El rector del colegio."
+     ],
+     "answer": 1,
+     "explanation": "La CNSC adelanta el concurso y conforma listas; la ETC hace el nombramiento en periodo de prueba."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "version": "A",
+ "date": "2026-11-19",
+ "n": 5,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "materia-propiedades-mezclas-y-metodos-de-separac",
+   "title": "Materia: propiedades, mezclas y métodos de separación",
+   "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+   "questions": [
+    {
+     "q": "¿Cuál de las siguientes es una propiedad específica (intensiva) de la materia?",
+     "options": [
+      "La densidad.",
+      "La masa.",
+      "El volumen."
+     ],
+     "answer": 0,
+     "explanation": "Las propiedades específicas no dependen de la cantidad de muestra y permiten identificar sustancias; masa y volumen son generales (extensivas)."
+    },
+    {
+     "q": "Un bloque tiene una masa de 54 g y un volumen de 20 cm³. ¿Cuál es su densidad?",
+     "options": [
+      "2,7 g/cm³.",
+      "0,37 g/cm³.",
+      "1 080 g/cm³."
+     ],
+     "answer": 0,
+     "explanation": "d = m/V = 54 g / 20 cm³ = 2,7 g/cm³ (valor que coincide con el aluminio)."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un cambio químico?",
+     "options": [
+      "La fusión del hielo.",
+      "La disolución de azúcar en agua.",
+      "La oxidación de un clavo de hierro."
+     ],
+     "answer": 2,
+     "explanation": "En la oxidación se forma una sustancia nueva (óxido de hierro); fusión y disolución no cambian la composición de las sustancias."
+    },
+    {
+     "q": "El agua de mar es un ejemplo de:",
+     "options": [
+      "Sustancia pura compuesta.",
+      "Mezcla heterogénea.",
+      "Mezcla homogénea (solución)."
+     ],
+     "answer": 2,
+     "explanation": "Las sales están disueltas uniformemente en el agua; no se distinguen fases a simple vista."
+    },
+    {
+     "q": "¿Qué método permite separar la sal del agua de mar recuperando también el agua?",
+     "options": [
+      "Filtración.",
+      "Decantación.",
+      "Destilación."
+     ],
+     "answer": 2,
+     "explanation": "Al calentar, el agua se evapora y luego se condensa; la sal queda en el recipiente. La filtración no separa sustancias disueltas."
+    },
+    {
+     "q": "¿Qué método es más adecuado para separar arena de agua?",
+     "options": [
+      "Destilación fraccionada.",
+      "Cromatografía.",
+      "Filtración."
+     ],
+     "answer": 2,
+     "explanation": "La arena es un sólido insoluble y queda retenida en el papel filtro."
+    },
+    {
+     "q": "Para separar los pigmentos de la tinta de un marcador, ¿qué técnica se usa en el laboratorio escolar?",
+     "options": [
+      "Cromatografía en papel.",
+      "Imantación.",
+      "Tamizado."
+     ],
+     "answer": 0,
+     "explanation": "Los pigmentos avanzan a distinta velocidad con el solvente según su afinidad, y se separan en bandas."
+    },
+    {
+     "q": "Una mezcla de limaduras de hierro y azufre en polvo puede separarse mediante:",
+     "options": [
+      "Imantación (separación magnética).",
+      "Destilación.",
+      "Evaporación."
+     ],
+     "answer": 0,
+     "explanation": "El hierro es atraído por el imán y el azufre no; en una mezcla, cada componente conserva sus propiedades."
+    },
+    {
+     "q": "¿Qué método separa dos líquidos inmiscibles como agua y aceite?",
+     "options": [
+      "Decantación con embudo de separación.",
+      "Filtración con papel.",
+      "Tamizado."
+     ],
+     "answer": 0,
+     "explanation": "Los líquidos inmiscibles forman dos fases de distinta densidad, que se separan en el embudo de decantación."
+    },
+    {
+     "q": "Para separar alcohol (punto de ebullición 78 °C) del agua (100 °C), se aprovecha:",
+     "options": [
+      "La diferencia de solubilidad en aceite.",
+      "La diferencia en sus puntos de ebullición, mediante destilación.",
+      "La diferencia de color."
+     ],
+     "answer": 1,
+     "explanation": "El alcohol se evapora primero; al condensarse se recoge separado del agua."
+    },
+    {
+     "q": "¿Cuál de las siguientes es una sustancia pura?",
+     "options": [
+      "La leche.",
+      "El agua destilada.",
+      "El aire."
+     ],
+     "answer": 1,
+     "explanation": "El agua destilada tiene composición fija (H₂O); el aire y la leche son mezclas."
+    },
+    {
+     "q": "¿Qué diferencia a un elemento de un compuesto?",
+     "options": [
+      "El compuesto se puede separar por métodos físicos.",
+      "El elemento está formado por un solo tipo de átomo; el compuesto, por dos o más elementos combinados químicamente en proporción fija.",
+      "El elemento siempre es líquido."
+     ],
+     "answer": 1,
+     "explanation": "Los compuestos solo se descomponen por métodos químicos; las mezclas sí se separan por métodos físicos."
+    },
+    {
+     "q": "Un cubo de hielo flota en el agua líquida. ¿Qué lo explica?",
+     "options": [
+      "El hielo tiene más masa que el agua.",
+      "El hielo es menos denso que el agua líquida.",
+      "El agua líquida es menos densa que el hielo."
+     ],
+     "answer": 1,
+     "explanation": "Al congelarse, el agua forma una red con puentes de hidrógeno que ocupa más volumen, por lo que su densidad baja."
+    },
+    {
+     "q": "El paso directo de sólido a gas, como el de la naftalina, se llama:",
+     "options": [
+      "Condensación.",
+      "Solidificación.",
+      "Sublimación."
+     ],
+     "answer": 2,
+     "explanation": "En la sublimación una sustancia pasa de sólido a gas sin pasar por líquido."
+    },
+    {
+     "q": "Durante la ebullición del agua pura a presión constante, ¿qué ocurre con la temperatura?",
+     "options": [
+      "Disminuye.",
+      "Permanece constante mientras coexisten líquido y vapor.",
+      "Aumenta de forma continua."
+     ],
+     "answer": 1,
+     "explanation": "La energía suministrada se usa para el cambio de estado (calor latente), no para subir la temperatura."
+    },
+    {
+     "q": "Según la teoría cinético-molecular, ¿qué distingue a un gas de un sólido?",
+     "options": [
+      "En el gas las partículas son más grandes.",
+      "En el gas las partículas están muy separadas y se mueven libremente; en el sólido vibran en posiciones fijas.",
+      "En el sólido las partículas no tienen energía."
+     ],
+     "answer": 1,
+     "explanation": "La diferencia está en la separación y libertad de movimiento de las partículas, no en su tamaño."
+    },
+    {
+     "q": "¿Por qué se considera la ensalada de frutas una mezcla heterogénea?",
+     "options": [
+      "Porque sus componentes se distinguen a simple vista y su composición no es uniforme.",
+      "Porque tiene composición fija.",
+      "Porque sus componentes reaccionan entre sí."
+     ],
+     "answer": 0,
+     "explanation": "En las mezclas heterogéneas se observan fases o componentes distintos."
+    },
+    {
+     "q": "Al quemar una hoja de papel, la masa de la ceniza es menor que la del papel. ¿Cómo se explica sin violar la conservación de la masa?",
+     "options": [
+      "La masa se destruyó durante la combustión.",
+      "Parte de la materia se transformó en gases (CO₂, vapor de agua) que escaparon al ambiente.",
+      "El fuego convierte la masa en luz."
+     ],
+     "answer": 1,
+     "explanation": "En un sistema cerrado la masa total de reactivos y productos se conserva (Lavoisier); en este caso los gases salieron del sistema."
+    },
+    {
+     "q": "Una propiedad que permite identificar a una sustancia es el punto de fusión. ¿Por qué?",
+     "options": [
+      "Porque cada sustancia pura funde a una temperatura característica a una presión dada.",
+      "Porque todas las sustancias funden a 0 °C.",
+      "Porque depende de la cantidad de muestra."
+     ],
+     "answer": 0,
+     "explanation": "El punto de fusión es una propiedad intensiva; se usa también para verificar la pureza."
+    },
+    {
+     "q": "En una práctica de separación de mezclas, ¿qué medida de bioseguridad es indispensable al calentar en destilación?",
+     "options": [
+      "Oler directamente el destilado para identificarlo.",
+      "Calentar el balón cerrado para que no escape el vapor.",
+      "Usar gafas, no tapar herméticamente el sistema y calentar de forma gradual."
+     ],
+     "answer": 2,
+     "explanation": "Un sistema cerrado puede explotar por la presión; las gafas protegen de salpicaduras y no se huelen sustancias directamente."
+    }
+   ]
+  },
+  {
+   "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1",
+   "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013",
+   "track": "Conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿Qué crea la Ley 1620 de 2013?",
+     "options": [
+      "El Estatuto de Profesionalización Docente.",
+      "El Sistema Nacional de Evaluación de Estudiantes.",
+      "El Sistema Nacional de Convivencia Escolar y Formación para los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar."
+     ],
+     "answer": 2,
+     "explanation": "La Ley 1620 crea ese sistema y la Ruta de Atención Integral; el Decreto 1965 de 2013 la reglamenta."
+    },
+    {
+     "q": "¿Cuáles son los cuatro componentes de la Ruta de Atención Integral para la Convivencia Escolar?",
+     "options": [
+      "Denuncia, sanción, expulsión y archivo.",
+      "Promoción, prevención, atención y seguimiento.",
+      "Diagnóstico, planeación, ejecución y evaluación."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 30 de la Ley 1620 define estos componentes de la ruta."
+    },
+    {
+     "q": "Dos estudiantes discuten por un balón y se empujan sin causar lesiones; es la primera vez que ocurre. ¿Qué tipo de situación es?",
+     "options": [
+      "Tipo I.",
+      "Tipo II.",
+      "Tipo III."
+     ],
+     "answer": 0,
+     "explanation": "Las situaciones tipo I son conflictos manejados inadecuadamente y esporádicos que no causan daños al cuerpo ni a la salud."
+    },
+    {
+     "q": "Un grupo de estudiantes publica de forma reiterada memes ofensivos sobre una compañera en redes sociales. No constituye delito ni causó incapacidad. ¿Cómo se clasifica?",
+     "options": [
+      "Situación tipo III.",
+      "Situación tipo II (ciberacoso repetido o sistemático).",
+      "Situación tipo I."
+     ],
+     "answer": 1,
+     "explanation": "Las tipo II incluyen agresión escolar, acoso y ciberacoso que no sean delito y se presenten de forma repetida o sistemática, o causen daño sin incapacidad."
+    },
+    {
+     "q": "Un docente conoce un caso de presunto abuso sexual de un estudiante. ¿Qué tipo de situación es y a quién se debe informar?",
+     "options": [
+      "Tipo II; se resuelve con mediación en el aula.",
+      "Tipo III; el rector informa de inmediato a la Policía de Infancia y Adolescencia y demás autoridades competentes.",
+      "Tipo I; se registra en el observador y se cierra el caso."
+     ],
+     "answer": 1,
+     "explanation": "Las tipo III son situaciones que constituyen presuntos delitos; deben ponerse en conocimiento de las autoridades de inmediato."
+    },
+    {
+     "q": "¿Quién preside el Comité Escolar de Convivencia?",
+     "options": [
+      "El rector del establecimiento.",
+      "El personero estudiantil.",
+      "El presidente del consejo de padres."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 12 de la Ley 1620 establece que el rector preside el comité."
+    },
+    {
+     "q": "¿Cuál de los siguientes integra el Comité Escolar de Convivencia?",
+     "options": [
+      "Un representante de la Policía.",
+      "El secretario de educación municipal.",
+      "El personero estudiantil."
+     ],
+     "answer": 2,
+     "explanation": "Lo integran rector, personero, docente con función de orientación, coordinador, presidente del consejo de padres, presidente del consejo de estudiantes y un docente que lidere procesos de convivencia."
+    },
+    {
+     "q": "¿Con qué periodicidad mínima debe sesionar el Comité Escolar de Convivencia según el Decreto 1965?",
+     "options": [
+      "Solo cuando ocurre una situación tipo III.",
+      "Al menos una vez cada dos meses.",
+      "Una vez al año."
+     ],
+     "answer": 1,
+     "explanation": "El decreto fija sesiones ordinarias mínimo cada dos meses, además de las extraordinarias."
+    },
+    {
+     "q": "¿Cómo define la Ley 1620 el acoso escolar (bullying)?",
+     "options": [
+      "Cualquier discusión entre dos estudiantes.",
+      "Conducta negativa, intencional, metódica y sistemática de agresión, intimidación o humillación, repetida en el tiempo, con desequilibrio de poder.",
+      "Una broma ocasional entre amigos."
+     ],
+     "answer": 1,
+     "explanation": "La intencionalidad, la repetición y el desequilibrio de poder distinguen el acoso de un conflicto ocasional."
+    },
+    {
+     "q": "Ante una situación tipo I, ¿qué debe hacer primero el docente según el protocolo?",
+     "options": [
+      "Reunir inmediatamente a las partes y mediar de manera pedagógica para que expongan sus puntos de vista y busquen la reparación.",
+      "Suspender a los estudiantes por una semana.",
+      "Remitir el caso a la Fiscalía."
+     ],
+     "answer": 0,
+     "explanation": "El protocolo de tipo I prioriza la mediación pedagógica, la reparación y la reconciliación, dejando constancia."
+    },
+    {
+     "q": "En una situación tipo II con daño al cuerpo, ¿cuál es la primera acción del protocolo?",
+     "options": [
+      "Brindar atención inmediata en salud física y mental a los afectados.",
+      "Publicar los nombres de los implicados en cartelera.",
+      "Citar a los padres para el mes siguiente."
+     ],
+     "answer": 0,
+     "explanation": "El protocolo de tipo II inicia garantizando la atención en salud y, si es necesario, remitiendo a las autoridades de restablecimiento de derechos."
+    },
+    {
+     "q": "¿Qué principio de la Ley 1620 exige proteger la identidad y los datos de los involucrados?",
+     "options": [
+      "La confidencialidad y protección de la intimidad.",
+      "La publicidad de las actuaciones.",
+      "La obligatoriedad de la sanción."
+     ],
+     "answer": 0,
+     "explanation": "Los protocolos deben garantizar el derecho a la intimidad y la confidencialidad de los documentos e información."
+    },
+    {
+     "q": "El componente de \"promoción\" de la Ruta de Atención Integral busca:",
+     "options": [
+      "Sancionar a los agresores de forma ejemplar.",
+      "Fomentar el mejoramiento de la convivencia y el clima escolar para generar un entorno favorable al ejercicio de los derechos.",
+      "Atender casos de violencia ya ocurridos."
+     ],
+     "answer": 1,
+     "explanation": "La promoción desarrolla competencias y políticas institucionales; la prevención actúa sobre riesgos y la atención responde a los casos."
+    },
+    {
+     "q": "¿Qué documento institucional debe actualizarse para incluir las disposiciones de la Ley 1620?",
+     "options": [
+      "El acta de grado.",
+      "El plan de área de matemáticas.",
+      "El manual de convivencia."
+     ],
+     "answer": 2,
+     "explanation": "La Ley 1620 y el Decreto 1965 exigen ajustar el manual de convivencia con las situaciones, protocolos y medidas pedagógicas."
+    },
+    {
+     "q": "¿Qué es el ciberacoso según la Ley 1620?",
+     "options": [
+      "Una situación tipo I siempre.",
+      "El uso de celulares en clase.",
+      "Forma de intimidación con uso deliberado de tecnologías de información (internet, redes, teléfonos) para maltrato psicológico continuado."
+     ],
+     "answer": 2,
+     "explanation": "El ciberacoso usa las TIC de manera deliberada y continuada; su clasificación depende de la gravedad."
+    },
+    {
+     "q": "Un estudiante de 13 años es agredido con arma blanca y queda con incapacidad médica. ¿Qué tipo de situación es?",
+     "options": [
+      "Tipo II, por haber ocurrido en el colegio.",
+      "Tipo I, si fue la primera vez.",
+      "Tipo III, por tratarse de un presunto delito contra la integridad personal."
+     ],
+     "answer": 2,
+     "explanation": "Las lesiones personales que generan incapacidad configuran presunto delito; se activa el protocolo tipo III."
+    },
+    {
+     "q": "¿Qué niveles tiene el Sistema Nacional de Convivencia Escolar?",
+     "options": [
+      "Nacional (Comité Nacional), territorial (comités municipales, distritales y departamentales) y escolar (comité escolar).",
+      "Nacional e internacional.",
+      "Solo el nivel escolar."
+     ],
+     "answer": 0,
+     "explanation": "El sistema se organiza en tres niveles con comités en cada uno."
+    },
+    {
+     "q": "¿Qué deber tienen los docentes según el artículo 19 de la Ley 1620?",
+     "options": [
+      "Resolver judicialmente los casos de violencia.",
+      "Identificar, reportar y realizar el seguimiento a los casos de acoso, violencia escolar y vulneración de derechos.",
+      "Imponer multas a los padres de familia."
+     ],
+     "answer": 1,
+     "explanation": "Los docentes deben reportar al comité de convivencia y aportar a la prevención y seguimiento."
+    },
+    {
+     "q": "¿Qué es una medida pedagógica en el marco de la Ley 1620?",
+     "options": [
+      "Una acción que busca la reflexión, la reparación del daño y la reconciliación, en lugar de un castigo sin sentido formativo.",
+      "La expulsión inmediata de la institución.",
+      "Una multa económica al estudiante."
+     ],
+     "answer": 0,
+     "explanation": "El enfoque es formativo y restaurativo, sin desconocer el debido proceso ni las sanciones previstas en el manual."
+    },
+    {
+     "q": "La Ley 1620 relaciona la convivencia con la educación para la sexualidad porque:",
+     "options": [
+      "Obliga a separar a estudiantes por sexo.",
+      "Prohíbe hablar de sexualidad en los colegios.",
+      "Busca formar para el ejercicio de los derechos humanos, sexuales y reproductivos y prevenir la violencia."
+     ],
+     "answer": 2,
+     "explanation": "El sistema integra formación en derechos, educación para la sexualidad y prevención de la violencia escolar."
+    }
+   ]
+  }
+ ]
+}

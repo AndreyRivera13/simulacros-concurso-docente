@@ -1,0 +1,253 @@
+## repaso-s1-1
+Q: Un estudiante diseña un algoritmo que enciende un LED si un sensor detecta oscuridad. ¿Qué estructura de control es indispensable?
++ Una estructura condicional (si ... entonces).
+- Solo una secuencia sin decisiones.
+- Una asignación de constantes.
+E: El sistema debe decidir según la lectura del sensor; eso requiere un condicional.
+
+Q: En el circuito del LED anterior, alimentado con 5 V, ¿qué pasa si se omite la resistencia limitadora?
++ La corriente puede ser excesiva y dañar el LED.
+- El LED no enciende nunca.
+- El LED brilla menos.
+E: Sin resistencia, la corriente queda limitada solo por el LED y la fuente, lo que suele superar su máximo.
+
+Q: Un estudiante afirma que "la tecnología empezó con los computadores". ¿Qué ejemplo refuta mejor su idea desde la Guía 30?
++ Los sistemas de riego y la orfebrería precolombina.
+- La invención del transistor en 1947.
+- La aparición de internet.
+E: La tecnología es una actividad humana presente en todas las culturas y épocas.
+
+Q: ¿Qué imprime el código?
+total = 0
+for w in [100, 60, 40]:
+    total += w
+print(total / 1000)
++ 0.2
+- 200
+- 0.02
+E: La suma es 200 W y 200/1000 = 0.2 (kW).
+
+Q: Si los tres aparatos del ejercicio anterior (200 W en total) funcionan 5 horas diarias, ¿cuánta energía consumen al día?
++ 1 kWh.
+- 40 kWh.
+- 0,2 kWh.
+E: E = 0,2 kW × 5 h = 1 kWh.
+
+Q: Un computador de la sala muestra la IP 169.254.10.5 y no navega, pero tiene la RAM y la CPU funcionando bien. ¿Dónde está el problema más probable?
++ En la red: no recibió dirección del servidor DHCP.
+- En el procesador.
+- En el teclado.
+E: Esa dirección indica autoasignación; el hardware interno no es la causa.
+
+Q: ¿Qué componente de hardware almacena los programas mientras se ejecutan y qué tipo de memoria es?
++ La RAM, memoria volátil.
+- El disco duro, memoria volátil.
+- La ROM, memoria de escritura constante.
+E: Los programas se cargan desde el almacenamiento a la RAM para ejecutarse.
+
+Q: Una transferencia de 400 MB por una red de 50 Mbps tarda idealmente:
++ 64 segundos.
+- 8 segundos.
+- 400 segundos.
+E: 400 MB = 3 200 Mb; 3 200/50 = 64 s.
+
+Q: El paso del teléfono fijo al smartphone combina la innovación tecnológica con efectos sociales. ¿Qué componente de la Guía 30 analiza esos efectos?
++ Tecnología y sociedad.
+- Apropiación y uso de la tecnología, únicamente.
+- Solución de problemas con tecnología, únicamente.
+E: Este componente aborda las implicaciones éticas, sociales y ambientales de la tecnología.
+
+Q: ¿Cuál es el valor final de c?
+c ← 0
+para i desde 1 hasta 10:
+    si i mod 3 = 0 entonces c ← c + 1
++ 3
+- 10
+- 4
+E: Los múltiplos de 3 entre 1 y 10 son 3, 6 y 9.
+
+Q: ¿Qué es un sistema tecnológico de los siguientes?
++ Una red de computadores con servidor, switch, cables y estaciones que se comunican.
+- Un martillo.
+- Una idea de proyecto.
+E: Un sistema es un conjunto de elementos que interactúan para cumplir una función.
+
+Q: ¿Qué topología y qué dispositivo central usan normalmente las salas de informática con cable?
++ Topología en estrella con un switch.
+- Topología en anillo sin dispositivos.
+- Topología en bus con un monitor central.
+E: Cada equipo se conecta con un cable al switch; es fácil de administrar y diagnosticar.
+
+Q: ¿Qué valor tiene x al final?
+x = 0
+while x < 20:
+    x = x + 6
++ 24
+- 18
+- 20
+E: x toma 6, 12, 18 y 24; al llegar a 24 la condición x < 20 es falsa.
+
+Q: En un diagrama de flujo para calcular el promedio de notas, ¿qué símbolo corresponde a "leer las notas"?
++ El paralelogramo (entrada/salida).
+- El rombo (decisión).
+- El óvalo (inicio/fin).
+E: Leer datos es una operación de entrada.
+
+Q: Tres resistencias de 300 Ω en paralelo tienen una resistencia equivalente de:
++ 100 Ω.
+- 900 Ω.
+- 300 Ω.
+E: Para n resistencias iguales en paralelo, Req = R/n = 300/3 = 100 Ω.
+
+Q: ¿Qué relación hay entre bits y bytes cuando se habla de velocidad de internet y tamaño de archivos?
++ La velocidad suele darse en bits por segundo y los archivos en bytes; 1 byte = 8 bits.
+- Son la misma unidad.
+- 1 bit = 8 bytes.
+E: Confundirlos lleva a estimar tiempos de descarga ocho veces menores.
+
+Q: ¿Qué protocolo seguro debe verificar un estudiante antes de ingresar su contraseña en una página?
++ HTTPS.
+- HTTP.
+- FTP.
+E: HTTPS cifra la comunicación y reduce el riesgo de que terceros intercepten los datos.
+
+Q: ¿Qué es una innovación en el contexto de un proyecto escolar?
++ Mejorar un artefacto existente, por ejemplo, adaptar un comedero de aves con un sensor para registrar visitas.
+- Copiar un artefacto exactamente igual.
+- Leer sobre un invento antiguo.
+E: Innovar es introducir cambios que mejoran un artefacto, proceso o sistema existente.
+
+Q: ¿Qué imprime el código?
+n = 4
+print("par" if n % 2 == 0 else "impar")
++ par
+- impar
+- 0
+E: 4 % 2 = 0, por lo que la condición es verdadera.
+
+Q: ¿Qué componente transforma la AC de la red en DC para el computador y qué protege una instalación ante un cortocircuito?
++ La fuente de poder; el breaker o fusible.
+- La CPU; el monitor.
+- El switch; el router.
+E: La fuente convierte la energía; los breakers y fusibles cortan corrientes excesivas.
+
+## repaso-s1-2
+Q: Ordene de mayor a menor jerarquía: Decreto 1290 de 2009, Constitución de 1991, Ley 115 de 1994.
++ Constitución → Ley 115 → Decreto 1290.
+- Ley 115 → Constitución → Decreto 1290.
+- Decreto 1290 → Ley 115 → Constitución.
+E: La Constitución prima; la ley está por encima de los decretos reglamentarios.
+
+Q: ¿Por qué el Decreto 1278 de 2002 tiene fuerza de ley aunque lo expidió el Presidente?
++ Porque se dictó con facultades extraordinarias otorgadas por el Congreso (Ley 715 de 2001).
+- Porque lo aprobó la Corte Constitucional.
+- Porque es una resolución del MEN.
+E: Los decretos ley tienen jerarquía de ley por las facultades extraordinarias del artículo 150-10.
+
+Q: ¿Qué artículo de la Constitución fundamenta el concurso de méritos y qué entidad lo adelanta?
++ El artículo 125; la CNSC.
+- El artículo 67; el ICFES.
+- El artículo 44; el MEN.
+E: El 125 establece la carrera y el concurso; el 130 crea la CNSC para administrarla.
+
+Q: ¿Qué área obligatoria de la Ley 115 corresponde al empleo al que aspira un ingeniero de sistemas?
++ Tecnología e informática (art. 23).
+- Ciencias económicas y políticas (art. 31).
+- Educación artística.
+E: Tecnología e informática es una de las nueve áreas obligatorias y fundamentales.
+
+Q: En el Decreto 1290, ¿quién aprueba el SIEE? Y según la Ley 115, ¿qué órganos conforman el gobierno escolar?
++ El consejo directivo; consejo directivo, consejo académico y rector.
+- El rector; personero y comité de convivencia.
+- La secretaría de educación; MEN e ICFES.
+E: El consejo directivo aprueba el SIEE; el gobierno escolar lo integran consejo directivo, consejo académico y rector.
+
+Q: Un ingeniero gana el concurso y es nombrado en periodo de prueba. ¿Qué dos condiciones debe cumplir para quedar en carrera?
++ Obtener al menos 60 % en la evaluación del periodo de prueba y acreditar formación pedagógica (posgrado en educación o programa de pedagogía).
+- Pagar una nueva inscripción y aprobar Saber Pro.
+- Tener 10 años de experiencia y un doctorado.
+E: El Decreto 1278 exige ambas condiciones a los profesionales no licenciados.
+
+Q: ¿Qué derechos de los niños prevalecen sobre los de los demás y en qué artículo constitucional se establece?
++ Los derechos fundamentales de los niños, en el artículo 44.
+- Los derechos políticos, en el artículo 40.
+- Los derechos de los docentes, en el artículo 125.
+E: El artículo 44 incluye la educación entre los derechos fundamentales de los niños y establece su prevalencia.
+
+Q: En el concurso, 2 000 aspirantes presentan la prueba eliminatoria y aprueba el 28 %. ¿Cuántos pasan a la etapa clasificatoria?
++ 560.
+- 1 440.
+- 280.
+E: 2 000 × 0,28 = 560.
+
+Q: ¿Qué escala usa el Decreto 1290 y qué escala de grados usa el Decreto 1278?
++ 1290: Superior, Alto, Básico y Bajo; 1278: grados 1, 2 y 3 con niveles A a D.
+- 1290: grados 1 a 14; 1278: Superior a Bajo.
+- Ambos usan la escala de 1 a 5.
+E: No confundir la escala de desempeño de los estudiantes con el escalafón docente.
+
+Q: ¿Qué entidad territorial nombra a un docente en un municipio de 40 000 habitantes no certificado?
++ El departamento, a través de su secretaría de educación.
+- El municipio, a través de su alcalde.
+- La CNSC directamente.
+E: Los municipios no certificados dependen de la secretaría de educación departamental.
+
+Q: Una estudiante de 9.º alcanza desempeño superior en todas las áreas durante el primer periodo. ¿Qué figura aplica y qué instancias intervienen?
++ Promoción anticipada; el consejo académico recomienda y el consejo directivo decide.
+- Periodo de prueba; lo decide el rector.
+- Acción de tutela; la decide un juez.
+E: Así lo prevé el artículo 7 del Decreto 1290.
+
+Q: ¿Qué mecanismo debe usar un aspirante que considera que su puntaje del concurso está mal calculado?
++ La reclamación dentro del plazo de la convocatoria, a través de SIMO.
+- El derecho al voto.
+- Una queja ante el rector.
+E: La reclamación es el mecanismo ordinario dentro del proceso.
+
+Q: El MEN expide una resolución que contradice el Decreto 1075 de 2015. ¿Qué norma prevalece?
++ El Decreto 1075, por ser de mayor jerarquía.
+- La resolución, por ser más reciente.
+- Ninguna; ambas se anulan.
+E: Una norma inferior no puede contrariar a una superior.
+
+Q: ¿Qué tipo de educación es obligatoria entre los 5 y 15 años según la Constitución, y cuántos grados de básica hay según la Ley 115?
++ Mínimo un año de preescolar y nueve de básica; la básica tiene 9 grados.
+- Solo primaria; la básica tiene 5 grados.
+- Preescolar y media; la básica tiene 11 grados.
+E: El artículo 67 constitucional y el artículo 11 de la Ley 115 coinciden en nueve grados de básica.
+
+Q: ¿Qué estatuto docente aplica a quien gane el concurso 2026-2027?
++ El Decreto Ley 1278 de 2002.
+- El Decreto 2277 de 1979.
+- La Ley 1620 de 2013.
+E: El 2277 aplica a quienes ingresaron antes de 2002; los nuevos ingresan al régimen del 1278.
+
+Q: ¿Qué documento institucional, exigido por el artículo 73 de la Ley 115, recoge los principios, la estrategia pedagógica y el reglamento del colegio?
++ El PEI (Proyecto Educativo Institucional).
+- El SIEE.
+- La OPEC.
+E: El PEI es la carta de navegación institucional; el SIEE hace parte de él.
+
+Q: En el Decreto 1290, ¿qué es el "desempeño bajo"?
++ La no superación de los desempeños básicos.
+- El desempeño intermedio entre básico y alto.
+- La inasistencia a clases.
+E: Bajo significa que no se alcanzaron los desempeños necesarios.
+
+Q: ¿Quién realiza la evaluación anual de desempeño del docente y qué ocurre con dos evaluaciones no satisfactorias consecutivas?
++ El rector o director rural; exclusión del escalafón y retiro del servicio.
+- El ICFES; un traslado.
+- Los padres de familia; una amonestación.
+E: Así lo establecen los artículos 32 y 36 del Decreto 1278.
+
+Q: La Ley 1755 de 2015 regula un derecho fundamental del artículo 23 de la Constitución. ¿Cuál?
++ El derecho de petición.
+- La acción de tutela.
+- El derecho a la educación.
+E: La Ley 1755 fija términos y reglas para las peticiones ante autoridades.
+
+Q: ¿Qué rama del poder público expide las leyes y qué rama expide los decretos reglamentarios?
++ La legislativa (Congreso) y la ejecutiva (Presidente/Gobierno).
+- La judicial y la legislativa.
+- La ejecutiva y la judicial.
+E: El Congreso hace las leyes y el Presidente ejerce la potestad reglamentaria.

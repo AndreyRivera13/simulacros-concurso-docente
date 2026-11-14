@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-17",
+ "n": 3,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "hardware-y-arquitectura-del-computador",
+   "title": "Hardware y arquitectura del computador",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "¿Qué componente ejecuta las instrucciones de los programas y realiza los cálculos en un computador?",
+     "options": [
+      "La tarjeta de red.",
+      "La unidad central de procesamiento (CPU).",
+      "El disco duro."
+     ],
+     "answer": 1,
+     "explanation": "La CPU contiene la unidad de control y la unidad aritmético-lógica (ALU) que procesan las instrucciones."
+    },
+    {
+     "q": "¿Cuál es la característica principal de la memoria RAM?",
+     "options": [
+      "Es volátil: pierde su contenido al apagar el equipo.",
+      "Solo se puede leer y nunca escribir.",
+      "Almacena los datos de forma permanente."
+     ],
+     "answer": 0,
+     "explanation": "La RAM guarda temporalmente datos y programas en uso; el almacenamiento permanente está en discos o SSD."
+    },
+    {
+     "q": "¿Qué tipo de memoria contiene el firmware de arranque (BIOS/UEFI) y no se borra al apagar el equipo?",
+     "options": [
+      "Memoria caché L1.",
+      "Memoria no volátil tipo ROM/flash.",
+      "Memoria RAM."
+     ],
+     "answer": 1,
+     "explanation": "El firmware se guarda en memoria no volátil para que esté disponible al encender."
+    },
+    {
+     "q": "En el modelo de von Neumann, ¿qué idea clave se plantea?",
+     "options": [
+      "Datos e instrucciones se almacenan en la misma memoria.",
+      "El computador no necesita memoria.",
+      "Cada programa necesita su propio computador."
+     ],
+     "answer": 0,
+     "explanation": "La arquitectura de von Neumann comparte memoria para datos e instrucciones, con CPU, memoria, entrada/salida y buses."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un periférico de entrada?",
+     "options": [
+      "El teclado.",
+      "El monitor.",
+      "La impresora."
+     ],
+     "answer": 0,
+     "explanation": "El teclado ingresa datos; monitor e impresora son periféricos de salida."
+    },
+    {
+     "q": "Una pantalla táctil se considera un periférico:",
+     "options": [
+      "Solo de salida.",
+      "De entrada y salida (mixto).",
+      "De almacenamiento."
+     ],
+     "answer": 1,
+     "explanation": "Muestra información (salida) y recibe toques (entrada)."
+    },
+    {
+     "q": "¿Cuántos bytes tiene un kilobyte en el sistema binario tradicional (KiB)?",
+     "options": [
+      "1 024 bytes.",
+      "8 bytes.",
+      "1 000 bytes."
+     ],
+     "answer": 0,
+     "explanation": "2¹⁰ = 1 024; en el sistema internacional, 1 kB = 1 000 bytes, por eso se usa KiB para 1 024."
+    },
+    {
+     "q": "¿Cuántos bits tiene un byte?",
+     "options": [
+      "4 bits.",
+      "8 bits.",
+      "16 bits."
+     ],
+     "answer": 1,
+     "explanation": "Un byte equivale a 8 bits, lo que permite 256 combinaciones (2⁸)."
+    },
+    {
+     "q": "¿Qué ventaja tiene un disco de estado sólido (SSD) frente a un disco duro mecánico (HDD)?",
+     "options": [
+      "Es memoria volátil.",
+      "Mayor capacidad siempre al mismo precio.",
+      "Mayor velocidad de acceso y ausencia de partes móviles."
+     ],
+     "answer": 2,
+     "explanation": "El SSD usa memoria flash, es más rápido y resistente a golpes; el HDD usa platos giratorios."
+    },
+    {
+     "q": "¿Qué función cumple la tarjeta madre (placa base)?",
+     "options": [
+      "Almacenar los archivos del usuario.",
+      "Interconectar CPU, memoria, almacenamiento y periféricos mediante buses y conectores.",
+      "Mostrar imágenes en pantalla."
+     ],
+     "answer": 1,
+     "explanation": "La placa base es el circuito principal que comunica todos los componentes."
+    },
+    {
+     "q": "¿Qué es la memoria caché?",
+     "options": [
+      "Un tipo de disco externo.",
+      "La papelera de reciclaje.",
+      "Una memoria muy rápida y pequeña, cercana a la CPU, que guarda datos de uso frecuente."
+     ],
+     "answer": 2,
+     "explanation": "La caché reduce el tiempo de acceso a datos que la CPU usa repetidamente."
+    },
+    {
+     "q": "La frecuencia de un procesador se expresa en GHz. ¿Qué indica?",
+     "options": [
+      "La cantidad de memoria disponible.",
+      "La temperatura del procesador.",
+      "Los ciclos de reloj por segundo (miles de millones por segundo)."
+     ],
+     "answer": 2,
+     "explanation": "3 GHz equivale a 3 000 millones de ciclos por segundo; el rendimiento depende también de núcleos y arquitectura."
+    },
+    {
+     "q": "¿Qué ventaja ofrece un procesador con varios núcleos?",
+     "options": [
+      "Ejecutar varias tareas o hilos en paralelo.",
+      "Aumentar la capacidad del disco duro.",
+      "Eliminar la necesidad de memoria RAM."
+     ],
+     "answer": 0,
+     "explanation": "Cada núcleo puede procesar instrucciones simultáneamente, mejorando el multitarea."
+    },
+    {
+     "q": "¿Qué componente transforma la corriente alterna del tomacorriente en corriente continua para el computador?",
+     "options": [
+      "La tarjeta de video.",
+      "El procesador.",
+      "La fuente de poder."
+     ],
+     "answer": 2,
+     "explanation": "La fuente convierte 110-120 V AC en voltajes DC (12 V, 5 V, 3,3 V) que usan los componentes."
+    },
+    {
+     "q": "¿Qué hace la GPU (unidad de procesamiento gráfico)?",
+     "options": [
+      "Almacena los programas instalados.",
+      "Procesa gráficos y cálculos en paralelo, liberando a la CPU de esas tareas.",
+      "Conecta el equipo a internet."
+     ],
+     "answer": 1,
+     "explanation": "La GPU tiene muchos núcleos especializados en cálculos paralelos, útiles para gráficos e inteligencia artificial."
+    },
+    {
+     "q": "Un estudiante tiene una memoria USB de 16 GB y quiere guardar videos de 700 MB cada uno. ¿Cuántos videos completos caben, aproximadamente (1 GB ≈ 1 000 MB)?",
+     "options": [
+      "7 videos.",
+      "16 videos.",
+      "22 videos."
+     ],
+     "answer": 2,
+     "explanation": "16 000 MB / 700 MB ≈ 22,8; caben 22 videos completos."
+    },
+    {
+     "q": "¿Cuál es la secuencia del ciclo básico de instrucción de la CPU?",
+     "options": [
+      "Encendido, apagado y reinicio.",
+      "Búsqueda (fetch), decodificación y ejecución.",
+      "Entrada, impresión y almacenamiento."
+     ],
+     "answer": 1,
+     "explanation": "La CPU busca la instrucción en memoria, la decodifica y la ejecuta, repitiendo el ciclo."
+    },
+    {
+     "q": "¿Qué es un puerto USB?",
+     "options": [
+      "Un programa antivirus.",
+      "Un tipo de memoria RAM.",
+      "Una interfaz estándar para conectar periféricos y transferir datos y energía."
+     ],
+     "answer": 2,
+     "explanation": "USB (Universal Serial Bus) permite conectar teclados, memorias, cámaras, etc."
+    },
+    {
+     "q": "En el aula, un computador se vuelve lento al abrir muchos programas a la vez. ¿Qué componente es más probable que esté al límite?",
+     "options": [
+      "La memoria RAM.",
+      "El teclado.",
+      "El monitor."
+     ],
+     "answer": 0,
+     "explanation": "Cuando la RAM se llena, el sistema usa el disco como memoria virtual, que es mucho más lenta."
+    },
+    {
+     "q": "¿Qué práctica de mantenimiento preventivo es adecuada para la sala de informática?",
+     "options": [
+      "Limpiar el polvo de ventiladores y verificar conexiones con el equipo apagado y desconectado.",
+      "Abrir los equipos encendidos para revisarlos.",
+      "Mojar los teclados para limpiarlos."
+     ],
+     "answer": 0,
+     "explanation": "El mantenimiento preventivo prolonga la vida útil y debe hacerse con seguridad eléctrica."
+    }
+   ]
+  },
+  {
+   "id": "ley-115-de-1994-fines-niveles-areas-obligatorias",
+   "title": "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿Qué es la Ley 115 de 1994?",
+     "options": [
+      "La ley de convivencia escolar.",
+      "La Ley General de Educación, que regula el servicio público educativo.",
+      "El estatuto de profesionalización docente."
+     ],
+     "answer": 1,
+     "explanation": "La Ley 115 fija normas generales del servicio educativo; la convivencia es la Ley 1620 de 2013 y el estatuto docente el Decreto Ley 1278 de 2002."
+    },
+    {
+     "q": "Según la Ley 115, ¿cuáles son los niveles de la educación formal?",
+     "options": [
+      "Básica, media y técnica profesional.",
+      "Inicial, primaria, bachillerato y universitaria.",
+      "Preescolar, básica (primaria y secundaria) y media."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 11 organiza la educación formal en preescolar, básica (nueve grados: cinco de primaria y cuatro de secundaria) y media (dos grados)."
+    },
+    {
+     "q": "¿Cuántos grados tiene la educación básica según la Ley 115?",
+     "options": [
+      "Seis: tres de primaria y tres de secundaria.",
+      "Nueve: cinco de primaria y cuatro de secundaria.",
+      "Once: cinco de primaria y seis de secundaria."
+     ],
+     "answer": 1,
+     "explanation": "La básica va de 1.º a 9.º; la media comprende los grados 10.º y 11.º."
+    },
+    {
+     "q": "¿Cuál de las siguientes es un área obligatoria y fundamental según el artículo 23 de la Ley 115?",
+     "options": [
+      "Contabilidad sistematizada.",
+      "Robótica avanzada.",
+      "Tecnología e informática."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 23 incluye nueve grupos de áreas, entre ellas tecnología e informática, ciencias naturales y educación ambiental, y matemáticas."
+    },
+    {
+     "q": "¿Qué porcentaje mínimo del plan de estudios deben ocupar las áreas obligatorias y fundamentales?",
+     "options": [
+      "El 100 %.",
+      "El 50 %.",
+      "El 80 %."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 23 señala que estos grupos de áreas comprenderán un mínimo del 80 % del plan de estudios; el resto lo define la autonomía institucional."
+    },
+    {
+     "q": "Un colegio decide incluir \"Programación\" como asignatura dentro del área de Tecnología e Informática. ¿En qué se apoya legalmente?",
+     "options": [
+      "En el Decreto 1290, que obliga a crear asignaturas nuevas.",
+      "En la autonomía escolar del artículo 77 de la Ley 115, dentro de los lineamientos del MEN.",
+      "En la Ley 1620, que regula el plan de estudios."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 77 permite organizar las áreas, introducir asignaturas optativas y adaptarlas a las necesidades regionales."
+    },
+    {
+     "q": "Según el artículo 14 de la Ley 115, ¿cuál es una enseñanza obligatoria en todos los establecimientos?",
+     "options": [
+      "La enseñanza de la protección del ambiente, la ecología y la preservación de los recursos naturales.",
+      "La enseñanza de programación de computadores.",
+      "La enseñanza de un segundo idioma extranjero desde preescolar."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 14 incluye estudio de la Constitución, aprovechamiento del tiempo libre, protección del ambiente, educación para la paz y la democracia, y educación sexual."
+    },
+    {
+     "q": "¿Cuál es un fin de la educación según el artículo 5 de la Ley 115?",
+     "options": [
+      "La adquisición de una conciencia para la conservación, protección y mejoramiento del medio ambiente.",
+      "La preparación exclusiva para el ingreso a la universidad.",
+      "La formación de mano de obra para las empresas privadas."
+     ],
+     "answer": 0,
+     "explanation": "El numeral 10 del artículo 5 menciona la conciencia ambiental; los fines buscan el desarrollo integral, no solo la preparación académica o laboral."
+    },
+    {
+     "q": "¿Qué entiende la Ley 115 por \"currículo\"?",
+     "options": [
+      "El conjunto de criterios, planes de estudio, programas, metodologías y procesos que contribuyen a la formación integral.",
+      "El horario de clases de cada docente.",
+      "La lista de libros que deben comprar los estudiantes."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 76 define el currículo de forma amplia, incluyendo recursos humanos, académicos y físicos para poner en práctica el PEI."
+    },
+    {
+     "q": "¿Qué es el PEI según la Ley 115?",
+     "options": [
+      "El Programa Estatal de Infraestructura escolar.",
+      "El Plan de Evaluación Individual de cada estudiante.",
+      "El Proyecto Educativo Institucional, que define principios, fines, recursos, estrategia pedagógica y reglamento de la institución."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 73 obliga a cada establecimiento a elaborar y poner en práctica un PEI con participación de la comunidad educativa."
+    },
+    {
+     "q": "¿Qué grado de preescolar es obligatorio según la Ley 115?",
+     "options": [
+      "Ninguno; el preescolar es opcional.",
+      "Tres grados obligatorios.",
+      "Mínimo un grado obligatorio (transición) en los establecimientos estatales."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 18 establece al menos un grado obligatorio de preescolar; la Constitución (art. 67) también menciona mínimo un año de preescolar."
+    },
+    {
+     "q": "¿Cuál es el objeto de la educación media académica según la Ley 115?",
+     "options": [
+      "Profundizar en un campo del conocimiento y preparar para la educación superior.",
+      "Enseñar a leer y escribir.",
+      "Formar exclusivamente para un oficio técnico."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 29 señala que la media (académica o técnica) busca la comprensión de ideas y valores universales y la preparación para la educación superior y el trabajo."
+    },
+    {
+     "q": "Además de las áreas de la básica, ¿qué áreas añade la media académica según el artículo 31?",
+     "options": [
+      "Ciencias económicas, ciencias políticas y filosofía.",
+      "Contabilidad, mecánica y agricultura.",
+      "Programación, robótica y diseño."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 31 indica que en la media académica son obligatorias las mismas áreas de la básica, en un nivel más avanzado, además de ciencias económicas, políticas y filosofía."
+    },
+    {
+     "q": "La Ley 115 define a la comunidad educativa como:",
+     "options": [
+      "Solo los padres de familia y el consejo directivo.",
+      "Estudiantes, educadores, padres de familia, egresados, directivos y administradores escolares.",
+      "Únicamente rector y docentes."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 6 incluye a todos estos estamentos, que participan en el diseño, ejecución y evaluación del PEI."
+    },
+    {
+     "q": "¿Qué órganos conforman el gobierno escolar según el artículo 142 de la Ley 115?",
+     "options": [
+      "Secretaría de educación, rector y coordinador.",
+      "Consejo directivo, consejo académico y rector.",
+      "Personero, comité de convivencia y consejo de padres."
+     ],
+     "answer": 1,
+     "explanation": "El gobierno escolar de las instituciones estatales está integrado por el consejo directivo, el consejo académico y el rector."
+    },
+    {
+     "q": "¿Qué estudiante puede ser personero de los estudiantes según el artículo 94 de la Ley 115?",
+     "options": [
+      "Un alumno del último grado que ofrezca la institución.",
+      "Cualquier estudiante de grado 6.º.",
+      "El estudiante con mejor promedio, designado por el rector."
+     ],
+     "answer": 0,
+     "explanation": "El personero es un estudiante del último grado, elegido por los estudiantes, encargado de promover sus derechos y deberes."
+    },
+    {
+     "q": "¿Qué es la educación \"no formal\" hoy denominada para el trabajo y el desarrollo humano?",
+     "options": [
+      "La que se ofrece para complementar, actualizar o formar en aspectos académicos o laborales sin sujeción al sistema de niveles y grados.",
+      "La educación que se imparte sin docentes.",
+      "La educación en el hogar sin reconocimiento legal."
+     ],
+     "answer": 0,
+     "explanation": "La Ley 115 distingue educación formal, no formal (hoy ETDH, Ley 1064 de 2006) e informal."
+    },
+    {
+     "q": "La Ley 115 indica que la educación ambiental debe:",
+     "options": [
+      "Enseñarse solo en grado 11.º como cátedra opcional.",
+      "Desarrollarse de manera transversal mediante proyectos pedagógicos, además del área de ciencias naturales y educación ambiental.",
+      "Delegarse a las corporaciones autónomas regionales."
+     ],
+     "answer": 1,
+     "explanation": "Además del área obligatoria, el artículo 14 la incluye como enseñanza obligatoria que se cumple mediante proyectos transversales (como el PRAE)."
+    },
+    {
+     "q": "¿Qué establece la Ley 115 sobre la educación religiosa?",
+     "options": [
+      "Es optativa y no puede figurar en el plan de estudios.",
+      "Es área obligatoria, pero ninguna persona puede ser obligada a recibirla (libertad de cultos).",
+      "Es obligatoria y debe ser católica en todos los colegios."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 23 la incluye como área y el parágrafo garantiza que nadie será obligado a recibirla, conforme a la libertad religiosa."
+    },
+    {
+     "q": "¿Qué objetivo de la básica secundaria (art. 22 de la Ley 115) se relaciona directamente con el área de tecnología?",
+     "options": [
+      "La prohibición de usar computadores antes de la media.",
+      "La memorización de los nombres de los inventores.",
+      "La comprensión de la dimensión práctica de los conocimientos teóricos y la capacidad para utilizarlos en la solución de problemas."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 22 lo incluye entre los objetivos de la secundaria; además, el artículo 5 (num. 13) fija como fin promover la capacidad de crear, investigar y adoptar la tecnología."
+    }
+   ]
+  }
+ ]
+}

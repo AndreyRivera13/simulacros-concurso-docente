@@ -1,0 +1,241 @@
+## ecosistemas-flujo-de-energia-cadenas-y-redes-tro
+Q: En la cadena pasto → saltamontes → rana → serpiente → águila, ¿qué nivel trófico ocupa la rana?
++ Consumidor secundario.
+- Consumidor primario.
+- Productor.
+E: El pasto es productor, el saltamontes consumidor primario (herbívoro) y la rana, que come al herbívoro, consumidor secundario.
+
+Q: Si los productores de un ecosistema fijan 10 000 kcal, ¿cuánta energía llega aproximadamente a los consumidores secundarios según la regla del 10 %?
++ 100 kcal.
+- 1 000 kcal.
+- 10 kcal.
+E: Pasa cerca del 10 % por nivel: 10 000 → 1 000 (primarios) → 100 (secundarios).
+
+Q: ¿Por qué se pierde energía al pasar de un nivel trófico al siguiente?
++ Porque gran parte se usa en respiración y se disipa como calor, y parte no se consume ni se asimila.
+- Porque la energía se destruye al ser digerida.
+- Porque los consumidores devuelven la energía al Sol.
+E: La energía no se destruye: se transforma; la mayoría se libera como calor metabólico y en desechos no asimilados.
+
+Q: ¿Qué diferencia hay entre el flujo de energía y el de materia en un ecosistema?
++ La energía fluye en un solo sentido y se disipa; la materia se recicla en ciclos.
+- La materia fluye en un solo sentido y la energía se recicla.
+- Ambas se reciclan completamente.
+E: La energía entra como luz y sale como calor; los nutrientes (C, N, P) circulan gracias a los descomponedores.
+
+Q: ¿Qué función cumplen hongos y bacterias descomponedores?
++ Transforman la materia orgánica muerta en sustancias inorgánicas que reutilizan los productores.
+- Producen glucosa a partir de la luz solar.
+- Son los consumidores terciarios de la red.
+E: Los descomponedores cierran el ciclo de la materia al mineralizar restos y desechos.
+
+Q: ¿Por qué una red trófica representa mejor un ecosistema que una cadena trófica?
++ Porque muestra que los organismos tienen varias fuentes de alimento y varios depredadores.
+- Porque incluye solo a los productores.
+- Porque elimina a los descomponedores.
+E: Las redes muestran las múltiples interconexiones alimentarias, lo que ayuda a predecir efectos de las perturbaciones.
+
+Q: En una red trófica, si desaparecen los zorros que se alimentan de conejos, ¿qué se espera a corto plazo?
++ Aumento de la población de conejos y mayor presión sobre las plantas.
+- Disminución de los conejos por falta de alimento.
+- Aumento inmediato de los zorros.
+E: Sin depredador, los conejos crecen en número y consumen más vegetación, lo que puede afectar a todo el ecosistema.
+
+Q: El DDT se encuentra en concentraciones mucho mayores en las águilas que en el plancton. ¿Cómo se denomina este fenómeno?
++ Biomagnificación.
+- Eutrofización.
+- Sucesión ecológica.
+E: Las sustancias persistentes que no se excretan aumentan su concentración a medida que se asciende en la cadena trófica.
+
+Q: La relación entre el pez payaso y la anémona, en la que ambos se benefician, es:
++ Mutualismo.
+- Parasitismo.
+- Competencia.
+E: En el mutualismo ambas especies obtienen beneficio (+/+): protección para el pez y limpieza/alimento para la anémona.
+
+Q: Las garrapatas en el ganado representan una relación de:
++ Parasitismo.
+- Comensalismo.
+- Mutualismo.
+E: El parásito se beneficia y el hospedero resulta perjudicado (+/−).
+
+Q: Las orquídeas que viven sobre los árboles sin dañarlos, obteniendo luz y soporte, ejemplifican:
++ Comensalismo.
+- Parasitismo.
+- Depredación.
+E: Una especie se beneficia y la otra no es afectada (+/0); las epífitas no extraen nutrientes del árbol.
+
+Q: ¿Qué representa una pirámide de energía?
++ La cantidad de energía disponible en cada nivel trófico, que disminuye hacia arriba.
+- El número de especies de cada nivel, que aumenta hacia arriba.
+- La edad de los organismos del ecosistema.
+E: La pirámide de energía nunca puede invertirse, pues cada nivel recibe solo una fracción del anterior.
+
+Q: ¿Por qué las cadenas tróficas rara vez tienen más de 4 o 5 eslabones?
++ Porque la energía disponible se reduce tanto que no alcanza para sostener más niveles.
+- Porque los depredadores grandes no necesitan energía.
+- Porque los productores no pueden ser consumidos más de cuatro veces.
+E: Con pérdidas de ~90 % por nivel, la energía remanente es muy baja después de unos cuantos eslabones.
+
+Q: ¿Qué es un ecosistema?
++ El conjunto de seres vivos (biocenosis) y el medio físico (biotopo) que interactúan.
+- Solo el conjunto de animales de una región.
+- Un grupo de individuos de la misma especie.
+E: El ecosistema integra factores bióticos y abióticos; un grupo de la misma especie es una población.
+
+Q: ¿Cuál de los siguientes es un factor abiótico?
++ La temperatura.
+- Los hongos del suelo.
+- Las abejas polinizadoras.
+E: Los factores abióticos son físicos o químicos (luz, temperatura, agua, pH); los seres vivos son bióticos.
+
+Q: Dos especies de aves se alimentan de las mismas semillas en una isla. ¿Qué relación se establece?
++ Competencia interespecífica.
+- Mutualismo.
+- Comensalismo.
+E: Ambas compiten por un recurso limitado (−/−), lo que puede llevar a exclusión o a la diferenciación de nichos.
+
+Q: ¿Qué es el nicho ecológico de una especie?
++ El papel que desempeña en el ecosistema: qué come, dónde vive, cómo se relaciona y qué condiciones tolera.
+- El lugar físico exacto donde vive, únicamente.
+- El número de individuos de la población.
+E: El hábitat es el lugar; el nicho es la "profesión" o función de la especie.
+
+Q: Tras un incendio, un bosque se recupera gradualmente: primero aparecen hierbas, luego arbustos y finalmente árboles. ¿Cómo se denomina el proceso?
++ Sucesión ecológica secundaria.
+- Sucesión ecológica primaria.
+- Biomagnificación.
+E: Es secundaria porque ocurre donde ya había suelo; la primaria comienza sobre roca desnuda sin suelo.
+
+Q: Un estudiante afirma que "el león obtiene energía directamente del Sol". ¿Cuál es la corrección adecuada?
++ El león obtiene la energía solar de forma indirecta, a través de las presas que se alimentaron de productores.
+- Es correcto, porque el león se calienta con el Sol.
+- El león obtiene energía de los descomponedores.
+E: La energía solar entra por la fotosíntesis y se transfiere por la alimentación; tomar el sol no aporta energía química.
+
+Q: ¿Qué actividad de aula permite a los estudiantes evidenciar relaciones tróficas en su entorno?
++ Observar y registrar organismos de una zona verde del colegio y construir con esos datos una red trófica.
+- Copiar la definición de red trófica en el cuaderno.
+- Ver una película sin preguntas orientadoras.
+E: El trabajo de campo con registro de datos permite construir modelos propios y discutirlos, lo que desarrolla la competencia de indagación.
+
+## estatuto-docente-decreto-ley-1278-de-2002
+Q: ¿A quién se aplica el Decreto Ley 1278 de 2002 (Estatuto de Profesionalización Docente)?
++ A quienes ingresen al servicio educativo estatal a partir de su vigencia (2002) mediante concurso.
+- A todos los docentes del país, incluidos los vinculados antes de 1979.
+- Solo a los docentes de colegios privados.
+E: El 1278 rige para quienes se vincularon después de su expedición; quienes ingresaron antes siguen en el Decreto 2277 de 1979.
+
+Q: ¿Cómo se ingresa al servicio educativo estatal según el Decreto 1278?
++ Mediante concurso de méritos.
+- Por nombramiento discrecional del rector.
+- Por recomendación de la secretaría de educación.
+E: El ingreso a la carrera docente es por concurso; los nombramientos provisionales son temporales.
+
+Q: ¿Qué tipo de norma es el Decreto 1278 de 2002?
++ Un decreto con fuerza de ley, expedido por el Presidente con facultades extraordinarias.
+- Una resolución del MEN.
+- Un acuerdo de la CNSC.
+E: Se expidió con base en las facultades extraordinarias de la Ley 715 de 2001; por eso se le llama "Decreto Ley".
+
+Q: Al nombrado tras el concurso se le evalúa en periodo de prueba. ¿Cuál es su duración según el Decreto 1278?
++ Hasta culminar el año académico, siempre que hayan transcurrido al menos cuatro meses de servicio.
+- Exactamente dos años.
+- Un mes.
+E: El artículo 31 fija el periodo de prueba hasta terminar el año escolar, con un mínimo de cuatro meses.
+
+Q: ¿Qué calificación mínima debe obtener el docente en la evaluación del periodo de prueba para ser inscrito en el escalafón?
++ Al menos 60 %.
+- Al menos 80 %.
+- Al menos 50 %.
+E: Quien obtiene calificación satisfactoria (60 % o más) es nombrado en propiedad e inscrito en el escalafón.
+
+Q: ¿Cuántos grados tiene el escalafón docente del Decreto 1278?
++ Tres grados, cada uno con niveles salariales A, B, C y D.
+- Catorce grados.
+- Cinco grados sin niveles.
+E: El escalafón del 1278 tiene grados 1, 2 y 3 según la formación académica, y cuatro niveles salariales en cada uno.
+
+Q: ¿Qué título corresponde al grado 1 del escalafón del Decreto 1278?
++ Normalista superior.
+- Licenciado en educación.
+- Magíster.
+E: Grado 1: normalista superior; grado 2: licenciado o profesional con formación pedagógica; grado 3: con maestría o doctorado.
+
+Q: Una licenciada en Ciencias Naturales sin posgrado ingresa por concurso. ¿En qué grado se ubica?
++ Grado 2.
+- Grado 1.
+- Grado 3.
+E: El título de licenciado corresponde al grado 2; el grado 3 exige maestría o doctorado.
+
+Q: Una docente del grado 2 obtiene una maestría en educación. ¿Qué debe hacer para pasar al grado 3?
++ Aprobar la evaluación de competencias convocada para ascenso, además de cumplir el título y el tiempo exigido.
+- Solo radicar el diploma; el ascenso es automático.
+- Esperar 10 años de antigüedad.
+E: En el 1278 el ascenso no es automático: requiere el título, tiempo de servicio y superar la evaluación de competencias (ECDF en los últimos procesos).
+
+Q: ¿Qué tipos de evaluación contempla el Decreto 1278?
++ Evaluación del periodo de prueba, evaluación ordinaria anual de desempeño y evaluación de competencias.
+- Solo la evaluación del concurso de ingreso.
+- Evaluación de estudiantes y de padres.
+E: El artículo 26 y siguientes establecen estas evaluaciones para ingreso, permanencia y ascenso.
+
+Q: ¿Quién realiza la evaluación anual de desempeño de los docentes?
++ El rector o director rural del establecimiento.
+- El ICFES.
+- Los estudiantes por votación.
+E: La evaluación ordinaria de desempeño la hace el superior inmediato (rector o director), al terminar cada año académico.
+
+Q: ¿Qué consecuencia tiene obtener calificación no satisfactoria en la evaluación de desempeño en dos años consecutivos?
++ La exclusión del escalafón y el retiro del servicio.
+- El traslado automático a otro municipio.
+- La reducción del salario a la mitad.
+E: El artículo 36 del Decreto 1278 prevé esa consecuencia, con garantía del debido proceso.
+
+Q: ¿Qué se entiende por "reubicación salarial" en el Decreto 1278?
++ El paso de un nivel salarial a otro dentro del mismo grado.
+- El cambio de institución educativa.
+- El paso del grado 1 al grado 3.
+E: La reubicación es el movimiento entre niveles (A, B, C, D) dentro del grado; el ascenso es el cambio de grado.
+
+Q: ¿Cuál es una función docente según el Decreto 1278?
++ El diagnóstico, la planeación, la ejecución y la evaluación de los procesos de enseñanza-aprendizaje.
+- La aprobación del presupuesto municipal.
+- La expedición de títulos de bachiller.
+E: El artículo 4 define la función docente como de carácter profesional e incluye actividades curriculares y de orientación.
+
+Q: ¿Qué cargos son "directivos docentes" según el Decreto 1278?
++ Rector, director rural y coordinador.
+- Orientador escolar y docente de apoyo.
+- Secretario de educación y supervisor.
+E: El artículo 6 define como directivos docentes a rectores, directores rurales y coordinadores.
+
+Q: Un docente vinculado en provisionalidad, ¿tiene derechos de carrera?
++ No; su nombramiento es temporal mientras se provee la vacante por concurso.
+- Sí, después de un año de servicio.
+- Sí, si el rector lo recomienda.
+E: Los derechos de carrera se adquieren solo tras superar el concurso y el periodo de prueba.
+
+Q: Según el Decreto 1278, ¿cuál es el propósito de la evaluación de desempeño?
++ Verificar niveles de idoneidad y mejoramiento continuo del docente.
+- Determinar el salario de los directivos.
+- Seleccionar a los estudiantes que repiten el año.
+E: La evaluación busca el mejoramiento continuo y la calidad del servicio; sus resultados orientan planes de desarrollo personal.
+
+Q: ¿Qué estatuto rige a los docentes vinculados antes del Decreto 1278?
++ El Decreto 2277 de 1979.
+- El Decreto 1290 de 2009.
+- La Ley 1620 de 2013.
+E: El 2277 de 1979 tiene su propio escalafón (grados 1 a 14) y sigue aplicando a esos docentes.
+
+Q: ¿Qué es la evaluación de competencias en el Decreto 1278?
++ La evaluación que se realiza para ascender de grado o reubicarse de nivel salarial.
+- La evaluación de ingreso al concurso.
+- La evaluación de los estudiantes en pruebas Saber.
+E: El artículo 35 la establece; su aprobación permite el ascenso o la reubicación salarial.
+
+Q: Una docente en periodo de prueba obtiene 55 % en su evaluación. ¿Qué ocurre?
++ Es retirada del servicio, porque no superó el periodo de prueba.
+- Es inscrita en el escalafón con observaciones.
+- Repite el periodo de prueba automáticamente.
+E: Quien no obtiene la calificación satisfactoria en el periodo de prueba es separado del servicio, según el Decreto 1278.

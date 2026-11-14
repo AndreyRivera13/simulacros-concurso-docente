@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-21",
+ "n": 7,
+ "kind": "repaso",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "repaso-s1-1",
+   "title": "Repaso semana 1: Disciplinar",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "Un estudiante diseña un algoritmo que enciende un LED si un sensor detecta oscuridad. ¿Qué estructura de control es indispensable?",
+     "options": [
+      "Una estructura condicional (si ... entonces).",
+      "Una asignación de constantes.",
+      "Solo una secuencia sin decisiones."
+     ],
+     "answer": 0,
+     "explanation": "El sistema debe decidir según la lectura del sensor; eso requiere un condicional."
+    },
+    {
+     "q": "En el circuito del LED anterior, alimentado con 5 V, ¿qué pasa si se omite la resistencia limitadora?",
+     "options": [
+      "El LED no enciende nunca.",
+      "La corriente puede ser excesiva y dañar el LED.",
+      "El LED brilla menos."
+     ],
+     "answer": 1,
+     "explanation": "Sin resistencia, la corriente queda limitada solo por el LED y la fuente, lo que suele superar su máximo."
+    },
+    {
+     "q": "Un estudiante afirma que \"la tecnología empezó con los computadores\". ¿Qué ejemplo refuta mejor su idea desde la Guía 30?",
+     "options": [
+      "La invención del transistor en 1947.",
+      "La aparición de internet.",
+      "Los sistemas de riego y la orfebrería precolombina."
+     ],
+     "answer": 2,
+     "explanation": "La tecnología es una actividad humana presente en todas las culturas y épocas."
+    },
+    {
+     "q": "¿Qué imprime el código?\ntotal = 0\nfor w in [100, 60, 40]:\n    total += w\nprint(total / 1000)",
+     "options": [
+      "0.2",
+      "0.02",
+      "200"
+     ],
+     "answer": 0,
+     "explanation": "La suma es 200 W y 200/1000 = 0.2 (kW)."
+    },
+    {
+     "q": "Si los tres aparatos del ejercicio anterior (200 W en total) funcionan 5 horas diarias, ¿cuánta energía consumen al día?",
+     "options": [
+      "0,2 kWh.",
+      "40 kWh.",
+      "1 kWh."
+     ],
+     "answer": 2,
+     "explanation": "E = 0,2 kW × 5 h = 1 kWh."
+    },
+    {
+     "q": "Un computador de la sala muestra la IP 169.254.10.5 y no navega, pero tiene la RAM y la CPU funcionando bien. ¿Dónde está el problema más probable?",
+     "options": [
+      "En la red: no recibió dirección del servidor DHCP.",
+      "En el procesador.",
+      "En el teclado."
+     ],
+     "answer": 0,
+     "explanation": "Esa dirección indica autoasignación; el hardware interno no es la causa."
+    },
+    {
+     "q": "¿Qué componente de hardware almacena los programas mientras se ejecutan y qué tipo de memoria es?",
+     "options": [
+      "La RAM, memoria volátil.",
+      "La ROM, memoria de escritura constante.",
+      "El disco duro, memoria volátil."
+     ],
+     "answer": 0,
+     "explanation": "Los programas se cargan desde el almacenamiento a la RAM para ejecutarse."
+    },
+    {
+     "q": "Una transferencia de 400 MB por una red de 50 Mbps tarda idealmente:",
+     "options": [
+      "400 segundos.",
+      "8 segundos.",
+      "64 segundos."
+     ],
+     "answer": 2,
+     "explanation": "400 MB = 3 200 Mb; 3 200/50 = 64 s."
+    },
+    {
+     "q": "El paso del teléfono fijo al smartphone combina la innovación tecnológica con efectos sociales. ¿Qué componente de la Guía 30 analiza esos efectos?",
+     "options": [
+      "Apropiación y uso de la tecnología, únicamente.",
+      "Tecnología y sociedad.",
+      "Solución de problemas con tecnología, únicamente."
+     ],
+     "answer": 1,
+     "explanation": "Este componente aborda las implicaciones éticas, sociales y ambientales de la tecnología."
+    },
+    {
+     "q": "¿Cuál es el valor final de c?\nc ← 0\npara i desde 1 hasta 10:\n    si i mod 3 = 0 entonces c ← c + 1",
+     "options": [
+      "3",
+      "4",
+      "10"
+     ],
+     "answer": 0,
+     "explanation": "Los múltiplos de 3 entre 1 y 10 son 3, 6 y 9."
+    },
+    {
+     "q": "¿Qué es un sistema tecnológico de los siguientes?",
+     "options": [
+      "Un martillo.",
+      "Una red de computadores con servidor, switch, cables y estaciones que se comunican.",
+      "Una idea de proyecto."
+     ],
+     "answer": 1,
+     "explanation": "Un sistema es un conjunto de elementos que interactúan para cumplir una función."
+    },
+    {
+     "q": "¿Qué topología y qué dispositivo central usan normalmente las salas de informática con cable?",
+     "options": [
+      "Topología en estrella con un switch.",
+      "Topología en bus con un monitor central.",
+      "Topología en anillo sin dispositivos."
+     ],
+     "answer": 0,
+     "explanation": "Cada equipo se conecta con un cable al switch; es fácil de administrar y diagnosticar."
+    },
+    {
+     "q": "¿Qué valor tiene x al final?\nx = 0\nwhile x < 20:\n    x = x + 6",
+     "options": [
+      "18",
+      "24",
+      "20"
+     ],
+     "answer": 1,
+     "explanation": "x toma 6, 12, 18 y 24; al llegar a 24 la condición x < 20 es falsa."
+    },
+    {
+     "q": "En un diagrama de flujo para calcular el promedio de notas, ¿qué símbolo corresponde a \"leer las notas\"?",
+     "options": [
+      "El rombo (decisión).",
+      "El paralelogramo (entrada/salida).",
+      "El óvalo (inicio/fin)."
+     ],
+     "answer": 1,
+     "explanation": "Leer datos es una operación de entrada."
+    },
+    {
+     "q": "Tres resistencias de 300 Ω en paralelo tienen una resistencia equivalente de:",
+     "options": [
+      "100 Ω.",
+      "300 Ω.",
+      "900 Ω."
+     ],
+     "answer": 0,
+     "explanation": "Para n resistencias iguales en paralelo, Req = R/n = 300/3 = 100 Ω."
+    },
+    {
+     "q": "¿Qué relación hay entre bits y bytes cuando se habla de velocidad de internet y tamaño de archivos?",
+     "options": [
+      "Son la misma unidad.",
+      "La velocidad suele darse en bits por segundo y los archivos en bytes; 1 byte = 8 bits.",
+      "1 bit = 8 bytes."
+     ],
+     "answer": 1,
+     "explanation": "Confundirlos lleva a estimar tiempos de descarga ocho veces menores."
+    },
+    {
+     "q": "¿Qué protocolo seguro debe verificar un estudiante antes de ingresar su contraseña en una página?",
+     "options": [
+      "HTTP.",
+      "FTP.",
+      "HTTPS."
+     ],
+     "answer": 2,
+     "explanation": "HTTPS cifra la comunicación y reduce el riesgo de que terceros intercepten los datos."
+    },
+    {
+     "q": "¿Qué es una innovación en el contexto de un proyecto escolar?",
+     "options": [
+      "Copiar un artefacto exactamente igual.",
+      "Mejorar un artefacto existente, por ejemplo, adaptar un comedero de aves con un sensor para registrar visitas.",
+      "Leer sobre un invento antiguo."
+     ],
+     "answer": 1,
+     "explanation": "Innovar es introducir cambios que mejoran un artefacto, proceso o sistema existente."
+    },
+    {
+     "q": "¿Qué imprime el código?\nn = 4\nprint(\"par\" if n % 2 == 0 else \"impar\")",
+     "options": [
+      "0",
+      "impar",
+      "par"
+     ],
+     "answer": 2,
+     "explanation": "4 % 2 = 0, por lo que la condición es verdadera."
+    },
+    {
+     "q": "¿Qué componente transforma la AC de la red en DC para el computador y qué protege una instalación ante un cortocircuito?",
+     "options": [
+      "El switch; el router.",
+      "La CPU; el monitor.",
+      "La fuente de poder; el breaker o fusible."
+     ],
+     "answer": 2,
+     "explanation": "La fuente convierte la energía; los breakers y fusibles cortan corrientes excesivas."
+    }
+   ]
+  },
+  {
+   "id": "repaso-s1-2",
+   "title": "Repaso semana 1: Leyes y conocimiento general del concurso",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "Ordene de mayor a menor jerarquía: Decreto 1290 de 2009, Constitución de 1991, Ley 115 de 1994.",
+     "options": [
+      "Ley 115 → Constitución → Decreto 1290.",
+      "Decreto 1290 → Ley 115 → Constitución.",
+      "Constitución → Ley 115 → Decreto 1290."
+     ],
+     "answer": 2,
+     "explanation": "La Constitución prima; la ley está por encima de los decretos reglamentarios."
+    },
+    {
+     "q": "¿Por qué el Decreto 1278 de 2002 tiene fuerza de ley aunque lo expidió el Presidente?",
+     "options": [
+      "Porque es una resolución del MEN.",
+      "Porque se dictó con facultades extraordinarias otorgadas por el Congreso (Ley 715 de 2001).",
+      "Porque lo aprobó la Corte Constitucional."
+     ],
+     "answer": 1,
+     "explanation": "Los decretos ley tienen jerarquía de ley por las facultades extraordinarias del artículo 150-10."
+    },
+    {
+     "q": "¿Qué artículo de la Constitución fundamenta el concurso de méritos y qué entidad lo adelanta?",
+     "options": [
+      "El artículo 67; el ICFES.",
+      "El artículo 125; la CNSC.",
+      "El artículo 44; el MEN."
+     ],
+     "answer": 1,
+     "explanation": "El 125 establece la carrera y el concurso; el 130 crea la CNSC para administrarla."
+    },
+    {
+     "q": "¿Qué área obligatoria de la Ley 115 corresponde al empleo al que aspira un ingeniero de sistemas?",
+     "options": [
+      "Tecnología e informática (art. 23).",
+      "Ciencias económicas y políticas (art. 31).",
+      "Educación artística."
+     ],
+     "answer": 0,
+     "explanation": "Tecnología e informática es una de las nueve áreas obligatorias y fundamentales."
+    },
+    {
+     "q": "En el Decreto 1290, ¿quién aprueba el SIEE? Y según la Ley 115, ¿qué órganos conforman el gobierno escolar?",
+     "options": [
+      "La secretaría de educación; MEN e ICFES.",
+      "El consejo directivo; consejo directivo, consejo académico y rector.",
+      "El rector; personero y comité de convivencia."
+     ],
+     "answer": 1,
+     "explanation": "El consejo directivo aprueba el SIEE; el gobierno escolar lo integran consejo directivo, consejo académico y rector."
+    },
+    {
+     "q": "Un ingeniero gana el concurso y es nombrado en periodo de prueba. ¿Qué dos condiciones debe cumplir para quedar en carrera?",
+     "options": [
+      "Tener 10 años de experiencia y un doctorado.",
+      "Pagar una nueva inscripción y aprobar Saber Pro.",
+      "Obtener al menos 60 % en la evaluación del periodo de prueba y acreditar formación pedagógica (posgrado en educación o programa de pedagogía)."
+     ],
+     "answer": 2,
+     "explanation": "El Decreto 1278 exige ambas condiciones a los profesionales no licenciados."
+    },
+    {
+     "q": "¿Qué derechos de los niños prevalecen sobre los de los demás y en qué artículo constitucional se establece?",
+     "options": [
+      "Los derechos políticos, en el artículo 40.",
+      "Los derechos fundamentales de los niños, en el artículo 44.",
+      "Los derechos de los docentes, en el artículo 125."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 44 incluye la educación entre los derechos fundamentales de los niños y establece su prevalencia."
+    },
+    {
+     "q": "En el concurso, 2 000 aspirantes presentan la prueba eliminatoria y aprueba el 28 %. ¿Cuántos pasan a la etapa clasificatoria?",
+     "options": [
+      "280.",
+      "1 440.",
+      "560."
+     ],
+     "answer": 2,
+     "explanation": "2 000 × 0,28 = 560."
+    },
+    {
+     "q": "¿Qué escala usa el Decreto 1290 y qué escala de grados usa el Decreto 1278?",
+     "options": [
+      "1290: grados 1 a 14; 1278: Superior a Bajo.",
+      "1290: Superior, Alto, Básico y Bajo; 1278: grados 1, 2 y 3 con niveles A a D.",
+      "Ambos usan la escala de 1 a 5."
+     ],
+     "answer": 1,
+     "explanation": "No confundir la escala de desempeño de los estudiantes con el escalafón docente."
+    },
+    {
+     "q": "¿Qué entidad territorial nombra a un docente en un municipio de 40 000 habitantes no certificado?",
+     "options": [
+      "El municipio, a través de su alcalde.",
+      "El departamento, a través de su secretaría de educación.",
+      "La CNSC directamente."
+     ],
+     "answer": 1,
+     "explanation": "Los municipios no certificados dependen de la secretaría de educación departamental."
+    },
+    {
+     "q": "Una estudiante de 9.º alcanza desempeño superior en todas las áreas durante el primer periodo. ¿Qué figura aplica y qué instancias intervienen?",
+     "options": [
+      "Promoción anticipada; el consejo académico recomienda y el consejo directivo decide.",
+      "Acción de tutela; la decide un juez.",
+      "Periodo de prueba; lo decide el rector."
+     ],
+     "answer": 0,
+     "explanation": "Así lo prevé el artículo 7 del Decreto 1290."
+    },
+    {
+     "q": "¿Qué mecanismo debe usar un aspirante que considera que su puntaje del concurso está mal calculado?",
+     "options": [
+      "El derecho al voto.",
+      "La reclamación dentro del plazo de la convocatoria, a través de SIMO.",
+      "Una queja ante el rector."
+     ],
+     "answer": 1,
+     "explanation": "La reclamación es el mecanismo ordinario dentro del proceso."
+    },
+    {
+     "q": "El MEN expide una resolución que contradice el Decreto 1075 de 2015. ¿Qué norma prevalece?",
+     "options": [
+      "El Decreto 1075, por ser de mayor jerarquía.",
+      "La resolución, por ser más reciente.",
+      "Ninguna; ambas se anulan."
+     ],
+     "answer": 0,
+     "explanation": "Una norma inferior no puede contrariar a una superior."
+    },
+    {
+     "q": "¿Qué tipo de educación es obligatoria entre los 5 y 15 años según la Constitución, y cuántos grados de básica hay según la Ley 115?",
+     "options": [
+      "Solo primaria; la básica tiene 5 grados.",
+      "Preescolar y media; la básica tiene 11 grados.",
+      "Mínimo un año de preescolar y nueve de básica; la básica tiene 9 grados."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 67 constitucional y el artículo 11 de la Ley 115 coinciden en nueve grados de básica."
+    },
+    {
+     "q": "¿Qué estatuto docente aplica a quien gane el concurso 2026-2027?",
+     "options": [
+      "El Decreto Ley 1278 de 2002.",
+      "El Decreto 2277 de 1979.",
+      "La Ley 1620 de 2013."
+     ],
+     "answer": 0,
+     "explanation": "El 2277 aplica a quienes ingresaron antes de 2002; los nuevos ingresan al régimen del 1278."
+    },
+    {
+     "q": "¿Qué documento institucional, exigido por el artículo 73 de la Ley 115, recoge los principios, la estrategia pedagógica y el reglamento del colegio?",
+     "options": [
+      "El PEI (Proyecto Educativo Institucional).",
+      "La OPEC.",
+      "El SIEE."
+     ],
+     "answer": 0,
+     "explanation": "El PEI es la carta de navegación institucional; el SIEE hace parte de él."
+    },
+    {
+     "q": "En el Decreto 1290, ¿qué es el \"desempeño bajo\"?",
+     "options": [
+      "El desempeño intermedio entre básico y alto.",
+      "La inasistencia a clases.",
+      "La no superación de los desempeños básicos."
+     ],
+     "answer": 2,
+     "explanation": "Bajo significa que no se alcanzaron los desempeños necesarios."
+    },
+    {
+     "q": "¿Quién realiza la evaluación anual de desempeño del docente y qué ocurre con dos evaluaciones no satisfactorias consecutivas?",
+     "options": [
+      "El rector o director rural; exclusión del escalafón y retiro del servicio.",
+      "El ICFES; un traslado.",
+      "Los padres de familia; una amonestación."
+     ],
+     "answer": 0,
+     "explanation": "Así lo establecen los artículos 32 y 36 del Decreto 1278."
+    },
+    {
+     "q": "La Ley 1755 de 2015 regula un derecho fundamental del artículo 23 de la Constitución. ¿Cuál?",
+     "options": [
+      "El derecho de petición.",
+      "El derecho a la educación.",
+      "La acción de tutela."
+     ],
+     "answer": 0,
+     "explanation": "La Ley 1755 fija términos y reglas para las peticiones ante autoridades."
+    },
+    {
+     "q": "¿Qué rama del poder público expide las leyes y qué rama expide los decretos reglamentarios?",
+     "options": [
+      "La judicial y la legislativa.",
+      "La ejecutiva y la judicial.",
+      "La legislativa (Congreso) y la ejecutiva (Presidente/Gobierno)."
+     ],
+     "answer": 2,
+     "explanation": "El Congreso hace las leyes y el Presidente ejerce la potestad reglamentaria."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "version": "A",
+ "date": "2026-11-20",
+ "n": 6,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "educacion-ambiental-prae-pnea-ley-1549-de-2012-y",
+   "title": "Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA",
+   "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+   "questions": [
+    {
+     "q": "¿Qué norma instituyó el Proyecto de Educación Ambiental (PRAE) en todos los niveles de la educación formal?",
+     "options": [
+      "La Ley 1620 de 2013.",
+      "El Decreto 1290 de 2009.",
+      "El Decreto 1743 de 1994."
+     ],
+     "answer": 2,
+     "explanation": "El Decreto 1743 de 1994 reglamenta la educación ambiental en la educación formal y ordena incluir proyectos ambientales escolares en el PEI."
+    },
+    {
+     "q": "¿Cómo debe abordarse el PRAE según su enfoque?",
+     "options": [
+      "De forma interdisciplinaria y transversal, a partir de problemas ambientales del contexto, con participación de la comunidad.",
+      "Como una campaña de aseo de un día al año.",
+      "Como una asignatura aislada a cargo solo del docente de biología."
+     ],
+     "answer": 0,
+     "explanation": "El PRAE integra áreas y actores para comprender y resolver problemáticas ambientales locales."
+    },
+    {
+     "q": "¿Dónde debe quedar incorporado el PRAE?",
+     "options": [
+      "En el reglamento del consejo de padres.",
+      "En el Proyecto Educativo Institucional (PEI).",
+      "En el plan de desarrollo del departamento."
+     ],
+     "answer": 1,
+     "explanation": "El Decreto 1743 indica que los PRAE se incorporan al PEI, según el diagnóstico ambiental local."
+    },
+    {
+     "q": "¿Qué entidades formularon la Política Nacional de Educación Ambiental de 2002?",
+     "options": [
+      "El Ministerio del Medio Ambiente y el Ministerio de Educación Nacional.",
+      "El ICFES y la CNSC.",
+      "El Ministerio de Hacienda y el DANE."
+     ],
+     "answer": 0,
+     "explanation": "La PNEA fue construida conjuntamente por los dos ministerios y orienta la educación ambiental formal, no formal e informal."
+    },
+    {
+     "q": "¿Qué hizo la Ley 1549 de 2012?",
+     "options": [
+      "Creó el Ministerio de Ambiente.",
+      "Institucionalizó la Política Nacional de Educación Ambiental y fortaleció su incorporación en el desarrollo territorial.",
+      "Prohibió el uso de plásticos en los colegios."
+     ],
+     "answer": 1,
+     "explanation": "La Ley 1549 elevó a rango de ley la PNEA y estableció responsabilidades de las entidades territoriales y sectores."
+    },
+    {
+     "q": "¿Qué son los CIDEA?",
+     "options": [
+      "Centros de Investigación de Ecología Aplicada de las universidades.",
+      "Comisiones de disciplina escolar ambiental.",
+      "Comités Técnicos Interinstitucionales de Educación Ambiental, que coordinan la educación ambiental en departamentos y municipios."
+     ],
+     "answer": 2,
+     "explanation": "Los CIDEA articulan entidades (educación, ambiente, salud, CAR, etc.) para planear y apoyar la educación ambiental territorial."
+    },
+    {
+     "q": "¿Qué son los PROCEDA?",
+     "options": [
+      "Protocolos de atención de emergencias.",
+      "Programas de evaluación docente ambiental.",
+      "Proyectos Ciudadanos y Comunitarios de Educación Ambiental, en el ámbito no formal."
+     ],
+     "answer": 2,
+     "explanation": "Los PROCEDA promueven la educación ambiental desde organizaciones comunitarias y ciudadanas."
+    },
+    {
+     "q": "Una institución detecta que una quebrada cercana recibe basuras. ¿Cuál es el primer paso coherente para formular un PRAE?",
+     "options": [
+      "Prohibir a los estudiantes acercarse a la quebrada.",
+      "Hacer un diagnóstico ambiental participativo de la problemática con estudiantes y comunidad.",
+      "Pedir a la alcaldía que limpie la quebrada."
+     ],
+     "answer": 1,
+     "explanation": "El PRAE parte de la lectura del contexto; el diagnóstico permite definir objetivos, actores y acciones pedagógicas."
+    },
+    {
+     "q": "¿Qué enfoque propone la PNEA para entender el ambiente?",
+     "options": [
+      "Un enfoque sistémico: interacción entre sistemas naturales y sociales/culturales.",
+      "Un enfoque exclusivamente biológico.",
+      "Un enfoque solo económico."
+     ],
+     "answer": 0,
+     "explanation": "La PNEA concibe el ambiente como sistema de relaciones entre naturaleza, sociedad y cultura."
+    },
+    {
+     "q": "¿Qué artículo de la Constitución establece el derecho de todas las personas a gozar de un ambiente sano?",
+     "options": [
+      "El artículo 125.",
+      "El artículo 67.",
+      "El artículo 79."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 79 consagra el ambiente sano; el 67 trata de la educación y el 125, de la carrera administrativa."
+    },
+    {
+     "q": "¿Qué ley creó el Ministerio del Medio Ambiente y organizó el Sistema Nacional Ambiental (SINA)?",
+     "options": [
+      "La Ley 1549 de 2012.",
+      "La Ley 115 de 1994.",
+      "La Ley 99 de 1993."
+     ],
+     "answer": 2,
+     "explanation": "La Ley 99 de 1993 creó el ministerio, las bases del SINA y reorganizó las corporaciones autónomas regionales."
+    },
+    {
+     "q": "Según el Decreto 1743, el servicio social obligatorio de los estudiantes de media puede:",
+     "options": [
+      "Reemplazar la asistencia a clases de ciencias.",
+      "Prestarse en educación ambiental, participando en proyectos ambientales.",
+      "Cumplirse únicamente en oficinas públicas."
+     ],
+     "answer": 1,
+     "explanation": "El decreto prevé que los estudiantes presten servicio social en educación ambiental."
+    },
+    {
+     "q": "¿Qué característica diferencia una actividad ambiental aislada de un PRAE?",
+     "options": [
+      "El PRAE es un proceso pedagógico sostenido en el tiempo, vinculado al currículo y al contexto.",
+      "El PRAE no requiere participación de estudiantes.",
+      "El PRAE dura solo un día."
+     ],
+     "answer": 0,
+     "explanation": "Sembrar árboles un día es una actividad; el PRAE articula objetivos, áreas, evaluación y comunidad a largo plazo."
+    },
+    {
+     "q": "¿Qué es la educación ambiental según la PNEA?",
+     "options": [
+      "Un proceso que permite comprender las relaciones de interdependencia con el entorno para generar actitudes de valoración y respeto.",
+      "La enseñanza de los nombres científicos de las plantas.",
+      "Una materia optativa de la media."
+     ],
+     "answer": 0,
+     "explanation": "La PNEA la entiende como proceso formativo de comprensión crítica y responsabilidad ambiental."
+    },
+    {
+     "q": "¿Quiénes tienen responsabilidad en la educación ambiental según la Ley 1549?",
+     "options": [
+      "Solo el Ministerio de Ambiente.",
+      "Diversos sectores y actores: entidades territoriales, autoridades ambientales, sector educativo y sociedad civil.",
+      "Solo los docentes de ciencias naturales."
+     ],
+     "answer": 1,
+     "explanation": "La ley promueve la corresponsabilidad intersectorial e interinstitucional."
+    },
+    {
+     "q": "En el marco de un PRAE sobre residuos, ¿qué actividad integra mejor varias áreas?",
+     "options": [
+      "Que cada estudiante copie una definición de reciclaje.",
+      "Que matemáticas analice datos de residuos, lenguaje produzca campañas y ciencias estudie la descomposición.",
+      "Que solo ciencias naturales dicte una charla."
+     ],
+     "answer": 1,
+     "explanation": "La transversalidad exige articular las áreas alrededor del problema ambiental."
+    },
+    {
+     "q": "¿A qué se refiere el término \"desarrollo sostenible\"?",
+     "options": [
+      "Detener toda actividad productiva.",
+      "Crecimiento económico ilimitado.",
+      "Satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones de satisfacer las suyas."
+     ],
+     "answer": 2,
+     "explanation": "Es la definición del Informe Brundtland (1987), retomada por la Ley 99 de 1993."
+    },
+    {
+     "q": "¿Qué papel juegan las Corporaciones Autónomas Regionales (CAR) en la educación ambiental escolar?",
+     "options": [
+      "Aprueban el PEI de los colegios.",
+      "Son autoridades ambientales que pueden apoyar técnicamente los PRAE y hacer parte de los CIDEA.",
+      "Califican a los estudiantes en ciencias."
+     ],
+     "answer": 1,
+     "explanation": "Las CAR administran recursos naturales en su jurisdicción y apoyan procesos educativos ambientales."
+    },
+    {
+     "q": "La evaluación de un PRAE debe:",
+     "options": [
+      "Valorar los procesos y cambios en la comprensión y actitudes de la comunidad, además de los resultados ambientales.",
+      "Hacerse con un examen de opción múltiple al final del año.",
+      "Medirse solo por la cantidad de árboles sembrados."
+     ],
+     "answer": 0,
+     "explanation": "Al ser un proceso pedagógico, se evalúan aprendizajes, participación y transformaciones, no solo productos."
+    },
+    {
+     "q": "¿Qué entidad coordina la educación ambiental en el municipio según la PNEA y la Ley 1549?",
+     "options": [
+      "El CIDEA municipal.",
+      "La Registraduría.",
+      "El comité escolar de convivencia."
+     ],
+     "answer": 0,
+     "explanation": "Los CIDEA municipales y departamentales son las instancias de coordinación territorial."
+    }
+   ]
+  },
+  {
+   "id": "razonamiento-cuantitativo-porcentajes-proporcion",
+   "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística",
+   "track": "Conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "En un curso de 40 estudiantes, 30 aprobaron Ciencias. ¿Qué porcentaje aprobó?",
+     "options": [
+      "70 %.",
+      "30 %.",
+      "75 %."
+     ],
+     "answer": 2,
+     "explanation": "30/40 = 0,75 = 75 %."
+    },
+    {
+     "q": "Un libro cuesta $60 000 y tiene un descuento del 15 %. ¿Cuánto se paga?",
+     "options": [
+      "$45 000.",
+      "$51 000.",
+      "$59 100."
+     ],
+     "answer": 1,
+     "explanation": "15 % de 60 000 = 9 000; 60 000 − 9 000 = 51 000."
+    },
+    {
+     "q": "Un precio sube 20 % y luego baja 20 %. Respecto al precio inicial, el precio final es:",
+     "options": [
+      "4 % mayor.",
+      "4 % menor.",
+      "Igual."
+     ],
+     "answer": 1,
+     "explanation": "1,20 × 0,80 = 0,96; el precio final es el 96 % del inicial, es decir, 4 % menor."
+    },
+    {
+     "q": "Si 5 cuadernos cuestan $17 500, ¿cuánto cuestan 8 cuadernos?",
+     "options": [
+      "$28 000.",
+      "$35 000.",
+      "$25 500."
+     ],
+     "answer": 0,
+     "explanation": "Precio unitario: 17 500/5 = 3 500; 8 × 3 500 = 28 000."
+    },
+    {
+     "q": "Las notas de un estudiante son 3,0; 4,0; 4,5 y 3,5. ¿Cuál es el promedio?",
+     "options": [
+      "4,0.",
+      "3,75.",
+      "3,5."
+     ],
+     "answer": 1,
+     "explanation": "(3,0 + 4,0 + 4,5 + 3,5)/4 = 15/4 = 3,75."
+    },
+    {
+     "q": "¿Cuál es la mediana de los datos 7, 3, 9, 5, 4?",
+     "options": [
+      "5,6.",
+      "9.",
+      "5."
+     ],
+     "answer": 2,
+     "explanation": "Ordenados: 3, 4, 5, 7, 9; el valor central es 5. El promedio sería 5,6."
+    },
+    {
+     "q": "¿Cuál es la moda de los datos 2, 4, 4, 5, 6, 6, 6, 8?",
+     "options": [
+      "6.",
+      "5,125.",
+      "4."
+     ],
+     "answer": 0,
+     "explanation": "La moda es el dato más frecuente: 6 aparece tres veces."
+    },
+    {
+     "q": "En una mezcla, la razón de agua a concentrado es 4:1. ¿Cuánta agua se necesita para 250 mL de concentrado?",
+     "options": [
+      "1 250 mL.",
+      "625 mL.",
+      "1 000 mL."
+     ],
+     "answer": 2,
+     "explanation": "4 partes de agua por cada parte de concentrado: 4 × 250 = 1 000 mL."
+    },
+    {
+     "q": "Un colegio tenía 800 estudiantes y ahora tiene 920. ¿En qué porcentaje aumentó la matrícula?",
+     "options": [
+      "15 %.",
+      "12 %.",
+      "120 %."
+     ],
+     "answer": 0,
+     "explanation": "Aumento: 120; 120/800 = 0,15 = 15 %."
+    },
+    {
+     "q": "Tres docentes calificaron 150 exámenes en 5 horas. Trabajando al mismo ritmo, ¿cuántas horas tardarán 5 docentes en calificar 150 exámenes?",
+     "options": [
+      "3 horas.",
+      "5 horas.",
+      "8,3 horas."
+     ],
+     "answer": 0,
+     "explanation": "Es proporcionalidad inversa: 3 × 5 = 15 horas-docente; 15/5 = 3 horas."
+    },
+    {
+     "q": "El 30 % de un número es 45. ¿Cuál es el número?",
+     "options": [
+      "135.",
+      "13,5.",
+      "150."
+     ],
+     "answer": 2,
+     "explanation": "45/0,30 = 150."
+    },
+    {
+     "q": "Un mapa tiene escala 1:50 000. Si dos puntos están a 4 cm en el mapa, ¿cuál es la distancia real?",
+     "options": [
+      "2 km.",
+      "20 km.",
+      "200 m."
+     ],
+     "answer": 0,
+     "explanation": "4 × 50 000 = 200 000 cm = 2 000 m = 2 km."
+    },
+    {
+     "q": "En un grupo, el promedio de 10 estudiantes es 3,6. Si llega un estudiante con nota 4,7, ¿cuál es el nuevo promedio?",
+     "options": [
+      "3,7.",
+      "4,15.",
+      "3,65."
+     ],
+     "answer": 0,
+     "explanation": "Suma inicial: 36; nueva suma: 40,7; 40,7/11 = 3,7."
+    },
+    {
+     "q": "Una tabla muestra: grado 6.º, 120 estudiantes y 18 reprobados; grado 7.º, 100 estudiantes y 16 reprobados. ¿Qué grado tiene mayor porcentaje de reprobación?",
+     "options": [
+      "Ambos tienen igual porcentaje.",
+      "6.º, con 18 %.",
+      "7.º, con 16 %."
+     ],
+     "answer": 2,
+     "explanation": "6.º: 18/120 = 15 %; 7.º: 16/100 = 16 %. Comparar porcentajes evita el error de comparar cantidades absolutas."
+    },
+    {
+     "q": "Una solución tiene 12 g de sal en 200 g de solución. ¿Cuál es su porcentaje en masa?",
+     "options": [
+      "12 %.",
+      "6 %.",
+      "16,7 %."
+     ],
+     "answer": 1,
+     "explanation": "12/200 × 100 = 6 %."
+    },
+    {
+     "q": "Si x/12 = 5/4, ¿cuánto vale x?",
+     "options": [
+      "20.",
+      "15.",
+      "9,6."
+     ],
+     "answer": 1,
+     "explanation": "x = 12 × 5/4 = 15."
+    },
+    {
+     "q": "Un estudiante leyó 3/8 de un libro de 240 páginas. ¿Cuántas páginas le faltan?",
+     "options": [
+      "160.",
+      "150.",
+      "90."
+     ],
+     "answer": 1,
+     "explanation": "Leyó 240 × 3/8 = 90; le faltan 240 − 90 = 150."
+    },
+    {
+     "q": "¿Qué medida de tendencia central es más adecuada cuando hay valores extremos (atípicos) en los datos?",
+     "options": [
+      "La media aritmética.",
+      "El rango.",
+      "La mediana."
+     ],
+     "answer": 2,
+     "explanation": "La mediana no se ve afectada por valores extremos, a diferencia de la media; el rango es una medida de dispersión."
+    },
+    {
+     "q": "En una encuesta a 200 padres, el 35 % prefiere reuniones virtuales. ¿Cuántos padres prefieren reuniones presenciales si las únicas opciones son esas dos?",
+     "options": [
+      "165.",
+      "130.",
+      "70."
+     ],
+     "answer": 1,
+     "explanation": "Presenciales: 65 % de 200 = 130."
+    },
+    {
+     "q": "Los datos de estatura (cm) de 5 plantas son 10, 12, 12, 15, 21. ¿Cuál es el rango?",
+     "options": [
+      "11 cm.",
+      "14 cm.",
+      "12 cm."
+     ],
+     "answer": 0,
+     "explanation": "Rango = máximo − mínimo = 21 − 10 = 11 cm."
+    }
+   ]
+  }
+ ]
+}

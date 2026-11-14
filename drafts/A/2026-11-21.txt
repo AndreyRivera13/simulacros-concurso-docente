@@ -1,0 +1,241 @@
+## repaso-s1-1
+Q: Un estudiante afirma que "las plantas hacen fotosíntesis en lugar de respirar". ¿Qué organelos evidencian que las células vegetales realizan ambos procesos?
++ Cloroplastos y mitocondrias.
+- Lisosomas y centriolos.
+- Núcleo y vacuola.
+E: Los cloroplastos realizan la fotosíntesis y las mitocondrias la respiración celular; las células vegetales poseen ambos.
+
+Q: En un acuario cerrado con plantas y peces, expuesto a luz natural, ¿por qué se mantiene el equilibrio de gases durante el día?
++ Las plantas producen O₂ por fotosíntesis que usan los peces, y los peces liberan CO₂ que usan las plantas.
+- Los peces producen O₂ y las plantas lo consumen.
+- El agua genera O₂ por sí misma sin seres vivos.
+E: Fotosíntesis y respiración son procesos complementarios en el ciclo del carbono y del oxígeno.
+
+Q: Si el acuario anterior se deja varios días en oscuridad total, ¿qué es lo más probable?
++ Disminuye el O₂ disuelto, porque solo hay respiración y no fotosíntesis.
+- Aumenta el O₂ porque las plantas descansan.
+- Nada cambia, porque las plantas no respiran.
+E: Sin luz las plantas no producen O₂, pero todos los organismos siguen consumiéndolo.
+
+Q: Una población de conejos tiene pelaje negro (N, dominante) o blanco (n). Si en un ecosistema nevado los depredadores ven mejor a los conejos negros, ¿qué ocurrirá con el tiempo?
++ Aumentará la frecuencia del alelo n en la población.
+- Aumentará la frecuencia del alelo N.
+- Los conejos negros se volverán blancos para camuflarse.
+E: Los conejos blancos sobreviven y se reproducen más, transmitiendo el alelo n; los individuos no cambian su genotipo por voluntad.
+
+Q: En el caso anterior, dos conejos negros tienen una cría blanca. ¿Qué genotipo tienen los padres?
++ Ambos Nn.
+- Ambos NN.
+- Uno NN y otro nn.
+E: La cría nn recibió un alelo n de cada padre; como los padres son negros, ambos son heterocigotos.
+
+Q: ¿Qué relación hay entre la regla del 10 % y la cantidad de individuos que puede sostener un ecosistema en el nivel de grandes carnívoros?
++ Los grandes carnívoros son pocos porque reciben una fracción muy pequeña de la energía de los productores.
+- Los carnívoros son muchos porque comen más.
+- No hay relación entre energía y número de individuos.
+E: Con pérdidas de ~90 % por nivel, la energía para el último nivel es limitada y sostiene poblaciones pequeñas.
+
+Q: ¿Qué método permitiría separar los pigmentos fotosintéticos de una hoja triturada en alcohol?
++ Cromatografía en papel.
+- Filtración simple.
+- Imantación.
+E: La cromatografía separa clorofilas y carotenoides según su afinidad con el solvente y el papel.
+
+Q: Al poner una célula vegetal en agua destilada, no estalla como un glóbulo rojo. ¿Por qué?
++ Porque la pared celular resiste la presión de turgencia.
+- Porque la membrana vegetal es impermeable al agua.
+- Porque las células vegetales no tienen vacuolas.
+E: El agua entra por ósmosis, pero la pared rígida limita la expansión y la célula queda turgente.
+
+Q: ¿Qué tienen en común la difusión de O₂ en los alvéolos y la mezcla de tinta en agua?
++ Ambas ocurren por movimiento espontáneo de partículas de mayor a menor concentración.
+- Ambas requieren ATP.
+- Ambas son reacciones químicas.
+E: Son procesos de difusión: no consumen energía metabólica y siguen el gradiente de concentración.
+
+Q: Un PRAE sobre la contaminación de una quebrada quiere medir el efecto de los vertimientos. ¿Qué indicador biológico pueden usar los estudiantes?
++ La presencia y diversidad de macroinvertebrados acuáticos.
+- El color de las hojas de los árboles del colegio.
+- El número de estudiantes que visita la quebrada.
+E: Los macroinvertebrados son bioindicadores de calidad del agua: algunos solo viven en aguas limpias.
+
+Q: ¿Qué cambio es químico: la evaporación del agua de la quebrada o la descomposición de la materia orgánica en ella?
++ La descomposición de la materia orgánica.
+- La evaporación del agua.
+- Ambos son cambios físicos.
+E: La descomposición transforma sustancias orgánicas en otras (CO₂, nitratos); la evaporación es un cambio de estado.
+
+Q: En la eutrofización de un lago por fertilizantes, ¿por qué mueren los peces?
++ Las algas proliferan, mueren y su descomposición por bacterias consume el oxígeno disuelto.
+- Los fertilizantes son venenosos para los peces de forma directa.
+- Las algas se comen a los peces.
+E: El exceso de nutrientes provoca crecimiento de algas; al descomponerse, los descomponedores agotan el O₂.
+
+Q: Un experimento compara el crecimiento de plantas con y sin fertilizante, manteniendo igual la luz, el agua y el tipo de planta. ¿Cuál es el grupo control?
++ Las plantas sin fertilizante.
+- Las plantas con fertilizante.
+- La luz y el agua.
+E: El grupo control no recibe el tratamiento y sirve de referencia; luz, agua y especie son variables controladas.
+
+Q: ¿Qué organelo se esperaría poco desarrollado en células de raíz que no reciben luz?
++ Los cloroplastos.
+- Las mitocondrias.
+- El núcleo.
+E: Las raíces no fotosintetizan, por lo que carecen de cloroplastos funcionales; sí necesitan mitocondrias para respirar.
+
+Q: ¿Qué propiedad física permitiría diferenciar dos líquidos incoloros: agua y alcohol?
++ Su punto de ebullición o su densidad.
+- Su color.
+- Su estado físico a temperatura ambiente.
+E: Ambos son líquidos incoloros; las propiedades específicas (densidad, punto de ebullición) los distinguen.
+
+Q: Una flor de dondiego rosada (RB) se cruza con una blanca (BB). ¿Qué proporción de descendientes será rosada?
++ 50 %.
+- 25 %.
+- 100 %.
+E: RB × BB → RB y BB en partes iguales: mitad rosadas y mitad blancas (dominancia incompleta).
+
+Q: ¿Por qué la quema de bosques afecta tanto el flujo de energía como el ciclo de la materia?
++ Elimina productores (entrada de energía) y libera de golpe el carbono almacenado como CO₂.
+- Solo afecta el flujo de energía.
+- Solo afecta el ciclo del agua.
+E: Se pierde la base de la cadena trófica y se altera el ciclo del carbono, con efecto en el clima.
+
+Q: ¿Qué tipo de relación ecológica existe entre una planta y el hongo micorrícico que vive en sus raíces, intercambiando nutrientes por azúcares?
++ Mutualismo.
+- Parasitismo.
+- Competencia.
+E: Ambos se benefician: el hongo recibe azúcares y la planta mejora la absorción de agua y minerales.
+
+Q: Una estudiante dice que la masa de una vela "desaparece" al quemarse. ¿Qué experiencia la ayudaría a reconstruir su idea?
++ Quemar la vela en un sistema cerrado sobre una balanza para comprobar que la masa total se conserva.
+- Medir la altura de la vela antes y después.
+- Leer la definición de combustión.
+E: En un sistema cerrado se evidencia la conservación de la masa; los productos son gases.
+
+Q: Para el área de Ciencias Naturales, ¿qué actividad integra genética y educación ambiental?
++ Analizar cómo la pérdida de hábitat reduce la variabilidad genética de una especie endémica.
+- Memorizar las leyes de Mendel.
+- Separar mezclas en el laboratorio.
+E: La variabilidad genética es clave para la adaptación; su pérdida aumenta el riesgo de extinción y conecta con la conservación.
+
+## repaso-s1-2
+Q: Un aspirante con licenciatura en Ciencias Naturales aprueba el concurso y es nombrado en marzo. ¿Hasta cuándo dura su periodo de prueba?
++ Hasta terminar el año académico, pues alcanzará más de cuatro meses de servicio.
+- Dos años desde el nombramiento.
+- Hasta que el rector lo considere.
+E: Según el Decreto 1278, el periodo de prueba se extiende hasta el fin del año académico con un mínimo de cuatro meses.
+
+Q: ¿Qué norma regula la evaluación de los estudiantes que la docente aplicará en el aula y cuál la evaluación de su propio desempeño?
++ El Decreto 1290 de 2009 y el Decreto Ley 1278 de 2002, respectivamente.
+- La Ley 1620 de 2013 en ambos casos.
+- El Decreto 1278 y el Decreto 1290, respectivamente.
+E: El 1290 regula la evaluación y promoción de estudiantes; el 1278, las evaluaciones de los docentes.
+
+Q: Dos estudiantes se insultan en clase por primera vez, sin lesiones. Según la Ley 1620 y su decreto, ¿qué corresponde?
++ Manejarlo como situación tipo I con mediación pedagógica y registro.
+- Remitirlo a la Policía de Infancia y Adolescencia.
+- Bajar la nota de Ciencias Naturales a ambos.
+E: Es un conflicto esporádico sin daño; además, la convivencia no se sanciona mediante la nota académica.
+
+Q: Un docente pretende reprobar en Ciencias a un estudiante por mal comportamiento, aunque alcanzó los desempeños. ¿Qué norma se desconoce?
++ El Decreto 1290, que evalúa el aprendizaje según desempeños; la convivencia se trata con el manual y la Ley 1620.
+- El Decreto 1278, que obliga a aprobar a todos.
+- La Ley 115, que prohíbe calificar.
+E: La valoración académica debe reflejar el logro de los desempeños; el comportamiento sigue otras rutas.
+
+Q: El 80 % mínimo del plan de estudios destinado a áreas obligatorias proviene de:
++ La Ley 115 de 1994.
+- El Decreto 1290 de 2009.
+- El Decreto 1743 de 1994.
+E: El artículo 23 de la Ley 115 fija ese porcentaje mínimo.
+
+Q: En un concurso, 1 200 aspirantes presentaron la prueba eliminatoria y el 35 % la aprobó. ¿Cuántos continúan a las etapas clasificatorias?
++ 420.
+- 780.
+- 350.
+E: 1 200 × 0,35 = 420; los 780 restantes quedan excluidos por ser eliminatoria.
+
+Q: ¿Qué instancia aprueba el SIEE y qué instancia preside el comité escolar de convivencia?
++ El consejo directivo aprueba el SIEE; el rector preside el comité de convivencia.
+- El consejo académico aprueba el SIEE; el personero preside el comité.
+- La secretaría de educación aprueba ambos.
+E: El Decreto 1290 asigna la aprobación del SIEE al consejo directivo; la Ley 1620 asigna la presidencia del comité al rector.
+
+Q: Una aspirante obtiene 58/100 en la prueba de aptitudes y competencias básicas y 90/100 en la psicotécnica. ¿Sigue en el concurso?
++ No, porque no alcanzó el mínimo de 60 en la prueba eliminatoria.
+- Sí, porque su promedio es superior a 60.
+- Sí, porque la psicotécnica compensa.
+E: La prueba eliminatoria debe aprobarse por sí misma; las clasificatorias no compensan.
+
+Q: El Decreto 1278 ubica a la licenciada en el grado 2. Si luego obtiene un doctorado, ¿qué necesita para estar en el grado 3?
++ Superar la evaluación de competencias para ascenso y cumplir los requisitos de tiempo.
+- Nada; el doctorado da ascenso automático.
+- Presentar de nuevo el concurso de ingreso.
+E: En el 1278 el ascenso requiere título, tiempo de servicio y aprobación de la evaluación de competencias.
+
+Q: ¿Qué figura del Decreto 1290 aplicaría a una estudiante de 8.º que en el primer periodo demuestra desempeño superior en todas las áreas?
++ Promoción anticipada.
+- Situación tipo I.
+- Periodo de prueba.
+E: La promoción anticipada permite avanzar de grado durante el primer periodo, con recomendación del consejo académico y decisión del consejo directivo.
+
+Q: Un grupo tiene notas 2,5; 3,0; 3,0; 4,0; 4,5. ¿Cuáles son la mediana y la moda?
++ Mediana 3,0 y moda 3,0.
+- Mediana 3,4 y moda 4,5.
+- Mediana 4,0 y moda 2,5.
+E: Ordenados, el central es 3,0 y el valor más repetido también es 3,0; el promedio sería 3,4.
+
+Q: ¿Qué instancia integra a estudiantes, docentes, padres y directivos para revisar casos de acoso?
++ El comité escolar de convivencia.
+- La comisión de evaluación y promoción.
+- El consejo académico.
+E: El comité de convivencia (Ley 1620) incluye representantes de distintos estamentos.
+
+Q: ¿Qué principio constitucional comparten el concurso de méritos y la evaluación de desempeño docente?
++ El mérito como criterio de ingreso y permanencia en el servicio.
+- La antigüedad como único criterio.
+- La libre designación de los cargos.
+E: El artículo 125 de la Constitución establece que el ingreso, la permanencia y el ascenso se basan en el mérito.
+
+Q: La Ley 115 exige enseñar la protección del ambiente. ¿Cómo se concreta esta obligación en la institución?
++ Mediante el área de ciencias naturales y educación ambiental y el proyecto transversal PRAE.
+- Únicamente con una salida pedagógica anual.
+- Mediante una prueba escrita en el grado 11.
+E: El artículo 14 de la Ley 115 y el Decreto 1743 orientan la educación ambiental transversal en el PEI.
+
+Q: En SIMO, una aspirante no cargó su título de licenciada antes del cierre de inscripciones. ¿Qué es lo más probable en la verificación de requisitos mínimos?
++ Que resulte "no admitida" por no acreditar el requisito.
+- Que se le asigne puntaje cero solo en antecedentes y continúe.
+- Que pueda entregarlo el día de la prueba.
+E: La verificación se hace con los documentos cargados oportunamente; sin el título, no cumple el requisito mínimo.
+
+Q: El precio de inscripción de un concurso es $45 000 y se reajusta 8 %. ¿Cuál es el nuevo valor?
++ $48 600.
+- $53 000.
+- $45 800.
+E: 45 000 × 1,08 = 48 600.
+
+Q: ¿Cuál de los siguientes es un componente de la Ruta de Atención Integral y no una situación tipo?
++ Prevención.
+- Tipo II.
+- Tipo III.
+E: Los componentes son promoción, prevención, atención y seguimiento; los tipos I, II y III clasifican situaciones.
+
+Q: ¿Qué niveles de la educación formal establece la Ley 115 y a cuál corresponde el grado 10.º?
++ Preescolar, básica y media; el grado 10.º es de la media.
+- Primaria, secundaria y universitaria; el 10.º es universitario.
+- Básica y media; el 10.º es de la básica secundaria.
+E: La media comprende los grados 10.º y 11.º.
+
+Q: Un rector califica en 50 % el desempeño anual de un docente por segundo año consecutivo. Según el Decreto 1278, ¿qué consecuencia se sigue?
++ La exclusión del escalafón y el retiro del servicio, con debido proceso.
+- Una felicitación pública.
+- Un aumento del nivel salarial.
+E: Dos evaluaciones de desempeño no satisfactorias consecutivas conducen al retiro según el artículo 36.
+
+Q: Un plan de estudios tiene 30 horas semanales. ¿Cuántas horas como mínimo deben corresponder a las áreas obligatorias y fundamentales?
++ 24 horas.
+- 20 horas.
+- 30 horas.
+E: El 80 % de 30 es 24 horas, según el artículo 23 de la Ley 115.

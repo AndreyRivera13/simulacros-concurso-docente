@@ -1,0 +1,255 @@
+## algoritmos-y-pensamiento-computacional
+Q: ¿Qué es un algoritmo?
++ Una secuencia finita, ordenada y precisa de pasos para resolver un problema.
+- Un programa escrito obligatoriamente en Python.
+- Un componente físico del computador.
+E: Un algoritmo es independiente del lenguaje; puede expresarse en lenguaje natural, pseudocódigo o diagramas de flujo.
+
+Q: ¿Cuáles son los cuatro pilares habituales del pensamiento computacional?
++ Descomposición, reconocimiento de patrones, abstracción y diseño de algoritmos.
+- Hardware, software, redes y bases de datos.
+- Entrada, proceso, salida y almacenamiento.
+E: Estos pilares describen cómo abordar problemas de forma que puedan resolverse con apoyo computacional o sin él.
+
+Q: Un estudiante divide el problema "organizar la feria escolar" en logística, presupuesto, publicidad e inscripciones. ¿Qué pilar aplica?
++ Descomposición.
+- Abstracción.
+- Reconocimiento de patrones.
+E: Descomponer es dividir un problema complejo en partes más manejables.
+
+Q: Al diseñar un mapa del metro, se omiten calles y distancias reales y solo se muestran estaciones y conexiones. ¿Qué pilar se aplica?
++ Abstracción.
+- Descomposición.
+- Depuración.
+E: La abstracción conserva lo relevante para el problema y elimina detalles innecesarios.
+
+Q: En un diagrama de flujo, ¿qué símbolo representa una decisión?
++ El rombo.
+- El rectángulo.
+- El óvalo.
+E: El rombo indica una condición con salidas sí/no; el rectángulo, un proceso; el óvalo, inicio o fin.
+
+Q: ¿Qué representa el paralelogramo en un diagrama de flujo?
++ Entrada o salida de datos.
+- Un proceso de cálculo.
+- El inicio del algoritmo.
+E: El paralelogramo se usa para leer datos o mostrar resultados.
+
+Q: Considere el pseudocódigo. ¿Cuál es el valor final de y?
+x ← 5
+y ← 3
+x ← x + y
+y ← x − y
++ 5.
+- 3.
+- 8.
+E: x pasa a 8; luego y ← 8 − 3 = 5.
+
+Q: ¿Qué valor muestra el algoritmo?
+suma ← 0
+para i desde 1 hasta 4:
+    suma ← suma + i
+mostrar suma
++ 10.
+- 4.
+- 15.
+E: 1 + 2 + 3 + 4 = 10.
+
+Q: Un algoritmo debe determinar si un número n es par. ¿Qué condición es correcta?
++ Si n mod 2 = 0, entonces es par.
+- Si n / 2 = 2, entonces es par.
+- Si n mod 2 = 1, entonces es par.
+E: El operador módulo da el residuo; un número par tiene residuo 0 al dividir entre 2.
+
+Q: ¿Cuál es una propiedad esencial de un algoritmo correcto?
++ Debe terminar en un número finito de pasos.
+- Debe repetirse infinitamente.
+- Debe escribirse en inglés.
+E: Finitud, precisión (sin ambigüedad) y definición de entradas y salidas son características de un algoritmo.
+
+Q: Pseudocódigo: leer edad; si edad ≥ 18 entonces mostrar "mayor" sino mostrar "menor". Si edad = 18, ¿qué se muestra?
++ "mayor".
+- "menor".
+- Nada, porque 18 no cumple la condición.
+E: La condición "mayor o igual que" incluye el 18.
+
+Q: Un estudiante detecta que todos los ejercicios de áreas de rectángulos se resuelven con base × altura. ¿Qué pilar aplica?
++ Reconocimiento de patrones.
+- Descomposición.
+- Depuración.
+E: Identificar similitudes permite reutilizar soluciones.
+
+Q: ¿Qué es "depurar" (debugging) un algoritmo?
++ Encontrar y corregir errores en el algoritmo o programa.
+- Borrar el algoritmo y empezar otro.
+- Dibujar el diagrama de flujo.
+E: La depuración incluye probar con datos, hacer trazas y corregir fallas lógicas o de sintaxis.
+
+Q: ¿Cuántas veces se ejecuta el cuerpo del ciclo?
+n ← 10
+mientras n > 0:
+    n ← n − 3
++ 4 veces.
+- 3 veces.
+- 10 veces.
+E: n toma 10 → 7 → 4 → 1 → −2: el cuerpo se ejecuta 4 veces y el ciclo termina cuando n = −2.
+
+Q: ¿Qué es una "prueba de escritorio" o traza?
++ Seguir paso a paso el algoritmo con datos concretos, registrando el valor de las variables.
+- Ejecutar el programa en un servidor remoto.
+- Escribir el algoritmo en un escritorio de madera.
+E: La traza permite verificar la lógica antes de programar.
+
+Q: ¿Qué estrategia es adecuada para enseñar algoritmos en grado 3.º sin computadores (actividades "desconectadas")?
++ Que los estudiantes den instrucciones precisas a un compañero "robot" para llegar a un punto de una cuadrícula.
+- Que copien la definición de algoritmo diez veces.
+- Que memoricen la sintaxis de Java.
+E: Las actividades desconectadas desarrollan secuenciación, precisión y depuración de manera concreta.
+
+Q: ¿Cuál de los siguientes es un ejemplo cotidiano de algoritmo?
++ Una receta de cocina con pasos ordenados.
+- Un libro de cuentos.
+- Una fotografía.
+E: La receta tiene entradas (ingredientes), pasos ordenados y una salida (el plato).
+
+Q: Para hallar el mayor de tres números a, b y c, ¿qué estructura es necesaria?
++ Estructuras condicionales que comparen los valores.
+- Un ciclo infinito.
+- Únicamente asignaciones sin comparar.
+E: Se requieren comparaciones (si a > b y a > c, etc.) para decidir cuál es el mayor.
+
+Q: ¿Qué estructuras básicas de control permiten construir cualquier algoritmo según la programación estructurada?
++ Secuencia, selección (decisión) y repetición (ciclo).
+- Variables, constantes y comentarios.
+- Entrada, salida y archivo.
+E: El teorema de Böhm-Jacopini establece que bastan secuencia, selección e iteración.
+
+Q: ¿Cuál es el valor final de a?
+a ← 2
+para i desde 1 hasta 3:
+    a ← a × 2
++ 16.
+- 8.
+- 6.
+E: 2 → 4 → 8 → 16 (tres multiplicaciones por 2).
+
+## derecho-a-la-educacion-y-estructura-del-sector-e
+Q: Según el artículo 67 de la Constitución, la educación es:
++ Un derecho de la persona y un servicio público que tiene una función social.
+- Un privilegio para quienes pueden pagarla.
+- Un servicio exclusivamente privado.
+E: El artículo 67 la define como derecho y servicio público con función social.
+
+Q: ¿Entre qué edades es obligatoria la educación según el artículo 67 de la Constitución?
++ Entre los 5 y los 15 años, con mínimo un año de preescolar y nueve de básica.
+- Entre los 7 y los 18 años.
+- Entre los 3 y los 11 años.
+E: Así lo establece el texto constitucional.
+
+Q: ¿Qué dice el artículo 67 sobre la gratuidad?
++ La educación será gratuita en las instituciones del Estado, sin perjuicio del cobro de derechos académicos a quienes puedan sufragarlos.
+- Es gratuita en todas las instituciones, públicas y privadas.
+- Nunca es gratuita.
+E: Hoy existe política de gratuidad en la educación oficial de preescolar, básica y media.
+
+Q: ¿Quiénes son responsables de la educación según el artículo 67?
++ El Estado, la sociedad y la familia.
+- Solo el Estado.
+- Solo la familia.
+E: La Constitución establece la corresponsabilidad de estos tres actores.
+
+Q: El artículo 44 de la Constitución establece que los derechos de los niños:
++ Prevalecen sobre los derechos de los demás.
+- Son iguales a los de cualquier adulto, sin prevalencia.
+- Solo se aplican a mayores de 12 años.
+E: La prevalencia de los derechos de los niños es principio constitucional; la educación está entre sus derechos fundamentales.
+
+Q: Según el artículo 68 de la Constitución, la enseñanza debe estar a cargo de:
++ Personas de reconocida idoneidad ética y pedagógica.
+- Cualquier persona que tenga título universitario.
+- Solo licenciados graduados en universidades públicas.
+E: El artículo 68 exige idoneidad ética y pedagógica, y remite a la ley la profesionalización docente.
+
+Q: ¿Qué dice la Constitución (art. 68) sobre la educación religiosa en establecimientos del Estado?
++ Ninguna persona podrá ser obligada a recibirla.
+- Es obligatoria la educación católica.
+- Está prohibida.
+E: Se garantiza la libertad de cultos y de conciencia.
+
+Q: ¿Cuál es la entidad rectora de la política educativa en Colombia?
++ El Ministerio de Educación Nacional.
+- La CNSC.
+- El ICFES.
+E: El MEN formula la política, fija lineamientos y estándares; el ICFES evalúa y la CNSC adelanta concursos.
+
+Q: ¿Qué es una "entidad territorial certificada" (ETC) en educación?
++ Un departamento, distrito o municipio certificado que administra el servicio educativo, la planta docente y los recursos.
+- Un colegio con certificado de calidad ISO.
+- Una universidad acreditada.
+E: Las ETC (Ley 715 de 2001) nombran y administran a los docentes; son las que ofertan las vacantes del concurso.
+
+Q: ¿Qué municipios se certifican en educación según la Ley 715 de 2001?
++ Los que tienen más de 100 000 habitantes, y otros que cumplan los requisitos que se fijen.
+- Todos los municipios, sin excepción.
+- Solo las capitales de departamento con universidad pública.
+E: Los distritos y municipios de más de 100 000 habitantes se certifican; los no certificados dependen del departamento.
+
+Q: Un docente trabaja en un municipio pequeño no certificado. ¿Qué entidad administra su nombramiento?
++ La secretaría de educación del departamento.
+- El alcalde del municipio.
+- El Ministerio de Educación directamente.
+E: Los departamentos administran la educación en los municipios no certificados.
+
+Q: ¿Qué es el Sistema General de Participaciones (SGP)?
++ Los recursos que la Nación transfiere a las entidades territoriales para financiar educación, salud y otros servicios.
+- El sistema de participación de padres en el colegio.
+- Una plataforma para inscribirse a concursos.
+E: Lo crearon el Acto Legislativo 01 de 2001 y la Ley 715; con él se pagan, entre otros, los salarios docentes.
+
+Q: ¿Qué función cumple el ICFES?
++ Evaluar la calidad de la educación mediante pruebas como Saber 11 y Saber 3.°, 5.° y 9.°.
+- Nombrar a los docentes.
+- Administrar los colegios privados.
+E: El ICFES es la entidad de evaluación; sus resultados retroalimentan la política y las instituciones.
+
+Q: ¿Qué norma compila hoy los decretos reglamentarios del sector educación?
++ El Decreto 1075 de 2015.
+- La Ley 30 de 1992.
+- El Decreto 2277 de 1979.
+E: El 1075 es el Decreto Único Reglamentario del Sector Educación; la Ley 30 regula la educación superior.
+
+Q: ¿Qué artículo de la Constitución obliga a estudiar la Constitución y la instrucción cívica en todas las instituciones de educación?
++ El artículo 41.
+- El artículo 86.
+- El artículo 125.
+E: El artículo 41 establece este estudio obligatorio y la promoción de prácticas democráticas.
+
+Q: ¿Qué es la "función social" de la educación?
++ Que busca el acceso al conocimiento, a la ciencia, a la técnica y a los valores de la cultura, en beneficio de la persona y la sociedad.
+- Que debe generar utilidades económicas.
+- Que solo forma para el trabajo.
+E: El artículo 67 indica que la educación forma en el respeto a los derechos humanos, la paz, la democracia y la protección del ambiente.
+
+Q: Una niña de 9 años no ha sido matriculada por falta de cupo. ¿Qué mecanismo constitucional podría usar su familia para proteger su derecho a la educación?
++ La acción de tutela.
+- El recurso de casación.
+- Una consulta popular.
+E: La educación de los niños es un derecho fundamental y su vulneración puede reclamarse por tutela.
+
+Q: ¿Qué entidad inspecciona y vigila la prestación del servicio educativo según la Constitución?
++ El Estado, que ejerce la suprema inspección y vigilancia de la educación.
+- Las asociaciones de padres exclusivamente.
+- Los sindicatos docentes.
+E: El artículo 67 asigna al Estado la regulación, inspección y vigilancia para velar por la calidad.
+
+Q: ¿Qué artículo de la Constitución señala que el ingreso a los cargos de carrera se hace por concurso de méritos?
++ El artículo 125.
+- El artículo 67.
+- El artículo 44.
+E: El artículo 125 es la base constitucional del concurso docente.
+
+Q: ¿Qué nivel de la administración se encarga directamente de nombrar al docente que gana el concurso?
++ La entidad territorial certificada (gobernador o alcalde, a través de la secretaría de educación).
+- La CNSC.
+- El rector del colegio.
+E: La CNSC adelanta el concurso y conforma listas; la ETC hace el nombramiento en periodo de prueba.

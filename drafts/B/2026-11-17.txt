@@ -1,0 +1,241 @@
+## hardware-y-arquitectura-del-computador
+Q: ¿Qué componente ejecuta las instrucciones de los programas y realiza los cálculos en un computador?
++ La unidad central de procesamiento (CPU).
+- El disco duro.
+- La tarjeta de red.
+E: La CPU contiene la unidad de control y la unidad aritmético-lógica (ALU) que procesan las instrucciones.
+
+Q: ¿Cuál es la característica principal de la memoria RAM?
++ Es volátil: pierde su contenido al apagar el equipo.
+- Almacena los datos de forma permanente.
+- Solo se puede leer y nunca escribir.
+E: La RAM guarda temporalmente datos y programas en uso; el almacenamiento permanente está en discos o SSD.
+
+Q: ¿Qué tipo de memoria contiene el firmware de arranque (BIOS/UEFI) y no se borra al apagar el equipo?
++ Memoria no volátil tipo ROM/flash.
+- Memoria RAM.
+- Memoria caché L1.
+E: El firmware se guarda en memoria no volátil para que esté disponible al encender.
+
+Q: En el modelo de von Neumann, ¿qué idea clave se plantea?
++ Datos e instrucciones se almacenan en la misma memoria.
+- Cada programa necesita su propio computador.
+- El computador no necesita memoria.
+E: La arquitectura de von Neumann comparte memoria para datos e instrucciones, con CPU, memoria, entrada/salida y buses.
+
+Q: ¿Cuál de los siguientes es un periférico de entrada?
++ El teclado.
+- El monitor.
+- La impresora.
+E: El teclado ingresa datos; monitor e impresora son periféricos de salida.
+
+Q: Una pantalla táctil se considera un periférico:
++ De entrada y salida (mixto).
+- Solo de salida.
+- De almacenamiento.
+E: Muestra información (salida) y recibe toques (entrada).
+
+Q: ¿Cuántos bytes tiene un kilobyte en el sistema binario tradicional (KiB)?
++ 1 024 bytes.
+- 1 000 bytes.
+- 8 bytes.
+E: 2¹⁰ = 1 024; en el sistema internacional, 1 kB = 1 000 bytes, por eso se usa KiB para 1 024.
+
+Q: ¿Cuántos bits tiene un byte?
++ 8 bits.
+- 4 bits.
+- 16 bits.
+E: Un byte equivale a 8 bits, lo que permite 256 combinaciones (2⁸).
+
+Q: ¿Qué ventaja tiene un disco de estado sólido (SSD) frente a un disco duro mecánico (HDD)?
++ Mayor velocidad de acceso y ausencia de partes móviles.
+- Mayor capacidad siempre al mismo precio.
+- Es memoria volátil.
+E: El SSD usa memoria flash, es más rápido y resistente a golpes; el HDD usa platos giratorios.
+
+Q: ¿Qué función cumple la tarjeta madre (placa base)?
++ Interconectar CPU, memoria, almacenamiento y periféricos mediante buses y conectores.
+- Mostrar imágenes en pantalla.
+- Almacenar los archivos del usuario.
+E: La placa base es el circuito principal que comunica todos los componentes.
+
+Q: ¿Qué es la memoria caché?
++ Una memoria muy rápida y pequeña, cercana a la CPU, que guarda datos de uso frecuente.
+- Un tipo de disco externo.
+- La papelera de reciclaje.
+E: La caché reduce el tiempo de acceso a datos que la CPU usa repetidamente.
+
+Q: La frecuencia de un procesador se expresa en GHz. ¿Qué indica?
++ Los ciclos de reloj por segundo (miles de millones por segundo).
+- La cantidad de memoria disponible.
+- La temperatura del procesador.
+E: 3 GHz equivale a 3 000 millones de ciclos por segundo; el rendimiento depende también de núcleos y arquitectura.
+
+Q: ¿Qué ventaja ofrece un procesador con varios núcleos?
++ Ejecutar varias tareas o hilos en paralelo.
+- Aumentar la capacidad del disco duro.
+- Eliminar la necesidad de memoria RAM.
+E: Cada núcleo puede procesar instrucciones simultáneamente, mejorando el multitarea.
+
+Q: ¿Qué componente transforma la corriente alterna del tomacorriente en corriente continua para el computador?
++ La fuente de poder.
+- La tarjeta de video.
+- El procesador.
+E: La fuente convierte 110-120 V AC en voltajes DC (12 V, 5 V, 3,3 V) que usan los componentes.
+
+Q: ¿Qué hace la GPU (unidad de procesamiento gráfico)?
++ Procesa gráficos y cálculos en paralelo, liberando a la CPU de esas tareas.
+- Almacena los programas instalados.
+- Conecta el equipo a internet.
+E: La GPU tiene muchos núcleos especializados en cálculos paralelos, útiles para gráficos e inteligencia artificial.
+
+Q: Un estudiante tiene una memoria USB de 16 GB y quiere guardar videos de 700 MB cada uno. ¿Cuántos videos completos caben, aproximadamente (1 GB ≈ 1 000 MB)?
++ 22 videos.
+- 16 videos.
+- 7 videos.
+E: 16 000 MB / 700 MB ≈ 22,8; caben 22 videos completos.
+
+Q: ¿Cuál es la secuencia del ciclo básico de instrucción de la CPU?
++ Búsqueda (fetch), decodificación y ejecución.
+- Encendido, apagado y reinicio.
+- Entrada, impresión y almacenamiento.
+E: La CPU busca la instrucción en memoria, la decodifica y la ejecuta, repitiendo el ciclo.
+
+Q: ¿Qué es un puerto USB?
++ Una interfaz estándar para conectar periféricos y transferir datos y energía.
+- Un tipo de memoria RAM.
+- Un programa antivirus.
+E: USB (Universal Serial Bus) permite conectar teclados, memorias, cámaras, etc.
+
+Q: En el aula, un computador se vuelve lento al abrir muchos programas a la vez. ¿Qué componente es más probable que esté al límite?
++ La memoria RAM.
+- El monitor.
+- El teclado.
+E: Cuando la RAM se llena, el sistema usa el disco como memoria virtual, que es mucho más lenta.
+
+Q: ¿Qué práctica de mantenimiento preventivo es adecuada para la sala de informática?
++ Limpiar el polvo de ventiladores y verificar conexiones con el equipo apagado y desconectado.
+- Abrir los equipos encendidos para revisarlos.
+- Mojar los teclados para limpiarlos.
+E: El mantenimiento preventivo prolonga la vida útil y debe hacerse con seguridad eléctrica.
+
+## ley-115-de-1994-fines-niveles-areas-obligatorias
+Q: ¿Qué es la Ley 115 de 1994?
++ La Ley General de Educación, que regula el servicio público educativo.
+- La ley de convivencia escolar.
+- El estatuto de profesionalización docente.
+E: La Ley 115 fija normas generales del servicio educativo; la convivencia es la Ley 1620 de 2013 y el estatuto docente el Decreto Ley 1278 de 2002.
+
+Q: Según la Ley 115, ¿cuáles son los niveles de la educación formal?
++ Preescolar, básica (primaria y secundaria) y media.
+- Inicial, primaria, bachillerato y universitaria.
+- Básica, media y técnica profesional.
+E: El artículo 11 organiza la educación formal en preescolar, básica (nueve grados: cinco de primaria y cuatro de secundaria) y media (dos grados).
+
+Q: ¿Cuántos grados tiene la educación básica según la Ley 115?
++ Nueve: cinco de primaria y cuatro de secundaria.
+- Once: cinco de primaria y seis de secundaria.
+- Seis: tres de primaria y tres de secundaria.
+E: La básica va de 1.º a 9.º; la media comprende los grados 10.º y 11.º.
+
+Q: ¿Cuál de las siguientes es un área obligatoria y fundamental según el artículo 23 de la Ley 115?
++ Tecnología e informática.
+- Robótica avanzada.
+- Contabilidad sistematizada.
+E: El artículo 23 incluye nueve grupos de áreas, entre ellas tecnología e informática, ciencias naturales y educación ambiental, y matemáticas.
+
+Q: ¿Qué porcentaje mínimo del plan de estudios deben ocupar las áreas obligatorias y fundamentales?
++ El 80 %.
+- El 50 %.
+- El 100 %.
+E: El artículo 23 señala que estos grupos de áreas comprenderán un mínimo del 80 % del plan de estudios; el resto lo define la autonomía institucional.
+
+Q: Un colegio decide incluir "Programación" como asignatura dentro del área de Tecnología e Informática. ¿En qué se apoya legalmente?
++ En la autonomía escolar del artículo 77 de la Ley 115, dentro de los lineamientos del MEN.
+- En el Decreto 1290, que obliga a crear asignaturas nuevas.
+- En la Ley 1620, que regula el plan de estudios.
+E: El artículo 77 permite organizar las áreas, introducir asignaturas optativas y adaptarlas a las necesidades regionales.
+
+Q: Según el artículo 14 de la Ley 115, ¿cuál es una enseñanza obligatoria en todos los establecimientos?
++ La enseñanza de la protección del ambiente, la ecología y la preservación de los recursos naturales.
+- La enseñanza de un segundo idioma extranjero desde preescolar.
+- La enseñanza de programación de computadores.
+E: El artículo 14 incluye estudio de la Constitución, aprovechamiento del tiempo libre, protección del ambiente, educación para la paz y la democracia, y educación sexual.
+
+Q: ¿Cuál es un fin de la educación según el artículo 5 de la Ley 115?
++ La adquisición de una conciencia para la conservación, protección y mejoramiento del medio ambiente.
+- La preparación exclusiva para el ingreso a la universidad.
+- La formación de mano de obra para las empresas privadas.
+E: El numeral 10 del artículo 5 menciona la conciencia ambiental; los fines buscan el desarrollo integral, no solo la preparación académica o laboral.
+
+Q: ¿Qué entiende la Ley 115 por "currículo"?
++ El conjunto de criterios, planes de estudio, programas, metodologías y procesos que contribuyen a la formación integral.
+- La lista de libros que deben comprar los estudiantes.
+- El horario de clases de cada docente.
+E: El artículo 76 define el currículo de forma amplia, incluyendo recursos humanos, académicos y físicos para poner en práctica el PEI.
+
+Q: ¿Qué es el PEI según la Ley 115?
++ El Proyecto Educativo Institucional, que define principios, fines, recursos, estrategia pedagógica y reglamento de la institución.
+- El Plan de Evaluación Individual de cada estudiante.
+- El Programa Estatal de Infraestructura escolar.
+E: El artículo 73 obliga a cada establecimiento a elaborar y poner en práctica un PEI con participación de la comunidad educativa.
+
+Q: ¿Qué grado de preescolar es obligatorio según la Ley 115?
++ Mínimo un grado obligatorio (transición) en los establecimientos estatales.
+- Tres grados obligatorios.
+- Ninguno; el preescolar es opcional.
+E: El artículo 18 establece al menos un grado obligatorio de preescolar; la Constitución (art. 67) también menciona mínimo un año de preescolar.
+
+Q: ¿Cuál es el objeto de la educación media académica según la Ley 115?
++ Profundizar en un campo del conocimiento y preparar para la educación superior.
+- Enseñar a leer y escribir.
+- Formar exclusivamente para un oficio técnico.
+E: El artículo 29 señala que la media (académica o técnica) busca la comprensión de ideas y valores universales y la preparación para la educación superior y el trabajo.
+
+Q: Además de las áreas de la básica, ¿qué áreas añade la media académica según el artículo 31?
++ Ciencias económicas, ciencias políticas y filosofía.
+- Contabilidad, mecánica y agricultura.
+- Programación, robótica y diseño.
+E: El artículo 31 indica que en la media académica son obligatorias las mismas áreas de la básica, en un nivel más avanzado, además de ciencias económicas, políticas y filosofía.
+
+Q: La Ley 115 define a la comunidad educativa como:
++ Estudiantes, educadores, padres de familia, egresados, directivos y administradores escolares.
+- Únicamente rector y docentes.
+- Solo los padres de familia y el consejo directivo.
+E: El artículo 6 incluye a todos estos estamentos, que participan en el diseño, ejecución y evaluación del PEI.
+
+Q: ¿Qué órganos conforman el gobierno escolar según el artículo 142 de la Ley 115?
++ Consejo directivo, consejo académico y rector.
+- Personero, comité de convivencia y consejo de padres.
+- Secretaría de educación, rector y coordinador.
+E: El gobierno escolar de las instituciones estatales está integrado por el consejo directivo, el consejo académico y el rector.
+
+Q: ¿Qué estudiante puede ser personero de los estudiantes según el artículo 94 de la Ley 115?
++ Un alumno del último grado que ofrezca la institución.
+- Cualquier estudiante de grado 6.º.
+- El estudiante con mejor promedio, designado por el rector.
+E: El personero es un estudiante del último grado, elegido por los estudiantes, encargado de promover sus derechos y deberes.
+
+Q: ¿Qué es la educación "no formal" hoy denominada para el trabajo y el desarrollo humano?
++ La que se ofrece para complementar, actualizar o formar en aspectos académicos o laborales sin sujeción al sistema de niveles y grados.
+- La educación que se imparte sin docentes.
+- La educación en el hogar sin reconocimiento legal.
+E: La Ley 115 distingue educación formal, no formal (hoy ETDH, Ley 1064 de 2006) e informal.
+
+Q: La Ley 115 indica que la educación ambiental debe:
++ Desarrollarse de manera transversal mediante proyectos pedagógicos, además del área de ciencias naturales y educación ambiental.
+- Enseñarse solo en grado 11.º como cátedra opcional.
+- Delegarse a las corporaciones autónomas regionales.
+E: Además del área obligatoria, el artículo 14 la incluye como enseñanza obligatoria que se cumple mediante proyectos transversales (como el PRAE).
+
+Q: ¿Qué establece la Ley 115 sobre la educación religiosa?
++ Es área obligatoria, pero ninguna persona puede ser obligada a recibirla (libertad de cultos).
+- Es optativa y no puede figurar en el plan de estudios.
+- Es obligatoria y debe ser católica en todos los colegios.
+E: El artículo 23 la incluye como área y el parágrafo garantiza que nadie será obligado a recibirla, conforme a la libertad religiosa.
+
+Q: ¿Qué objetivo de la básica secundaria (art. 22 de la Ley 115) se relaciona directamente con el área de tecnología?
++ La comprensión de la dimensión práctica de los conocimientos teóricos y la capacidad para utilizarlos en la solución de problemas.
+- La memorización de los nombres de los inventores.
+- La prohibición de usar computadores antes de la media.
+E: El artículo 22 lo incluye entre los objetivos de la secundaria; además, el artículo 5 (num. 13) fija como fin promover la capacidad de crear, investigar y adoptar la tecnología.

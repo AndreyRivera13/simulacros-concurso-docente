@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-19",
+ "n": 5,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "programacion-variables-condicionales-y-ciclos",
+   "title": "Programación: variables, condicionales y ciclos",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "En Python, ¿qué imprime el código?\nx = 7\ny = 2\nprint(x // y)",
+     "options": [
+      "1",
+      "3",
+      "3.5"
+     ],
+     "answer": 1,
+     "explanation": "El operador // es división entera: 7 // 2 = 3. La división normal (/) daría 3.5 y el módulo (%) daría 1."
+    },
+    {
+     "q": "En Python, ¿qué imprime print(7 % 3)?",
+     "options": [
+      "1",
+      "2",
+      "2.33"
+     ],
+     "answer": 0,
+     "explanation": "El operador % devuelve el residuo de la división: 7 = 3 × 2 + 1."
+    },
+    {
+     "q": "¿Qué tipo de dato es el valor \"25\" (entre comillas) en Python?",
+     "options": [
+      "Un número decimal (float).",
+      "Una cadena de texto (str).",
+      "Un entero (int)."
+     ],
+     "answer": 1,
+     "explanation": "Las comillas lo convierten en texto; para operar como número habría que convertirlo con int(\"25\")."
+    },
+    {
+     "q": "¿Qué imprime el código?\na = \"3\"\nb = \"4\"\nprint(a + b)",
+     "options": [
+      "34",
+      "7",
+      "Un error de sintaxis."
+     ],
+     "answer": 0,
+     "explanation": "Con cadenas, el operador + concatena: \"3\" + \"4\" = \"34\"."
+    },
+    {
+     "q": "¿Qué imprime el siguiente código?\nnota = 3.0\nif nota >= 3.0:\n    print(\"Aprobó\")\nelse:\n    print(\"Reprobó\")",
+     "options": [
+      "No imprime nada.",
+      "Reprobó",
+      "Aprobó"
+     ],
+     "answer": 2,
+     "explanation": "3.0 >= 3.0 es verdadero, por lo que se ejecuta el bloque del if."
+    },
+    {
+     "q": "¿Cuántas veces se imprime \"Hola\"?\nfor i in range(5):\n    print(\"Hola\")",
+     "options": [
+      "5 veces.",
+      "4 veces.",
+      "6 veces."
+     ],
+     "answer": 0,
+     "explanation": "range(5) genera 0, 1, 2, 3, 4: cinco iteraciones."
+    },
+    {
+     "q": "¿Qué valores genera range(2, 10, 3) en Python?",
+     "options": [
+      "3, 6, 9.",
+      "2, 5, 8, 11.",
+      "2, 5, 8."
+     ],
+     "answer": 2,
+     "explanation": "Empieza en 2, avanza de 3 en 3 y se detiene antes de 10."
+    },
+    {
+     "q": "¿Qué imprime el código?\ns = 0\nfor i in range(1, 6):\n    s = s + i\nprint(s)",
+     "options": [
+      "10",
+      "15",
+      "21"
+     ],
+     "answer": 1,
+     "explanation": "Suma 1 + 2 + 3 + 4 + 5 = 15 (range(1, 6) no incluye el 6)."
+    },
+    {
+     "q": "¿Qué problema tiene el código?\nn = 1\nwhile n > 0:\n    n = n + 1",
+     "options": [
+      "Es un ciclo infinito, porque n nunca deja de ser mayor que 0.",
+      "Se ejecuta exactamente una vez.",
+      "No se ejecuta ninguna vez."
+     ],
+     "answer": 0,
+     "explanation": "La condición siempre es verdadera; un ciclo while necesita que la condición llegue a ser falsa."
+    },
+    {
+     "q": "¿Qué diferencia hay entre un ciclo for y un ciclo while?",
+     "options": [
+      "El for se usa típicamente cuando se conoce el número de repeticiones; el while repite mientras se cumpla una condición.",
+      "El while no puede usar condiciones.",
+      "El for solo existe en Scratch."
+     ],
+     "answer": 0,
+     "explanation": "Ambos repiten, pero el while es útil cuando no se sabe de antemano cuántas iteraciones habrá."
+    },
+    {
+     "q": "¿Qué resultado da la expresión lógica (5 > 3) and (2 > 4)?",
+     "options": [
+      "True",
+      "False",
+      "5"
+     ],
+     "answer": 1,
+     "explanation": "and requiere que ambas condiciones sean verdaderas; 2 > 4 es falsa."
+    },
+    {
+     "q": "¿Qué resultado da (5 > 3) or (2 > 4)?",
+     "options": [
+      "False",
+      "True",
+      "Error"
+     ],
+     "answer": 1,
+     "explanation": "or es verdadero si al menos una condición es verdadera."
+    },
+    {
+     "q": "¿Qué imprime el código?\nx = 10\nif x > 15:\n    print(\"A\")\nelif x > 5:\n    print(\"B\")\nelse:\n    print(\"C\")",
+     "options": [
+      "B",
+      "C",
+      "A"
+     ],
+     "answer": 0,
+     "explanation": "x > 15 es falso; x > 5 es verdadero, así que se imprime \"B\" y no se evalúa el else."
+    },
+    {
+     "q": "En Scratch, ¿qué bloque se usa para repetir un conjunto de acciones un número fijo de veces?",
+     "options": [
+      "\"si ... entonces\".",
+      "\"al presionar bandera verde\".",
+      "\"repetir (10)\"."
+     ],
+     "answer": 2,
+     "explanation": "\"repetir (n)\" es un ciclo de conteo; \"si ... entonces\" es un condicional y la bandera verde es un evento."
+    },
+    {
+     "q": "¿Qué es una variable en programación?",
+     "options": [
+      "Un valor que nunca cambia durante la ejecución.",
+      "Un tipo de error.",
+      "Un espacio con nombre en memoria que almacena un valor que puede cambiar."
+     ],
+     "answer": 2,
+     "explanation": "Las variables guardan datos y su contenido puede actualizarse."
+    },
+    {
+     "q": "¿Qué imprime el código?\nx = 5\nx = x * 2\nx -= 3\nprint(x)",
+     "options": [
+      "7",
+      "13",
+      "10"
+     ],
+     "answer": 0,
+     "explanation": "x pasa a 10 y luego 10 − 3 = 7."
+    },
+    {
+     "q": "Un estudiante escribe el siguiente código y obtiene un error. ¿Cuál es la causa?\nedad = input(\"Edad: \")\nif edad > 18:\n    print(\"Mayor de edad\")",
+     "options": [
+      "if no admite el operador >.",
+      "input() devuelve texto y se compara con un número; debe convertirse con int().",
+      "La palabra edad está reservada en Python."
+     ],
+     "answer": 1,
+     "explanation": "En Python 3, input() retorna str; comparar str con int genera TypeError."
+    },
+    {
+     "q": "¿Cuántas veces se ejecuta el cuerpo del ciclo?\ni = 0\nwhile i < 10:\n    i = i + 2",
+     "options": [
+      "10 veces.",
+      "4 veces.",
+      "5 veces."
+     ],
+     "answer": 2,
+     "explanation": "i toma 0, 2, 4, 6, 8 antes de llegar a 10: son cinco iteraciones."
+    },
+    {
+     "q": "¿Qué función cumple la indentación (sangría) en Python?",
+     "options": [
+      "Indica comentarios.",
+      "Define los bloques de código que pertenecen a un if, for, while o función.",
+      "Es solo estética y no tiene efecto."
+     ],
+     "answer": 1,
+     "explanation": "En Python la sangría es parte de la sintaxis; una indentación incorrecta produce errores o cambia la lógica."
+    },
+    {
+     "q": "Para que estudiantes de 6.º comprendan los ciclos, ¿qué secuencia didáctica es más adecuada?",
+     "options": [
+      "Dictar la sintaxis de cinco lenguajes diferentes.",
+      "Empezar con la teoría de compiladores.",
+      "Partir de una actividad desconectada, programar en bloques (Scratch) y luego pasar a un lenguaje textual."
+     ],
+     "answer": 2,
+     "explanation": "Ir de lo concreto a lo abstracto y de bloques a texto reduce la carga cognitiva y favorece la comprensión."
+    }
+   ]
+  },
+  {
+   "id": "decreto-1290-de-2009-evaluacion-y-promocion",
+   "title": "Decreto 1290 de 2009: evaluación y promoción",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿Qué regula el Decreto 1290 de 2009?",
+     "options": [
+      "La evaluación del aprendizaje y la promoción de los estudiantes de básica y media.",
+      "La convivencia escolar.",
+      "La evaluación del desempeño de los docentes."
+     ],
+     "answer": 0,
+     "explanation": "El Decreto 1290 (compilado en el Decreto 1075 de 2015) regula la evaluación y promoción de los estudiantes."
+    },
+    {
+     "q": "¿Cuál es la escala de valoración nacional del Decreto 1290?",
+     "options": [
+      "A, B, C, D y E.",
+      "Desempeño Superior, Alto, Básico y Bajo.",
+      "Excelente, Sobresaliente, Aceptable, Insuficiente y Deficiente."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 5 fija esta escala; cada institución define su escala propia y su equivalencia con la nacional."
+    },
+    {
+     "q": "¿Qué significa \"desempeño básico\" en la escala nacional?",
+     "options": [
+      "La superación de los desempeños necesarios en relación con las áreas obligatorias y fundamentales.",
+      "El desempeño máximo esperado.",
+      "La no superación de los desempeños."
+     ],
+     "answer": 0,
+     "explanation": "El básico implica alcanzar lo necesario según estándares y lineamientos; el bajo es su no superación."
+    },
+    {
+     "q": "¿Quién define el Sistema Institucional de Evaluación de los Estudiantes (SIEE)?",
+     "options": [
+      "Cada docente para su asignatura.",
+      "Cada establecimiento educativo, y lo aprueba el consejo directivo.",
+      "El Ministerio de Educación, de forma igual para todos los colegios."
+     ],
+     "answer": 1,
+     "explanation": "El Decreto 1290 otorga autonomía a la institución para definir el SIEE, que debe aprobar el consejo directivo e incorporar al PEI."
+    },
+    {
+     "q": "¿Cuáles son los tres ámbitos de evaluación de los estudiantes según el Decreto 1290?",
+     "options": [
+      "Internacional, nacional e institucional.",
+      "Familiar, escolar y municipal.",
+      "Diagnóstico, formativo y sumativo."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 1 reconoce las pruebas internacionales, las pruebas Saber (nacional) y la evaluación en el aula (institucional)."
+    },
+    {
+     "q": "¿Cuál es un propósito de la evaluación institucional según el Decreto 1290?",
+     "options": [
+      "Proporcionar información para reorientar los procesos educativos y diseñar estrategias de apoyo.",
+      "Calcular el salario de los docentes.",
+      "Clasificar a los estudiantes para expulsar a los de menor desempeño."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 3 incluye identificar características y ritmos de aprendizaje, reorientar procesos, apoyar a estudiantes con dificultades y determinar la promoción."
+    },
+    {
+     "q": "Una estudiante de 7.º muestra desempeño superior en todas las áreas durante el primer periodo. ¿Qué figura le permite avanzar al grado siguiente?",
+     "options": [
+      "La graduación anticipada que concede la secretaría de educación.",
+      "La repitencia voluntaria.",
+      "La promoción anticipada, que el consejo académico recomienda y el consejo directivo decide."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 7 prevé la promoción anticipada en el primer periodo para estudiantes con desempeño superior."
+    },
+    {
+     "q": "¿Quién determina los criterios de promoción y el porcentaje de asistencia exigido?",
+     "options": [
+      "El establecimiento, en su SIEE.",
+      "El ICFES.",
+      "El Decreto 1290, que fija un tope de 5 % de repitencia."
+     ],
+     "answer": 0,
+     "explanation": "El Decreto 1290 eliminó el límite nacional de reprobación y dejó a cada institución definir sus criterios de promoción."
+    },
+    {
+     "q": "¿Qué instancia suele crear el SIEE para analizar casos de estudiantes con desempeño bajo y recomendar actividades de apoyo?",
+     "options": [
+      "El comité escolar de convivencia.",
+      "El consejo de padres.",
+      "La comisión de evaluación y promoción."
+     ],
+     "answer": 2,
+     "explanation": "Las comisiones de evaluación y promoción, definidas en el SIEE, hacen seguimiento y recomiendan estrategias de superación."
+    },
+    {
+     "q": "Un padre considera que la valoración final de su hijo es injusta. Según el Decreto 1290, ¿qué debe tener el SIEE?",
+     "options": [
+      "Un mecanismo para que el padre cambie la nota directamente.",
+      "Una prohibición de reclamar después de publicadas las notas.",
+      "Instancias, procedimientos y mecanismos de atención y resolución de reclamaciones."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 4 exige que el SIEE incluya instancias y procedimientos para reclamaciones de padres y estudiantes."
+    },
+    {
+     "q": "¿Qué deben contener los informes de evaluación que se entregan a padres?",
+     "options": [
+      "Únicamente la lista de inasistencias.",
+      "Valoración de cada área en la escala institucional con su equivalencia en la escala nacional y una descripción del avance.",
+      "Solo un número de 0 a 100 sin explicación."
+     ],
+     "answer": 1,
+     "explanation": "El decreto pide informes claros y comprensibles, con la equivalencia a la escala nacional."
+    },
+    {
+     "q": "¿Cuál es un derecho del estudiante según el artículo 12 del Decreto 1290?",
+     "options": [
+      "Elegir la nota final que desea.",
+      "Conocer el sistema de evaluación, los criterios, procedimientos e instrumentos desde el inicio del año.",
+      "No presentar actividades de recuperación."
+     ],
+     "answer": 1,
+     "explanation": "El estudiante tiene derecho a ser evaluado de forma integral, conocer el SIEE, recibir respuestas a sus inquietudes y recibir apoyo."
+    },
+    {
+     "q": "¿Cuál es un deber del estudiante según el Decreto 1290?",
+     "options": [
+      "Aprobar las notas de sus compañeros.",
+      "Cumplir con los compromisos académicos y de convivencia definidos por el establecimiento.",
+      "Diseñar el SIEE."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 13 establece deberes como cumplir compromisos y realizar las actividades de superación de debilidades."
+    },
+    {
+     "q": "¿Qué características debe tener la evaluación del aprendizaje según el espíritu del Decreto 1290?",
+     "options": [
+      "Integral, continua y formativa, considerando ritmos y estilos de aprendizaje.",
+      "Basada solo en exámenes escritos.",
+      "Exclusivamente sumativa y al final del año."
+     ],
+     "answer": 0,
+     "explanation": "El decreto orienta una evaluación que identifique avances y dificultades para mejorar el aprendizaje."
+    },
+    {
+     "q": "¿Qué requisito establece el Decreto 1290 para obtener el título de bachiller?",
+     "options": [
+      "Aprobar un examen de la secretaría de educación.",
+      "Haber cumplido los requisitos de promoción adoptados por el establecimiento en su PEI, de acuerdo con la ley.",
+      "Obtener más de 300 puntos en Saber 11."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 18 vincula la graduación al cumplimiento de los requisitos de promoción institucionales."
+    },
+    {
+     "q": "Un estudiante que no fue promovido el año anterior demuestra en el primer periodo que superó sus dificultades. ¿Qué puede hacer el establecimiento?",
+     "options": [
+      "Aplicar promoción anticipada para estudiantes no promovidos, si así lo contempla su SIEE.",
+      "Nada, porque está prohibido promover a repitentes.",
+      "Enviarlo a validar en el ICFES."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 7 dispone que los establecimientos definan en su SIEE los criterios para la promoción de quienes no fueron promovidos."
+    },
+    {
+     "q": "¿Qué responsabilidad tiene el MEN según el Decreto 1290?",
+     "options": [
+      "Fijar la nota mínima de cada institución.",
+      "Aprobar el SIEE de cada colegio.",
+      "Expedir orientaciones para la evaluación y realizar pruebas censales a través del ICFES, entre otras."
+     ],
+     "answer": 2,
+     "explanation": "El MEN orienta y acompaña, y las pruebas nacionales se aplican vía ICFES; el SIEE lo define y aprueba cada institución."
+    },
+    {
+     "q": "¿Cuál es la responsabilidad de la secretaría de educación (ETC) frente al Decreto 1290?",
+     "options": [
+      "Calificar a los estudiantes al final del año.",
+      "Orientar y acompañar a los establecimientos en la definición del SIEE y resolver reclamaciones que se presenten.",
+      "Diseñar las preguntas de los exámenes institucionales."
+     ],
+     "answer": 1,
+     "explanation": "El decreto asigna a las entidades territoriales funciones de orientación, acompañamiento y atención de reclamaciones."
+    },
+    {
+     "q": "Un docente utiliza solo pruebas escritas de memoria y no realimenta. ¿Qué principio del Decreto 1290 se está desconociendo?",
+     "options": [
+      "La obligación de evaluar únicamente con proyectos.",
+      "La prohibición de usar exámenes escritos.",
+      "La evaluación como proceso formativo para identificar dificultades y reorientar el aprendizaje."
+     ],
+     "answer": 2,
+     "explanation": "El decreto no prohíbe exámenes, pero exige que la evaluación sirva para mejorar, con información útil para el estudiante."
+    },
+    {
+     "q": "¿Qué equivalencia corresponde con mayor probabilidad a un estudiante que \"supera ampliamente los desempeños esperados\" en la escala nacional?",
+     "options": [
+      "Desempeño básico.",
+      "Desempeño alto.",
+      "Desempeño superior."
+     ],
+     "answer": 2,
+     "explanation": "Superior corresponde a superar de manera excelente lo previsto; alto, a un buen nivel; básico, a lo necesario."
+    }
+   ]
+  }
+ ]
+}

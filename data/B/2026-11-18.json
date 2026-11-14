@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-18",
+ "n": 4,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "electricidad-y-electronica-basica",
+   "title": "Electricidad y electrónica básica",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "Según la ley de Ohm, ¿qué corriente circula por una resistencia de 100 Ω conectada a 5 V?",
+     "options": [
+      "0,05 A (50 mA).",
+      "20 A.",
+      "500 A."
+     ],
+     "answer": 0,
+     "explanation": "I = V/R = 5 V / 100 Ω = 0,05 A."
+    },
+    {
+     "q": "¿Qué magnitud eléctrica se mide en voltios?",
+     "options": [
+      "La diferencia de potencial (voltaje).",
+      "La resistencia.",
+      "La corriente."
+     ],
+     "answer": 0,
+     "explanation": "El voltaje se mide en voltios (V), la corriente en amperios (A) y la resistencia en ohmios (Ω)."
+    },
+    {
+     "q": "Dos resistencias de 220 Ω se conectan en serie. ¿Cuál es la resistencia equivalente?",
+     "options": [
+      "220 Ω.",
+      "440 Ω.",
+      "110 Ω."
+     ],
+     "answer": 1,
+     "explanation": "En serie las resistencias se suman: 220 + 220 = 440 Ω."
+    },
+    {
+     "q": "Dos resistencias de 220 Ω se conectan en paralelo. ¿Cuál es la resistencia equivalente?",
+     "options": [
+      "220 Ω.",
+      "440 Ω.",
+      "110 Ω."
+     ],
+     "answer": 2,
+     "explanation": "Para dos resistencias iguales en paralelo, Req = R/2 = 110 Ω."
+    },
+    {
+     "q": "En un circuito en serie con tres bombillos, uno se funde. ¿Qué ocurre?",
+     "options": [
+      "Solo se apaga el bombillo fundido.",
+      "Se apagan todos, porque se interrumpe el único camino de la corriente.",
+      "Los otros dos brillan más."
+     ],
+     "answer": 1,
+     "explanation": "En serie hay un solo camino; en paralelo, cada rama es independiente."
+    },
+    {
+     "q": "¿Por qué las instalaciones eléctricas de una casa se conectan en paralelo?",
+     "options": [
+      "Para que la corriente sea la misma en todos los aparatos.",
+      "Para gastar menos cables.",
+      "Para que cada aparato reciba el mismo voltaje y funcione de manera independiente."
+     ],
+     "answer": 2,
+     "explanation": "En paralelo todos los elementos tienen el mismo voltaje de la red y pueden encenderse o apagarse por separado."
+    },
+    {
+     "q": "¿Cómo se conecta un amperímetro para medir la corriente de un circuito?",
+     "options": [
+      "En paralelo con el elemento.",
+      "Directamente al tomacorriente sin carga.",
+      "En serie con el elemento."
+     ],
+     "answer": 2,
+     "explanation": "El amperímetro debe ser atravesado por la corriente; conectarlo en paralelo puede causar un cortocircuito."
+    },
+    {
+     "q": "¿Cómo se conecta un voltímetro?",
+     "options": [
+      "En serie con el elemento.",
+      "Solo a la batería desconectada.",
+      "En paralelo con el elemento cuyo voltaje se quiere medir."
+     ],
+     "answer": 2,
+     "explanation": "El voltímetro mide la diferencia de potencial entre dos puntos, por eso va en paralelo."
+    },
+    {
+     "q": "Un LED rojo necesita unos 2 V y 20 mA, y se alimenta con 5 V. ¿Qué resistencia en serie se necesita aproximadamente?",
+     "options": [
+      "250 Ω.",
+      "150 Ω.",
+      "10 Ω."
+     ],
+     "answer": 1,
+     "explanation": "R = (5 − 2) V / 0,02 A = 150 Ω. La resistencia limita la corriente para no dañar el LED."
+    },
+    {
+     "q": "¿Cuál es la potencia de un aparato que consume 2 A a 120 V?",
+     "options": [
+      "240 W.",
+      "122 W.",
+      "60 W."
+     ],
+     "answer": 0,
+     "explanation": "P = V × I = 120 × 2 = 240 W."
+    },
+    {
+     "q": "Un bombillo de 100 W permanece encendido 10 horas. ¿Cuánta energía consume?",
+     "options": [
+      "0,1 kWh.",
+      "1 kWh.",
+      "10 kWh."
+     ],
+     "answer": 1,
+     "explanation": "E = P × t = 100 W × 10 h = 1 000 Wh = 1 kWh."
+    },
+    {
+     "q": "¿Qué es un cortocircuito?",
+     "options": [
+      "Una conexión de muy baja resistencia que provoca una corriente excesiva.",
+      "Un circuito con un interruptor abierto.",
+      "Un circuito con muchas resistencias en serie."
+     ],
+     "answer": 0,
+     "explanation": "La corriente muy alta puede calentar los conductores y provocar incendios; por eso se usan fusibles y breakers."
+    },
+    {
+     "q": "¿Cuál es la función de un fusible o un breaker (interruptor termomagnético)?",
+     "options": [
+      "Aumentar el voltaje de la instalación.",
+      "Almacenar energía eléctrica.",
+      "Interrumpir el circuito cuando la corriente supera un valor seguro."
+     ],
+     "answer": 2,
+     "explanation": "Son dispositivos de protección contra sobrecargas y cortocircuitos."
+    },
+    {
+     "q": "¿Cuál de los siguientes materiales es buen conductor eléctrico?",
+     "options": [
+      "El caucho.",
+      "La madera seca.",
+      "El cobre."
+     ],
+     "answer": 2,
+     "explanation": "Los metales tienen electrones libres; caucho y madera seca son aislantes."
+    },
+    {
+     "q": "¿Qué componente electrónico permite el paso de corriente en un solo sentido?",
+     "options": [
+      "La resistencia.",
+      "El diodo.",
+      "El condensador."
+     ],
+     "answer": 1,
+     "explanation": "El diodo conduce en polarización directa y bloquea en inversa; se usa, por ejemplo, para rectificar corriente alterna."
+    },
+    {
+     "q": "¿Qué función principal cumple un condensador en un circuito?",
+     "options": [
+      "Almacenar temporalmente carga eléctrica.",
+      "Convertir luz en electricidad.",
+      "Medir la temperatura."
+     ],
+     "answer": 0,
+     "explanation": "El condensador almacena energía en un campo eléctrico; se usa para filtrar y temporizar."
+    },
+    {
+     "q": "¿Qué componente puede funcionar como interruptor o amplificador controlado electrónicamente?",
+     "options": [
+      "El potenciómetro.",
+      "El transistor.",
+      "El fusible."
+     ],
+     "answer": 1,
+     "explanation": "El transistor es la base de la electrónica moderna y de los circuitos digitales."
+    },
+    {
+     "q": "¿Qué diferencia hay entre corriente continua (DC) y corriente alterna (AC)?",
+     "options": [
+      "En la DC el sentido de la corriente es constante; en la AC cambia periódicamente de sentido.",
+      "La DC solo existe en los tomacorrientes de las casas.",
+      "La AC solo la producen las pilas."
+     ],
+     "answer": 0,
+     "explanation": "Las pilas y baterías dan DC; la red doméstica en Colombia es AC a 60 Hz."
+    },
+    {
+     "q": "Un potenciómetro en un circuito con un bombillo permite variar su brillo porque:",
+     "options": [
+      "Cambia la resistencia y con ella la corriente que circula.",
+      "Cambia el voltaje de la red eléctrica.",
+      "Convierte la luz en calor."
+     ],
+     "answer": 0,
+     "explanation": "Al aumentar la resistencia disminuye la corriente (ley de Ohm) y el bombillo brilla menos."
+    },
+    {
+     "q": "¿Cuál es una norma de seguridad eléctrica indispensable en el aula de tecnología?",
+     "options": [
+      "Retirar los fusibles para que la corriente fluya mejor.",
+      "Trabajar con circuitos de bajo voltaje (pilas) y nunca manipular la red eléctrica con las manos mojadas.",
+      "Probar los circuitos conectándolos directamente al tomacorriente."
+     ],
+     "answer": 1,
+     "explanation": "El bajo voltaje reduce el riesgo; el agua disminuye la resistencia de la piel y aumenta el peligro de descarga."
+    }
+   ]
+  },
+  {
+   "id": "el-concurso-docente-etapas-pruebas-puntajes-y-si",
+   "title": "El concurso docente: etapas, pruebas, puntajes y SIMO",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿Qué entidad tiene a su cargo la administración y vigilancia de las carreras de los servidores públicos y, por tanto, adelanta el concurso docente?",
+     "options": [
+      "La Comisión Nacional del Servicio Civil (CNSC).",
+      "El Ministerio de Educación Nacional por sí solo.",
+      "El ICFES."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 130 de la Constitución asigna a la CNSC la administración y vigilancia de las carreras; el concurso se hace con las entidades territoriales certificadas y el MEN apoya la definición de perfiles."
+    },
+    {
+     "q": "¿Por qué medio se realiza la inscripción al concurso docente?",
+     "options": [
+      "En la plataforma SIMO de la CNSC.",
+      "En la página del ICFES.",
+      "En la secretaría de educación de forma presencial."
+     ],
+     "answer": 0,
+     "explanation": "SIMO (Sistema de apoyo para la Igualdad, el Mérito y la Oportunidad) es el canal oficial para crear el perfil, cargar documentos e inscribirse en la OPEC."
+    },
+    {
+     "q": "¿Qué es la OPEC en un proceso de selección de la CNSC?",
+     "options": [
+      "La Oficina Pedagógica de Evaluación por Competencias.",
+      "La Oferta Pública de Empleos de Carrera: las vacantes que se ofertan en el concurso.",
+      "La prueba de conocimientos específicos del aspirante."
+     ],
+     "answer": 1,
+     "explanation": "La OPEC lista los empleos y vacantes ofertados por cada entidad territorial; el aspirante elige allí el empleo al que se inscribe."
+    },
+    {
+     "q": "Según el carácter de las pruebas, ¿cuál de ellas es eliminatoria para los docentes?",
+     "options": [
+      "La prueba psicotécnica.",
+      "La prueba de aptitudes y competencias básicas.",
+      "La valoración de antecedentes."
+     ],
+     "answer": 1,
+     "explanation": "La prueba de aptitudes y competencias básicas es eliminatoria (puntaje mínimo aprobatorio); la psicotécnica, los antecedentes y la entrevista son clasificatorias."
+    },
+    {
+     "q": "¿Cuál es el puntaje mínimo aprobatorio de la prueba de aptitudes y competencias básicas para el cargo de docente, según lo anunciado para el concurso 2026-2027?",
+     "options": [
+      "60 puntos sobre 100.",
+      "70 puntos sobre 100.",
+      "50 puntos sobre 100."
+     ],
+     "answer": 0,
+     "explanation": "Para docentes el mínimo es 60/100; para directivos docentes es 70/100."
+    },
+    {
+     "q": "Una aspirante no aprueba la prueba de aptitudes y competencias básicas. ¿Qué ocurre?",
+     "options": [
+      "Continúa y su puntaje se compensa con la valoración de antecedentes.",
+      "Puede repetir la prueba en la misma convocatoria.",
+      "Queda excluida del proceso, porque esa prueba es eliminatoria."
+     ],
+     "answer": 2,
+     "explanation": "Al ser eliminatoria, solo quienes alcanzan el mínimo continúan a las etapas clasificatorias."
+    },
+    {
+     "q": "¿Qué significa que la prueba psicotécnica sea \"clasificatoria\"?",
+     "options": [
+      "Solo se aplica a quienes empatan en la lista de elegibles.",
+      "Su puntaje suma para ordenar a los aspirantes, pero no excluye por sí solo.",
+      "Excluye a quien no obtenga el puntaje mínimo."
+     ],
+     "answer": 1,
+     "explanation": "Las pruebas clasificatorias aportan puntaje ponderado para definir la posición en la lista; no tienen mínimo eliminatorio."
+    },
+    {
+     "q": "¿Qué se evalúa en la etapa de valoración de antecedentes?",
+     "options": [
+      "La formación académica y la experiencia acreditadas adicionales a los requisitos mínimos.",
+      "Los antecedentes disciplinarios y penales del aspirante.",
+      "El desempeño en un examen escrito de cultura general."
+     ],
+     "answer": 0,
+     "explanation": "Se puntúan estudios y experiencia que superan los requisitos mínimos del empleo, con los documentos cargados en SIMO."
+    },
+    {
+     "q": "Antes de aplicar las pruebas, la CNSC revisa si el aspirante cumple los requisitos del empleo. ¿Cómo se llama esta etapa y qué consecuencia tiene?",
+     "options": [
+      "Entrevista: quien no los cumple debe explicarlo en audiencia.",
+      "Valoración de antecedentes: quien no los cumple pierde puntos pero continúa.",
+      "Verificación de requisitos mínimos: quien no los cumple queda \"no admitido\"."
+     ],
+     "answer": 2,
+     "explanation": "La verificación de requisitos mínimos (VRM) no da puntaje; define si el aspirante es admitido o no admitido al proceso."
+    },
+    {
+     "q": "¿Qué componentes evalúa la prueba de aptitudes y competencias básicas para un docente de aula?",
+     "options": [
+      "Aptitudes (p. ej., razonamiento y lectura crítica) y competencias del área y pedagógicas.",
+      "Únicamente rasgos de personalidad.",
+      "Solo conocimientos de cultura general."
+     ],
+     "answer": 0,
+     "explanation": "Combina aptitudes básicas con el saber disciplinar y pedagógico del empleo; los rasgos comportamentales los mide la psicotécnica."
+    },
+    {
+     "q": "Un profesional no licenciado (por ejemplo, ingeniero de sistemas) ingresa por concurso. Según el Decreto Ley 1278 de 2002, ¿qué debe acreditar al terminar el periodo de prueba?",
+     "options": [
+      "Que tiene diez años de experiencia en empresas de tecnología.",
+      "Nada adicional; su título profesional es suficiente.",
+      "Que cursa o terminó un posgrado en educación o un programa de pedagogía en una institución de educación superior."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 12 del Decreto 1278 exige esa formación pedagógica a los profesionales con título distinto al de licenciado."
+    },
+    {
+     "q": "¿Qué es la lista de elegibles?",
+     "options": [
+      "El registro de docentes provisionales de la entidad territorial.",
+      "El acto que ordena, por puntaje final, a quienes superaron el concurso para proveer las vacantes.",
+      "El listado de inscritos que pagaron los derechos de participación."
+     ],
+     "answer": 1,
+     "explanation": "La CNSC conforma listas de elegibles en orden de mérito; con ellas se proveen las vacantes ofertadas."
+    },
+    {
+     "q": "¿Cuál es la vigencia de las listas de elegibles del concurso docente una vez quedan en firme?",
+     "options": [
+      "Dos años.",
+      "Cinco años.",
+      "Seis meses."
+     ],
+     "answer": 0,
+     "explanation": "Según el Decreto 1075 de 2015 (art. 2.4.1.1.16), las listas de elegibles tienen vigencia de dos años desde su firmeza."
+    },
+    {
+     "q": "Quien ocupa un lugar en la lista de elegibles y es nombrado, ¿en qué condición inicia?",
+     "options": [
+      "En propiedad, con inscripción inmediata en el escalafón.",
+      "En provisionalidad.",
+      "En periodo de prueba."
+     ],
+     "answer": 2,
+     "explanation": "El nombramiento inicial es en periodo de prueba; si la evaluación es satisfactoria, obtiene los derechos de carrera y el escalafón."
+    },
+    {
+     "q": "¿Qué principio constitucional fundamenta el concurso de méritos para ingresar a la carrera docente?",
+     "options": [
+      "La libre designación por parte del alcalde o gobernador.",
+      "El mérito: los empleos de carrera se proveen por concurso (art. 125 de la Constitución).",
+      "La antigüedad en el servicio como provisional."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 125 establece que los empleos del Estado son de carrera y que el ingreso y el ascenso se hacen por méritos, mediante concurso."
+    },
+    {
+     "q": "En el concurso 2026-2027, ¿qué grupo de aspirantes se inscribe primero y sin costo?",
+     "options": [
+      "Las personas con discapacidad, en vacantes reservadas para ellas.",
+      "Los docentes provisionales con más de cinco años de servicio.",
+      "Los licenciados recién graduados."
+     ],
+     "answer": 0,
+     "explanation": "Por la Ley 2418 de 2024 hay reserva de vacantes para personas con discapacidad; su inscripción es gratuita y se programó del 23-nov-2026 al 15-ene-2027."
+    },
+    {
+     "q": "Un ingeniero de sistemas quiere saber si puede aspirar al empleo de docente de Tecnología e Informática. ¿Dónde debe verificarlo?",
+     "options": [
+      "En el reglamento interno de cada colegio.",
+      "En el boletín de resultados de las pruebas Saber 11.",
+      "En los requisitos mínimos del empleo en la OPEC (SIMO) y en el manual de funciones, requisitos y competencias del MEN."
+     ],
+     "answer": 2,
+     "explanation": "La ficha del empleo y el manual del MEN definen qué títulos profesionales son admisibles; para Tecnología e Informática suelen admitirse ingenierías afines."
+    },
+    {
+     "q": "¿Cuál es el orden lógico de las etapas del concurso docente?",
+     "options": [
+      "Inscripción → nombramiento → pruebas → convocatoria → lista de elegibles.",
+      "Convocatoria y divulgación → inscripción → verificación de requisitos → pruebas → valoración de antecedentes → lista de elegibles → nombramiento en periodo de prueba.",
+      "Pruebas → inscripción → convocatoria → verificación de requisitos → nombramiento."
+     ],
+     "answer": 1,
+     "explanation": "El proceso parte del acuerdo de convocatoria, sigue con la inscripción en SIMO y la verificación, luego las pruebas y antecedentes, y termina con listas y nombramientos."
+    },
+    {
+     "q": "Un aspirante considera que su puntaje de la prueba fue mal calificado. ¿Qué puede hacer dentro del proceso?",
+     "options": [
+      "Interponer de inmediato una demanda penal contra el operador.",
+      "Presentar una reclamación ante la CNSC/operador dentro del plazo fijado en la convocatoria, a través de SIMO.",
+      "Esperar al nombramiento para pedir la corrección en la secretaría de educación."
+     ],
+     "answer": 1,
+     "explanation": "Cada resultado se publica con un plazo para reclamaciones, que se presentan por SIMO; es el mecanismo ordinario de defensa en el concurso."
+    },
+    {
+     "q": "¿Qué norma compila las reglas del concurso de méritos para docentes y directivos docentes?",
+     "options": [
+      "El Decreto 1290 de 2009.",
+      "La Ley 1620 de 2013.",
+      "El Decreto 1075 de 2015, Único Reglamentario del Sector Educación."
+     ],
+     "answer": 2,
+     "explanation": "El Decreto 1075 de 2015 reúne la reglamentación del sector, incluida la del concurso; la Ley 1620 es de convivencia y el Decreto 1290, de evaluación de estudiantes."
+    }
+   ]
+  }
+ ]
+}

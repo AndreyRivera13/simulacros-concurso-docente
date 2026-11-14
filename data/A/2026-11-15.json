@@ -1,0 +1,423 @@
+{
+ "version": "A",
+ "date": "2026-11-15",
+ "n": 1,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "celula-estructura-organelos-y-transporte-de-memb",
+   "title": "Célula: estructura, organelos y transporte de membrana",
+   "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+   "questions": [
+    {
+     "q": "Una estudiante observa al microscopio células de la epidermis de cebolla y células de la mucosa bucal. ¿Qué estructura le permitirá afirmar que las primeras son vegetales?",
+     "options": [
+      "La presencia de membrana plasmática.",
+      "La presencia de núcleo con material genético.",
+      "La pared celular rígida que rodea la membrana."
+     ],
+     "answer": 2,
+     "explanation": "La pared celular (de celulosa) es exclusiva de células vegetales entre estas dos; membrana y núcleo están en ambas células eucariotas."
+    },
+    {
+     "q": "¿Qué característica distingue a una célula procariota de una eucariota?",
+     "options": [
+      "Carece de núcleo delimitado por membrana.",
+      "Carece de ribosomas.",
+      "Carece de material genético (ADN)."
+     ],
+     "answer": 0,
+     "explanation": "Las procariotas tienen ADN y ribosomas (70S), pero su ADN está libre en el citoplasma (nucleoide), sin envoltura nuclear."
+    },
+    {
+     "q": "Un tejido muscular que realiza contracciones constantes requiere mucha energía en forma de ATP. ¿Qué organelo se espera encontrar en abundancia en sus células?",
+     "options": [
+      "Lisosomas.",
+      "Mitocondrias.",
+      "Vacuolas."
+     ],
+     "answer": 1,
+     "explanation": "Las mitocondrias realizan la respiración celular aeróbica, principal fuente de ATP; lisosomas digieren y vacuolas almacenan."
+    },
+    {
+     "q": "¿Cuál es la función principal de los ribosomas?",
+     "options": [
+      "Producir ATP mediante la cadena respiratoria.",
+      "Almacenar agua y sales minerales.",
+      "Sintetizar proteínas a partir de la información del ARNm."
+     ],
+     "answer": 2,
+     "explanation": "En los ribosomas ocurre la traducción: el ARNm se lee y se unen aminoácidos para formar proteínas."
+    },
+    {
+     "q": "Una célula del páncreas secreta grandes cantidades de enzimas digestivas (proteínas). ¿Qué secuencia describe mejor la ruta de esas proteínas?",
+     "options": [
+      "Mitocondria → retículo endoplasmático liso → vacuola → exterior.",
+      "Retículo endoplasmático rugoso → aparato de Golgi → vesículas → exterior.",
+      "Aparato de Golgi → núcleo → lisosomas → exterior."
+     ],
+     "answer": 1,
+     "explanation": "Las proteínas de secreción se sintetizan en ribosomas del RER, se modifican y empaquetan en el Golgi y salen por exocitosis en vesículas."
+    },
+    {
+     "q": "Se sumergen glóbulos rojos en agua destilada y, al cabo de un tiempo, estallan. ¿Qué explica el fenómeno?",
+     "options": [
+      "El agua sale por ósmosis porque el medio es hipertónico.",
+      "El agua entra por ósmosis porque el medio es hipotónico respecto al citoplasma.",
+      "Las sales entran por transporte activo y rompen la membrana."
+     ],
+     "answer": 1,
+     "explanation": "En un medio hipotónico (menor concentración de solutos) el agua entra a la célula; al no tener pared, el eritrocito se hincha y se lisa."
+    },
+    {
+     "q": "Si se coloca una hoja de lechuga en agua con mucha sal, se marchita. ¿Qué ocurre a nivel celular?",
+     "options": [
+      "La sal entra a la célula por difusión y degrada los cloroplastos.",
+      "Las células pierden agua por ósmosis hacia el medio hipertónico (plasmólisis).",
+      "Las células ganan agua y la pared celular se rompe."
+     ],
+     "answer": 1,
+     "explanation": "El medio salino es hipertónico; el agua sale de la vacuola y el citoplasma, la membrana se separa de la pared (plasmólisis) y la hoja pierde turgencia."
+    },
+    {
+     "q": "La bomba sodio-potasio mueve iones en contra de su gradiente de concentración. ¿Qué tipo de transporte es?",
+     "options": [
+      "Transporte activo, porque consume ATP.",
+      "Difusión simple, porque no requiere proteínas.",
+      "Difusión facilitada, porque va a favor del gradiente."
+     ],
+     "answer": 0,
+     "explanation": "Mover sustancias contra el gradiente requiere energía (ATP) y proteínas transportadoras: es transporte activo."
+    },
+    {
+     "q": "¿Qué propiedad de la membrana plasmática se describe con el término \"permeabilidad selectiva\"?",
+     "options": [
+      "Impide totalmente el paso de agua.",
+      "Permite el paso de algunas sustancias y restringe el de otras.",
+      "Permite el paso libre de cualquier molécula grande."
+     ],
+     "answer": 1,
+     "explanation": "La bicapa de fosfolípidos y sus proteínas regulan qué entra y sale; moléculas pequeñas apolares pasan fácilmente, iones y moléculas grandes requieren transportadores."
+    },
+    {
+     "q": "¿Qué modelo describe la estructura de la membrana plasmática?",
+     "options": [
+      "Capa única de proteínas recubierta de almidón.",
+      "Bicapa rígida de celulosa con poros fijos.",
+      "Mosaico fluido: bicapa de fosfolípidos con proteínas que se desplazan."
+     ],
+     "answer": 2,
+     "explanation": "El modelo de mosaico fluido (Singer y Nicolson, 1972) describe una bicapa lipídica dinámica con proteínas integrales y periféricas."
+    },
+    {
+     "q": "Una célula fagocita una bacteria. ¿Qué organelo se encarga de digerirla?",
+     "options": [
+      "El cloroplasto, que transforma la materia orgánica.",
+      "El lisosoma, que contiene enzimas hidrolíticas.",
+      "El centriolo, que la fragmenta durante la división."
+     ],
+     "answer": 1,
+     "explanation": "Los lisosomas se fusionan con la vesícula fagocítica y sus enzimas hidrolíticas degradan el material ingerido."
+    },
+    {
+     "q": "¿Qué organelo realiza la fotosíntesis en las células vegetales?",
+     "options": [
+      "El cloroplasto.",
+      "El retículo endoplasmático liso.",
+      "La mitocondria."
+     ],
+     "answer": 0,
+     "explanation": "El cloroplasto contiene clorofila en los tilacoides y el estroma, donde ocurren las fases de la fotosíntesis."
+    },
+    {
+     "q": "Mitocondrias y cloroplastos tienen ADN propio y ribosomas similares a los bacterianos. ¿Qué teoría se apoya en esta evidencia?",
+     "options": [
+      "La teoría endosimbiótica.",
+      "La teoría de la generación espontánea.",
+      "La teoría de la herencia de caracteres adquiridos."
+     ],
+     "answer": 0,
+     "explanation": "La endosimbiosis (Lynn Margulis) propone que estos organelos derivan de procariotas que fueron incorporados por una célula ancestral."
+    },
+    {
+     "q": "¿Cuál de los siguientes enunciados corresponde a un postulado de la teoría celular?",
+     "options": [
+      "Toda célula procede de otra célula preexistente.",
+      "Todos los seres vivos están formados por una sola célula.",
+      "Las células se originan a partir de materia inerte."
+     ],
+     "answer": 0,
+     "explanation": "La teoría celular plantea que los seres vivos están formados por células, que la célula es la unidad funcional y que toda célula proviene de otra (Virchow)."
+    },
+    {
+     "q": "El retículo endoplasmático liso se diferencia del rugoso porque:",
+     "options": [
+      "Almacena el ADN de la célula.",
+      "Tiene ribosomas y produce proteínas de exportación.",
+      "No tiene ribosomas adheridos y participa en la síntesis de lípidos y la detoxificación."
+     ],
+     "answer": 2,
+     "explanation": "El REL carece de ribosomas; sintetiza lípidos y esteroides y desintoxica sustancias (por ejemplo, en el hígado)."
+    },
+    {
+     "q": "En una práctica, los estudiantes colocan una gota de tinta en un vaso de agua y observan que se dispersa sola. ¿Qué proceso modela este experimento?",
+     "options": [
+      "La endocitosis: ingreso de partículas mediante vesículas.",
+      "El transporte activo: movimiento con gasto de energía.",
+      "La difusión: movimiento de partículas de mayor a menor concentración."
+     ],
+     "answer": 2,
+     "explanation": "La tinta se dispersa espontáneamente a favor del gradiente de concentración, igual que la difusión simple a través de la membrana."
+    },
+    {
+     "q": "¿Por qué una célula muy grande tendría dificultades para sobrevivir?",
+     "options": [
+      "Porque su relación superficie/volumen disminuye y el intercambio de sustancias resulta insuficiente.",
+      "Porque su membrana se vuelve impermeable al crecer.",
+      "Porque pierde automáticamente su núcleo."
+     ],
+     "answer": 0,
+     "explanation": "Al crecer, el volumen aumenta más rápido que la superficie; la membrana no alcanza a suplir nutrientes y eliminar desechos."
+    },
+    {
+     "q": "¿Qué estructura celular se encarga de organizar el huso mitótico en células animales?",
+     "options": [
+      "El centrosoma con sus centriolos.",
+      "El nucléolo.",
+      "La pared celular."
+     ],
+     "answer": 0,
+     "explanation": "El centrosoma (con un par de centriolos en células animales) organiza los microtúbulos que forman el huso durante la división."
+    },
+    {
+     "q": "Un docente pide comparar la célula con una fábrica. ¿Cuál analogía es correcta?",
+     "options": [
+      "El aparato de Golgi es la central eléctrica.",
+      "El núcleo es la oficina de dirección que guarda las instrucciones (ADN).",
+      "La mitocondria es el almacén de residuos."
+     ],
+     "answer": 1,
+     "explanation": "El núcleo contiene la información genética que dirige la actividad celular; la mitocondria sería la central de energía y el Golgi el área de empaque y despacho."
+    },
+    {
+     "q": "¿Qué función cumple la vacuola central de gran tamaño en las células vegetales?",
+     "options": [
+      "Sintetizar proteínas para la célula.",
+      "Producir glucosa mediante la luz solar.",
+      "Almacenar agua y sustancias, y mantener la presión de turgencia."
+     ],
+     "answer": 2,
+     "explanation": "La vacuola central acumula agua, iones y otras sustancias; su presión contra la pared mantiene la turgencia y el soporte de la planta."
+    }
+   ]
+  },
+  {
+   "id": "el-concurso-docente-etapas-pruebas-y-puntajes",
+   "title": "El concurso docente: etapas, pruebas y puntajes",
+   "track": "Conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿Qué entidad tiene a su cargo la administración y vigilancia de las carreras de los servidores públicos y, por tanto, adelanta el concurso docente?",
+     "options": [
+      "El ICFES.",
+      "El Ministerio de Educación Nacional por sí solo.",
+      "La Comisión Nacional del Servicio Civil (CNSC)."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 130 de la Constitución asigna a la CNSC la administración y vigilancia de las carreras; el concurso se hace con las entidades territoriales certificadas y el MEN apoya la definición de perfiles."
+    },
+    {
+     "q": "¿Por qué medio se realiza la inscripción al concurso docente?",
+     "options": [
+      "En la plataforma SIMO de la CNSC.",
+      "En la página del ICFES.",
+      "En la secretaría de educación de forma presencial."
+     ],
+     "answer": 0,
+     "explanation": "SIMO (Sistema de apoyo para la Igualdad, el Mérito y la Oportunidad) es el canal oficial para crear el perfil, cargar documentos e inscribirse en la OPEC."
+    },
+    {
+     "q": "¿Qué es la OPEC en un proceso de selección de la CNSC?",
+     "options": [
+      "La Oferta Pública de Empleos de Carrera: las vacantes que se ofertan en el concurso.",
+      "La prueba de conocimientos específicos del aspirante.",
+      "La Oficina Pedagógica de Evaluación por Competencias."
+     ],
+     "answer": 0,
+     "explanation": "La OPEC lista los empleos y vacantes ofertados por cada entidad territorial; el aspirante elige allí el empleo al que se inscribe."
+    },
+    {
+     "q": "Según el carácter de las pruebas, ¿cuál de ellas es eliminatoria para los docentes?",
+     "options": [
+      "La valoración de antecedentes.",
+      "La prueba de aptitudes y competencias básicas.",
+      "La prueba psicotécnica."
+     ],
+     "answer": 1,
+     "explanation": "La prueba de aptitudes y competencias básicas es eliminatoria (puntaje mínimo aprobatorio); la psicotécnica, los antecedentes y la entrevista son clasificatorias."
+    },
+    {
+     "q": "¿Cuál es el puntaje mínimo aprobatorio de la prueba de aptitudes y competencias básicas para el cargo de docente, según lo anunciado para el concurso 2026-2027?",
+     "options": [
+      "60 puntos sobre 100.",
+      "50 puntos sobre 100.",
+      "70 puntos sobre 100."
+     ],
+     "answer": 0,
+     "explanation": "Para docentes el mínimo es 60/100; para directivos docentes es 70/100."
+    },
+    {
+     "q": "Una aspirante no aprueba la prueba de aptitudes y competencias básicas. ¿Qué ocurre?",
+     "options": [
+      "Puede repetir la prueba en la misma convocatoria.",
+      "Queda excluida del proceso, porque esa prueba es eliminatoria.",
+      "Continúa y su puntaje se compensa con la valoración de antecedentes."
+     ],
+     "answer": 1,
+     "explanation": "Al ser eliminatoria, solo quienes alcanzan el mínimo continúan a las etapas clasificatorias."
+    },
+    {
+     "q": "¿Qué significa que la prueba psicotécnica sea \"clasificatoria\"?",
+     "options": [
+      "Excluye a quien no obtenga el puntaje mínimo.",
+      "Solo se aplica a quienes empatan en la lista de elegibles.",
+      "Su puntaje suma para ordenar a los aspirantes, pero no excluye por sí solo."
+     ],
+     "answer": 2,
+     "explanation": "Las pruebas clasificatorias aportan puntaje ponderado para definir la posición en la lista; no tienen mínimo eliminatorio."
+    },
+    {
+     "q": "¿Qué se evalúa en la etapa de valoración de antecedentes?",
+     "options": [
+      "Los antecedentes disciplinarios y penales del aspirante.",
+      "La formación académica y la experiencia acreditadas adicionales a los requisitos mínimos.",
+      "El desempeño en un examen escrito de cultura general."
+     ],
+     "answer": 1,
+     "explanation": "Se puntúan estudios y experiencia que superan los requisitos mínimos del empleo, con los documentos cargados en SIMO."
+    },
+    {
+     "q": "Antes de aplicar las pruebas, la CNSC revisa si el aspirante cumple los requisitos del empleo. ¿Cómo se llama esta etapa y qué consecuencia tiene?",
+     "options": [
+      "Valoración de antecedentes: quien no los cumple pierde puntos pero continúa.",
+      "Verificación de requisitos mínimos: quien no los cumple queda \"no admitido\".",
+      "Entrevista: quien no los cumple debe explicarlo en audiencia."
+     ],
+     "answer": 1,
+     "explanation": "La verificación de requisitos mínimos (VRM) no da puntaje; define si el aspirante es admitido o no admitido al proceso."
+    },
+    {
+     "q": "¿Qué componentes evalúa la prueba de aptitudes y competencias básicas para un docente de aula?",
+     "options": [
+      "Aptitudes (p. ej., razonamiento y lectura crítica) y competencias del área y pedagógicas.",
+      "Únicamente rasgos de personalidad.",
+      "Solo conocimientos de cultura general."
+     ],
+     "answer": 0,
+     "explanation": "Combina aptitudes básicas con el saber disciplinar y pedagógico del empleo; los rasgos comportamentales los mide la psicotécnica."
+    },
+    {
+     "q": "¿Qué mide principalmente la prueba psicotécnica?",
+     "options": [
+      "El dominio de la normativa educativa.",
+      "La velocidad de lectura del aspirante.",
+      "Competencias comportamentales e intereses relacionados con el ejercicio docente."
+     ],
+     "answer": 2,
+     "explanation": "Indaga actitudes, valores y competencias comportamentales (trabajo en equipo, comunicación, orientación al logro, etc.) frente a situaciones del aula y la institución."
+    },
+    {
+     "q": "¿Qué es la lista de elegibles?",
+     "options": [
+      "El acto que ordena, por puntaje final, a quienes superaron el concurso para proveer las vacantes.",
+      "El registro de docentes provisionales de la entidad territorial.",
+      "El listado de inscritos que pagaron los derechos de participación."
+     ],
+     "answer": 0,
+     "explanation": "La CNSC conforma listas de elegibles en orden de mérito; con ellas se proveen las vacantes ofertadas."
+    },
+    {
+     "q": "¿Cuál es la vigencia de las listas de elegibles del concurso docente una vez quedan en firme?",
+     "options": [
+      "Cinco años.",
+      "Seis meses.",
+      "Dos años."
+     ],
+     "answer": 2,
+     "explanation": "Según el Decreto 1075 de 2015 (art. 2.4.1.1.16), las listas de elegibles tienen vigencia de dos años desde su firmeza."
+    },
+    {
+     "q": "Quien ocupa un lugar en la lista de elegibles y es nombrado, ¿en qué condición inicia?",
+     "options": [
+      "En periodo de prueba.",
+      "En propiedad, con inscripción inmediata en el escalafón.",
+      "En provisionalidad."
+     ],
+     "answer": 0,
+     "explanation": "El nombramiento inicial es en periodo de prueba; si la evaluación es satisfactoria, obtiene los derechos de carrera y el escalafón."
+    },
+    {
+     "q": "¿Qué principio constitucional fundamenta el concurso de méritos para ingresar a la carrera docente?",
+     "options": [
+      "La antigüedad en el servicio como provisional.",
+      "El mérito: los empleos de carrera se proveen por concurso (art. 125 de la Constitución).",
+      "La libre designación por parte del alcalde o gobernador."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 125 establece que los empleos del Estado son de carrera y que el ingreso y el ascenso se hacen por méritos, mediante concurso."
+    },
+    {
+     "q": "En el concurso 2026-2027, ¿qué grupo de aspirantes se inscribe primero y sin costo?",
+     "options": [
+      "Las personas con discapacidad, en vacantes reservadas para ellas.",
+      "Los licenciados recién graduados.",
+      "Los docentes provisionales con más de cinco años de servicio."
+     ],
+     "answer": 0,
+     "explanation": "Por la Ley 2418 de 2024 hay reserva de vacantes para personas con discapacidad; su inscripción es gratuita y se programó del 23-nov-2026 al 15-ene-2027."
+    },
+    {
+     "q": "Un aspirante quiere saber qué funciones y requisitos tiene el empleo de docente de Ciencias Naturales. ¿Dónde debe consultarlo?",
+     "options": [
+      "En el boletín de resultados de las pruebas Saber 11.",
+      "En el reglamento interno de cada colegio.",
+      "En la OPEC del empleo en SIMO y en el manual de funciones, requisitos y competencias del MEN."
+     ],
+     "answer": 2,
+     "explanation": "La ficha del empleo en SIMO y el manual del MEN establecen requisitos mínimos de formación y funciones."
+    },
+    {
+     "q": "¿Cuál es el orden lógico de las etapas del concurso docente?",
+     "options": [
+      "Inscripción → nombramiento → pruebas → convocatoria → lista de elegibles.",
+      "Convocatoria y divulgación → inscripción → verificación de requisitos → pruebas → valoración de antecedentes → lista de elegibles → nombramiento en periodo de prueba.",
+      "Pruebas → inscripción → convocatoria → verificación de requisitos → nombramiento."
+     ],
+     "answer": 1,
+     "explanation": "El proceso parte del acuerdo de convocatoria, sigue con la inscripción en SIMO y la verificación, luego las pruebas y antecedentes, y termina con listas y nombramientos."
+    },
+    {
+     "q": "Un aspirante considera que su puntaje de la prueba fue mal calificado. ¿Qué puede hacer dentro del proceso?",
+     "options": [
+      "Interponer de inmediato una demanda penal contra el operador.",
+      "Esperar al nombramiento para pedir la corrección en la secretaría de educación.",
+      "Presentar una reclamación ante la CNSC/operador dentro del plazo fijado en la convocatoria, a través de SIMO."
+     ],
+     "answer": 2,
+     "explanation": "Cada resultado se publica con un plazo para reclamaciones, que se presentan por SIMO; es el mecanismo ordinario de defensa en el concurso."
+    },
+    {
+     "q": "¿Qué norma compila las reglas del concurso de méritos para docentes y directivos docentes?",
+     "options": [
+      "El Decreto 1290 de 2009.",
+      "El Decreto 1075 de 2015, Único Reglamentario del Sector Educación.",
+      "La Ley 1620 de 2013."
+     ],
+     "answer": 1,
+     "explanation": "El Decreto 1075 de 2015 reúne la reglamentación del sector, incluida la del concurso; la Ley 1620 es de convivencia y el Decreto 1290, de evaluación de estudiantes."
+    }
+   ]
+  }
+ ]
+}

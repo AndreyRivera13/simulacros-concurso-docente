@@ -1,0 +1,423 @@
+{
+ "version": "A",
+ "date": "2026-11-17",
+ "n": 3,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "genetica-mendeliana-y-cuadros-de-punnett",
+   "title": "Genética mendeliana y cuadros de Punnett",
+   "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+   "questions": [
+    {
+     "q": "En arvejas, el color amarillo (A) domina sobre el verde (a). Si se cruzan dos plantas heterocigotas (Aa × Aa), ¿qué proporción fenotípica se espera en la descendencia?",
+     "options": [
+      "1 amarilla : 1 verde.",
+      "Todas amarillas.",
+      "3 amarillas : 1 verde."
+     ],
+     "answer": 2,
+     "explanation": "El cuadro de Punnett da AA, Aa, Aa, aa: tres individuos con al menos un alelo dominante (amarillos) y uno aa (verde)."
+    },
+    {
+     "q": "En el mismo cruce Aa × Aa, ¿cuál es la proporción genotípica esperada?",
+     "options": [
+      "1 AA : 2 Aa : 1 aa.",
+      "3 AA : 1 aa.",
+      "2 AA : 2 aa."
+     ],
+     "answer": 0,
+     "explanation": "Cada progenitor aporta A o a con igual probabilidad: 1/4 AA, 2/4 Aa y 1/4 aa."
+    },
+    {
+     "q": "¿Qué enuncia la primera ley de Mendel (uniformidad)?",
+     "options": [
+      "Los caracteres adquiridos se heredan.",
+      "Al cruzar dos líneas puras que difieren en un carácter, toda la F1 es igual.",
+      "Los alelos de distintos genes se separan de forma independiente."
+     ],
+     "answer": 1,
+     "explanation": "Al cruzar AA × aa, toda la F1 es Aa y muestra el fenotipo dominante."
+    },
+    {
+     "q": "La segunda ley de Mendel (segregación) explica que:",
+     "options": [
+      "Los genes ubicados en cromosomas distintos siempre se heredan juntos.",
+      "Los dos alelos de un gen se separan durante la formación de gametos, y cada gameto lleva uno.",
+      "Los alelos se mezclan y se pierden en la descendencia."
+     ],
+     "answer": 1,
+     "explanation": "Cada gameto recibe un solo alelo de cada gen; por eso reaparece el fenotipo recesivo en la F2."
+    },
+    {
+     "q": "¿Qué proporción fenotípica se obtiene en un cruce dihíbrido AaBb × AaBb con dominancia completa y genes independientes?",
+     "options": [
+      "3 : 1.",
+      "1 : 2 : 1.",
+      "9 : 3 : 3 : 1."
+     ],
+     "answer": 2,
+     "explanation": "Es el resultado clásico de la tercera ley (distribución independiente): 16 combinaciones que se agrupan en 9:3:3:1."
+    },
+    {
+     "q": "Un criador tiene un perro de fenotipo dominante y quiere saber si es homocigoto o heterocigoto. ¿Qué cruce debe hacer?",
+     "options": [
+      "Un cruce de prueba con un individuo homocigoto recesivo.",
+      "Un cruce con otro individuo de fenotipo dominante.",
+      "Un cruce con un individuo heterocigoto."
+     ],
+     "answer": 0,
+     "explanation": "En el retrocruce con aa, si aparece algún descendiente recesivo, el perro era heterocigoto (Aa); si todos son dominantes, probablemente es AA."
+    },
+    {
+     "q": "En la planta dondiego de noche, al cruzar flores rojas (RR) con blancas (BB) se obtienen flores rosadas. ¿Qué tipo de herencia es?",
+     "options": [
+      "Herencia ligada al sexo.",
+      "Dominancia incompleta.",
+      "Codominancia."
+     ],
+     "answer": 1,
+     "explanation": "El heterocigoto muestra un fenotipo intermedio (rosado); en la codominancia se expresan ambos fenotipos completos a la vez."
+    },
+    {
+     "q": "El grupo sanguíneo AB es un ejemplo de:",
+     "options": [
+      "Herencia recesiva.",
+      "Dominancia incompleta, porque el resultado es intermedio.",
+      "Codominancia, porque se expresan los antígenos A y B a la vez."
+     ],
+     "answer": 2,
+     "explanation": "Los alelos IA e IB son codominantes: el glóbulo rojo presenta ambos antígenos."
+    },
+    {
+     "q": "Una madre de grupo A heterocigota (IAi) y un padre de grupo B heterocigoto (IBi) tienen hijos. ¿Qué probabilidad hay de que un hijo sea de grupo O?",
+     "options": [
+      "50 %.",
+      "25 %.",
+      "0 %."
+     ],
+     "answer": 1,
+     "explanation": "Combinaciones posibles: IAIB, IAi, IBi, ii; solo ii (1 de 4) es grupo O."
+    },
+    {
+     "q": "¿Qué es un alelo?",
+     "options": [
+      "Cada una de las formas alternativas de un mismo gen.",
+      "Un tipo de proteína de la membrana.",
+      "Un cromosoma completo."
+     ],
+     "answer": 0,
+     "explanation": "Los alelos ocupan el mismo locus en cromosomas homólogos y pueden ser, por ejemplo, dominantes o recesivos."
+    },
+    {
+     "q": "¿Qué diferencia hay entre genotipo y fenotipo?",
+     "options": [
+      "El genotipo es la constitución genética; el fenotipo, las características observables resultantes de genes y ambiente.",
+      "El fenotipo es la secuencia de ADN y el genotipo el aspecto físico.",
+      "Son sinónimos."
+     ],
+     "answer": 0,
+     "explanation": "El fenotipo resulta de la expresión del genotipo en interacción con el ambiente."
+    },
+    {
+     "q": "El daltonismo es recesivo y ligado al cromosoma X. Una mujer portadora (XᴰXᵈ) y un hombre de visión normal (XᴰY) tienen hijos varones. ¿Qué probabilidad tienen los varones de ser daltónicos?",
+     "options": [
+      "100 %.",
+      "25 %.",
+      "50 %."
+     ],
+     "answer": 2,
+     "explanation": "Los hijos varones reciben la Y del padre y una X de la madre: la mitad recibe Xᵈ y es daltónico."
+    },
+    {
+     "q": "¿Por qué las enfermedades recesivas ligadas al X son más frecuentes en hombres?",
+     "options": [
+      "Porque las mujeres no heredan cromosomas X.",
+      "Porque los hombres tienen un solo cromosoma X, y basta un alelo recesivo para manifestarla.",
+      "Porque el cromosoma Y contiene el alelo enfermo."
+     ],
+     "answer": 1,
+     "explanation": "Los hombres son hemicigotos para el X; las mujeres necesitan dos alelos recesivos para expresar el rasgo."
+    },
+    {
+     "q": "Mendel eligió la arveja (Pisum sativum) para sus experimentos porque:",
+     "options": [
+      "No tiene cromosomas.",
+      "Tiene caracteres contrastantes, ciclo corto, muchos descendientes y permite controlar la polinización.",
+      "Es la única planta con flores."
+     ],
+     "answer": 1,
+     "explanation": "Estas ventajas le permitieron obtener líneas puras y contar fenotipos en muchos descendientes."
+    },
+    {
+     "q": "Un individuo con genotipo Bb, ¿qué tipos de gametos produce y en qué proporción?",
+     "options": [
+      "B y b, cada uno en 50 %.",
+      "B en 75 % y b en 25 %.",
+      "Solo Bb."
+     ],
+     "answer": 0,
+     "explanation": "Por segregación, la mitad de los gametos lleva B y la otra mitad b."
+    },
+    {
+     "q": "¿Cuántos tipos de gametos distintos produce un individuo AaBb, si los genes se distribuyen independientemente?",
+     "options": [
+      "Dos: Aa y Bb.",
+      "Cuatro: AB, Ab, aB y ab.",
+      "Ocho."
+     ],
+     "answer": 1,
+     "explanation": "Con n genes heterocigotos independientes hay 2ⁿ gametos distintos; con n = 2, son 4."
+    },
+    {
+     "q": "En un cruce Aa × aa, ¿qué probabilidad hay de obtener un descendiente aa?",
+     "options": [
+      "1/4.",
+      "0.",
+      "1/2."
+     ],
+     "answer": 2,
+     "explanation": "Aa aporta A o a (1/2 cada uno) y aa siempre aporta a; la mitad de los hijos será aa."
+    },
+    {
+     "q": "Dos padres de ojos cafés tienen un hijo de ojos azules (rasgo recesivo, modelo simplificado). ¿Qué se puede concluir?",
+     "options": [
+      "Ambos padres son heterocigotos.",
+      "Ocurrió necesariamente una mutación.",
+      "Al menos uno de los padres es homocigoto recesivo."
+     ],
+     "answer": 0,
+     "explanation": "Para que el hijo sea aa, cada padre debió aportar un alelo a, y como ambos muestran el fenotipo dominante, son Aa."
+    },
+    {
+     "q": "¿Qué es un individuo homocigoto?",
+     "options": [
+      "Uno que posee dos alelos iguales para un gen (AA o aa).",
+      "Uno que posee dos alelos diferentes (Aa).",
+      "Uno que tiene un solo cromosoma."
+     ],
+     "answer": 0,
+     "explanation": "Homocigoto: alelos idénticos; heterocigoto: alelos distintos."
+    },
+    {
+     "q": "Al enseñar genética en 9.º grado, ¿qué estrategia favorece la comprensión de la probabilidad en la herencia?",
+     "options": [
+      "Pedir que memoricen las proporciones 3:1 y 9:3:3:1.",
+      "Dictar la biografía de Mendel.",
+      "Simular cruces lanzando monedas o sacando fichas que representan alelos y comparar resultados con el cuadro de Punnett."
+     ],
+     "answer": 2,
+     "explanation": "La simulación permite ver que las proporciones son probabilísticas y se aproximan al valor esperado con muestras grandes."
+    }
+   ]
+  },
+  {
+   "id": "decreto-1290-de-2009-evaluacion-y-promocion",
+   "title": "Decreto 1290 de 2009: evaluación y promoción",
+   "track": "Conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿Qué regula el Decreto 1290 de 2009?",
+     "options": [
+      "La evaluación del desempeño de los docentes.",
+      "La evaluación del aprendizaje y la promoción de los estudiantes de básica y media.",
+      "La convivencia escolar."
+     ],
+     "answer": 1,
+     "explanation": "El Decreto 1290 (compilado en el Decreto 1075 de 2015) regula la evaluación y promoción de los estudiantes."
+    },
+    {
+     "q": "¿Cuál es la escala de valoración nacional del Decreto 1290?",
+     "options": [
+      "Desempeño Superior, Alto, Básico y Bajo.",
+      "A, B, C, D y E.",
+      "Excelente, Sobresaliente, Aceptable, Insuficiente y Deficiente."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 5 fija esta escala; cada institución define su escala propia y su equivalencia con la nacional."
+    },
+    {
+     "q": "¿Qué significa \"desempeño básico\" en la escala nacional?",
+     "options": [
+      "El desempeño máximo esperado.",
+      "La no superación de los desempeños.",
+      "La superación de los desempeños necesarios en relación con las áreas obligatorias y fundamentales."
+     ],
+     "answer": 2,
+     "explanation": "El básico implica alcanzar lo necesario según estándares y lineamientos; el bajo es su no superación."
+    },
+    {
+     "q": "¿Quién define el Sistema Institucional de Evaluación de los Estudiantes (SIEE)?",
+     "options": [
+      "Cada establecimiento educativo, y lo aprueba el consejo directivo.",
+      "El Ministerio de Educación, de forma igual para todos los colegios.",
+      "Cada docente para su asignatura."
+     ],
+     "answer": 0,
+     "explanation": "El Decreto 1290 otorga autonomía a la institución para definir el SIEE, que debe aprobar el consejo directivo e incorporar al PEI."
+    },
+    {
+     "q": "¿Cuáles son los tres ámbitos de evaluación de los estudiantes según el Decreto 1290?",
+     "options": [
+      "Familiar, escolar y municipal.",
+      "Diagnóstico, formativo y sumativo.",
+      "Internacional, nacional e institucional."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 1 reconoce las pruebas internacionales, las pruebas Saber (nacional) y la evaluación en el aula (institucional)."
+    },
+    {
+     "q": "¿Cuál es un propósito de la evaluación institucional según el Decreto 1290?",
+     "options": [
+      "Calcular el salario de los docentes.",
+      "Proporcionar información para reorientar los procesos educativos y diseñar estrategias de apoyo.",
+      "Clasificar a los estudiantes para expulsar a los de menor desempeño."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 3 incluye identificar características y ritmos de aprendizaje, reorientar procesos, apoyar a estudiantes con dificultades y determinar la promoción."
+    },
+    {
+     "q": "Una estudiante de 7.º muestra desempeño superior en todas las áreas durante el primer periodo. ¿Qué figura le permite avanzar al grado siguiente?",
+     "options": [
+      "La repitencia voluntaria.",
+      "La graduación anticipada que concede la secretaría de educación.",
+      "La promoción anticipada, que el consejo académico recomienda y el consejo directivo decide."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 7 prevé la promoción anticipada en el primer periodo para estudiantes con desempeño superior."
+    },
+    {
+     "q": "¿Quién determina los criterios de promoción y el porcentaje de asistencia exigido?",
+     "options": [
+      "El establecimiento, en su SIEE.",
+      "El Decreto 1290, que fija un tope de 5 % de repitencia.",
+      "El ICFES."
+     ],
+     "answer": 0,
+     "explanation": "El Decreto 1290 eliminó el límite nacional de reprobación y dejó a cada institución definir sus criterios de promoción."
+    },
+    {
+     "q": "¿Qué instancia suele crear el SIEE para analizar casos de estudiantes con desempeño bajo y recomendar actividades de apoyo?",
+     "options": [
+      "El comité escolar de convivencia.",
+      "La comisión de evaluación y promoción.",
+      "El consejo de padres."
+     ],
+     "answer": 1,
+     "explanation": "Las comisiones de evaluación y promoción, definidas en el SIEE, hacen seguimiento y recomiendan estrategias de superación."
+    },
+    {
+     "q": "Un padre considera que la valoración final de su hijo es injusta. Según el Decreto 1290, ¿qué debe tener el SIEE?",
+     "options": [
+      "Instancias, procedimientos y mecanismos de atención y resolución de reclamaciones.",
+      "Una prohibición de reclamar después de publicadas las notas.",
+      "Un mecanismo para que el padre cambie la nota directamente."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 4 exige que el SIEE incluya instancias y procedimientos para reclamaciones de padres y estudiantes."
+    },
+    {
+     "q": "¿Qué deben contener los informes de evaluación que se entregan a padres?",
+     "options": [
+      "Solo un número de 0 a 100 sin explicación.",
+      "Valoración de cada área en la escala institucional con su equivalencia en la escala nacional y una descripción del avance.",
+      "Únicamente la lista de inasistencias."
+     ],
+     "answer": 1,
+     "explanation": "El decreto pide informes claros y comprensibles, con la equivalencia a la escala nacional."
+    },
+    {
+     "q": "¿Cuál es un derecho del estudiante según el artículo 12 del Decreto 1290?",
+     "options": [
+      "No presentar actividades de recuperación.",
+      "Elegir la nota final que desea.",
+      "Conocer el sistema de evaluación, los criterios, procedimientos e instrumentos desde el inicio del año."
+     ],
+     "answer": 2,
+     "explanation": "El estudiante tiene derecho a ser evaluado de forma integral, conocer el SIEE, recibir respuestas a sus inquietudes y recibir apoyo."
+    },
+    {
+     "q": "¿Cuál es un deber del estudiante según el Decreto 1290?",
+     "options": [
+      "Diseñar el SIEE.",
+      "Cumplir con los compromisos académicos y de convivencia definidos por el establecimiento.",
+      "Aprobar las notas de sus compañeros."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 13 establece deberes como cumplir compromisos y realizar las actividades de superación de debilidades."
+    },
+    {
+     "q": "¿Qué características debe tener la evaluación del aprendizaje según el espíritu del Decreto 1290?",
+     "options": [
+      "Integral, continua y formativa, considerando ritmos y estilos de aprendizaje.",
+      "Basada solo en exámenes escritos.",
+      "Exclusivamente sumativa y al final del año."
+     ],
+     "answer": 0,
+     "explanation": "El decreto orienta una evaluación que identifique avances y dificultades para mejorar el aprendizaje."
+    },
+    {
+     "q": "¿Qué requisito establece el Decreto 1290 para obtener el título de bachiller?",
+     "options": [
+      "Aprobar un examen de la secretaría de educación.",
+      "Obtener más de 300 puntos en Saber 11.",
+      "Haber cumplido los requisitos de promoción adoptados por el establecimiento en su PEI, de acuerdo con la ley."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 18 vincula la graduación al cumplimiento de los requisitos de promoción institucionales."
+    },
+    {
+     "q": "Un estudiante que no fue promovido el año anterior demuestra en el primer periodo que superó sus dificultades. ¿Qué puede hacer el establecimiento?",
+     "options": [
+      "Nada, porque está prohibido promover a repitentes.",
+      "Aplicar promoción anticipada para estudiantes no promovidos, si así lo contempla su SIEE.",
+      "Enviarlo a validar en el ICFES."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 7 dispone que los establecimientos definan en su SIEE los criterios para la promoción de quienes no fueron promovidos."
+    },
+    {
+     "q": "¿Qué responsabilidad tiene el MEN según el Decreto 1290?",
+     "options": [
+      "Aprobar el SIEE de cada colegio.",
+      "Fijar la nota mínima de cada institución.",
+      "Expedir orientaciones para la evaluación y realizar pruebas censales a través del ICFES, entre otras."
+     ],
+     "answer": 2,
+     "explanation": "El MEN orienta y acompaña, y las pruebas nacionales se aplican vía ICFES; el SIEE lo define y aprueba cada institución."
+    },
+    {
+     "q": "¿Cuál es la responsabilidad de la secretaría de educación (ETC) frente al Decreto 1290?",
+     "options": [
+      "Orientar y acompañar a los establecimientos en la definición del SIEE y resolver reclamaciones que se presenten.",
+      "Diseñar las preguntas de los exámenes institucionales.",
+      "Calificar a los estudiantes al final del año."
+     ],
+     "answer": 0,
+     "explanation": "El decreto asigna a las entidades territoriales funciones de orientación, acompañamiento y atención de reclamaciones."
+    },
+    {
+     "q": "Un docente utiliza solo pruebas escritas de memoria y no realimenta. ¿Qué principio del Decreto 1290 se está desconociendo?",
+     "options": [
+      "La evaluación como proceso formativo para identificar dificultades y reorientar el aprendizaje.",
+      "La prohibición de usar exámenes escritos.",
+      "La obligación de evaluar únicamente con proyectos."
+     ],
+     "answer": 0,
+     "explanation": "El decreto no prohíbe exámenes, pero exige que la evaluación sirva para mejorar, con información útil para el estudiante."
+    },
+    {
+     "q": "¿Qué equivalencia corresponde con mayor probabilidad a un estudiante que \"supera ampliamente los desempeños esperados\" en la escala nacional?",
+     "options": [
+      "Desempeño alto.",
+      "Desempeño superior.",
+      "Desempeño básico."
+     ],
+     "answer": 1,
+     "explanation": "Superior corresponde a superar de manera excelente lo previsto; alto, a un buen nivel; básico, a lo necesario."
+    }
+   ]
+  }
+ ]
+}

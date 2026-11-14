@@ -1,0 +1,241 @@
+## naturaleza-y-evolucion-de-la-tecnologia
+Q: Según las Orientaciones Generales para la Educación en Tecnología (Guía 30 del MEN), ¿qué es la tecnología?
++ Una actividad humana que busca resolver problemas y satisfacer necesidades transformando el entorno mediante el uso racional, crítico y creativo de recursos y conocimientos.
+- El conjunto de computadores y dispositivos electrónicos de una sociedad.
+- La aplicación exclusiva de la ciencia en laboratorios.
+E: La Guía 30 concibe la tecnología de forma amplia, no limitada a la informática ni a los aparatos electrónicos.
+
+Q: ¿Cuál es la diferencia principal entre ciencia y tecnología según la Guía 30?
++ La ciencia busca comprender y explicar el mundo; la tecnología busca transformarlo para resolver problemas y necesidades.
+- La ciencia usa computadores y la tecnología no.
+- Son sinónimos.
+E: Ambas se relacionan y se alimentan mutuamente, pero sus propósitos son distintos: explicar frente a transformar.
+
+Q: ¿Qué se entiende por "técnica"?
++ El saber hacer: procedimientos y habilidades prácticas para realizar una tarea.
+- El estudio teórico de las leyes de la naturaleza.
+- El uso de software especializado.
+E: La técnica es el conjunto de procedimientos; la tecnología incluye además la reflexión, el conocimiento y el contexto.
+
+Q: El paso del teléfono fijo al teléfono celular, conservando la función de comunicar a distancia pero mejorándola, es un ejemplo de:
++ Innovación.
+- Invención.
+- Descubrimiento.
+E: La innovación mejora o modifica artefactos, procesos o sistemas existentes; la invención crea algo que no existía.
+
+Q: ¿Cuál de los siguientes es un ejemplo de invención?
++ La primera imprenta de tipos móviles de Gutenberg.
+- Un nuevo modelo de celular con mejor cámara.
+- Una versión actualizada de un sistema operativo.
+E: La imprenta de tipos móviles fue un artefacto nuevo en su contexto; las otras opciones son mejoras (innovaciones).
+
+Q: ¿Qué diferencia hay entre "descubrimiento" e "invención"?
++ Se descubre lo que ya existía en la naturaleza; se inventa lo que no existía.
+- Se descubren artefactos y se inventan fenómenos naturales.
+- No hay diferencia.
+E: La penicilina fue descubierta (existía el hongo); el microscopio fue inventado.
+
+Q: Según la Guía 30, los artefactos son:
++ Dispositivos, herramientas, aparatos, instrumentos y máquinas que potencian la acción humana.
+- Las ideas que dan origen a la ciencia.
+- Las normas que regulan la tecnología.
+E: Los artefactos, junto con los procesos y los sistemas, son manifestaciones de la tecnología.
+
+Q: La fabricación de panela, que transforma la caña en un producto mediante etapas (molienda, clarificación, evaporación, moldeo), es un ejemplo de:
++ Un proceso tecnológico.
+- Un artefacto.
+- Un descubrimiento científico.
+E: Un proceso es una serie de actividades que transforman insumos en productos.
+
+Q: Un acueducto municipal, con captación, tratamiento, almacenamiento y distribución, es un ejemplo de:
++ Sistema tecnológico.
+- Artefacto aislado.
+- Técnica artesanal individual.
+E: Un sistema es un conjunto de elementos que interactúan entre sí para cumplir una función.
+
+Q: ¿Cuál fue un hito tecnológico de la Primera Revolución Industrial?
++ La máquina de vapor aplicada a la producción y el transporte.
+- El transistor.
+- Internet.
+E: La Primera Revolución Industrial (s. XVIII) se basó en el vapor y la mecanización; el transistor e internet son del s. XX.
+
+Q: ¿Qué caracteriza a la Cuarta Revolución Industrial?
++ La integración de tecnologías digitales, físicas y biológicas: IA, internet de las cosas, robótica, big data.
+- La invención de la rueda.
+- La producción en cadena con electricidad.
+E: La electricidad y la producción en cadena marcan la segunda; la digitalización la tercera; la cuarta integra sistemas ciberfísicos.
+
+Q: ¿Por qué la rueda se considera un artefacto tecnológico clave?
++ Porque redujo la fricción en el transporte y dio origen a muchos mecanismos (poleas, engranajes).
+- Porque fue el primer computador.
+- Porque es un descubrimiento natural.
+E: La rueda transformó el transporte, la alfarería y la mecánica; es base de múltiples mecanismos.
+
+Q: Un estudiante de grado 3.º describe cómo su abuela muele maíz en una piedra y compara con un molino eléctrico. ¿Qué componente de la Guía 30 se trabaja principalmente?
++ Naturaleza y evolución de la tecnología.
+- Solución de problemas con tecnología.
+- Tecnología y sociedad, exclusivamente sobre ética.
+E: Comparar artefactos en el tiempo permite comprender la evolución de la tecnología.
+
+Q: ¿Cuál es una característica de la tecnología según la Guía 30?
++ Es un producto cultural que responde a necesidades de un contexto histórico y social.
+- Es neutral y no tiene efectos sociales.
+- Existe únicamente desde la invención del computador.
+E: La tecnología está ligada a la cultura y tiene implicaciones sociales y ambientales.
+
+Q: ¿Qué relación existe entre la tecnología y la informática en el área escolar?
++ La informática es un campo de la tecnología; el área no se limita a ella.
+- Son exactamente lo mismo.
+- La informática no forma parte del área.
+E: El área "Tecnología e Informática" abarca la tecnología en general; la informática es una parte importante pero no la única.
+
+Q: Un grupo analiza cómo el uso de la bicicleta pasó de ser un artefacto de lujo a un medio de transporte masivo. ¿Qué concepto se trabaja?
++ La evolución tecnológica en relación con las transformaciones sociales.
+- La invención de la rueda.
+- El funcionamiento de un motor eléctrico.
+E: La historia de los artefactos permite ver cómo cambian sus usos, costos y significados sociales.
+
+Q: ¿Cuál de los siguientes es un ejemplo de "tecnología blanda"?
++ Un método de organización del trabajo, como una metodología de gestión de proyectos.
+- Un taladro eléctrico.
+- Un puente de concreto.
+E: Las tecnologías blandas son conocimientos organizativos, de gestión o procedimentales; las duras son artefactos físicos.
+
+Q: ¿Qué es la "obsolescencia tecnológica"?
++ La pérdida de vigencia o utilidad de un artefacto por la aparición de otros más eficientes o por falta de soporte.
+- El proceso de fabricación de un artefacto.
+- La reparación de un artefacto viejo.
+E: La obsolescencia puede ser tecnológica o programada, y tiene efectos ambientales (residuos electrónicos).
+
+Q: Las culturas indígenas desarrollaron sistemas de riego y técnicas de orfebrería. Desde la Guía 30, esto muestra que:
++ La tecnología existe en todas las culturas y épocas, no solo en las sociedades industriales.
+- Solo la tecnología moderna es tecnología.
+- La orfebrería es ciencia, no tecnología.
+E: La tecnología es una actividad humana universal, ligada a cada contexto cultural.
+
+Q: Según la Guía 30, ¿en qué grupos de grados se organizan los estándares de tecnología?
++ 1.º a 3.º, 4.º a 5.º, 6.º a 7.º, 8.º a 9.º y 10.º a 11.º.
+- Preescolar, primaria y bachillerato.
+- 1.º a 5.º y 6.º a 11.º.
+E: La Guía 30 organiza los desempeños por estos cinco grupos de grados, al igual que los estándares de otras áreas.
+
+## leyes-desde-cero-constitucion-estado-social-de-d
+Q: ¿Qué es la Constitución Política de Colombia?
++ La norma de normas: la ley fundamental que prevalece sobre cualquier otra norma.
+- Una ley ordinaria que expide el Congreso cada cuatro años.
+- Un decreto del Presidente.
+E: El artículo 4 dice que la Constitución es norma de normas; si una norma la contradice, se aplica la Constitución.
+
+Q: ¿En qué año se expidió la Constitución Política vigente en Colombia?
++ 1991.
+- 1886.
+- 2002.
+E: La Constitución de 1991 reemplazó a la de 1886.
+
+Q: Según el artículo 1 de la Constitución, Colombia es:
++ Un Estado social de derecho, organizado como república unitaria, descentralizada, democrática, participativa y pluralista.
+- Una república federal con estados independientes.
+- Una monarquía parlamentaria.
+E: El Estado social de derecho implica que el Estado está sometido a la ley y debe garantizar derechos sociales.
+
+Q: ¿Qué significa "Estado de derecho"?
++ Que gobernantes y ciudadanos están sometidos a las normas jurídicas.
+- Que el Estado no tiene obligaciones con los ciudadanos.
+- Que el Presidente puede cambiar la ley cuando quiera.
+E: Nadie está por encima de la ley; el "social" añade el deber de garantizar condiciones dignas (educación, salud).
+
+Q: ¿Cuál es el orden correcto de jerarquía normativa, de mayor a menor?
++ Constitución → ley → decreto reglamentario → resolución.
+- Decreto → Constitución → resolución → ley.
+- Resolución → ley → Constitución → decreto.
+E: La Constitución está en la cúspide; las leyes la desarrollan; los decretos reglamentan las leyes y las resoluciones concretan aspectos administrativos.
+
+Q: ¿Quién expide las leyes en Colombia?
++ El Congreso de la República.
+- El Presidente de la República.
+- La Corte Constitucional.
+E: El artículo 150 asigna al Congreso la función de hacer las leyes; el Presidente las sanciona y reglamenta.
+
+Q: ¿Qué es un decreto reglamentario?
++ Una norma que expide el Presidente (o el Gobierno) para desarrollar y hacer aplicable una ley.
+- Una norma que puede modificar la Constitución.
+- Una sentencia de un juez.
+E: La potestad reglamentaria (art. 189, num. 11) permite detallar la ley sin contradecirla.
+
+Q: El Decreto 1278 de 2002 se llama "Decreto Ley". ¿Qué significa esto?
++ Que el Presidente lo expidió con facultades extraordinarias otorgadas por el Congreso, y tiene fuerza de ley.
+- Que es un decreto que no tiene valor jurídico.
+- Que fue aprobado por referendo.
+E: Con base en el artículo 150-10 de la Constitución, el Congreso puede otorgar facultades al Presidente; la Ley 715 de 2001 lo hizo para el estatuto docente.
+
+Q: ¿Qué es una resolución del Ministerio de Educación?
++ Un acto administrativo de menor jerarquía que concreta aspectos técnicos u operativos dentro de lo que permiten leyes y decretos.
+- Una norma superior a la ley.
+- Una reforma constitucional.
+E: Las resoluciones no pueden contradecir leyes ni decretos; regulan asuntos específicos.
+
+Q: ¿Qué son los "acuerdos" en el contexto del concurso docente?
++ Actos administrativos de la CNSC que fijan las reglas de cada convocatoria.
+- Leyes expedidas por el Congreso.
+- Contratos privados entre el aspirante y el colegio.
+E: La CNSC, como órgano autónomo, expide acuerdos de convocatoria que son la "ley del concurso".
+
+Q: ¿Cuáles son las tres ramas del poder público en Colombia?
++ Legislativa, ejecutiva y judicial.
+- Nacional, departamental y municipal.
+- Educativa, económica y militar.
+E: El artículo 113 establece las tres ramas, además de órganos autónomos e independientes (como la CNSC).
+
+Q: ¿A qué rama pertenece el Ministerio de Educación Nacional?
++ A la rama ejecutiva.
+- A la rama legislativa.
+- A la rama judicial.
+E: Los ministerios hacen parte del Gobierno nacional, encabezado por el Presidente.
+
+Q: ¿Qué tipo de entidad es la Comisión Nacional del Servicio Civil (CNSC)?
++ Un órgano autónomo e independiente, encargado de la carrera administrativa.
+- Una dependencia del Ministerio de Educación.
+- Una empresa privada.
+E: El artículo 130 de la Constitución la crea como entidad autónoma, no subordinada a las ramas del poder.
+
+Q: ¿Qué tribunal guarda la integridad y supremacía de la Constitución?
++ La Corte Constitucional.
+- El Consejo de Estado.
+- La Procuraduría General.
+E: El artículo 241 le confía esa función; el Consejo de Estado es tribunal de lo contencioso administrativo.
+
+Q: ¿Cómo se cita correctamente una norma?
++ Tipo de norma, número y año; por ejemplo, "Ley 115 de 1994".
+- Solo el año; por ejemplo, "la de 1994".
+- Solo el número; por ejemplo, "la 115".
+E: El número se repite cada año, por eso se necesita el año para identificarla (puede haber un "Decreto 1278" de otro año).
+
+Q: ¿Qué ocurre si un decreto reglamentario contradice una ley?
++ Puede ser anulado, porque una norma inferior no puede contrariar a una superior.
+- El decreto prevalece por ser más reciente.
+- Ambas normas se aplican por igual.
+E: Por el principio de jerarquía normativa, prevalece la norma superior; el Consejo de Estado puede anular el decreto.
+
+Q: ¿Qué es un "Decreto Único Reglamentario" como el Decreto 1075 de 2015?
++ Una compilación de los decretos reglamentarios de un sector (en este caso, el educativo) en un solo texto.
+- Una nueva Constitución para la educación.
+- Una ley aprobada por el Congreso en 2015.
+E: El 1075 reúne normas como los decretos 1290, 1860 y 1965, que hoy se citan también por su artículo en el decreto único.
+
+Q: ¿Qué derecho fundamental permite pedir información o actuaciones a una autoridad y recibir respuesta oportuna?
++ El derecho de petición (art. 23 de la Constitución).
+- La acción de tutela.
+- El derecho al voto.
+E: El derecho de petición se regula en la Ley 1755 de 2015; la tutela protege derechos fundamentales vulnerados.
+
+Q: ¿Para qué sirve la acción de tutela?
++ Para reclamar ante un juez la protección inmediata de derechos fundamentales vulnerados o amenazados.
+- Para crear nuevas leyes.
+- Para elegir a los representantes estudiantiles.
+E: El artículo 86 de la Constitución consagra la tutela como mecanismo preferente y sumario.
+
+Q: ¿Cuál de las siguientes normas es de mayor jerarquía?
++ La Ley 115 de 1994.
+- El Decreto 1290 de 2009.
+- Una resolución de la secretaría de educación.
+E: Una ley prima sobre los decretos reglamentarios y estos sobre las resoluciones.

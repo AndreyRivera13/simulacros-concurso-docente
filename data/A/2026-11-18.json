@@ -1,0 +1,423 @@
+{
+ "version": "A",
+ "date": "2026-11-18",
+ "n": 4,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "ecosistemas-flujo-de-energia-cadenas-y-redes-tro",
+   "title": "Ecosistemas: flujo de energía, cadenas y redes tróficas",
+   "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+   "questions": [
+    {
+     "q": "En la cadena pasto → saltamontes → rana → serpiente → águila, ¿qué nivel trófico ocupa la rana?",
+     "options": [
+      "Consumidor primario.",
+      "Consumidor secundario.",
+      "Productor."
+     ],
+     "answer": 1,
+     "explanation": "El pasto es productor, el saltamontes consumidor primario (herbívoro) y la rana, que come al herbívoro, consumidor secundario."
+    },
+    {
+     "q": "Si los productores de un ecosistema fijan 10 000 kcal, ¿cuánta energía llega aproximadamente a los consumidores secundarios según la regla del 10 %?",
+     "options": [
+      "100 kcal.",
+      "10 kcal.",
+      "1 000 kcal."
+     ],
+     "answer": 0,
+     "explanation": "Pasa cerca del 10 % por nivel: 10 000 → 1 000 (primarios) → 100 (secundarios)."
+    },
+    {
+     "q": "¿Por qué se pierde energía al pasar de un nivel trófico al siguiente?",
+     "options": [
+      "Porque la energía se destruye al ser digerida.",
+      "Porque los consumidores devuelven la energía al Sol.",
+      "Porque gran parte se usa en respiración y se disipa como calor, y parte no se consume ni se asimila."
+     ],
+     "answer": 2,
+     "explanation": "La energía no se destruye: se transforma; la mayoría se libera como calor metabólico y en desechos no asimilados."
+    },
+    {
+     "q": "¿Qué diferencia hay entre el flujo de energía y el de materia en un ecosistema?",
+     "options": [
+      "La materia fluye en un solo sentido y la energía se recicla.",
+      "La energía fluye en un solo sentido y se disipa; la materia se recicla en ciclos.",
+      "Ambas se reciclan completamente."
+     ],
+     "answer": 1,
+     "explanation": "La energía entra como luz y sale como calor; los nutrientes (C, N, P) circulan gracias a los descomponedores."
+    },
+    {
+     "q": "¿Qué función cumplen hongos y bacterias descomponedores?",
+     "options": [
+      "Transforman la materia orgánica muerta en sustancias inorgánicas que reutilizan los productores.",
+      "Son los consumidores terciarios de la red.",
+      "Producen glucosa a partir de la luz solar."
+     ],
+     "answer": 0,
+     "explanation": "Los descomponedores cierran el ciclo de la materia al mineralizar restos y desechos."
+    },
+    {
+     "q": "¿Por qué una red trófica representa mejor un ecosistema que una cadena trófica?",
+     "options": [
+      "Porque incluye solo a los productores.",
+      "Porque muestra que los organismos tienen varias fuentes de alimento y varios depredadores.",
+      "Porque elimina a los descomponedores."
+     ],
+     "answer": 1,
+     "explanation": "Las redes muestran las múltiples interconexiones alimentarias, lo que ayuda a predecir efectos de las perturbaciones."
+    },
+    {
+     "q": "En una red trófica, si desaparecen los zorros que se alimentan de conejos, ¿qué se espera a corto plazo?",
+     "options": [
+      "Disminución de los conejos por falta de alimento.",
+      "Aumento de la población de conejos y mayor presión sobre las plantas.",
+      "Aumento inmediato de los zorros."
+     ],
+     "answer": 1,
+     "explanation": "Sin depredador, los conejos crecen en número y consumen más vegetación, lo que puede afectar a todo el ecosistema."
+    },
+    {
+     "q": "El DDT se encuentra en concentraciones mucho mayores en las águilas que en el plancton. ¿Cómo se denomina este fenómeno?",
+     "options": [
+      "Eutrofización.",
+      "Sucesión ecológica.",
+      "Biomagnificación."
+     ],
+     "answer": 2,
+     "explanation": "Las sustancias persistentes que no se excretan aumentan su concentración a medida que se asciende en la cadena trófica."
+    },
+    {
+     "q": "La relación entre el pez payaso y la anémona, en la que ambos se benefician, es:",
+     "options": [
+      "Competencia.",
+      "Parasitismo.",
+      "Mutualismo."
+     ],
+     "answer": 2,
+     "explanation": "En el mutualismo ambas especies obtienen beneficio (+/+): protección para el pez y limpieza/alimento para la anémona."
+    },
+    {
+     "q": "Las garrapatas en el ganado representan una relación de:",
+     "options": [
+      "Comensalismo.",
+      "Parasitismo.",
+      "Mutualismo."
+     ],
+     "answer": 1,
+     "explanation": "El parásito se beneficia y el hospedero resulta perjudicado (+/−)."
+    },
+    {
+     "q": "Las orquídeas que viven sobre los árboles sin dañarlos, obteniendo luz y soporte, ejemplifican:",
+     "options": [
+      "Comensalismo.",
+      "Parasitismo.",
+      "Depredación."
+     ],
+     "answer": 0,
+     "explanation": "Una especie se beneficia y la otra no es afectada (+/0); las epífitas no extraen nutrientes del árbol."
+    },
+    {
+     "q": "¿Qué representa una pirámide de energía?",
+     "options": [
+      "La edad de los organismos del ecosistema.",
+      "El número de especies de cada nivel, que aumenta hacia arriba.",
+      "La cantidad de energía disponible en cada nivel trófico, que disminuye hacia arriba."
+     ],
+     "answer": 2,
+     "explanation": "La pirámide de energía nunca puede invertirse, pues cada nivel recibe solo una fracción del anterior."
+    },
+    {
+     "q": "¿Por qué las cadenas tróficas rara vez tienen más de 4 o 5 eslabones?",
+     "options": [
+      "Porque la energía disponible se reduce tanto que no alcanza para sostener más niveles.",
+      "Porque los depredadores grandes no necesitan energía.",
+      "Porque los productores no pueden ser consumidos más de cuatro veces."
+     ],
+     "answer": 0,
+     "explanation": "Con pérdidas de ~90 % por nivel, la energía remanente es muy baja después de unos cuantos eslabones."
+    },
+    {
+     "q": "¿Qué es un ecosistema?",
+     "options": [
+      "Un grupo de individuos de la misma especie.",
+      "El conjunto de seres vivos (biocenosis) y el medio físico (biotopo) que interactúan.",
+      "Solo el conjunto de animales de una región."
+     ],
+     "answer": 1,
+     "explanation": "El ecosistema integra factores bióticos y abióticos; un grupo de la misma especie es una población."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un factor abiótico?",
+     "options": [
+      "La temperatura.",
+      "Las abejas polinizadoras.",
+      "Los hongos del suelo."
+     ],
+     "answer": 0,
+     "explanation": "Los factores abióticos son físicos o químicos (luz, temperatura, agua, pH); los seres vivos son bióticos."
+    },
+    {
+     "q": "Dos especies de aves se alimentan de las mismas semillas en una isla. ¿Qué relación se establece?",
+     "options": [
+      "Comensalismo.",
+      "Competencia interespecífica.",
+      "Mutualismo."
+     ],
+     "answer": 1,
+     "explanation": "Ambas compiten por un recurso limitado (−/−), lo que puede llevar a exclusión o a la diferenciación de nichos."
+    },
+    {
+     "q": "¿Qué es el nicho ecológico de una especie?",
+     "options": [
+      "El lugar físico exacto donde vive, únicamente.",
+      "El número de individuos de la población.",
+      "El papel que desempeña en el ecosistema: qué come, dónde vive, cómo se relaciona y qué condiciones tolera."
+     ],
+     "answer": 2,
+     "explanation": "El hábitat es el lugar; el nicho es la \"profesión\" o función de la especie."
+    },
+    {
+     "q": "Tras un incendio, un bosque se recupera gradualmente: primero aparecen hierbas, luego arbustos y finalmente árboles. ¿Cómo se denomina el proceso?",
+     "options": [
+      "Sucesión ecológica primaria.",
+      "Biomagnificación.",
+      "Sucesión ecológica secundaria."
+     ],
+     "answer": 2,
+     "explanation": "Es secundaria porque ocurre donde ya había suelo; la primaria comienza sobre roca desnuda sin suelo."
+    },
+    {
+     "q": "Un estudiante afirma que \"el león obtiene energía directamente del Sol\". ¿Cuál es la corrección adecuada?",
+     "options": [
+      "El león obtiene la energía solar de forma indirecta, a través de las presas que se alimentaron de productores.",
+      "El león obtiene energía de los descomponedores.",
+      "Es correcto, porque el león se calienta con el Sol."
+     ],
+     "answer": 0,
+     "explanation": "La energía solar entra por la fotosíntesis y se transfiere por la alimentación; tomar el sol no aporta energía química."
+    },
+    {
+     "q": "¿Qué actividad de aula permite a los estudiantes evidenciar relaciones tróficas en su entorno?",
+     "options": [
+      "Observar y registrar organismos de una zona verde del colegio y construir con esos datos una red trófica.",
+      "Ver una película sin preguntas orientadoras.",
+      "Copiar la definición de red trófica en el cuaderno."
+     ],
+     "answer": 0,
+     "explanation": "El trabajo de campo con registro de datos permite construir modelos propios y discutirlos, lo que desarrolla la competencia de indagación."
+    }
+   ]
+  },
+  {
+   "id": "estatuto-docente-decreto-ley-1278-de-2002",
+   "title": "Estatuto docente: Decreto Ley 1278 de 2002",
+   "track": "Conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿A quién se aplica el Decreto Ley 1278 de 2002 (Estatuto de Profesionalización Docente)?",
+     "options": [
+      "A todos los docentes del país, incluidos los vinculados antes de 1979.",
+      "Solo a los docentes de colegios privados.",
+      "A quienes ingresen al servicio educativo estatal a partir de su vigencia (2002) mediante concurso."
+     ],
+     "answer": 2,
+     "explanation": "El 1278 rige para quienes se vincularon después de su expedición; quienes ingresaron antes siguen en el Decreto 2277 de 1979."
+    },
+    {
+     "q": "¿Cómo se ingresa al servicio educativo estatal según el Decreto 1278?",
+     "options": [
+      "Por nombramiento discrecional del rector.",
+      "Por recomendación de la secretaría de educación.",
+      "Mediante concurso de méritos."
+     ],
+     "answer": 2,
+     "explanation": "El ingreso a la carrera docente es por concurso; los nombramientos provisionales son temporales."
+    },
+    {
+     "q": "¿Qué tipo de norma es el Decreto 1278 de 2002?",
+     "options": [
+      "Un decreto con fuerza de ley, expedido por el Presidente con facultades extraordinarias.",
+      "Un acuerdo de la CNSC.",
+      "Una resolución del MEN."
+     ],
+     "answer": 0,
+     "explanation": "Se expidió con base en las facultades extraordinarias de la Ley 715 de 2001; por eso se le llama \"Decreto Ley\"."
+    },
+    {
+     "q": "Al nombrado tras el concurso se le evalúa en periodo de prueba. ¿Cuál es su duración según el Decreto 1278?",
+     "options": [
+      "Hasta culminar el año académico, siempre que hayan transcurrido al menos cuatro meses de servicio.",
+      "Exactamente dos años.",
+      "Un mes."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 31 fija el periodo de prueba hasta terminar el año escolar, con un mínimo de cuatro meses."
+    },
+    {
+     "q": "¿Qué calificación mínima debe obtener el docente en la evaluación del periodo de prueba para ser inscrito en el escalafón?",
+     "options": [
+      "Al menos 50 %.",
+      "Al menos 60 %.",
+      "Al menos 80 %."
+     ],
+     "answer": 1,
+     "explanation": "Quien obtiene calificación satisfactoria (60 % o más) es nombrado en propiedad e inscrito en el escalafón."
+    },
+    {
+     "q": "¿Cuántos grados tiene el escalafón docente del Decreto 1278?",
+     "options": [
+      "Tres grados, cada uno con niveles salariales A, B, C y D.",
+      "Cinco grados sin niveles.",
+      "Catorce grados."
+     ],
+     "answer": 0,
+     "explanation": "El escalafón del 1278 tiene grados 1, 2 y 3 según la formación académica, y cuatro niveles salariales en cada uno."
+    },
+    {
+     "q": "¿Qué título corresponde al grado 1 del escalafón del Decreto 1278?",
+     "options": [
+      "Licenciado en educación.",
+      "Normalista superior.",
+      "Magíster."
+     ],
+     "answer": 1,
+     "explanation": "Grado 1: normalista superior; grado 2: licenciado o profesional con formación pedagógica; grado 3: con maestría o doctorado."
+    },
+    {
+     "q": "Una licenciada en Ciencias Naturales sin posgrado ingresa por concurso. ¿En qué grado se ubica?",
+     "options": [
+      "Grado 1.",
+      "Grado 3.",
+      "Grado 2."
+     ],
+     "answer": 2,
+     "explanation": "El título de licenciado corresponde al grado 2; el grado 3 exige maestría o doctorado."
+    },
+    {
+     "q": "Una docente del grado 2 obtiene una maestría en educación. ¿Qué debe hacer para pasar al grado 3?",
+     "options": [
+      "Aprobar la evaluación de competencias convocada para ascenso, además de cumplir el título y el tiempo exigido.",
+      "Esperar 10 años de antigüedad.",
+      "Solo radicar el diploma; el ascenso es automático."
+     ],
+     "answer": 0,
+     "explanation": "En el 1278 el ascenso no es automático: requiere el título, tiempo de servicio y superar la evaluación de competencias (ECDF en los últimos procesos)."
+    },
+    {
+     "q": "¿Qué tipos de evaluación contempla el Decreto 1278?",
+     "options": [
+      "Solo la evaluación del concurso de ingreso.",
+      "Evaluación del periodo de prueba, evaluación ordinaria anual de desempeño y evaluación de competencias.",
+      "Evaluación de estudiantes y de padres."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 26 y siguientes establecen estas evaluaciones para ingreso, permanencia y ascenso."
+    },
+    {
+     "q": "¿Quién realiza la evaluación anual de desempeño de los docentes?",
+     "options": [
+      "El ICFES.",
+      "Los estudiantes por votación.",
+      "El rector o director rural del establecimiento."
+     ],
+     "answer": 2,
+     "explanation": "La evaluación ordinaria de desempeño la hace el superior inmediato (rector o director), al terminar cada año académico."
+    },
+    {
+     "q": "¿Qué consecuencia tiene obtener calificación no satisfactoria en la evaluación de desempeño en dos años consecutivos?",
+     "options": [
+      "El traslado automático a otro municipio.",
+      "La reducción del salario a la mitad.",
+      "La exclusión del escalafón y el retiro del servicio."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 36 del Decreto 1278 prevé esa consecuencia, con garantía del debido proceso."
+    },
+    {
+     "q": "¿Qué se entiende por \"reubicación salarial\" en el Decreto 1278?",
+     "options": [
+      "El cambio de institución educativa.",
+      "El paso del grado 1 al grado 3.",
+      "El paso de un nivel salarial a otro dentro del mismo grado."
+     ],
+     "answer": 2,
+     "explanation": "La reubicación es el movimiento entre niveles (A, B, C, D) dentro del grado; el ascenso es el cambio de grado."
+    },
+    {
+     "q": "¿Cuál es una función docente según el Decreto 1278?",
+     "options": [
+      "El diagnóstico, la planeación, la ejecución y la evaluación de los procesos de enseñanza-aprendizaje.",
+      "La expedición de títulos de bachiller.",
+      "La aprobación del presupuesto municipal."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 4 define la función docente como de carácter profesional e incluye actividades curriculares y de orientación."
+    },
+    {
+     "q": "¿Qué cargos son \"directivos docentes\" según el Decreto 1278?",
+     "options": [
+      "Rector, director rural y coordinador.",
+      "Secretario de educación y supervisor.",
+      "Orientador escolar y docente de apoyo."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 6 define como directivos docentes a rectores, directores rurales y coordinadores."
+    },
+    {
+     "q": "Un docente vinculado en provisionalidad, ¿tiene derechos de carrera?",
+     "options": [
+      "No; su nombramiento es temporal mientras se provee la vacante por concurso.",
+      "Sí, si el rector lo recomienda.",
+      "Sí, después de un año de servicio."
+     ],
+     "answer": 0,
+     "explanation": "Los derechos de carrera se adquieren solo tras superar el concurso y el periodo de prueba."
+    },
+    {
+     "q": "Según el Decreto 1278, ¿cuál es el propósito de la evaluación de desempeño?",
+     "options": [
+      "Seleccionar a los estudiantes que repiten el año.",
+      "Verificar niveles de idoneidad y mejoramiento continuo del docente.",
+      "Determinar el salario de los directivos."
+     ],
+     "answer": 1,
+     "explanation": "La evaluación busca el mejoramiento continuo y la calidad del servicio; sus resultados orientan planes de desarrollo personal."
+    },
+    {
+     "q": "¿Qué estatuto rige a los docentes vinculados antes del Decreto 1278?",
+     "options": [
+      "El Decreto 1290 de 2009.",
+      "El Decreto 2277 de 1979.",
+      "La Ley 1620 de 2013."
+     ],
+     "answer": 1,
+     "explanation": "El 2277 de 1979 tiene su propio escalafón (grados 1 a 14) y sigue aplicando a esos docentes."
+    },
+    {
+     "q": "¿Qué es la evaluación de competencias en el Decreto 1278?",
+     "options": [
+      "La evaluación de ingreso al concurso.",
+      "La evaluación que se realiza para ascender de grado o reubicarse de nivel salarial.",
+      "La evaluación de los estudiantes en pruebas Saber."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 35 la establece; su aprobación permite el ascenso o la reubicación salarial."
+    },
+    {
+     "q": "Una docente en periodo de prueba obtiene 55 % en su evaluación. ¿Qué ocurre?",
+     "options": [
+      "Es inscrita en el escalafón con observaciones.",
+      "Es retirada del servicio, porque no superó el periodo de prueba.",
+      "Repite el periodo de prueba automáticamente."
+     ],
+     "answer": 1,
+     "explanation": "Quien no obtiene la calificación satisfactoria en el periodo de prueba es separado del servicio, según el Decreto 1278."
+    }
+   ]
+  }
+ ]
+}

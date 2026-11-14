@@ -1,0 +1,241 @@
+## electricidad-y-electronica-basica
+Q: Según la ley de Ohm, ¿qué corriente circula por una resistencia de 100 Ω conectada a 5 V?
++ 0,05 A (50 mA).
+- 500 A.
+- 20 A.
+E: I = V/R = 5 V / 100 Ω = 0,05 A.
+
+Q: ¿Qué magnitud eléctrica se mide en voltios?
++ La diferencia de potencial (voltaje).
+- La corriente.
+- La resistencia.
+E: El voltaje se mide en voltios (V), la corriente en amperios (A) y la resistencia en ohmios (Ω).
+
+Q: Dos resistencias de 220 Ω se conectan en serie. ¿Cuál es la resistencia equivalente?
++ 440 Ω.
+- 110 Ω.
+- 220 Ω.
+E: En serie las resistencias se suman: 220 + 220 = 440 Ω.
+
+Q: Dos resistencias de 220 Ω se conectan en paralelo. ¿Cuál es la resistencia equivalente?
++ 110 Ω.
+- 440 Ω.
+- 220 Ω.
+E: Para dos resistencias iguales en paralelo, Req = R/2 = 110 Ω.
+
+Q: En un circuito en serie con tres bombillos, uno se funde. ¿Qué ocurre?
++ Se apagan todos, porque se interrumpe el único camino de la corriente.
+- Los otros dos brillan más.
+- Solo se apaga el bombillo fundido.
+E: En serie hay un solo camino; en paralelo, cada rama es independiente.
+
+Q: ¿Por qué las instalaciones eléctricas de una casa se conectan en paralelo?
++ Para que cada aparato reciba el mismo voltaje y funcione de manera independiente.
+- Para que la corriente sea la misma en todos los aparatos.
+- Para gastar menos cables.
+E: En paralelo todos los elementos tienen el mismo voltaje de la red y pueden encenderse o apagarse por separado.
+
+Q: ¿Cómo se conecta un amperímetro para medir la corriente de un circuito?
++ En serie con el elemento.
+- En paralelo con el elemento.
+- Directamente al tomacorriente sin carga.
+E: El amperímetro debe ser atravesado por la corriente; conectarlo en paralelo puede causar un cortocircuito.
+
+Q: ¿Cómo se conecta un voltímetro?
++ En paralelo con el elemento cuyo voltaje se quiere medir.
+- En serie con el elemento.
+- Solo a la batería desconectada.
+E: El voltímetro mide la diferencia de potencial entre dos puntos, por eso va en paralelo.
+
+Q: Un LED rojo necesita unos 2 V y 20 mA, y se alimenta con 5 V. ¿Qué resistencia en serie se necesita aproximadamente?
++ 150 Ω.
+- 250 Ω.
+- 10 Ω.
+E: R = (5 − 2) V / 0,02 A = 150 Ω. La resistencia limita la corriente para no dañar el LED.
+
+Q: ¿Cuál es la potencia de un aparato que consume 2 A a 120 V?
++ 240 W.
+- 60 W.
+- 122 W.
+E: P = V × I = 120 × 2 = 240 W.
+
+Q: Un bombillo de 100 W permanece encendido 10 horas. ¿Cuánta energía consume?
++ 1 kWh.
+- 10 kWh.
+- 0,1 kWh.
+E: E = P × t = 100 W × 10 h = 1 000 Wh = 1 kWh.
+
+Q: ¿Qué es un cortocircuito?
++ Una conexión de muy baja resistencia que provoca una corriente excesiva.
+- Un circuito con un interruptor abierto.
+- Un circuito con muchas resistencias en serie.
+E: La corriente muy alta puede calentar los conductores y provocar incendios; por eso se usan fusibles y breakers.
+
+Q: ¿Cuál es la función de un fusible o un breaker (interruptor termomagnético)?
++ Interrumpir el circuito cuando la corriente supera un valor seguro.
+- Aumentar el voltaje de la instalación.
+- Almacenar energía eléctrica.
+E: Son dispositivos de protección contra sobrecargas y cortocircuitos.
+
+Q: ¿Cuál de los siguientes materiales es buen conductor eléctrico?
++ El cobre.
+- El caucho.
+- La madera seca.
+E: Los metales tienen electrones libres; caucho y madera seca son aislantes.
+
+Q: ¿Qué componente electrónico permite el paso de corriente en un solo sentido?
++ El diodo.
+- La resistencia.
+- El condensador.
+E: El diodo conduce en polarización directa y bloquea en inversa; se usa, por ejemplo, para rectificar corriente alterna.
+
+Q: ¿Qué función principal cumple un condensador en un circuito?
++ Almacenar temporalmente carga eléctrica.
+- Convertir luz en electricidad.
+- Medir la temperatura.
+E: El condensador almacena energía en un campo eléctrico; se usa para filtrar y temporizar.
+
+Q: ¿Qué componente puede funcionar como interruptor o amplificador controlado electrónicamente?
++ El transistor.
+- El fusible.
+- El potenciómetro.
+E: El transistor es la base de la electrónica moderna y de los circuitos digitales.
+
+Q: ¿Qué diferencia hay entre corriente continua (DC) y corriente alterna (AC)?
++ En la DC el sentido de la corriente es constante; en la AC cambia periódicamente de sentido.
+- La DC solo existe en los tomacorrientes de las casas.
+- La AC solo la producen las pilas.
+E: Las pilas y baterías dan DC; la red doméstica en Colombia es AC a 60 Hz.
+
+Q: Un potenciómetro en un circuito con un bombillo permite variar su brillo porque:
++ Cambia la resistencia y con ella la corriente que circula.
+- Cambia el voltaje de la red eléctrica.
+- Convierte la luz en calor.
+E: Al aumentar la resistencia disminuye la corriente (ley de Ohm) y el bombillo brilla menos.
+
+Q: ¿Cuál es una norma de seguridad eléctrica indispensable en el aula de tecnología?
++ Trabajar con circuitos de bajo voltaje (pilas) y nunca manipular la red eléctrica con las manos mojadas.
+- Probar los circuitos conectándolos directamente al tomacorriente.
+- Retirar los fusibles para que la corriente fluya mejor.
+E: El bajo voltaje reduce el riesgo; el agua disminuye la resistencia de la piel y aumenta el peligro de descarga.
+
+## el-concurso-docente-etapas-pruebas-puntajes-y-si
+Q: ¿Qué entidad tiene a su cargo la administración y vigilancia de las carreras de los servidores públicos y, por tanto, adelanta el concurso docente?
++ La Comisión Nacional del Servicio Civil (CNSC).
+- El Ministerio de Educación Nacional por sí solo.
+- El ICFES.
+E: El artículo 130 de la Constitución asigna a la CNSC la administración y vigilancia de las carreras; el concurso se hace con las entidades territoriales certificadas y el MEN apoya la definición de perfiles.
+
+Q: ¿Por qué medio se realiza la inscripción al concurso docente?
++ En la plataforma SIMO de la CNSC.
+- En la secretaría de educación de forma presencial.
+- En la página del ICFES.
+E: SIMO (Sistema de apoyo para la Igualdad, el Mérito y la Oportunidad) es el canal oficial para crear el perfil, cargar documentos e inscribirse en la OPEC.
+
+Q: ¿Qué es la OPEC en un proceso de selección de la CNSC?
++ La Oferta Pública de Empleos de Carrera: las vacantes que se ofertan en el concurso.
+- La Oficina Pedagógica de Evaluación por Competencias.
+- La prueba de conocimientos específicos del aspirante.
+E: La OPEC lista los empleos y vacantes ofertados por cada entidad territorial; el aspirante elige allí el empleo al que se inscribe.
+
+Q: Según el carácter de las pruebas, ¿cuál de ellas es eliminatoria para los docentes?
++ La prueba de aptitudes y competencias básicas.
+- La valoración de antecedentes.
+- La prueba psicotécnica.
+E: La prueba de aptitudes y competencias básicas es eliminatoria (puntaje mínimo aprobatorio); la psicotécnica, los antecedentes y la entrevista son clasificatorias.
+
+Q: ¿Cuál es el puntaje mínimo aprobatorio de la prueba de aptitudes y competencias básicas para el cargo de docente, según lo anunciado para el concurso 2026-2027?
++ 60 puntos sobre 100.
+- 70 puntos sobre 100.
+- 50 puntos sobre 100.
+E: Para docentes el mínimo es 60/100; para directivos docentes es 70/100.
+
+Q: Una aspirante no aprueba la prueba de aptitudes y competencias básicas. ¿Qué ocurre?
++ Queda excluida del proceso, porque esa prueba es eliminatoria.
+- Continúa y su puntaje se compensa con la valoración de antecedentes.
+- Puede repetir la prueba en la misma convocatoria.
+E: Al ser eliminatoria, solo quienes alcanzan el mínimo continúan a las etapas clasificatorias.
+
+Q: ¿Qué significa que la prueba psicotécnica sea "clasificatoria"?
++ Su puntaje suma para ordenar a los aspirantes, pero no excluye por sí solo.
+- Excluye a quien no obtenga el puntaje mínimo.
+- Solo se aplica a quienes empatan en la lista de elegibles.
+E: Las pruebas clasificatorias aportan puntaje ponderado para definir la posición en la lista; no tienen mínimo eliminatorio.
+
+Q: ¿Qué se evalúa en la etapa de valoración de antecedentes?
++ La formación académica y la experiencia acreditadas adicionales a los requisitos mínimos.
+- Los antecedentes disciplinarios y penales del aspirante.
+- El desempeño en un examen escrito de cultura general.
+E: Se puntúan estudios y experiencia que superan los requisitos mínimos del empleo, con los documentos cargados en SIMO.
+
+Q: Antes de aplicar las pruebas, la CNSC revisa si el aspirante cumple los requisitos del empleo. ¿Cómo se llama esta etapa y qué consecuencia tiene?
++ Verificación de requisitos mínimos: quien no los cumple queda "no admitido".
+- Valoración de antecedentes: quien no los cumple pierde puntos pero continúa.
+- Entrevista: quien no los cumple debe explicarlo en audiencia.
+E: La verificación de requisitos mínimos (VRM) no da puntaje; define si el aspirante es admitido o no admitido al proceso.
+
+Q: ¿Qué componentes evalúa la prueba de aptitudes y competencias básicas para un docente de aula?
++ Aptitudes (p. ej., razonamiento y lectura crítica) y competencias del área y pedagógicas.
+- Solo conocimientos de cultura general.
+- Únicamente rasgos de personalidad.
+E: Combina aptitudes básicas con el saber disciplinar y pedagógico del empleo; los rasgos comportamentales los mide la psicotécnica.
+
+Q: Un profesional no licenciado (por ejemplo, ingeniero de sistemas) ingresa por concurso. Según el Decreto Ley 1278 de 2002, ¿qué debe acreditar al terminar el periodo de prueba?
++ Que cursa o terminó un posgrado en educación o un programa de pedagogía en una institución de educación superior.
+- Que tiene diez años de experiencia en empresas de tecnología.
+- Nada adicional; su título profesional es suficiente.
+E: El artículo 12 del Decreto 1278 exige esa formación pedagógica a los profesionales con título distinto al de licenciado.
+
+Q: ¿Qué es la lista de elegibles?
++ El acto que ordena, por puntaje final, a quienes superaron el concurso para proveer las vacantes.
+- El listado de inscritos que pagaron los derechos de participación.
+- El registro de docentes provisionales de la entidad territorial.
+E: La CNSC conforma listas de elegibles en orden de mérito; con ellas se proveen las vacantes ofertadas.
+
+Q: ¿Cuál es la vigencia de las listas de elegibles del concurso docente una vez quedan en firme?
++ Dos años.
+- Seis meses.
+- Cinco años.
+E: Según el Decreto 1075 de 2015 (art. 2.4.1.1.16), las listas de elegibles tienen vigencia de dos años desde su firmeza.
+
+Q: Quien ocupa un lugar en la lista de elegibles y es nombrado, ¿en qué condición inicia?
++ En periodo de prueba.
+- En propiedad, con inscripción inmediata en el escalafón.
+- En provisionalidad.
+E: El nombramiento inicial es en periodo de prueba; si la evaluación es satisfactoria, obtiene los derechos de carrera y el escalafón.
+
+Q: ¿Qué principio constitucional fundamenta el concurso de méritos para ingresar a la carrera docente?
++ El mérito: los empleos de carrera se proveen por concurso (art. 125 de la Constitución).
+- La libre designación por parte del alcalde o gobernador.
+- La antigüedad en el servicio como provisional.
+E: El artículo 125 establece que los empleos del Estado son de carrera y que el ingreso y el ascenso se hacen por méritos, mediante concurso.
+
+Q: En el concurso 2026-2027, ¿qué grupo de aspirantes se inscribe primero y sin costo?
++ Las personas con discapacidad, en vacantes reservadas para ellas.
+- Los docentes provisionales con más de cinco años de servicio.
+- Los licenciados recién graduados.
+E: Por la Ley 2418 de 2024 hay reserva de vacantes para personas con discapacidad; su inscripción es gratuita y se programó del 23-nov-2026 al 15-ene-2027.
+
+Q: Un ingeniero de sistemas quiere saber si puede aspirar al empleo de docente de Tecnología e Informática. ¿Dónde debe verificarlo?
++ En los requisitos mínimos del empleo en la OPEC (SIMO) y en el manual de funciones, requisitos y competencias del MEN.
+- En el reglamento interno de cada colegio.
+- En el boletín de resultados de las pruebas Saber 11.
+E: La ficha del empleo y el manual del MEN definen qué títulos profesionales son admisibles; para Tecnología e Informática suelen admitirse ingenierías afines.
+
+Q: ¿Cuál es el orden lógico de las etapas del concurso docente?
++ Convocatoria y divulgación → inscripción → verificación de requisitos → pruebas → valoración de antecedentes → lista de elegibles → nombramiento en periodo de prueba.
+- Inscripción → nombramiento → pruebas → convocatoria → lista de elegibles.
+- Pruebas → inscripción → convocatoria → verificación de requisitos → nombramiento.
+E: El proceso parte del acuerdo de convocatoria, sigue con la inscripción en SIMO y la verificación, luego las pruebas y antecedentes, y termina con listas y nombramientos.
+
+Q: Un aspirante considera que su puntaje de la prueba fue mal calificado. ¿Qué puede hacer dentro del proceso?
++ Presentar una reclamación ante la CNSC/operador dentro del plazo fijado en la convocatoria, a través de SIMO.
+- Interponer de inmediato una demanda penal contra el operador.
+- Esperar al nombramiento para pedir la corrección en la secretaría de educación.
+E: Cada resultado se publica con un plazo para reclamaciones, que se presentan por SIMO; es el mecanismo ordinario de defensa en el concurso.
+
+Q: ¿Qué norma compila las reglas del concurso de méritos para docentes y directivos docentes?
++ El Decreto 1075 de 2015, Único Reglamentario del Sector Educación.
+- La Ley 1620 de 2013.
+- El Decreto 1290 de 2009.
+E: El Decreto 1075 de 2015 reúne la reglamentación del sector, incluida la del concurso; la Ley 1620 es de convivencia y el Decreto 1290, de evaluación de estudiantes.

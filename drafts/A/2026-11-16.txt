@@ -1,0 +1,241 @@
+## fotosintesis-y-respiracion-celular
+Q: ¿Cuál es la ecuación global simplificada de la fotosíntesis?
++ 6 CO₂ + 6 H₂O + luz → C₆H₁₂O₆ + 6 O₂
+- C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + energía
+- 6 O₂ + 6 H₂O → C₆H₁₂O₆ + 6 CO₂
+E: La fotosíntesis usa CO₂ y agua con energía lumínica para producir glucosa y liberar O₂; la segunda opción es la respiración celular.
+
+Q: ¿De qué molécula proviene el oxígeno liberado en la fotosíntesis?
++ Del agua, al romperse en la fase luminosa (fotólisis).
+- Del dióxido de carbono absorbido por los estomas.
+- De la glucosa formada en el ciclo de Calvin.
+E: Experimentos con isótopos (¹⁸O) mostraron que el O₂ procede de la fotólisis del agua en los tilacoides.
+
+Q: ¿Dónde ocurre la fase luminosa de la fotosíntesis?
++ En las membranas de los tilacoides del cloroplasto.
+- En el estroma del cloroplasto.
+- En la matriz mitocondrial.
+E: Los fotosistemas y la clorofila están en los tilacoides; allí se produce ATP, NADPH y O₂. El ciclo de Calvin ocurre en el estroma.
+
+Q: ¿Qué ocurre en el ciclo de Calvin (fase oscura o independiente de la luz)?
++ Se fija el CO₂ y se sintetizan azúcares usando ATP y NADPH.
+- Se libera oxígeno a partir del agua.
+- Se oxida la glucosa para producir ATP.
+E: En el estroma la enzima RuBisCO fija CO₂ y, con el ATP y NADPH de la fase luminosa, se forman azúcares de tres carbonos.
+
+Q: Un grupo mide la producción de burbujas de O₂ de una planta acuática (Elodea) colocando una lámpara a 10, 20, 30 y 40 cm. ¿Cuál es la variable independiente?
++ La distancia de la lámpara (intensidad de luz).
+- El número de burbujas producidas.
+- El tipo de planta usada.
+E: La variable independiente es la que el investigador manipula (distancia/intensidad de luz); el número de burbujas es la dependiente y la especie es una variable controlada.
+
+Q: En el mismo experimento con Elodea, ¿qué resultado se espera al alejar la lámpara?
++ Disminuye la producción de burbujas, porque llega menos luz.
+- Aumenta la producción de burbujas, porque baja la temperatura.
+- No cambia, porque la luz no influye en la fotosíntesis.
+E: La intensidad luminosa es un factor limitante: a menor luz, menor tasa fotosintética y menos O₂ liberado.
+
+Q: ¿Qué factores pueden limitar la tasa de fotosíntesis?
++ La intensidad de luz, la concentración de CO₂ y la temperatura.
+- La cantidad de O₂ del suelo y el color de las flores.
+- El número de mitocondrias y la altura de la planta.
+E: Luz, CO₂ y temperatura (que afecta a las enzimas) son los factores limitantes clásicos.
+
+Q: ¿Dónde ocurre la mayor producción de ATP en la respiración celular aeróbica?
++ En la cadena de transporte de electrones de la membrana interna mitocondrial.
+- En la glucólisis, en el citoplasma.
+- En el ciclo de Krebs, en el citoplasma.
+E: La fosforilación oxidativa en las crestas mitocondriales genera la mayor parte del ATP; la glucólisis produce solo 2 ATP netos.
+
+Q: ¿Dónde ocurre la glucólisis?
++ En el citoplasma (citosol).
+- En la matriz mitocondrial.
+- En los tilacoides.
+E: La glucólisis rompe la glucosa en dos piruvatos en el citosol, sin necesidad de oxígeno.
+
+Q: En la respiración aeróbica, ¿cuál es el aceptor final de electrones?
++ El oxígeno, que se reduce a agua.
+- El dióxido de carbono.
+- La glucosa.
+E: El O₂ recibe los electrones al final de la cadena respiratoria y se combina con H⁺ para formar agua.
+
+Q: Un atleta realiza un esfuerzo intenso y sus músculos producen ácido láctico. ¿Qué proceso ocurrió?
++ Fermentación láctica, por falta de suficiente oxígeno.
+- Fotosíntesis muscular.
+- Fermentación alcohólica.
+E: Con O₂ insuficiente, el piruvato se reduce a lactato para regenerar NAD⁺ y continuar la glucólisis.
+
+Q: Al preparar pan, la masa se infla. ¿Qué proceso realizan las levaduras?
++ Fermentación alcohólica, que libera CO₂.
+- Fotosíntesis, que libera O₂.
+- Fermentación láctica, que libera vapor de agua.
+E: Las levaduras fermentan los azúcares produciendo etanol y CO₂; el gas queda atrapado y hace crecer la masa.
+
+Q: ¿Qué afirmación sobre fotosíntesis y respiración es correcta?
++ Las plantas realizan ambos procesos; la respiración ocurre de día y de noche.
+- Las plantas solo fotosintetizan y los animales solo respiran.
+- Las plantas respiran únicamente de noche.
+E: Las células vegetales tienen mitocondrias y respiran todo el tiempo; durante el día la fotosíntesis suele superar a la respiración.
+
+Q: Se colocan dos plantas iguales: una con luz y otra en oscuridad, ambas con indicador de CO₂ en el agua. Tras 24 h el indicador de la planta en oscuridad muestra más CO₂. ¿Cómo se explica?
++ En oscuridad solo respira y libera CO₂, sin consumirlo por fotosíntesis.
+- En oscuridad hace más fotosíntesis y produce CO₂.
+- La oscuridad descompone el indicador.
+E: Sin luz no hay fotosíntesis que absorba CO₂, pero la respiración continúa liberándolo.
+
+Q: ¿Qué pigmento absorbe principalmente la luz en la fotosíntesis y qué colores absorbe más?
++ La clorofila; absorbe sobre todo luz azul-violeta y roja.
+- La clorofila; absorbe sobre todo luz verde.
+- La hemoglobina; absorbe luz amarilla.
+E: La clorofila refleja el verde (por eso vemos las hojas verdes) y absorbe azul y rojo.
+
+Q: ¿Cuál es la relación entre fotosíntesis y respiración en el flujo de materia de un ecosistema?
++ Los productos de una son los reactivos de la otra (CO₂, H₂O, glucosa y O₂).
+- Ambas producen glucosa a partir de oxígeno.
+- No tienen relación, pues ocurren en organismos distintos.
+E: La fotosíntesis fija CO₂ y libera O₂; la respiración consume O₂ y glucosa y libera CO₂ y agua: es un ciclo de la materia.
+
+Q: ¿Por qué se dice que las plantas son organismos autótrofos?
++ Porque producen su propio alimento orgánico a partir de sustancias inorgánicas y luz.
+- Porque obtienen energía de comer otros seres vivos.
+- Porque no necesitan agua para vivir.
+E: Los autótrofos fotosintéticos sintetizan materia orgánica a partir de CO₂, agua y energía lumínica.
+
+Q: Una estudiante afirma: "las plantas obtienen su masa principalmente del suelo". ¿Qué evidencia histórica la contradice?
++ El experimento de van Helmont: el árbol ganó mucha masa mientras el suelo apenas perdió peso.
+- El experimento de Mendel con arvejas.
+- El experimento de Pasteur con matraces de cuello de cisne.
+E: Van Helmont mostró que la masa del suelo casi no cambiaba; hoy sabemos que la mayor parte de la masa proviene del CO₂ del aire y del agua.
+
+Q: ¿Cuántas moléculas netas de ATP se obtienen aproximadamente por glucosa en la respiración aeróbica, frente a la fermentación?
++ Alrededor de 30-38 en la aeróbica y 2 en la fermentación.
+- 2 en la aeróbica y 36 en la fermentación.
+- La misma cantidad en ambos procesos.
+E: La oxidación completa de la glucosa rinde unas 30-38 ATP; la fermentación solo aprovecha la glucólisis (2 ATP netos).
+
+Q: Al planear una práctica sobre fotosíntesis con grado 7.º, ¿cuál es la pregunta más adecuada para iniciar un proceso de indagación?
++ ¿Cómo influye la cantidad de luz en la producción de oxígeno de una planta acuática?
+- ¿Cuál es la definición de fotosíntesis que aparece en el libro?
+- ¿En qué año se descubrió la clorofila?
+E: Una pregunta investigable relaciona variables medibles y permite diseñar un experimento; las otras son preguntas de memoria.
+
+## ley-115-de-1994-fines-objetivos-y-areas-obligato
+Q: ¿Qué es la Ley 115 de 1994?
++ La Ley General de Educación, que regula el servicio público educativo.
+- La ley de convivencia escolar.
+- El estatuto de profesionalización docente.
+E: La Ley 115 fija normas generales del servicio educativo; la convivencia es la Ley 1620 de 2013 y el estatuto docente el Decreto Ley 1278 de 2002.
+
+Q: Según la Ley 115, ¿cuáles son los niveles de la educación formal?
++ Preescolar, básica (primaria y secundaria) y media.
+- Inicial, primaria, bachillerato y universitaria.
+- Básica, media y técnica profesional.
+E: El artículo 11 organiza la educación formal en preescolar, básica (nueve grados: cinco de primaria y cuatro de secundaria) y media (dos grados).
+
+Q: ¿Cuántos grados tiene la educación básica según la Ley 115?
++ Nueve: cinco de primaria y cuatro de secundaria.
+- Once: cinco de primaria y seis de secundaria.
+- Seis: tres de primaria y tres de secundaria.
+E: La básica va de 1.º a 9.º; la media comprende los grados 10.º y 11.º.
+
+Q: ¿Cuál de las siguientes es un área obligatoria y fundamental según el artículo 23 de la Ley 115?
++ Ciencias naturales y educación ambiental.
+- Emprendimiento financiero.
+- Química analítica.
+E: El artículo 23 incluye, entre otras, ciencias naturales y educación ambiental, matemáticas, tecnología e informática, y humanidades.
+
+Q: ¿Qué porcentaje mínimo del plan de estudios deben ocupar las áreas obligatorias y fundamentales?
++ El 80 %.
+- El 50 %.
+- El 100 %.
+E: El artículo 23 señala que estos grupos de áreas comprenderán un mínimo del 80 % del plan de estudios; el resto lo define la autonomía institucional.
+
+Q: Un colegio decide incluir "Agroecología" como asignatura propia. ¿En qué se apoya legalmente?
++ En la autonomía escolar del artículo 77 de la Ley 115, dentro de los lineamientos del MEN.
+- En el Decreto 1290, que obliga a crear asignaturas nuevas.
+- En la Ley 1620, que regula el plan de estudios.
+E: El artículo 77 permite organizar áreas, introducir asignaturas optativas y adaptarlas a necesidades regionales.
+
+Q: Según el artículo 14 de la Ley 115, ¿cuál es una enseñanza obligatoria en todos los establecimientos?
++ La enseñanza de la protección del ambiente, la ecología y la preservación de los recursos naturales.
+- La enseñanza de un segundo idioma extranjero desde preescolar.
+- La enseñanza de programación de computadores.
+E: El artículo 14 incluye estudio de la Constitución, aprovechamiento del tiempo libre, protección del ambiente, educación para la paz y la democracia, y educación sexual.
+
+Q: ¿Cuál es un fin de la educación según el artículo 5 de la Ley 115?
++ La adquisición de una conciencia para la conservación, protección y mejoramiento del medio ambiente.
+- La preparación exclusiva para el ingreso a la universidad.
+- La formación de mano de obra para las empresas privadas.
+E: El numeral 10 del artículo 5 menciona la conciencia ambiental; los fines buscan el desarrollo integral, no solo la preparación académica o laboral.
+
+Q: ¿Qué entiende la Ley 115 por "currículo"?
++ El conjunto de criterios, planes de estudio, programas, metodologías y procesos que contribuyen a la formación integral.
+- La lista de libros que deben comprar los estudiantes.
+- El horario de clases de cada docente.
+E: El artículo 76 define el currículo de forma amplia, incluyendo recursos humanos, académicos y físicos para poner en práctica el PEI.
+
+Q: ¿Qué es el PEI según la Ley 115?
++ El Proyecto Educativo Institucional, que define principios, fines, recursos, estrategia pedagógica y reglamento de la institución.
+- El Plan de Evaluación Individual de cada estudiante.
+- El Programa Estatal de Infraestructura escolar.
+E: El artículo 73 obliga a cada establecimiento a elaborar y poner en práctica un PEI con participación de la comunidad educativa.
+
+Q: ¿Qué grado de preescolar es obligatorio según la Ley 115?
++ Mínimo un grado obligatorio (transición) en los establecimientos estatales.
+- Tres grados obligatorios.
+- Ninguno; el preescolar es opcional.
+E: El artículo 18 establece al menos un grado obligatorio de preescolar; la Constitución (art. 67) también menciona mínimo un año de preescolar.
+
+Q: ¿Cuál es el objeto de la educación media académica según la Ley 115?
++ Profundizar en un campo del conocimiento y preparar para la educación superior.
+- Enseñar a leer y escribir.
+- Formar exclusivamente para un oficio técnico.
+E: El artículo 29 señala que la media (académica o técnica) busca la comprensión de ideas y valores universales y la preparación para la educación superior y el trabajo.
+
+Q: Además de las áreas de la básica, ¿qué áreas añade la media académica según el artículo 31?
++ Ciencias económicas, ciencias políticas y filosofía.
+- Contabilidad, mecánica y agricultura.
+- Programación, robótica y diseño.
+E: El artículo 31 indica que en la media académica son obligatorias las mismas áreas de la básica, en un nivel más avanzado, además de ciencias económicas, políticas y filosofía.
+
+Q: La Ley 115 define a la comunidad educativa como:
++ Estudiantes, educadores, padres de familia, egresados, directivos y administradores escolares.
+- Únicamente rector y docentes.
+- Solo los padres de familia y el consejo directivo.
+E: El artículo 6 incluye a todos estos estamentos, que participan en el diseño, ejecución y evaluación del PEI.
+
+Q: ¿Qué órganos conforman el gobierno escolar según el artículo 142 de la Ley 115?
++ Consejo directivo, consejo académico y rector.
+- Personero, comité de convivencia y consejo de padres.
+- Secretaría de educación, rector y coordinador.
+E: El gobierno escolar de las instituciones estatales está integrado por el consejo directivo, el consejo académico y el rector.
+
+Q: ¿Qué estudiante puede ser personero de los estudiantes según el artículo 94 de la Ley 115?
++ Un alumno del último grado que ofrezca la institución.
+- Cualquier estudiante de grado 6.º.
+- El estudiante con mejor promedio, designado por el rector.
+E: El personero es un estudiante del último grado, elegido por los estudiantes, encargado de promover sus derechos y deberes.
+
+Q: ¿Qué es la educación "no formal" hoy denominada para el trabajo y el desarrollo humano?
++ La que se ofrece para complementar, actualizar o formar en aspectos académicos o laborales sin sujeción al sistema de niveles y grados.
+- La educación que se imparte sin docentes.
+- La educación en el hogar sin reconocimiento legal.
+E: La Ley 115 distingue educación formal, no formal (hoy ETDH, Ley 1064 de 2006) e informal.
+
+Q: La Ley 115 indica que la educación ambiental debe:
++ Desarrollarse de manera transversal mediante proyectos pedagógicos, además del área de ciencias naturales y educación ambiental.
+- Enseñarse solo en grado 11.º como cátedra opcional.
+- Delegarse a las corporaciones autónomas regionales.
+E: Además del área obligatoria, el artículo 14 la incluye como enseñanza obligatoria que se cumple mediante proyectos transversales (como el PRAE).
+
+Q: ¿Qué establece la Ley 115 sobre la educación religiosa?
++ Es área obligatoria, pero ninguna persona puede ser obligada a recibirla (libertad de cultos).
+- Es optativa y no puede figurar en el plan de estudios.
+- Es obligatoria y debe ser católica en todos los colegios.
+E: El artículo 23 la incluye como área y el parágrafo garantiza que nadie será obligado a recibirla, conforme a la libertad religiosa.
+
+Q: ¿Qué objetivo específico de la básica secundaria se relaciona con las ciencias naturales según el artículo 22?
++ El avance en el conocimiento científico de los fenómenos físicos, químicos y biológicos, y la observación experimental.
+- El estudio exclusivo de la historia de Colombia.
+- La memorización de la tabla periódica.
+E: El artículo 22 incluye el desarrollo del conocimiento científico y la capacidad de observación experimental como objetivos de la secundaria.

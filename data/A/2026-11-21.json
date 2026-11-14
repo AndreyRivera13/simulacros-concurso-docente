@@ -1,0 +1,423 @@
+{
+ "version": "A",
+ "date": "2026-11-21",
+ "n": 7,
+ "kind": "repaso",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "repaso-s1-1",
+   "title": "Repaso semana 1: Disciplinar",
+   "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+   "questions": [
+    {
+     "q": "Un estudiante afirma que \"las plantas hacen fotosíntesis en lugar de respirar\". ¿Qué organelos evidencian que las células vegetales realizan ambos procesos?",
+     "options": [
+      "Cloroplastos y mitocondrias.",
+      "Lisosomas y centriolos.",
+      "Núcleo y vacuola."
+     ],
+     "answer": 0,
+     "explanation": "Los cloroplastos realizan la fotosíntesis y las mitocondrias la respiración celular; las células vegetales poseen ambos."
+    },
+    {
+     "q": "En un acuario cerrado con plantas y peces, expuesto a luz natural, ¿por qué se mantiene el equilibrio de gases durante el día?",
+     "options": [
+      "Las plantas producen O₂ por fotosíntesis que usan los peces, y los peces liberan CO₂ que usan las plantas.",
+      "Los peces producen O₂ y las plantas lo consumen.",
+      "El agua genera O₂ por sí misma sin seres vivos."
+     ],
+     "answer": 0,
+     "explanation": "Fotosíntesis y respiración son procesos complementarios en el ciclo del carbono y del oxígeno."
+    },
+    {
+     "q": "Si el acuario anterior se deja varios días en oscuridad total, ¿qué es lo más probable?",
+     "options": [
+      "Aumenta el O₂ porque las plantas descansan.",
+      "Nada cambia, porque las plantas no respiran.",
+      "Disminuye el O₂ disuelto, porque solo hay respiración y no fotosíntesis."
+     ],
+     "answer": 2,
+     "explanation": "Sin luz las plantas no producen O₂, pero todos los organismos siguen consumiéndolo."
+    },
+    {
+     "q": "Una población de conejos tiene pelaje negro (N, dominante) o blanco (n). Si en un ecosistema nevado los depredadores ven mejor a los conejos negros, ¿qué ocurrirá con el tiempo?",
+     "options": [
+      "Los conejos negros se volverán blancos para camuflarse.",
+      "Aumentará la frecuencia del alelo n en la población.",
+      "Aumentará la frecuencia del alelo N."
+     ],
+     "answer": 1,
+     "explanation": "Los conejos blancos sobreviven y se reproducen más, transmitiendo el alelo n; los individuos no cambian su genotipo por voluntad."
+    },
+    {
+     "q": "En el caso anterior, dos conejos negros tienen una cría blanca. ¿Qué genotipo tienen los padres?",
+     "options": [
+      "Ambos Nn.",
+      "Ambos NN.",
+      "Uno NN y otro nn."
+     ],
+     "answer": 0,
+     "explanation": "La cría nn recibió un alelo n de cada padre; como los padres son negros, ambos son heterocigotos."
+    },
+    {
+     "q": "¿Qué relación hay entre la regla del 10 % y la cantidad de individuos que puede sostener un ecosistema en el nivel de grandes carnívoros?",
+     "options": [
+      "Los grandes carnívoros son pocos porque reciben una fracción muy pequeña de la energía de los productores.",
+      "Los carnívoros son muchos porque comen más.",
+      "No hay relación entre energía y número de individuos."
+     ],
+     "answer": 0,
+     "explanation": "Con pérdidas de ~90 % por nivel, la energía para el último nivel es limitada y sostiene poblaciones pequeñas."
+    },
+    {
+     "q": "¿Qué método permitiría separar los pigmentos fotosintéticos de una hoja triturada en alcohol?",
+     "options": [
+      "Imantación.",
+      "Cromatografía en papel.",
+      "Filtración simple."
+     ],
+     "answer": 1,
+     "explanation": "La cromatografía separa clorofilas y carotenoides según su afinidad con el solvente y el papel."
+    },
+    {
+     "q": "Al poner una célula vegetal en agua destilada, no estalla como un glóbulo rojo. ¿Por qué?",
+     "options": [
+      "Porque las células vegetales no tienen vacuolas.",
+      "Porque la membrana vegetal es impermeable al agua.",
+      "Porque la pared celular resiste la presión de turgencia."
+     ],
+     "answer": 2,
+     "explanation": "El agua entra por ósmosis, pero la pared rígida limita la expansión y la célula queda turgente."
+    },
+    {
+     "q": "¿Qué tienen en común la difusión de O₂ en los alvéolos y la mezcla de tinta en agua?",
+     "options": [
+      "Ambas son reacciones químicas.",
+      "Ambas ocurren por movimiento espontáneo de partículas de mayor a menor concentración.",
+      "Ambas requieren ATP."
+     ],
+     "answer": 1,
+     "explanation": "Son procesos de difusión: no consumen energía metabólica y siguen el gradiente de concentración."
+    },
+    {
+     "q": "Un PRAE sobre la contaminación de una quebrada quiere medir el efecto de los vertimientos. ¿Qué indicador biológico pueden usar los estudiantes?",
+     "options": [
+      "El color de las hojas de los árboles del colegio.",
+      "La presencia y diversidad de macroinvertebrados acuáticos.",
+      "El número de estudiantes que visita la quebrada."
+     ],
+     "answer": 1,
+     "explanation": "Los macroinvertebrados son bioindicadores de calidad del agua: algunos solo viven en aguas limpias."
+    },
+    {
+     "q": "¿Qué cambio es químico: la evaporación del agua de la quebrada o la descomposición de la materia orgánica en ella?",
+     "options": [
+      "La evaporación del agua.",
+      "Ambos son cambios físicos.",
+      "La descomposición de la materia orgánica."
+     ],
+     "answer": 2,
+     "explanation": "La descomposición transforma sustancias orgánicas en otras (CO₂, nitratos); la evaporación es un cambio de estado."
+    },
+    {
+     "q": "En la eutrofización de un lago por fertilizantes, ¿por qué mueren los peces?",
+     "options": [
+      "Las algas se comen a los peces.",
+      "Los fertilizantes son venenosos para los peces de forma directa.",
+      "Las algas proliferan, mueren y su descomposición por bacterias consume el oxígeno disuelto."
+     ],
+     "answer": 2,
+     "explanation": "El exceso de nutrientes provoca crecimiento de algas; al descomponerse, los descomponedores agotan el O₂."
+    },
+    {
+     "q": "Un experimento compara el crecimiento de plantas con y sin fertilizante, manteniendo igual la luz, el agua y el tipo de planta. ¿Cuál es el grupo control?",
+     "options": [
+      "Las plantas sin fertilizante.",
+      "Las plantas con fertilizante.",
+      "La luz y el agua."
+     ],
+     "answer": 0,
+     "explanation": "El grupo control no recibe el tratamiento y sirve de referencia; luz, agua y especie son variables controladas."
+    },
+    {
+     "q": "¿Qué organelo se esperaría poco desarrollado en células de raíz que no reciben luz?",
+     "options": [
+      "Los cloroplastos.",
+      "Las mitocondrias.",
+      "El núcleo."
+     ],
+     "answer": 0,
+     "explanation": "Las raíces no fotosintetizan, por lo que carecen de cloroplastos funcionales; sí necesitan mitocondrias para respirar."
+    },
+    {
+     "q": "¿Qué propiedad física permitiría diferenciar dos líquidos incoloros: agua y alcohol?",
+     "options": [
+      "Su estado físico a temperatura ambiente.",
+      "Su color.",
+      "Su punto de ebullición o su densidad."
+     ],
+     "answer": 2,
+     "explanation": "Ambos son líquidos incoloros; las propiedades específicas (densidad, punto de ebullición) los distinguen."
+    },
+    {
+     "q": "Una flor de dondiego rosada (RB) se cruza con una blanca (BB). ¿Qué proporción de descendientes será rosada?",
+     "options": [
+      "100 %.",
+      "50 %.",
+      "25 %."
+     ],
+     "answer": 1,
+     "explanation": "RB × BB → RB y BB en partes iguales: mitad rosadas y mitad blancas (dominancia incompleta)."
+    },
+    {
+     "q": "¿Por qué la quema de bosques afecta tanto el flujo de energía como el ciclo de la materia?",
+     "options": [
+      "Solo afecta el ciclo del agua.",
+      "Elimina productores (entrada de energía) y libera de golpe el carbono almacenado como CO₂.",
+      "Solo afecta el flujo de energía."
+     ],
+     "answer": 1,
+     "explanation": "Se pierde la base de la cadena trófica y se altera el ciclo del carbono, con efecto en el clima."
+    },
+    {
+     "q": "¿Qué tipo de relación ecológica existe entre una planta y el hongo micorrícico que vive en sus raíces, intercambiando nutrientes por azúcares?",
+     "options": [
+      "Mutualismo.",
+      "Competencia.",
+      "Parasitismo."
+     ],
+     "answer": 0,
+     "explanation": "Ambos se benefician: el hongo recibe azúcares y la planta mejora la absorción de agua y minerales."
+    },
+    {
+     "q": "Una estudiante dice que la masa de una vela \"desaparece\" al quemarse. ¿Qué experiencia la ayudaría a reconstruir su idea?",
+     "options": [
+      "Leer la definición de combustión.",
+      "Quemar la vela en un sistema cerrado sobre una balanza para comprobar que la masa total se conserva.",
+      "Medir la altura de la vela antes y después."
+     ],
+     "answer": 1,
+     "explanation": "En un sistema cerrado se evidencia la conservación de la masa; los productos son gases."
+    },
+    {
+     "q": "Para el área de Ciencias Naturales, ¿qué actividad integra genética y educación ambiental?",
+     "options": [
+      "Memorizar las leyes de Mendel.",
+      "Separar mezclas en el laboratorio.",
+      "Analizar cómo la pérdida de hábitat reduce la variabilidad genética de una especie endémica."
+     ],
+     "answer": 2,
+     "explanation": "La variabilidad genética es clave para la adaptación; su pérdida aumenta el riesgo de extinción y conecta con la conservación."
+    }
+   ]
+  },
+  {
+   "id": "repaso-s1-2",
+   "title": "Repaso semana 1: Conocimiento general del concurso",
+   "track": "Conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "Un aspirante con licenciatura en Ciencias Naturales aprueba el concurso y es nombrado en marzo. ¿Hasta cuándo dura su periodo de prueba?",
+     "options": [
+      "Hasta terminar el año académico, pues alcanzará más de cuatro meses de servicio.",
+      "Hasta que el rector lo considere.",
+      "Dos años desde el nombramiento."
+     ],
+     "answer": 0,
+     "explanation": "Según el Decreto 1278, el periodo de prueba se extiende hasta el fin del año académico con un mínimo de cuatro meses."
+    },
+    {
+     "q": "¿Qué norma regula la evaluación de los estudiantes que la docente aplicará en el aula y cuál la evaluación de su propio desempeño?",
+     "options": [
+      "El Decreto 1290 de 2009 y el Decreto Ley 1278 de 2002, respectivamente.",
+      "La Ley 1620 de 2013 en ambos casos.",
+      "El Decreto 1278 y el Decreto 1290, respectivamente."
+     ],
+     "answer": 0,
+     "explanation": "El 1290 regula la evaluación y promoción de estudiantes; el 1278, las evaluaciones de los docentes."
+    },
+    {
+     "q": "Dos estudiantes se insultan en clase por primera vez, sin lesiones. Según la Ley 1620 y su decreto, ¿qué corresponde?",
+     "options": [
+      "Bajar la nota de Ciencias Naturales a ambos.",
+      "Remitirlo a la Policía de Infancia y Adolescencia.",
+      "Manejarlo como situación tipo I con mediación pedagógica y registro."
+     ],
+     "answer": 2,
+     "explanation": "Es un conflicto esporádico sin daño; además, la convivencia no se sanciona mediante la nota académica."
+    },
+    {
+     "q": "Un docente pretende reprobar en Ciencias a un estudiante por mal comportamiento, aunque alcanzó los desempeños. ¿Qué norma se desconoce?",
+     "options": [
+      "La Ley 115, que prohíbe calificar.",
+      "El Decreto 1278, que obliga a aprobar a todos.",
+      "El Decreto 1290, que evalúa el aprendizaje según desempeños; la convivencia se trata con el manual y la Ley 1620."
+     ],
+     "answer": 2,
+     "explanation": "La valoración académica debe reflejar el logro de los desempeños; el comportamiento sigue otras rutas."
+    },
+    {
+     "q": "El 80 % mínimo del plan de estudios destinado a áreas obligatorias proviene de:",
+     "options": [
+      "La Ley 115 de 1994.",
+      "El Decreto 1290 de 2009.",
+      "El Decreto 1743 de 1994."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 23 de la Ley 115 fija ese porcentaje mínimo."
+    },
+    {
+     "q": "En un concurso, 1 200 aspirantes presentaron la prueba eliminatoria y el 35 % la aprobó. ¿Cuántos continúan a las etapas clasificatorias?",
+     "options": [
+      "420.",
+      "780.",
+      "350."
+     ],
+     "answer": 0,
+     "explanation": "1 200 × 0,35 = 420; los 780 restantes quedan excluidos por ser eliminatoria."
+    },
+    {
+     "q": "¿Qué instancia aprueba el SIEE y qué instancia preside el comité escolar de convivencia?",
+     "options": [
+      "El consejo directivo aprueba el SIEE; el rector preside el comité de convivencia.",
+      "El consejo académico aprueba el SIEE; el personero preside el comité.",
+      "La secretaría de educación aprueba ambos."
+     ],
+     "answer": 0,
+     "explanation": "El Decreto 1290 asigna la aprobación del SIEE al consejo directivo; la Ley 1620 asigna la presidencia del comité al rector."
+    },
+    {
+     "q": "Una aspirante obtiene 58/100 en la prueba de aptitudes y competencias básicas y 90/100 en la psicotécnica. ¿Sigue en el concurso?",
+     "options": [
+      "Sí, porque la psicotécnica compensa.",
+      "Sí, porque su promedio es superior a 60.",
+      "No, porque no alcanzó el mínimo de 60 en la prueba eliminatoria."
+     ],
+     "answer": 2,
+     "explanation": "La prueba eliminatoria debe aprobarse por sí misma; las clasificatorias no compensan."
+    },
+    {
+     "q": "El Decreto 1278 ubica a la licenciada en el grado 2. Si luego obtiene un doctorado, ¿qué necesita para estar en el grado 3?",
+     "options": [
+      "Nada; el doctorado da ascenso automático.",
+      "Superar la evaluación de competencias para ascenso y cumplir los requisitos de tiempo.",
+      "Presentar de nuevo el concurso de ingreso."
+     ],
+     "answer": 1,
+     "explanation": "En el 1278 el ascenso requiere título, tiempo de servicio y aprobación de la evaluación de competencias."
+    },
+    {
+     "q": "¿Qué figura del Decreto 1290 aplicaría a una estudiante de 8.º que en el primer periodo demuestra desempeño superior en todas las áreas?",
+     "options": [
+      "Situación tipo I.",
+      "Periodo de prueba.",
+      "Promoción anticipada."
+     ],
+     "answer": 2,
+     "explanation": "La promoción anticipada permite avanzar de grado durante el primer periodo, con recomendación del consejo académico y decisión del consejo directivo."
+    },
+    {
+     "q": "Un grupo tiene notas 2,5; 3,0; 3,0; 4,0; 4,5. ¿Cuáles son la mediana y la moda?",
+     "options": [
+      "Mediana 4,0 y moda 2,5.",
+      "Mediana 3,0 y moda 3,0.",
+      "Mediana 3,4 y moda 4,5."
+     ],
+     "answer": 1,
+     "explanation": "Ordenados, el central es 3,0 y el valor más repetido también es 3,0; el promedio sería 3,4."
+    },
+    {
+     "q": "¿Qué instancia integra a estudiantes, docentes, padres y directivos para revisar casos de acoso?",
+     "options": [
+      "El comité escolar de convivencia.",
+      "La comisión de evaluación y promoción.",
+      "El consejo académico."
+     ],
+     "answer": 0,
+     "explanation": "El comité de convivencia (Ley 1620) incluye representantes de distintos estamentos."
+    },
+    {
+     "q": "¿Qué principio constitucional comparten el concurso de méritos y la evaluación de desempeño docente?",
+     "options": [
+      "La antigüedad como único criterio.",
+      "El mérito como criterio de ingreso y permanencia en el servicio.",
+      "La libre designación de los cargos."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 125 de la Constitución establece que el ingreso, la permanencia y el ascenso se basan en el mérito."
+    },
+    {
+     "q": "La Ley 115 exige enseñar la protección del ambiente. ¿Cómo se concreta esta obligación en la institución?",
+     "options": [
+      "Únicamente con una salida pedagógica anual.",
+      "Mediante el área de ciencias naturales y educación ambiental y el proyecto transversal PRAE.",
+      "Mediante una prueba escrita en el grado 11."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 14 de la Ley 115 y el Decreto 1743 orientan la educación ambiental transversal en el PEI."
+    },
+    {
+     "q": "En SIMO, una aspirante no cargó su título de licenciada antes del cierre de inscripciones. ¿Qué es lo más probable en la verificación de requisitos mínimos?",
+     "options": [
+      "Que pueda entregarlo el día de la prueba.",
+      "Que resulte \"no admitida\" por no acreditar el requisito.",
+      "Que se le asigne puntaje cero solo en antecedentes y continúe."
+     ],
+     "answer": 1,
+     "explanation": "La verificación se hace con los documentos cargados oportunamente; sin el título, no cumple el requisito mínimo."
+    },
+    {
+     "q": "El precio de inscripción de un concurso es $45 000 y se reajusta 8 %. ¿Cuál es el nuevo valor?",
+     "options": [
+      "$45 800.",
+      "$48 600.",
+      "$53 000."
+     ],
+     "answer": 1,
+     "explanation": "45 000 × 1,08 = 48 600."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un componente de la Ruta de Atención Integral y no una situación tipo?",
+     "options": [
+      "Tipo II.",
+      "Tipo III.",
+      "Prevención."
+     ],
+     "answer": 2,
+     "explanation": "Los componentes son promoción, prevención, atención y seguimiento; los tipos I, II y III clasifican situaciones."
+    },
+    {
+     "q": "¿Qué niveles de la educación formal establece la Ley 115 y a cuál corresponde el grado 10.º?",
+     "options": [
+      "Primaria, secundaria y universitaria; el 10.º es universitario.",
+      "Básica y media; el 10.º es de la básica secundaria.",
+      "Preescolar, básica y media; el grado 10.º es de la media."
+     ],
+     "answer": 2,
+     "explanation": "La media comprende los grados 10.º y 11.º."
+    },
+    {
+     "q": "Un rector califica en 50 % el desempeño anual de un docente por segundo año consecutivo. Según el Decreto 1278, ¿qué consecuencia se sigue?",
+     "options": [
+      "Una felicitación pública.",
+      "La exclusión del escalafón y el retiro del servicio, con debido proceso.",
+      "Un aumento del nivel salarial."
+     ],
+     "answer": 1,
+     "explanation": "Dos evaluaciones de desempeño no satisfactorias consecutivas conducen al retiro según el artículo 36."
+    },
+    {
+     "q": "Un plan de estudios tiene 30 horas semanales. ¿Cuántas horas como mínimo deben corresponder a las áreas obligatorias y fundamentales?",
+     "options": [
+      "24 horas.",
+      "30 horas.",
+      "20 horas."
+     ],
+     "answer": 0,
+     "explanation": "El 80 % de 30 es 24 horas, según el artículo 23 de la Ley 115."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,241 @@
+## redes-e-internet
+Q: ¿Qué es una red LAN?
++ Una red de área local que conecta dispositivos en un espacio reducido, como un colegio o una casa.
+- Una red que conecta países y continentes.
+- Un cable para cargar el celular.
+E: LAN (Local Area Network) cubre áreas pequeñas; WAN (Wide Area Network) cubre grandes distancias, como internet.
+
+Q: ¿Qué dispositivo conecta la red local del colegio con internet y dirige paquetes entre redes distintas?
++ El router (enrutador).
+- El switch.
+- El monitor.
+E: El router enruta tráfico entre redes; el switch conecta dispositivos dentro de la misma red local.
+
+Q: ¿Qué función cumple un switch en una red LAN?
++ Conectar varios equipos de la red local y enviar los datos al dispositivo de destino según su dirección MAC.
+- Traducir nombres de dominio en direcciones IP.
+- Proteger el equipo contra virus.
+E: El switch trabaja en la capa de enlace y reenvía tramas al puerto correcto.
+
+Q: ¿Qué hace el servicio DNS?
++ Traduce nombres de dominio (como www.mineducacion.gov.co) en direcciones IP.
+- Asigna contraseñas a las redes Wi-Fi.
+- Comprime los archivos que se descargan.
+E: DNS (Domain Name System) funciona como una "agenda" que convierte nombres en direcciones numéricas.
+
+Q: ¿Qué es una dirección IP?
++ Un identificador numérico asignado a un dispositivo en una red para poder comunicarse.
+- La contraseña del correo electrónico.
+- El nombre del fabricante del computador.
+E: Por ejemplo, 192.168.1.10 es una IPv4 típica de una red privada.
+
+Q: ¿Por qué se creó IPv6?
++ Porque las direcciones IPv4 (unos 4 300 millones) se estaban agotando.
+- Porque IPv4 no funcionaba con Wi-Fi.
+- Para reemplazar al DNS.
+E: IPv4 usa 32 bits; IPv6 usa 128 bits, lo que permite una cantidad enorme de direcciones.
+
+Q: ¿Qué servicio asigna automáticamente direcciones IP a los dispositivos que se conectan a una red?
++ DHCP.
+- HTTP.
+- FTP.
+E: DHCP (Dynamic Host Configuration Protocol) entrega IP, máscara, puerta de enlace y DNS automáticamente.
+
+Q: ¿Qué diferencia hay entre HTTP y HTTPS?
++ HTTPS cifra la comunicación entre el navegador y el servidor mediante TLS.
+- HTTPS es más lento y por eso no se usa.
+- HTTP es solo para correos electrónicos.
+E: HTTPS protege la confidencialidad e integridad de los datos; es fundamental en formularios y pagos.
+
+Q: En la topología en estrella, ¿qué ocurre si falla el dispositivo central?
++ Se cae la comunicación de toda la red.
+- Solo se desconecta un equipo.
+- La red funciona mejor.
+E: En estrella todos dependen del nodo central (switch); si falla un cable individual, solo se afecta ese equipo.
+
+Q: ¿Cuál es la diferencia entre internet y la World Wide Web?
++ Internet es la red global de redes; la web es un servicio que funciona sobre internet mediante páginas enlazadas.
+- Son exactamente lo mismo.
+- La web es la infraestructura física y la internet son las páginas.
+E: El correo, los videojuegos en línea y la web son servicios distintos que usan internet.
+
+Q: ¿Cuántas capas tiene el modelo TCP/IP en su versión más difundida?
++ Cuatro: acceso a la red, internet, transporte y aplicación.
+- Siete.
+- Dos.
+E: El modelo OSI tiene siete capas; el TCP/IP se describe habitualmente con cuatro.
+
+Q: ¿Qué protocolo garantiza la entrega ordenada y confiable de los datos en internet?
++ TCP.
+- UDP.
+- DNS.
+E: TCP establece conexión y retransmite paquetes perdidos; UDP es más rápido pero no garantiza la entrega.
+
+Q: Una conexión a internet es de 100 Mbps. ¿Cuánto tarda, en condiciones ideales, la descarga de un archivo de 100 MB?
++ Unos 8 segundos.
+- 1 segundo.
+- 100 segundos.
+E: 100 MB = 800 Mb; 800 Mb / 100 Mbps = 8 s. Los proveedores expresan la velocidad en bits, no en bytes.
+
+Q: ¿Qué es el ancho de banda?
++ La cantidad de datos que se pueden transmitir por unidad de tiempo en una conexión.
+- La longitud del cable de red.
+- El número de computadores de la sala.
+E: Se mide en bits por segundo (bps, Mbps, Gbps).
+
+Q: ¿Qué medio de transmisión ofrece mayor velocidad y menor interferencia electromagnética en largas distancias?
++ La fibra óptica.
+- El cable de par trenzado sin blindaje.
+- El cable coaxial telefónico.
+E: La fibra transmite pulsos de luz, con gran ancho de banda e inmunidad a la interferencia.
+
+Q: ¿Qué es un firewall (cortafuegos)?
++ Un sistema que filtra el tráfico de red según reglas para bloquear accesos no autorizados.
+- Un programa para editar fotografías.
+- Un tipo de cable de red.
+E: Puede ser software o hardware y es una medida básica de seguridad.
+
+Q: En la sala de informática, todos los equipos tienen internet excepto uno que muestra la IP 169.254.x.x. ¿Qué es lo más probable?
++ El equipo no obtuvo dirección del servidor DHCP (problema de conexión o configuración).
+- El equipo tiene un virus.
+- El monitor está dañado.
+E: Las direcciones 169.254.x.x (APIPA) se autoasignan cuando no se recibe respuesta del DHCP.
+
+Q: ¿Qué es una URL?
++ La dirección que identifica un recurso en la web, como https://www.ejemplo.com/pagina.
+- Un tipo de virus.
+- Un programa de mensajería.
+E: Incluye protocolo, dominio y ruta del recurso.
+
+Q: ¿Qué estándar se usa para las redes inalámbricas Wi-Fi?
++ IEEE 802.11.
+- USB 3.0.
+- HDMI.
+E: La familia IEEE 802.11 (a/b/g/n/ac/ax) define las redes Wi-Fi.
+
+Q: Para enseñar cómo viaja la información en internet en grado 8.º, ¿qué actividad es más significativa?
++ Simular el envío de "paquetes" (sobres numerados) entre estudiantes que actúan como routers y reconstruir el mensaje.
+- Leer la definición de TCP/IP en voz alta.
+- Copiar las capas del modelo OSI.
+E: La simulación hace visibles la fragmentación en paquetes, el enrutamiento y el reensamblado.
+
+## estatuto-docente-decreto-ley-1278-de-2002
+Q: ¿A quién se aplica el Decreto Ley 1278 de 2002 (Estatuto de Profesionalización Docente)?
++ A quienes ingresen al servicio educativo estatal a partir de su vigencia (2002) mediante concurso.
+- A todos los docentes del país, incluidos los vinculados antes de 1979.
+- Solo a los docentes de colegios privados.
+E: El 1278 rige para quienes se vincularon después de su expedición; quienes ingresaron antes siguen en el Decreto 2277 de 1979.
+
+Q: ¿Cómo se ingresa al servicio educativo estatal según el Decreto 1278?
++ Mediante concurso de méritos.
+- Por nombramiento discrecional del rector.
+- Por recomendación de la secretaría de educación.
+E: El ingreso a la carrera docente es por concurso; los nombramientos provisionales son temporales.
+
+Q: ¿Qué tipo de norma es el Decreto 1278 de 2002?
++ Un decreto con fuerza de ley, expedido por el Presidente con facultades extraordinarias.
+- Una resolución del MEN.
+- Un acuerdo de la CNSC.
+E: Se expidió con base en las facultades extraordinarias de la Ley 715 de 2001; por eso se le llama "Decreto Ley".
+
+Q: Al nombrado tras el concurso se le evalúa en periodo de prueba. ¿Cuál es su duración según el Decreto 1278?
++ Hasta culminar el año académico, siempre que hayan transcurrido al menos cuatro meses de servicio.
+- Exactamente dos años.
+- Un mes.
+E: El artículo 31 fija el periodo de prueba hasta terminar el año escolar, con un mínimo de cuatro meses.
+
+Q: ¿Qué calificación mínima debe obtener el docente en la evaluación del periodo de prueba para ser inscrito en el escalafón?
++ Al menos 60 %.
+- Al menos 80 %.
+- Al menos 50 %.
+E: Quien obtiene calificación satisfactoria (60 % o más) es nombrado en propiedad e inscrito en el escalafón.
+
+Q: ¿Cuántos grados tiene el escalafón docente del Decreto 1278?
++ Tres grados, cada uno con niveles salariales A, B, C y D.
+- Catorce grados.
+- Cinco grados sin niveles.
+E: El escalafón del 1278 tiene grados 1, 2 y 3 según la formación académica, y cuatro niveles salariales en cada uno.
+
+Q: ¿Qué título corresponde al grado 1 del escalafón del Decreto 1278?
++ Normalista superior.
+- Licenciado en educación.
+- Magíster.
+E: Grado 1: normalista superior; grado 2: licenciado o profesional con formación pedagógica; grado 3: con maestría o doctorado.
+
+Q: Un ingeniero de sistemas que acreditó un programa de pedagogía ingresa por concurso. ¿En qué grado del escalafón del Decreto 1278 se ubica?
++ Grado 2.
+- Grado 1.
+- Grado 3.
+E: El grado 2 corresponde a licenciados o profesionales no licenciados con formación pedagógica (posgrado en educación o programa de pedagogía); el grado 3 exige maestría o doctorado.
+
+Q: Una docente del grado 2 obtiene una maestría en educación. ¿Qué debe hacer para pasar al grado 3?
++ Aprobar la evaluación de competencias convocada para ascenso, además de cumplir el título y el tiempo exigido.
+- Solo radicar el diploma; el ascenso es automático.
+- Esperar 10 años de antigüedad.
+E: En el 1278 el ascenso no es automático: requiere el título, tiempo de servicio y superar la evaluación de competencias (ECDF en los últimos procesos).
+
+Q: ¿Qué tipos de evaluación contempla el Decreto 1278?
++ Evaluación del periodo de prueba, evaluación ordinaria anual de desempeño y evaluación de competencias.
+- Solo la evaluación del concurso de ingreso.
+- Evaluación de estudiantes y de padres.
+E: El artículo 26 y siguientes establecen estas evaluaciones para ingreso, permanencia y ascenso.
+
+Q: ¿Quién realiza la evaluación anual de desempeño de los docentes?
++ El rector o director rural del establecimiento.
+- El ICFES.
+- Los estudiantes por votación.
+E: La evaluación ordinaria de desempeño la hace el superior inmediato (rector o director), al terminar cada año académico.
+
+Q: ¿Qué consecuencia tiene obtener calificación no satisfactoria en la evaluación de desempeño en dos años consecutivos?
++ La exclusión del escalafón y el retiro del servicio.
+- El traslado automático a otro municipio.
+- La reducción del salario a la mitad.
+E: El artículo 36 del Decreto 1278 prevé esa consecuencia, con garantía del debido proceso.
+
+Q: ¿Qué se entiende por "reubicación salarial" en el Decreto 1278?
++ El paso de un nivel salarial a otro dentro del mismo grado.
+- El cambio de institución educativa.
+- El paso del grado 1 al grado 3.
+E: La reubicación es el movimiento entre niveles (A, B, C, D) dentro del grado; el ascenso es el cambio de grado.
+
+Q: ¿Cuál es una función docente según el Decreto 1278?
++ El diagnóstico, la planeación, la ejecución y la evaluación de los procesos de enseñanza-aprendizaje.
+- La aprobación del presupuesto municipal.
+- La expedición de títulos de bachiller.
+E: El artículo 4 define la función docente como de carácter profesional e incluye actividades curriculares y de orientación.
+
+Q: ¿Qué cargos son "directivos docentes" según el Decreto 1278?
++ Rector, director rural y coordinador.
+- Orientador escolar y docente de apoyo.
+- Secretario de educación y supervisor.
+E: El artículo 6 define como directivos docentes a rectores, directores rurales y coordinadores.
+
+Q: Un docente vinculado en provisionalidad, ¿tiene derechos de carrera?
++ No; su nombramiento es temporal mientras se provee la vacante por concurso.
+- Sí, después de un año de servicio.
+- Sí, si el rector lo recomienda.
+E: Los derechos de carrera se adquieren solo tras superar el concurso y el periodo de prueba.
+
+Q: Según el Decreto 1278, ¿cuál es el propósito de la evaluación de desempeño?
++ Verificar niveles de idoneidad y mejoramiento continuo del docente.
+- Determinar el salario de los directivos.
+- Seleccionar a los estudiantes que repiten el año.
+E: La evaluación busca el mejoramiento continuo y la calidad del servicio; sus resultados orientan planes de desarrollo personal.
+
+Q: ¿Qué estatuto rige a los docentes vinculados antes del Decreto 1278?
++ El Decreto 2277 de 1979.
+- El Decreto 1290 de 2009.
+- La Ley 1620 de 2013.
+E: El 2277 de 1979 tiene su propio escalafón (grados 1 a 14) y sigue aplicando a esos docentes.
+
+Q: ¿Qué es la evaluación de competencias en el Decreto 1278?
++ La evaluación que se realiza para ascender de grado o reubicarse de nivel salarial.
+- La evaluación de ingreso al concurso.
+- La evaluación de los estudiantes en pruebas Saber.
+E: El artículo 35 la establece; su aprobación permite el ascenso o la reubicación salarial.
+
+Q: Un ingeniero nombrado en periodo de prueba no acredita, al finalizarlo, posgrado en educación ni programa de pedagogía. ¿Qué establece el Decreto 1278?
++ Que no cumple un requisito para continuar, pues los profesionales no licenciados deben acreditar esa formación pedagógica.
+- Que se le concede el grado 3 automáticamente.
+- Que la formación pedagógica es opcional.
+E: El artículo 12 exige a los profesionales no licenciados acreditar, al término del periodo de prueba, que cursan o terminaron un posgrado en educación o un programa de pedagogía.

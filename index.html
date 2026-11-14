@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulacros Concurso Docente 2027</title>
+<meta name="description" content="Plan de estudio y simulacros diarios con retroalimentación inmediata para el concurso docente CNSC 2026-2027.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>Simulacros · Concurso Docente 2027</h1>
+    <p class="sub">Práctica diaria no oficial · retroalimentación inmediata · plan hasta inscripciones</p>
+    <div class="versions" role="tablist" aria-label="Versión">
+      <button class="vbtn" data-v="A" role="tab">A · Ciencias Naturales y Ed. Ambiental <small>Yasmin</small></button>
+      <button class="vbtn" data-v="B" role="tab">B · Tecnología e Informática <small>Andrey</small></button>
+    </div>
+    <nav class="views">
+      <a href="#quiz" data-view="quiz" class="vlink">Simulacro del día</a>
+      <a href="#plan" data-view="plan" class="vlink">Plan de estudio</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+  <div id="countdown" class="countdown"></div>
+  <section id="view-quiz" hidden>
+    <div class="daybar">
+      <button id="prev" class="ghost" aria-label="Día anterior">◀</button>
+      <div id="dayinfo"></div>
+      <button id="next" class="ghost" aria-label="Día siguiente">▶</button>
+    </div>
+    <div id="quiz"></div>
+    <section id="results" hidden></section>
+  </section>
+  <section id="view-plan" hidden>
+    <div id="plan"></div>
+  </section>
+</main>
+<div id="scorebar" class="scorebar" hidden></div>
+<footer class="wrap foot">
+  Material de práctica NO oficial; no es contenido de la CNSC ni del MEN. Verifique fechas y normas en
+  <a href="https://www.cnsc.gov.co" target="_blank" rel="noopener">cnsc.gov.co</a> y SIMO.
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-15",
+ "n": 1,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "naturaleza-y-evolucion-de-la-tecnologia",
+   "title": "Naturaleza y evolución de la tecnología",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "Según las Orientaciones Generales para la Educación en Tecnología (Guía 30 del MEN), ¿qué es la tecnología?",
+     "options": [
+      "Una actividad humana que busca resolver problemas y satisfacer necesidades transformando el entorno mediante el uso racional, crítico y creativo de recursos y conocimientos.",
+      "El conjunto de computadores y dispositivos electrónicos de una sociedad.",
+      "La aplicación exclusiva de la ciencia en laboratorios."
+     ],
+     "answer": 0,
+     "explanation": "La Guía 30 concibe la tecnología de forma amplia, no limitada a la informática ni a los aparatos electrónicos."
+    },
+    {
+     "q": "¿Cuál es la diferencia principal entre ciencia y tecnología según la Guía 30?",
+     "options": [
+      "La ciencia usa computadores y la tecnología no.",
+      "Son sinónimos.",
+      "La ciencia busca comprender y explicar el mundo; la tecnología busca transformarlo para resolver problemas y necesidades."
+     ],
+     "answer": 2,
+     "explanation": "Ambas se relacionan y se alimentan mutuamente, pero sus propósitos son distintos: explicar frente a transformar."
+    },
+    {
+     "q": "¿Qué se entiende por \"técnica\"?",
+     "options": [
+      "El saber hacer: procedimientos y habilidades prácticas para realizar una tarea.",
+      "El uso de software especializado.",
+      "El estudio teórico de las leyes de la naturaleza."
+     ],
+     "answer": 0,
+     "explanation": "La técnica es el conjunto de procedimientos; la tecnología incluye además la reflexión, el conocimiento y el contexto."
+    },
+    {
+     "q": "El paso del teléfono fijo al teléfono celular, conservando la función de comunicar a distancia pero mejorándola, es un ejemplo de:",
+     "options": [
+      "Innovación.",
+      "Invención.",
+      "Descubrimiento."
+     ],
+     "answer": 0,
+     "explanation": "La innovación mejora o modifica artefactos, procesos o sistemas existentes; la invención crea algo que no existía."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un ejemplo de invención?",
+     "options": [
+      "Una versión actualizada de un sistema operativo.",
+      "La primera imprenta de tipos móviles de Gutenberg.",
+      "Un nuevo modelo de celular con mejor cámara."
+     ],
+     "answer": 1,
+     "explanation": "La imprenta de tipos móviles fue un artefacto nuevo en su contexto; las otras opciones son mejoras (innovaciones)."
+    },
+    {
+     "q": "¿Qué diferencia hay entre \"descubrimiento\" e \"invención\"?",
+     "options": [
+      "Se descubre lo que ya existía en la naturaleza; se inventa lo que no existía.",
+      "Se descubren artefactos y se inventan fenómenos naturales.",
+      "No hay diferencia."
+     ],
+     "answer": 0,
+     "explanation": "La penicilina fue descubierta (existía el hongo); el microscopio fue inventado."
+    },
+    {
+     "q": "Según la Guía 30, los artefactos son:",
+     "options": [
+      "Dispositivos, herramientas, aparatos, instrumentos y máquinas que potencian la acción humana.",
+      "Las ideas que dan origen a la ciencia.",
+      "Las normas que regulan la tecnología."
+     ],
+     "answer": 0,
+     "explanation": "Los artefactos, junto con los procesos y los sistemas, son manifestaciones de la tecnología."
+    },
+    {
+     "q": "La fabricación de panela, que transforma la caña en un producto mediante etapas (molienda, clarificación, evaporación, moldeo), es un ejemplo de:",
+     "options": [
+      "Un descubrimiento científico.",
+      "Un artefacto.",
+      "Un proceso tecnológico."
+     ],
+     "answer": 2,
+     "explanation": "Un proceso es una serie de actividades que transforman insumos en productos."
+    },
+    {
+     "q": "Un acueducto municipal, con captación, tratamiento, almacenamiento y distribución, es un ejemplo de:",
+     "options": [
+      "Técnica artesanal individual.",
+      "Artefacto aislado.",
+      "Sistema tecnológico."
+     ],
+     "answer": 2,
+     "explanation": "Un sistema es un conjunto de elementos que interactúan entre sí para cumplir una función."
+    },
+    {
+     "q": "¿Cuál fue un hito tecnológico de la Primera Revolución Industrial?",
+     "options": [
+      "El transistor.",
+      "La máquina de vapor aplicada a la producción y el transporte.",
+      "Internet."
+     ],
+     "answer": 1,
+     "explanation": "La Primera Revolución Industrial (s. XVIII) se basó en el vapor y la mecanización; el transistor e internet son del s. XX."
+    },
+    {
+     "q": "¿Qué caracteriza a la Cuarta Revolución Industrial?",
+     "options": [
+      "La invención de la rueda.",
+      "La integración de tecnologías digitales, físicas y biológicas: IA, internet de las cosas, robótica, big data.",
+      "La producción en cadena con electricidad."
+     ],
+     "answer": 1,
+     "explanation": "La electricidad y la producción en cadena marcan la segunda; la digitalización la tercera; la cuarta integra sistemas ciberfísicos."
+    },
+    {
+     "q": "¿Por qué la rueda se considera un artefacto tecnológico clave?",
+     "options": [
+      "Porque fue el primer computador.",
+      "Porque redujo la fricción en el transporte y dio origen a muchos mecanismos (poleas, engranajes).",
+      "Porque es un descubrimiento natural."
+     ],
+     "answer": 1,
+     "explanation": "La rueda transformó el transporte, la alfarería y la mecánica; es base de múltiples mecanismos."
+    },
+    {
+     "q": "Un estudiante de grado 3.º describe cómo su abuela muele maíz en una piedra y compara con un molino eléctrico. ¿Qué componente de la Guía 30 se trabaja principalmente?",
+     "options": [
+      "Tecnología y sociedad, exclusivamente sobre ética.",
+      "Solución de problemas con tecnología.",
+      "Naturaleza y evolución de la tecnología."
+     ],
+     "answer": 2,
+     "explanation": "Comparar artefactos en el tiempo permite comprender la evolución de la tecnología."
+    },
+    {
+     "q": "¿Cuál es una característica de la tecnología según la Guía 30?",
+     "options": [
+      "Existe únicamente desde la invención del computador.",
+      "Es un producto cultural que responde a necesidades de un contexto histórico y social.",
+      "Es neutral y no tiene efectos sociales."
+     ],
+     "answer": 1,
+     "explanation": "La tecnología está ligada a la cultura y tiene implicaciones sociales y ambientales."
+    },
+    {
+     "q": "¿Qué relación existe entre la tecnología y la informática en el área escolar?",
+     "options": [
+      "La informática no forma parte del área.",
+      "La informática es un campo de la tecnología; el área no se limita a ella.",
+      "Son exactamente lo mismo."
+     ],
+     "answer": 1,
+     "explanation": "El área \"Tecnología e Informática\" abarca la tecnología en general; la informática es una parte importante pero no la única."
+    },
+    {
+     "q": "Un grupo analiza cómo el uso de la bicicleta pasó de ser un artefacto de lujo a un medio de transporte masivo. ¿Qué concepto se trabaja?",
+     "options": [
+      "La evolución tecnológica en relación con las transformaciones sociales.",
+      "La invención de la rueda.",
+      "El funcionamiento de un motor eléctrico."
+     ],
+     "answer": 0,
+     "explanation": "La historia de los artefactos permite ver cómo cambian sus usos, costos y significados sociales."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un ejemplo de \"tecnología blanda\"?",
+     "options": [
+      "Un taladro eléctrico.",
+      "Un puente de concreto.",
+      "Un método de organización del trabajo, como una metodología de gestión de proyectos."
+     ],
+     "answer": 2,
+     "explanation": "Las tecnologías blandas son conocimientos organizativos, de gestión o procedimentales; las duras son artefactos físicos."
+    },
+    {
+     "q": "¿Qué es la \"obsolescencia tecnológica\"?",
+     "options": [
+      "La reparación de un artefacto viejo.",
+      "El proceso de fabricación de un artefacto.",
+      "La pérdida de vigencia o utilidad de un artefacto por la aparición de otros más eficientes o por falta de soporte."
+     ],
+     "answer": 2,
+     "explanation": "La obsolescencia puede ser tecnológica o programada, y tiene efectos ambientales (residuos electrónicos)."
+    },
+    {
+     "q": "Las culturas indígenas desarrollaron sistemas de riego y técnicas de orfebrería. Desde la Guía 30, esto muestra que:",
+     "options": [
+      "La orfebrería es ciencia, no tecnología.",
+      "La tecnología existe en todas las culturas y épocas, no solo en las sociedades industriales.",
+      "Solo la tecnología moderna es tecnología."
+     ],
+     "answer": 1,
+     "explanation": "La tecnología es una actividad humana universal, ligada a cada contexto cultural."
+    },
+    {
+     "q": "Según la Guía 30, ¿en qué grupos de grados se organizan los estándares de tecnología?",
+     "options": [
+      "1.º a 3.º, 4.º a 5.º, 6.º a 7.º, 8.º a 9.º y 10.º a 11.º.",
+      "1.º a 5.º y 6.º a 11.º.",
+      "Preescolar, primaria y bachillerato."
+     ],
+     "answer": 0,
+     "explanation": "La Guía 30 organiza los desempeños por estos cinco grupos de grados, al igual que los estándares de otras áreas."
+    }
+   ]
+  },
+  {
+   "id": "leyes-desde-cero-constitucion-estado-social-de-d",
+   "title": "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿Qué es la Constitución Política de Colombia?",
+     "options": [
+      "Una ley ordinaria que expide el Congreso cada cuatro años.",
+      "Un decreto del Presidente.",
+      "La norma de normas: la ley fundamental que prevalece sobre cualquier otra norma."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 4 dice que la Constitución es norma de normas; si una norma la contradice, se aplica la Constitución."
+    },
+    {
+     "q": "¿En qué año se expidió la Constitución Política vigente en Colombia?",
+     "options": [
+      "2002.",
+      "1886.",
+      "1991."
+     ],
+     "answer": 2,
+     "explanation": "La Constitución de 1991 reemplazó a la de 1886."
+    },
+    {
+     "q": "Según el artículo 1 de la Constitución, Colombia es:",
+     "options": [
+      "Una república federal con estados independientes.",
+      "Un Estado social de derecho, organizado como república unitaria, descentralizada, democrática, participativa y pluralista.",
+      "Una monarquía parlamentaria."
+     ],
+     "answer": 1,
+     "explanation": "El Estado social de derecho implica que el Estado está sometido a la ley y debe garantizar derechos sociales."
+    },
+    {
+     "q": "¿Qué significa \"Estado de derecho\"?",
+     "options": [
+      "Que gobernantes y ciudadanos están sometidos a las normas jurídicas.",
+      "Que el Presidente puede cambiar la ley cuando quiera.",
+      "Que el Estado no tiene obligaciones con los ciudadanos."
+     ],
+     "answer": 0,
+     "explanation": "Nadie está por encima de la ley; el \"social\" añade el deber de garantizar condiciones dignas (educación, salud)."
+    },
+    {
+     "q": "¿Cuál es el orden correcto de jerarquía normativa, de mayor a menor?",
+     "options": [
+      "Constitución → ley → decreto reglamentario → resolución.",
+      "Resolución → ley → Constitución → decreto.",
+      "Decreto → Constitución → resolución → ley."
+     ],
+     "answer": 0,
+     "explanation": "La Constitución está en la cúspide; las leyes la desarrollan; los decretos reglamentan las leyes y las resoluciones concretan aspectos administrativos."
+    },
+    {
+     "q": "¿Quién expide las leyes en Colombia?",
+     "options": [
+      "La Corte Constitucional.",
+      "El Congreso de la República.",
+      "El Presidente de la República."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 150 asigna al Congreso la función de hacer las leyes; el Presidente las sanciona y reglamenta."
+    },
+    {
+     "q": "¿Qué es un decreto reglamentario?",
+     "options": [
+      "Una norma que puede modificar la Constitución.",
+      "Una sentencia de un juez.",
+      "Una norma que expide el Presidente (o el Gobierno) para desarrollar y hacer aplicable una ley."
+     ],
+     "answer": 2,
+     "explanation": "La potestad reglamentaria (art. 189, num. 11) permite detallar la ley sin contradecirla."
+    },
+    {
+     "q": "El Decreto 1278 de 2002 se llama \"Decreto Ley\". ¿Qué significa esto?",
+     "options": [
+      "Que es un decreto que no tiene valor jurídico.",
+      "Que el Presidente lo expidió con facultades extraordinarias otorgadas por el Congreso, y tiene fuerza de ley.",
+      "Que fue aprobado por referendo."
+     ],
+     "answer": 1,
+     "explanation": "Con base en el artículo 150-10 de la Constitución, el Congreso puede otorgar facultades al Presidente; la Ley 715 de 2001 lo hizo para el estatuto docente."
+    },
+    {
+     "q": "¿Qué es una resolución del Ministerio de Educación?",
+     "options": [
+      "Una norma superior a la ley.",
+      "Un acto administrativo de menor jerarquía que concreta aspectos técnicos u operativos dentro de lo que permiten leyes y decretos.",
+      "Una reforma constitucional."
+     ],
+     "answer": 1,
+     "explanation": "Las resoluciones no pueden contradecir leyes ni decretos; regulan asuntos específicos."
+    },
+    {
+     "q": "¿Qué son los \"acuerdos\" en el contexto del concurso docente?",
+     "options": [
+      "Actos administrativos de la CNSC que fijan las reglas de cada convocatoria.",
+      "Contratos privados entre el aspirante y el colegio.",
+      "Leyes expedidas por el Congreso."
+     ],
+     "answer": 0,
+     "explanation": "La CNSC, como órgano autónomo, expide acuerdos de convocatoria que son la \"ley del concurso\"."
+    },
+    {
+     "q": "¿Cuáles son las tres ramas del poder público en Colombia?",
+     "options": [
+      "Nacional, departamental y municipal.",
+      "Legislativa, ejecutiva y judicial.",
+      "Educativa, económica y militar."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 113 establece las tres ramas, además de órganos autónomos e independientes (como la CNSC)."
+    },
+    {
+     "q": "¿A qué rama pertenece el Ministerio de Educación Nacional?",
+     "options": [
+      "A la rama judicial.",
+      "A la rama ejecutiva.",
+      "A la rama legislativa."
+     ],
+     "answer": 1,
+     "explanation": "Los ministerios hacen parte del Gobierno nacional, encabezado por el Presidente."
+    },
+    {
+     "q": "¿Qué tipo de entidad es la Comisión Nacional del Servicio Civil (CNSC)?",
+     "options": [
+      "Una dependencia del Ministerio de Educación.",
+      "Una empresa privada.",
+      "Un órgano autónomo e independiente, encargado de la carrera administrativa."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 130 de la Constitución la crea como entidad autónoma, no subordinada a las ramas del poder."
+    },
+    {
+     "q": "¿Qué tribunal guarda la integridad y supremacía de la Constitución?",
+     "options": [
+      "La Corte Constitucional.",
+      "La Procuraduría General.",
+      "El Consejo de Estado."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 241 le confía esa función; el Consejo de Estado es tribunal de lo contencioso administrativo."
+    },
+    {
+     "q": "¿Cómo se cita correctamente una norma?",
+     "options": [
+      "Tipo de norma, número y año; por ejemplo, \"Ley 115 de 1994\".",
+      "Solo el año; por ejemplo, \"la de 1994\".",
+      "Solo el número; por ejemplo, \"la 115\"."
+     ],
+     "answer": 0,
+     "explanation": "El número se repite cada año, por eso se necesita el año para identificarla (puede haber un \"Decreto 1278\" de otro año)."
+    },
+    {
+     "q": "¿Qué ocurre si un decreto reglamentario contradice una ley?",
+     "options": [
+      "El decreto prevalece por ser más reciente.",
+      "Puede ser anulado, porque una norma inferior no puede contrariar a una superior.",
+      "Ambas normas se aplican por igual."
+     ],
+     "answer": 1,
+     "explanation": "Por el principio de jerarquía normativa, prevalece la norma superior; el Consejo de Estado puede anular el decreto."
+    },
+    {
+     "q": "¿Qué es un \"Decreto Único Reglamentario\" como el Decreto 1075 de 2015?",
+     "options": [
+      "Una compilación de los decretos reglamentarios de un sector (en este caso, el educativo) en un solo texto.",
+      "Una ley aprobada por el Congreso en 2015.",
+      "Una nueva Constitución para la educación."
+     ],
+     "answer": 0,
+     "explanation": "El 1075 reúne normas como los decretos 1290, 1860 y 1965, que hoy se citan también por su artículo en el decreto único."
+    },
+    {
+     "q": "¿Qué derecho fundamental permite pedir información o actuaciones a una autoridad y recibir respuesta oportuna?",
+     "options": [
+      "El derecho de petición (art. 23 de la Constitución).",
+      "El derecho al voto.",
+      "La acción de tutela."
+     ],
+     "answer": 0,
+     "explanation": "El derecho de petición se regula en la Ley 1755 de 2015; la tutela protege derechos fundamentales vulnerados."
+    },
+    {
+     "q": "¿Para qué sirve la acción de tutela?",
+     "options": [
+      "Para crear nuevas leyes.",
+      "Para elegir a los representantes estudiantiles.",
+      "Para reclamar ante un juez la protección inmediata de derechos fundamentales vulnerados o amenazados."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 86 de la Constitución consagra la tutela como mecanismo preferente y sumario."
+    },
+    {
+     "q": "¿Cuál de las siguientes normas es de mayor jerarquía?",
+     "options": [
+      "El Decreto 1290 de 2009.",
+      "Una resolución de la secretaría de educación.",
+      "La Ley 115 de 1994."
+     ],
+     "answer": 2,
+     "explanation": "Una ley prima sobre los decretos reglamentarios y estos sobre las resoluciones."
+    }
+   ]
+  }
+ ]
+}

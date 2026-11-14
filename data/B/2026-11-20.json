@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-20",
+ "n": 6,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "redes-e-internet",
+   "title": "Redes e Internet",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "¿Qué es una red LAN?",
+     "options": [
+      "Un cable para cargar el celular.",
+      "Una red de área local que conecta dispositivos en un espacio reducido, como un colegio o una casa.",
+      "Una red que conecta países y continentes."
+     ],
+     "answer": 1,
+     "explanation": "LAN (Local Area Network) cubre áreas pequeñas; WAN (Wide Area Network) cubre grandes distancias, como internet."
+    },
+    {
+     "q": "¿Qué dispositivo conecta la red local del colegio con internet y dirige paquetes entre redes distintas?",
+     "options": [
+      "El switch.",
+      "El router (enrutador).",
+      "El monitor."
+     ],
+     "answer": 1,
+     "explanation": "El router enruta tráfico entre redes; el switch conecta dispositivos dentro de la misma red local."
+    },
+    {
+     "q": "¿Qué función cumple un switch en una red LAN?",
+     "options": [
+      "Conectar varios equipos de la red local y enviar los datos al dispositivo de destino según su dirección MAC.",
+      "Traducir nombres de dominio en direcciones IP.",
+      "Proteger el equipo contra virus."
+     ],
+     "answer": 0,
+     "explanation": "El switch trabaja en la capa de enlace y reenvía tramas al puerto correcto."
+    },
+    {
+     "q": "¿Qué hace el servicio DNS?",
+     "options": [
+      "Comprime los archivos que se descargan.",
+      "Asigna contraseñas a las redes Wi-Fi.",
+      "Traduce nombres de dominio (como www.mineducacion.gov.co) en direcciones IP."
+     ],
+     "answer": 2,
+     "explanation": "DNS (Domain Name System) funciona como una \"agenda\" que convierte nombres en direcciones numéricas."
+    },
+    {
+     "q": "¿Qué es una dirección IP?",
+     "options": [
+      "El nombre del fabricante del computador.",
+      "Un identificador numérico asignado a un dispositivo en una red para poder comunicarse.",
+      "La contraseña del correo electrónico."
+     ],
+     "answer": 1,
+     "explanation": "Por ejemplo, 192.168.1.10 es una IPv4 típica de una red privada."
+    },
+    {
+     "q": "¿Por qué se creó IPv6?",
+     "options": [
+      "Porque IPv4 no funcionaba con Wi-Fi.",
+      "Porque las direcciones IPv4 (unos 4 300 millones) se estaban agotando.",
+      "Para reemplazar al DNS."
+     ],
+     "answer": 1,
+     "explanation": "IPv4 usa 32 bits; IPv6 usa 128 bits, lo que permite una cantidad enorme de direcciones."
+    },
+    {
+     "q": "¿Qué servicio asigna automáticamente direcciones IP a los dispositivos que se conectan a una red?",
+     "options": [
+      "DHCP.",
+      "HTTP.",
+      "FTP."
+     ],
+     "answer": 0,
+     "explanation": "DHCP (Dynamic Host Configuration Protocol) entrega IP, máscara, puerta de enlace y DNS automáticamente."
+    },
+    {
+     "q": "¿Qué diferencia hay entre HTTP y HTTPS?",
+     "options": [
+      "HTTPS cifra la comunicación entre el navegador y el servidor mediante TLS.",
+      "HTTPS es más lento y por eso no se usa.",
+      "HTTP es solo para correos electrónicos."
+     ],
+     "answer": 0,
+     "explanation": "HTTPS protege la confidencialidad e integridad de los datos; es fundamental en formularios y pagos."
+    },
+    {
+     "q": "En la topología en estrella, ¿qué ocurre si falla el dispositivo central?",
+     "options": [
+      "Solo se desconecta un equipo.",
+      "Se cae la comunicación de toda la red.",
+      "La red funciona mejor."
+     ],
+     "answer": 1,
+     "explanation": "En estrella todos dependen del nodo central (switch); si falla un cable individual, solo se afecta ese equipo."
+    },
+    {
+     "q": "¿Cuál es la diferencia entre internet y la World Wide Web?",
+     "options": [
+      "La web es la infraestructura física y la internet son las páginas.",
+      "Son exactamente lo mismo.",
+      "Internet es la red global de redes; la web es un servicio que funciona sobre internet mediante páginas enlazadas."
+     ],
+     "answer": 2,
+     "explanation": "El correo, los videojuegos en línea y la web son servicios distintos que usan internet."
+    },
+    {
+     "q": "¿Cuántas capas tiene el modelo TCP/IP en su versión más difundida?",
+     "options": [
+      "Siete.",
+      "Dos.",
+      "Cuatro: acceso a la red, internet, transporte y aplicación."
+     ],
+     "answer": 2,
+     "explanation": "El modelo OSI tiene siete capas; el TCP/IP se describe habitualmente con cuatro."
+    },
+    {
+     "q": "¿Qué protocolo garantiza la entrega ordenada y confiable de los datos en internet?",
+     "options": [
+      "DNS.",
+      "UDP.",
+      "TCP."
+     ],
+     "answer": 2,
+     "explanation": "TCP establece conexión y retransmite paquetes perdidos; UDP es más rápido pero no garantiza la entrega."
+    },
+    {
+     "q": "Una conexión a internet es de 100 Mbps. ¿Cuánto tarda, en condiciones ideales, la descarga de un archivo de 100 MB?",
+     "options": [
+      "1 segundo.",
+      "100 segundos.",
+      "Unos 8 segundos."
+     ],
+     "answer": 2,
+     "explanation": "100 MB = 800 Mb; 800 Mb / 100 Mbps = 8 s. Los proveedores expresan la velocidad en bits, no en bytes."
+    },
+    {
+     "q": "¿Qué es el ancho de banda?",
+     "options": [
+      "La cantidad de datos que se pueden transmitir por unidad de tiempo en una conexión.",
+      "El número de computadores de la sala.",
+      "La longitud del cable de red."
+     ],
+     "answer": 0,
+     "explanation": "Se mide en bits por segundo (bps, Mbps, Gbps)."
+    },
+    {
+     "q": "¿Qué medio de transmisión ofrece mayor velocidad y menor interferencia electromagnética en largas distancias?",
+     "options": [
+      "El cable de par trenzado sin blindaje.",
+      "El cable coaxial telefónico.",
+      "La fibra óptica."
+     ],
+     "answer": 2,
+     "explanation": "La fibra transmite pulsos de luz, con gran ancho de banda e inmunidad a la interferencia."
+    },
+    {
+     "q": "¿Qué es un firewall (cortafuegos)?",
+     "options": [
+      "Un sistema que filtra el tráfico de red según reglas para bloquear accesos no autorizados.",
+      "Un programa para editar fotografías.",
+      "Un tipo de cable de red."
+     ],
+     "answer": 0,
+     "explanation": "Puede ser software o hardware y es una medida básica de seguridad."
+    },
+    {
+     "q": "En la sala de informática, todos los equipos tienen internet excepto uno que muestra la IP 169.254.x.x. ¿Qué es lo más probable?",
+     "options": [
+      "El equipo tiene un virus.",
+      "El equipo no obtuvo dirección del servidor DHCP (problema de conexión o configuración).",
+      "El monitor está dañado."
+     ],
+     "answer": 1,
+     "explanation": "Las direcciones 169.254.x.x (APIPA) se autoasignan cuando no se recibe respuesta del DHCP."
+    },
+    {
+     "q": "¿Qué es una URL?",
+     "options": [
+      "La dirección que identifica un recurso en la web, como https://www.ejemplo.com/pagina.",
+      "Un programa de mensajería.",
+      "Un tipo de virus."
+     ],
+     "answer": 0,
+     "explanation": "Incluye protocolo, dominio y ruta del recurso."
+    },
+    {
+     "q": "¿Qué estándar se usa para las redes inalámbricas Wi-Fi?",
+     "options": [
+      "HDMI.",
+      "IEEE 802.11.",
+      "USB 3.0."
+     ],
+     "answer": 1,
+     "explanation": "La familia IEEE 802.11 (a/b/g/n/ac/ax) define las redes Wi-Fi."
+    },
+    {
+     "q": "Para enseñar cómo viaja la información en internet en grado 8.º, ¿qué actividad es más significativa?",
+     "options": [
+      "Simular el envío de \"paquetes\" (sobres numerados) entre estudiantes que actúan como routers y reconstruir el mensaje.",
+      "Leer la definición de TCP/IP en voz alta.",
+      "Copiar las capas del modelo OSI."
+     ],
+     "answer": 0,
+     "explanation": "La simulación hace visibles la fragmentación en paquetes, el enrutamiento y el reensamblado."
+    }
+   ]
+  },
+  {
+   "id": "estatuto-docente-decreto-ley-1278-de-2002",
+   "title": "Estatuto docente: Decreto Ley 1278 de 2002",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "¿A quién se aplica el Decreto Ley 1278 de 2002 (Estatuto de Profesionalización Docente)?",
+     "options": [
+      "A todos los docentes del país, incluidos los vinculados antes de 1979.",
+      "Solo a los docentes de colegios privados.",
+      "A quienes ingresen al servicio educativo estatal a partir de su vigencia (2002) mediante concurso."
+     ],
+     "answer": 2,
+     "explanation": "El 1278 rige para quienes se vincularon después de su expedición; quienes ingresaron antes siguen en el Decreto 2277 de 1979."
+    },
+    {
+     "q": "¿Cómo se ingresa al servicio educativo estatal según el Decreto 1278?",
+     "options": [
+      "Por recomendación de la secretaría de educación.",
+      "Por nombramiento discrecional del rector.",
+      "Mediante concurso de méritos."
+     ],
+     "answer": 2,
+     "explanation": "El ingreso a la carrera docente es por concurso; los nombramientos provisionales son temporales."
+    },
+    {
+     "q": "¿Qué tipo de norma es el Decreto 1278 de 2002?",
+     "options": [
+      "Un acuerdo de la CNSC.",
+      "Un decreto con fuerza de ley, expedido por el Presidente con facultades extraordinarias.",
+      "Una resolución del MEN."
+     ],
+     "answer": 1,
+     "explanation": "Se expidió con base en las facultades extraordinarias de la Ley 715 de 2001; por eso se le llama \"Decreto Ley\"."
+    },
+    {
+     "q": "Al nombrado tras el concurso se le evalúa en periodo de prueba. ¿Cuál es su duración según el Decreto 1278?",
+     "options": [
+      "Hasta culminar el año académico, siempre que hayan transcurrido al menos cuatro meses de servicio.",
+      "Un mes.",
+      "Exactamente dos años."
+     ],
+     "answer": 0,
+     "explanation": "El artículo 31 fija el periodo de prueba hasta terminar el año escolar, con un mínimo de cuatro meses."
+    },
+    {
+     "q": "¿Qué calificación mínima debe obtener el docente en la evaluación del periodo de prueba para ser inscrito en el escalafón?",
+     "options": [
+      "Al menos 60 %.",
+      "Al menos 50 %.",
+      "Al menos 80 %."
+     ],
+     "answer": 0,
+     "explanation": "Quien obtiene calificación satisfactoria (60 % o más) es nombrado en propiedad e inscrito en el escalafón."
+    },
+    {
+     "q": "¿Cuántos grados tiene el escalafón docente del Decreto 1278?",
+     "options": [
+      "Tres grados, cada uno con niveles salariales A, B, C y D.",
+      "Catorce grados.",
+      "Cinco grados sin niveles."
+     ],
+     "answer": 0,
+     "explanation": "El escalafón del 1278 tiene grados 1, 2 y 3 según la formación académica, y cuatro niveles salariales en cada uno."
+    },
+    {
+     "q": "¿Qué título corresponde al grado 1 del escalafón del Decreto 1278?",
+     "options": [
+      "Licenciado en educación.",
+      "Normalista superior.",
+      "Magíster."
+     ],
+     "answer": 1,
+     "explanation": "Grado 1: normalista superior; grado 2: licenciado o profesional con formación pedagógica; grado 3: con maestría o doctorado."
+    },
+    {
+     "q": "Un ingeniero de sistemas que acreditó un programa de pedagogía ingresa por concurso. ¿En qué grado del escalafón del Decreto 1278 se ubica?",
+     "options": [
+      "Grado 2.",
+      "Grado 3.",
+      "Grado 1."
+     ],
+     "answer": 0,
+     "explanation": "El grado 2 corresponde a licenciados o profesionales no licenciados con formación pedagógica (posgrado en educación o programa de pedagogía); el grado 3 exige maestría o doctorado."
+    },
+    {
+     "q": "Una docente del grado 2 obtiene una maestría en educación. ¿Qué debe hacer para pasar al grado 3?",
+     "options": [
+      "Esperar 10 años de antigüedad.",
+      "Solo radicar el diploma; el ascenso es automático.",
+      "Aprobar la evaluación de competencias convocada para ascenso, además de cumplir el título y el tiempo exigido."
+     ],
+     "answer": 2,
+     "explanation": "En el 1278 el ascenso no es automático: requiere el título, tiempo de servicio y superar la evaluación de competencias (ECDF en los últimos procesos)."
+    },
+    {
+     "q": "¿Qué tipos de evaluación contempla el Decreto 1278?",
+     "options": [
+      "Solo la evaluación del concurso de ingreso.",
+      "Evaluación de estudiantes y de padres.",
+      "Evaluación del periodo de prueba, evaluación ordinaria anual de desempeño y evaluación de competencias."
+     ],
+     "answer": 2,
+     "explanation": "El artículo 26 y siguientes establecen estas evaluaciones para ingreso, permanencia y ascenso."
+    },
+    {
+     "q": "¿Quién realiza la evaluación anual de desempeño de los docentes?",
+     "options": [
+      "El rector o director rural del establecimiento.",
+      "Los estudiantes por votación.",
+      "El ICFES."
+     ],
+     "answer": 0,
+     "explanation": "La evaluación ordinaria de desempeño la hace el superior inmediato (rector o director), al terminar cada año académico."
+    },
+    {
+     "q": "¿Qué consecuencia tiene obtener calificación no satisfactoria en la evaluación de desempeño en dos años consecutivos?",
+     "options": [
+      "La reducción del salario a la mitad.",
+      "La exclusión del escalafón y el retiro del servicio.",
+      "El traslado automático a otro municipio."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 36 del Decreto 1278 prevé esa consecuencia, con garantía del debido proceso."
+    },
+    {
+     "q": "¿Qué se entiende por \"reubicación salarial\" en el Decreto 1278?",
+     "options": [
+      "El paso del grado 1 al grado 3.",
+      "El cambio de institución educativa.",
+      "El paso de un nivel salarial a otro dentro del mismo grado."
+     ],
+     "answer": 2,
+     "explanation": "La reubicación es el movimiento entre niveles (A, B, C, D) dentro del grado; el ascenso es el cambio de grado."
+    },
+    {
+     "q": "¿Cuál es una función docente según el Decreto 1278?",
+     "options": [
+      "La expedición de títulos de bachiller.",
+      "El diagnóstico, la planeación, la ejecución y la evaluación de los procesos de enseñanza-aprendizaje.",
+      "La aprobación del presupuesto municipal."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 4 define la función docente como de carácter profesional e incluye actividades curriculares y de orientación."
+    },
+    {
+     "q": "¿Qué cargos son \"directivos docentes\" según el Decreto 1278?",
+     "options": [
+      "Secretario de educación y supervisor.",
+      "Rector, director rural y coordinador.",
+      "Orientador escolar y docente de apoyo."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 6 define como directivos docentes a rectores, directores rurales y coordinadores."
+    },
+    {
+     "q": "Un docente vinculado en provisionalidad, ¿tiene derechos de carrera?",
+     "options": [
+      "Sí, si el rector lo recomienda.",
+      "Sí, después de un año de servicio.",
+      "No; su nombramiento es temporal mientras se provee la vacante por concurso."
+     ],
+     "answer": 2,
+     "explanation": "Los derechos de carrera se adquieren solo tras superar el concurso y el periodo de prueba."
+    },
+    {
+     "q": "Según el Decreto 1278, ¿cuál es el propósito de la evaluación de desempeño?",
+     "options": [
+      "Verificar niveles de idoneidad y mejoramiento continuo del docente.",
+      "Seleccionar a los estudiantes que repiten el año.",
+      "Determinar el salario de los directivos."
+     ],
+     "answer": 0,
+     "explanation": "La evaluación busca el mejoramiento continuo y la calidad del servicio; sus resultados orientan planes de desarrollo personal."
+    },
+    {
+     "q": "¿Qué estatuto rige a los docentes vinculados antes del Decreto 1278?",
+     "options": [
+      "El Decreto 2277 de 1979.",
+      "La Ley 1620 de 2013.",
+      "El Decreto 1290 de 2009."
+     ],
+     "answer": 0,
+     "explanation": "El 2277 de 1979 tiene su propio escalafón (grados 1 a 14) y sigue aplicando a esos docentes."
+    },
+    {
+     "q": "¿Qué es la evaluación de competencias en el Decreto 1278?",
+     "options": [
+      "La evaluación de los estudiantes en pruebas Saber.",
+      "La evaluación que se realiza para ascender de grado o reubicarse de nivel salarial.",
+      "La evaluación de ingreso al concurso."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 35 la establece; su aprobación permite el ascenso o la reubicación salarial."
+    },
+    {
+     "q": "Un ingeniero nombrado en periodo de prueba no acredita, al finalizarlo, posgrado en educación ni programa de pedagogía. ¿Qué establece el Decreto 1278?",
+     "options": [
+      "Que se le concede el grado 3 automáticamente.",
+      "Que no cumple un requisito para continuar, pues los profesionales no licenciados deben acreditar esa formación pedagógica.",
+      "Que la formación pedagógica es opcional."
+     ],
+     "answer": 1,
+     "explanation": "El artículo 12 exige a los profesionales no licenciados acreditar, al término del periodo de prueba, que cursan o terminaron un posgrado en educación o un programa de pedagogía."
+    }
+   ]
+  }
+ ]
+}
