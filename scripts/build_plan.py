@@ -188,7 +188,7 @@ B_GEN = [
 ]
 
 VERSIONS = {
-    "A": {"name": "Ciencias Naturales y Educación Ambiental", "person": "Yasmin",
+    "A": {"name": "Ciencias Naturales y Educación Ambiental", "person": "Yazmín",
           "tracks": [("Disciplinar: Ciencias Naturales y Ed. Ambiental", A_DISC), ("Conocimiento general del concurso", A_GEN)]},
     "B": {"name": "Tecnología e Informática", "person": "Andrey",
           "tracks": [("Disciplinar: Tecnología e Informática", B_DISC), ("Leyes y conocimiento general del concurso", B_GEN)]},

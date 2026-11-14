@@ -15,7 +15,7 @@ create table public.quiz_attempts (
   total_questions integer not null check (total_questions between 1 and 200),
   percentage numeric(5,2) not null,          -- recalculado en el servidor
   completed boolean not null default false,  -- recalculado en el servidor (answered = total_questions)
-  constraint person_matches_version check ((version = 'A' and person = 'Yasmin') or (version = 'B' and person = 'Andrey')),
+  constraint person_matches_version check ((version = 'A' and person = 'Yazmín') or (version = 'B' and person = 'Andrey')),
   constraint answered_range check (answered between 0 and total_questions),
   constraint correct_range check (total_correct between 0 and answered)
 );

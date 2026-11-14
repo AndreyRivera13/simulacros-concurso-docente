@@ -56,7 +56,7 @@
   const SB_URL = "https://ggcgbjonlxxcmegknfxi.supabase.co/rest/v1/quiz_attempts";
   const SB_KEY = "sb_publishable_TY2maiftFyPDWj_SovDXCQ_7kUE5Lbq";
   const ATT_PREFIX = "scd.att.";
-  const PEOPLE = { A: "Yasmin", B: "Andrey" };
+  const PEOPLE = { A: "Yazmín", B: "Andrey" };
   const uuid = () => (crypto.randomUUID ? crypto.randomUUID() : "10000000-1000-4000-8000-100000000000".replace(/[018]/g, (c) => (c ^ (crypto.getRandomValues(new Uint8Array(1))[0] & (15 >> (c / 4)))).toString(16)));
   const attKey = () => `${ATT_PREFIX}${state.v}.${state.date}`;
   const readAtt = (k) => { try { return JSON.parse(localStorage.getItem(k) || "null"); } catch { return null; } };
@@ -326,7 +326,7 @@
       g += pts.map(([d, p]) => `<circle cx="${x(d)}" cy="${y(p)}" r="4" fill="${COL[v]}"><title>${PEOPLE[v]} · ${d}: ${p}%</title></circle>`).join("");
     });
     return `<svg id="trend" viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Tendencia del porcentaje por fecha">${g}</svg>
-      <div class="legend"><span style="color:${COL.A}">● Yasmin (A)</span> <span style="color:${COL.B}">● Andrey (B)</span></div>`;
+      <div class="legend"><span style="color:${COL.A}">● Yazmín (A)</span> <span style="color:${COL.B}">● Andrey (B)</span></div>`;
   }
   async function renderProgress() {
     const box = $("#progreso"); const filt = state.progFilter || "todas";
@@ -350,7 +350,7 @@
         <div>${c.length} completos · ${rs.length - c.length} parciales${last ? ` · último: ${fmtShort(last.quiz_date)} (${Number(last.percentage)}%)` : ""}</div></div>`;
     };
     box.innerHTML = `<div class="prog">
-      <div class="planinfo"><b>Progreso</b> · historial compartido de Yasmin y Andrey (se guarda en la nube al responder; si no hay conexión, queda en este navegador y se reintenta).
+      <div class="planinfo"><b>Progreso</b> · historial compartido de Yazmín y Andrey (se guarda en la nube al responder; si no hay conexión, queda en este navegador y se reintenta).
         ${err ? `<br><span class="fail">No se pudo leer la nube (${esc(err)}); se muestran solo los intentos de este navegador.</span>` : ""}
         <div class="filter">Ver: ${["todas", "A", "B"].map((f) => `<button class="ghost fbtn${f === filt ? " on" : ""}" data-filter="${f}">${f === "todas" ? "Ambas versiones" : f + " · " + PEOPLE[f]}</button>`).join(" ")}</div></div>
       <div class="pcards">${["A", "B"].filter((v) => filt === "todas" || v === filt).map(stats).join("")}</div>

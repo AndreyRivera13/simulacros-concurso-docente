@@ -31,7 +31,7 @@ def check_cloud(page, v, date, exp_total, n_total, exp_topic, errs):
     out = {"attempt_id": aid, "rows": len(rows)}
     if len(rows) != 1: errs.append(f"Supabase: {len(rows)} filas para el intento {aid}"); return out
     r = rows[0]
-    exp = {"quiz_date": date, "version": v, "person": {"A": "Yasmin", "B": "Andrey"}[v], "answered": n_total, "total_correct": exp_total, "total_questions": n_total, "completed": True}
+    exp = {"quiz_date": date, "version": v, "person": {"A": "Yazmín", "B": "Andrey"}[v], "answered": n_total, "total_correct": exp_total, "total_questions": n_total, "completed": True}
     for k, val in exp.items():
         if r[k] != val: errs.append(f"Supabase {k}: {r[k]!r} != {val!r}")
     if abs(float(r["percentage"]) - round(exp_total * 100 / n_total, 2)) > 0.01: errs.append(f"Supabase percentage {r['percentage']}")

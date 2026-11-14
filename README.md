@@ -4,7 +4,7 @@ Sitio estático con **plan de estudio** y **simulacros diarios** con retroalimen
 
 | Versión | Empleo | Aspirante | Ejes diarios |
 |---|---|---|---|
-| **A** | Ciencias Naturales y Educación Ambiental | Yasmin | Disciplinar CN y Ed. Ambiental + conocimiento general del concurso |
+| **A** | Ciencias Naturales y Educación Ambiental | Yazmín | Disciplinar CN y Ed. Ambiental + conocimiento general del concurso |
 | **B** | Tecnología e Informática | Andrey | Disciplinar Tecnología e Informática + leyes (desde lo básico) y conocimiento general |
 
 - **Sitio:** https://andreyrivera13.github.io/simulacros-concurso-docente/
