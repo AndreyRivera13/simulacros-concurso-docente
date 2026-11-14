@@ -23,6 +23,8 @@ index.html, assets/        # app estática (JS sin dependencias)
 data/plan.json             # plan completo de ambas versiones (generado por scripts/build_plan.py)
 data/index.json            # días disponibles por versión (lo actualiza build_day.py)
 data/guia.json             # Guía de estudio: concurso, ejes oficiales, documentos y días del plan (build_guide.py)
+data/temas.json            # Contenido de estudio por tema (HTML) generado desde content/temas/*.md
+content/temas/*.md         # Contenido de estudio en Markdown (un archivo por tema)
 data/<V>/<AAAA-MM-DD>.json # simulacro de un día (lo produce build_day.py; no editar a mano)
 drafts/<V>/<AAAA-MM-DD>.txt# borrador fuente del día (formato de texto, correcta primero)
 scripts/build_plan.py      # (re)genera plan.json — temario, ejes, fechas, dificultad
@@ -93,7 +95,15 @@ antecedentes), Res. MEN 003842 de 2022 (competencias y requisitos), referentes d
 Ciencias Naturales; PNEA; Guía 30 y Orientaciones Curriculares de T&I 2022; Competencias TIC 2013) y normas del Gestor
 Normativo de Función Pública. A la fecha de creación (14-nov-2026) la CNSC **no** ha publicado la Guía de orientación ni los
 ejes temáticos 2026-2027; cuando se publiquen, actualice `scripts/build_guide.py` (y, si cambian los ejes, `build_plan.py`
-para los días aún no generados). Cada tema del simulacro enlaza a `#guia-<eje>`.
+para los días aún no generados).
+
+**Contenido de estudio por tema.** Cada tema del plan tiene su página `#guia-t-<id-del-tema>` con conceptos clave,
+explicaciones con ejemplos, normas resumidas en lenguaje sencillo (versión B: leyes desde cero), trampas frecuentes de examen
+y "Puntos clave", más sus fuentes oficiales de referencia. El contenido vive en `content/temas/*.md` (encabezado
+`ids:` = ids base de los temas del plan que cubre, `refs:` = ids de documentos de `guia.json`) y `build_guide.py` lo convierte
+con `scripts/md_mini.py` a `data/temas.json`, verificando que todo tema del plan (sin el sufijo `-vN` de las vueltas) tenga
+contenido. Índice por versión: `#guia-temas`; secciones por eje: `#guia-<eje>`. El encabezado de cada simulacro, cada tema y
+el plan (📘) enlazan a la página del tema; los días de repaso enlazan al índice.
 
 ## Pruebas E2E
 

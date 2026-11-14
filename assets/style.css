@@ -48,3 +48,12 @@ button{font-family:inherit}
 .prog table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden}.prog th,.prog td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top;font-size:.88rem;text-align:left}.prog th{background:#eaf0f8}.prog ul{margin:0;padding-left:16px}
 .prog svg{background:#fff;border:1px solid var(--line);border-radius:12px}.legend{font-size:.88rem;margin:4px 0}.legend span{margin-right:14px}
 .filter{margin-top:8px}.fbtn.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.guia ol.temas{margin:6px 0 10px;padding-left:24px}.guia ol.temas li{margin:3px 0}.guia .tlink{font-weight:600}
+.tema .crumbs{font-size:.88rem;margin:6px 0}.tema h2#tema-title{margin-top:8px}
+.tema-body{background:#fff;border:1px solid var(--line);border-radius:12px;padding:6px 20px 14px;margin:12px 0;line-height:1.6}
+.tema-body h4{color:var(--navy);font-size:1.05rem;margin:18px 0 6px;border-bottom:2px solid #e3ecfb;padding-bottom:3px}
+.tema-body h5{color:var(--navy);margin:12px 0 4px}.tema-body li{margin:3px 0}.tema-body ol{padding-left:22px}
+.tema-body pre{background:#f4f6fa;border:1px solid var(--line);border-radius:8px;padding:10px;overflow:auto;font-size:.85rem}
+.tema-body code{background:#f4f6fa;border-radius:4px;padding:0 3px;font-size:.88em}.tema-body pre code{background:none;padding:0}
+.tema .refs{background:#f7f9fc;border:1px solid var(--line);border-radius:12px;padding:8px 16px}.tema .refs h4{margin:6px 0;color:var(--navy)}
+.tema .prevnext{display:flex;justify-content:space-between;gap:12px;margin:16px 0;font-size:.9rem}.tema .prevnext a{max-width:48%}

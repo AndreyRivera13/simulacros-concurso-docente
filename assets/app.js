@@ -33,11 +33,12 @@
     return VIEWS.includes(base) && base !== "quiz" ? base : "quiz";
   }
   const ejeOf = (id) => state.guia && state.guia.versiones[state.v].ejes.find((e) => e.id === id);
+  const baseId = (id) => String(id || "").replace(/-v\d+$/, "");
   const guideLink = (t, cls = "glink") => {
     if (!t || !t.eje) return "";
-    if (t.eje === "repaso") return `<a class="${cls}" href="#guia">📘 Guía de estudio</a>`;
-    const e = ejeOf(t.eje);
-    return `<a class="${cls}" href="#guia-${esc(t.eje)}" data-guide="${esc(t.eje)}">📘 Guía: ${esc(e ? e.nombre : t.eje)}</a>`;
+    if (t.eje === "repaso") return `<a class="${cls}" href="#guia-temas" data-guide="repaso">📘 Guía: índice de temas</a>`;
+    const b = baseId(t.id);
+    return `<a class="${cls}" href="#guia-t-${esc(b)}" data-guide="${esc(t.eje)}" data-topic="${esc(b)}">📘 Estudiar: ${esc(t.title.replace(/\s*\(\d\.ª vuelta\)$/, ""))}</a>`;
   };
 
   function renderHeader() {
@@ -215,22 +216,22 @@
     const rows = vp.days.map((d) => `<tr class="${d.date === t ? "today " : ""}${d.kind}" data-date="${d.date}">
       <td><b>${d.n}</b></td><td>${esc(new Date(d.date + "T12:00:00").toLocaleDateString("es-CO", { weekday: "short", day: "numeric", month: "short" }))}${d.date === t ? '<span class="tag">HOY</span>' : ""}</td>
       <td>${esc(d.difficulty)}</td>
-      <td><ul>${d.topics.map((x) => `<li>${esc(x.title)}${x.review ? '<span class="tag">repaso</span>' : ""}${x.eje && x.eje !== "repaso" ? ` <a class="glink" href="#guia-${esc(x.eje)}" title="Ver en la Guía de estudio">📘</a>` : ""}</li>`).join("")}</ul></td>
+      <td><ul>${d.topics.map((x) => `<li>${esc(x.title)}${x.review ? '<span class="tag">repaso</span>' : ""}${x.eje && x.eje !== "repaso" ? ` <a class="glink" href="#guia-t-${esc(baseId(x.id))}" title="Estudiar este tema en la Guía">📘</a>` : ""}</li>`).join("")}</ul></td>
       <td class="st">${avail.has(d.date) ? `<a href="?v=${state.v}&d=${d.date}#quiz">Practicar ▶</a>` : '<span class="pend">pendiente</span>'}</td></tr>`).join("");
     $("#plan").innerHTML = `<div class="plan">${info}<table><thead><tr><th>Día</th><th>Fecha</th><th>Nivel</th><th>Temas</th><th></th></tr></thead><tbody>${rows}</tbody></table></div>`;
     const tr = document.querySelector("tr.today"); if (tr) setTimeout(() => tr.scrollIntoView({ block: "center" }), 50);
   }
 
   // ---------- Guía de estudio ----------
-  function renderGuide() {
+  function renderGuideIndex() {
     const g = state.guia, c = g.concurso, vp = vplan(), ejes = g.versiones[state.v].ejes, t = todayBogota(), avail = new Set(available());
     const doc = Object.fromEntries(g.documentos.map((d) => [d.id, d]));
     const dlink = (id) => { const d = doc[id]; return d ? `<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.nombre)}</a> <span class="src">(${esc(d.emisor)}, ${d.anio})</span>` : esc(id); };
     const src = (ids) => `<div class="src">Fuente: ${[].concat(ids).map((i) => { const d = doc[i]; return d ? `<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.nombre)}</a>` : esc(i); }).join(" · ")}</div>`;
     const docs = g.documentos.filter((d) => d.versiones.includes(state.v));
     const html = `<div class="guia">
-      <div class="planinfo"><b>Guía de estudio · Versión ${state.v}: ${esc(vp.name)}</b> (${esc(vp.person)}). Construida solo con documentos oficiales (CNSC, MEN, Función Pública); cada eje enlaza su fuente y los días del plan que lo trabajan. Actualizada: ${esc(g.updated)}.
-        <div class="toc">Ir a: <a href="#guia-concurso">Cómo funciona el concurso</a> <a href="#guia-ejes">Ejes y qué estudiar</a> <a href="#guia-documentos">Documentos oficiales</a></div></div>
+      <div class="planinfo"><b>Guía de estudio · Versión ${state.v}: ${esc(vp.name)}</b> (${esc(vp.person)}). Para cada tema del plan hay una página de estudio con conceptos clave, explicaciones con ejemplos, normas resumidas en lenguaje sencillo, trampas frecuentes de examen y puntos clave, citando como referencia los documentos oficiales (CNSC, MEN, Función Pública). Actualizada: ${esc(g.updated)}.
+        <div class="toc">Ir a: <a href="#guia-concurso">Cómo funciona el concurso</a> <a href="#guia-temas">Índice de temas (contenido de estudio)</a> <a href="#guia-documentos">Documentos oficiales</a></div></div>
       <div class="warn" id="estado-ejes">⚠️ <b>Estado de los ejes temáticos 2026-2027:</b> ${esc(c.estado_ejes)}</div>
 
       <h2 id="sec-concurso">1. Cómo funciona el concurso (Procesos de Selección 2917 a 3006 de 2026)</h2>
@@ -244,13 +245,14 @@
       <table><thead><tr><th>Factor</th><th>Criterio</th><th>Máximo</th></tr></thead><tbody>${c.antecedentes_docente_aula.map((r) => `<tr><td>${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join("")}</tbody></table>${src(c.antecedentes_fuente)}
       <p><b>Referencia del concurso anterior (2022):</b> ${esc(c.referencia_2022)}</p>${src(c.referencia_2022_fuentes)}
 
-      <h2 id="sec-ejes">2. Ejes oficiales y qué estudiar</h2>
-      <p class="src">Cada eje corresponde a un componente oficial de la prueba (Anexo técnico 2026, num. 2.1), a la psicotécnica/entrevista o al marco normativo que exige el Manual de Funciones. Los días en verde ya tienen simulacro.</p>
+      <h2 id="sec-ejes">2. Índice de temas por eje (contenido de estudio)</h2>
+      <p class="src">Cada eje corresponde a un componente oficial de la prueba (Anexo técnico 2026, num. 2.1), a la psicotécnica/entrevista o al marco normativo que exige el Manual de Funciones. Abra cada tema para estudiar su contenido completo. Los días en verde ya tienen simulacro.</p>
       ${ejes.map((e) => `<article class="eje" id="eje-${esc(e.id)}" data-eje="${esc(e.id)}">
         <h3>${esc(e.nombre)}</h3><span class="comp">${esc(e.componente)}</span>
         <p class="ofi"><b>Base oficial:</b> ${esc(e.oficial)}</p>
-        <b>Qué estudiar</b><ul>${e.estudiar.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
-        <b>Documentos</b><ul class="docs">${e.docs.map((i) => `<li>${dlink(i)}</li>`).join("")}</ul>
+        <b>Temas para estudiar (${e.temas.length})</b><ol class="temas">${e.temas.map((x) => `<li><a class="tlink" href="#guia-t-${esc(x.id)}" data-topic="${esc(x.id)}">${esc(x.title)}</a> <span class="src">· Día${x.dias.length > 1 ? "s" : ""} ${x.dias.map((d) => d.n).join(", ")}</span></li>`).join("")}</ol>
+        <b>Qué evalúa / qué estudiar</b><ul>${e.estudiar.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
+        <b>Documentos oficiales de referencia</b><ul class="docs">${e.docs.map((i) => `<li>${dlink(i)}</li>`).join("")}</ul>
         <details ${e.dias.some((d) => d.date === t) ? "open" : ""}><summary>Días del plan que lo cubren (${e.dias.length})</summary><div class="chips">
           ${e.dias.map((d) => `<a class="${avail.has(d.date) ? "done" : ""}" href="?v=${state.v}&d=${d.date}#quiz" title="${esc(d.title)}">Día ${d.n} · ${esc(d.date.slice(5))}</a>`).join("")}</div></details>
       </article>`).join("")}
@@ -263,9 +265,45 @@
     </div>`;
     $("#guia").innerHTML = html;
     const h = location.hash.replace(/^#guia-?/, "");
-    const target = { concurso: "sec-concurso", ejes: "sec-ejes", documentos: "sec-documentos" }[h] || (h ? "eje-" + h : "");
+    const target = { concurso: "sec-concurso", ejes: "sec-ejes", temas: "sec-ejes", documentos: "sec-documentos" }[h] || (h ? "eje-" + h : "");
     const el = target && document.getElementById(target);
     if (el) { el.classList.add("hl"); setTimeout(() => el.scrollIntoView({ block: "start" }), 30); } else scrollTo(0, 0);
+  }
+
+  let temasP = null;
+  const loadTemas = () => (temasP = temasP || fetchJSON("data/temas.json").catch((e) => { temasP = null; throw e; }));
+  async function renderGuide() {
+    const h = location.hash.replace(/^#guia-?/, "");
+    if (h.startsWith("t-")) return renderTopic(h.slice(2));
+    renderGuideIndex();
+  }
+  async function renderTopic(slug) {
+    const box = $("#guia"), g = state.guia, ejes = g.versiones[state.v].ejes, t = todayBogota(), avail = new Set(available());
+    const all = ejes.flatMap((e) => e.temas.map((x) => ({ ...x, ejeObj: e })));
+    let i = all.findIndex((x) => x.id === slug);
+    if (i < 0) { // el tema puede ser de la otra versión
+      const other = state.v === "A" ? "B" : "A";
+      if (g.versiones[other].ejes.some((e) => e.temas.some((x) => x.id === slug))) { state.v = other; localStorage.setItem("scd.v", other); renderHeader(); return renderTopic(slug); }
+      box.innerHTML = `<div class="empty">Tema no encontrado. <a href="#guia-temas">Ver índice de temas</a></div>`; return;
+    }
+    box.innerHTML = `<div class="empty">Cargando contenido…</div>`;
+    let temas;
+    try { temas = await loadTemas(); } catch (e) { box.innerHTML = `<div class="empty">No se pudo cargar el contenido (${esc(e.message)}). <a href="#guia-temas">Volver al índice</a></div>`; return; }
+    const x = all[i], e = x.ejeObj, c = temas.content[temas.map[slug]] || { html: "<p>Contenido en preparación.</p>", refs: [] };
+    const doc = Object.fromEntries(g.documentos.map((d) => [d.id, d]));
+    const refs = [...new Set([...c.refs, ...e.docs])].filter((r) => doc[r]);
+    const prev = all[i - 1], next = all[i + 1];
+    box.innerHTML = `<div class="guia tema" id="tema" data-topic="${esc(slug)}">
+      <nav class="crumbs"><a href="#guia-temas" id="tema-index">← Índice de temas (versión ${state.v})</a> · Eje: <a href="#guia-${esc(e.id)}">${esc(e.nombre)}</a></nav>
+      <h2 id="tema-title">${esc(x.title)}</h2>
+      <span class="comp">${esc(e.componente)}</span>
+      <div class="chips">${x.dias.map((d) => `<a class="${avail.has(d.date) ? "done" : ""}" href="?v=${state.v}&d=${d.date}#quiz">Simulacro día ${d.n} · ${esc(d.date.slice(5))}</a>`).join("")}</div>
+      <article class="tema-body" id="tema-body">${c.html}</article>
+      <section class="refs" id="tema-refs"><h4>Fuentes oficiales de referencia</h4><ul class="docs">${refs.map((r) => `<li><a href="${esc(doc[r].url)}" target="_blank" rel="noopener">${esc(doc[r].nombre)}</a> <span class="src">(${esc(doc[r].emisor)}, ${doc[r].anio})</span></li>`).join("")}</ul>
+        <p class="src">Contenido de estudio elaborado a partir de estos documentos oficiales y de conocimiento disciplinar establecido. Ante cualquier diferencia, prevalece el texto oficial vigente. Los ejes oficiales 2026-2027 aún no se han publicado.</p></section>
+      <nav class="prevnext">${prev ? `<a id="tema-prev" href="#guia-t-${esc(prev.id)}">← ${esc(prev.title)}</a>` : "<span></span>"}${next ? `<a id="tema-next" href="#guia-t-${esc(next.id)}">${esc(next.title)} →</a>` : "<span></span>"}</nav>
+    </div>`;
+    scrollTo(0, 0);
   }
 
   // ---------- Progreso ----------
@@ -333,7 +371,7 @@
     renderHeader(); updateURL();
     const view = currentView();
     if (view === "plan") { renderPlan(); $("#scorebar").hidden = true; }
-    else if (view === "guia") { renderGuide(); $("#scorebar").hidden = true; }
+    else if (view === "guia") { $("#scorebar").hidden = true; await renderGuide(); }
     else if (view === "progreso") { $("#scorebar").hidden = true; await renderProgress(); }
     else { await renderQuiz(); }
   }

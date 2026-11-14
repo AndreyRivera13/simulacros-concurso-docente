@@ -175,12 +175,26 @@ def check_guide(page, v, date, errs):
     if page.locator(".topic .track a.glink").count() != len(pd["topics"]): errs.append("faltan enlaces a la guía en los temas")
     first = next((t for t in pd["topics"] if t.get("eje") and t["eje"] != "repaso"), None)
     if first:
-        page.locator(f'#day-guide-links a[data-guide="{first["eje"]}"]').first.click()
-        page.wait_for_selector("#view-guia:not([hidden]) .guia")
-        if not page.url.endswith(f"#guia-{first['eje']}"): errs.append(f"enlace del tema no lleva a #guia-{first['eje']} ({page.url})")
-        tgt = "sec-concurso" if first["eje"] == "concurso" else f"eje-{first['eje']}"
-        if page.locator(f"#{tgt}").count() != 1: errs.append(f"no existe la sección {tgt} en la guía")
-        out["topic_link_target"] = tgt
+        b = re.sub(r"-v\d+$", "", first["id"])
+        page.locator(f'#day-guide-links a[data-topic="{b}"]').first.click()
+        page.wait_for_selector("#tema-body h4")
+        if not page.url.endswith(f"#guia-t-{b}"): errs.append(f"enlace del tema no lleva a #guia-t-{b} ({page.url})")
+        body = page.locator("#tema-body").inner_text()
+        for k in ("Puntos clave", "Trampas frecuentes"):
+            if k not in body: errs.append(f"la página del tema {b} no tiene '{k}'")
+        if len(body) < 800: errs.append(f"contenido del tema {b} demasiado corto ({len(body)})")
+        if page.locator("#tema-refs a").count() == 0: errs.append(f"tema {b} sin fuentes oficiales")
+        out["topic_link_target"] = f"#guia-t-{b}"; out["topic_chars"] = len(body)
+        page.screenshot(path=str(OUT / f"test-{v}-tema.png"), full_page=False)
+        if page.locator("#tema-next").count():
+            page.locator("#tema-next").click(); page.wait_for_function(f"document.querySelector('#tema') && document.querySelector('#tema').dataset.topic !== '{b}'")
+        page.locator("#tema-index").click(); page.wait_for_selector("#sec-ejes")
+    # todos los temas del plan tienen contenido de estudio (verificado sobre los datos publicados)
+    tm = json.loads(page.request.get(BASE + "data/temas.json").text())
+    bases = {re.sub(r"-v\d+$", "", t["id"]) for d in plan["versions"][v]["days"] for t in d["topics"] if t.get("eje") not in (None, "repaso")}
+    sin = [b2 for b2 in bases if b2 not in tm["map"] or "Puntos clave" not in tm["content"][tm["map"][b2]]["html"]]
+    if sin: errs.append(f"temas sin contenido de estudio: {sin}")
+    out["temas_con_contenido"] = len(bases) - len(sin)
     # 3) contenido de la guía
     page.goto(BASE + f"?v={v}#guia", wait_until="networkidle"); page.wait_for_selector(".guia")
     if "NO ha publicado" not in page.locator("#estado-ejes").inner_text(): errs.append("la guía no aclara el estado de los ejes 2026-2027")
@@ -188,6 +202,9 @@ def check_guide(page, v, date, errs):
     if rows.count() != 4 or "55 %" not in txt or "60/100" not in txt or "30 %" not in txt: errs.append("tabla de pruebas incompleta")
     ejes = g["versiones"][v]["ejes"]
     if page.locator(".guia .eje").count() != len(ejes): errs.append("número de ejes distinto al de guia.json")
+    nt = page.locator(".guia ol.temas a.tlink").count()
+    if nt != sum(len(e["temas"]) for e in ejes): errs.append(f"índice: {nt} enlaces a temas")
+    out["indice_temas"] = nt
     for e in ejes:
         n = page.locator(f'#eje-{e["id"]} .chips a').count()
         if n == 0 or n != len(e["dias"]): errs.append(f"eje {e['id']}: {n} días enlazados")

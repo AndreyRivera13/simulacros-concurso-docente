@@ -4,7 +4,7 @@
 Uso: python3 scripts/build_guide.py   (ejecútelo después de build_plan.py; cruza cada eje con los días del plan)
 Para verificar los enlaces: python3 scripts/check_links.py
 """
-import json, pathlib, datetime as dt
+import json, sys, re, pathlib, datetime as dt
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PLAN = json.loads((ROOT / "data" / "plan.json").read_text())
@@ -94,6 +94,12 @@ DOCS = [
       "Base del plan escolar de gestión del riesgo (tema de Ciencias Naturales y Ed. Ambiental).", "A"),
     D("ley1581", "Ley 1581 de 2012 – Protección de datos personales", "Congreso de la República", 2012, FP + "49981",
       "Aspectos legales de la informática (habeas data) que las Orientaciones de T&I ubican en ética y responsabilidad digital.", "B"),
+    D("ley23", "Ley 23 de 1982 – Derechos de autor", "Congreso de la República", 1982, FP + "3431",
+      "Norma básica de derecho de autor (incluye la protección del software como obra); tema de aspectos legales de T&I.", "B"),
+    D("ley1273", "Ley 1273 de 2009 – Protección de la información y de los datos (delitos informáticos)", "Congreso de la República", 2009, FP + "34492",
+      "Tipifica los delitos informáticos; base de seguridad informática y ciudadanía digital.", "B"),
+    D("ley1341", "Ley 1341 de 2009 – Marco del sector TIC", "Congreso de la República", 2009, FP + "36913",
+      "Principios y organización de las TIC en Colombia (Ministerio TIC, acceso y uso).", "B"),
 ]
 
 C1 = "Componente 1 de la prueba de aptitudes y competencias básicas (eliminatoria)"
@@ -270,6 +276,37 @@ CONCURSO = {
                         "El enlace oficial a esa guía (historico.cnsc.gov.co) no está disponible hoy, por lo que sus ejes no se transcriben aquí."),
     "referencia_2022_fuentes": ["cnsc-2022", "d574"],
 }
+
+# ---------- Contenido de estudio por tema (content/temas/*.md) ----------
+sys.path.insert(0, str(ROOT / "scripts"))
+import md_mini
+base_id = lambda i: re.sub(r"-v\d+$", "", i)
+content, idmap = {}, {}
+for f in sorted((ROOT / "content" / "temas").glob("*.md")):
+    meta, body = md_mini.parse_file(f.read_text())
+    refs = meta.get("refs", [])
+    for r in refs: assert r in ids, (f.name, r)
+    assert "Puntos clave" in body and "Trampas frecuentes" in body, f.name
+    content[f.stem] = {"html": body, "refs": refs}
+    for i in meta["ids"]:
+        assert i not in idmap, ("id duplicado", i)
+        idmap[i] = f.stem
+for v, ejes in VERS.items():
+    order, info = [], {}
+    for day in PLAN["versions"][v]["days"]:
+        for t in day["topics"]:
+            if t.get("eje") in (None, "repaso"): continue
+            b = base_id(t["id"])
+            assert b in idmap, ("tema sin contenido de estudio", v, b)
+            if b not in info:
+                info[b] = {"id": b, "title": re.sub(r"\s*\((vuelta|repaso)[^)]*\)$", "", t["title"]), "eje": t["eje"], "file": idmap[b], "dias": []}
+                order.append(b)
+            info[b]["dias"].append({"date": day["date"], "n": day["n"]})
+    for e in ejes:
+        e["temas"] = [info[b] for b in order if info[b]["eje"] == e["id"]]
+        assert e["temas"], (v, e["id"], "eje sin temas")
+(ROOT / "data" / "temas.json").write_text(json.dumps({"map": idmap, "content": content}, ensure_ascii=False))
+print("temas.json:", len(content), "archivos,", len(idmap), "temas")
 
 guia = {"updated": dt.date.today().isoformat(), "concurso": CONCURSO, "documentos": DOCS,
         "versiones": {v: {"ejes": ejes} for v, ejes in VERS.items()}}

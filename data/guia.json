@@ -457,6 +457,39 @@
    "versiones": [
     "B"
    ]
+  },
+  {
+   "id": "ley23",
+   "nombre": "Ley 23 de 1982 – Derechos de autor",
+   "emisor": "Congreso de la República",
+   "anio": 1982,
+   "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3431",
+   "por_que": "Norma básica de derecho de autor (incluye la protección del software como obra); tema de aspectos legales de T&I.",
+   "versiones": [
+    "B"
+   ]
+  },
+  {
+   "id": "ley1273",
+   "nombre": "Ley 1273 de 2009 – Protección de la información y de los datos (delitos informáticos)",
+   "emisor": "Congreso de la República",
+   "anio": 2009,
+   "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34492",
+   "por_que": "Tipifica los delitos informáticos; base de seguridad informática y ciudadanía digital.",
+   "versiones": [
+    "B"
+   ]
+  },
+  {
+   "id": "ley1341",
+   "nombre": "Ley 1341 de 2009 – Marco del sector TIC",
+   "emisor": "Congreso de la República",
+   "anio": 2009,
+   "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36913",
+   "por_que": "Principios y organización de las TIC en Colombia (Ministerio TIC, acceso y uso).",
+   "versiones": [
+    "B"
+   ]
   }
  ],
  "versiones": {
@@ -496,6 +529,28 @@
        "date": "2027-01-27",
        "n": 74,
        "title": "El concurso docente: etapas, pruebas, puntajes y SIMO (3.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "el-concurso-docente-etapas-pruebas-puntajes-y-si",
+       "title": "El concurso docente: etapas, pruebas, puntajes y SIMO",
+       "eje": "concurso",
+       "file": "concurso",
+       "dias": [
+        {
+         "date": "2026-11-18",
+         "n": 4
+        },
+        {
+         "date": "2026-12-23",
+         "n": 39
+        },
+        {
+         "date": "2027-01-27",
+         "n": 74
+        }
+       ]
       }
      ]
     },
@@ -556,6 +611,72 @@
        "n": 64,
        "title": "Lectura crítica: estructura del texto e intención comunicativa (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias",
+       "title": "Lectura crítica: tesis, argumentos e inferencias",
+       "eje": "lc",
+       "file": "lc1",
+       "dias": [
+        {
+         "date": "2026-11-23",
+         "n": 9
+        },
+        {
+         "date": "2026-12-28",
+         "n": 44
+        }
+       ]
+      },
+      {
+       "id": "lectura-critica-textos-discontinuos-y-falacias",
+       "title": "Lectura crítica: textos discontinuos y falacias",
+       "eje": "lc",
+       "file": "lc2",
+       "dias": [
+        {
+         "date": "2026-11-29",
+         "n": 15
+        },
+        {
+         "date": "2027-01-03",
+         "n": 50
+        }
+       ]
+      },
+      {
+       "id": "lectura-critica-comprension-y-reglas-del-lenguaj",
+       "title": "Lectura crítica: comprensión y reglas del lenguaje escrito",
+       "eje": "lc",
+       "file": "lc3",
+       "dias": [
+        {
+         "date": "2026-12-06",
+         "n": 22
+        },
+        {
+         "date": "2027-01-10",
+         "n": 57
+        }
+       ]
+      },
+      {
+       "id": "lectura-critica-estructura-del-texto-e-intencion",
+       "title": "Lectura crítica: estructura del texto e intención comunicativa",
+       "eje": "lc",
+       "file": "lc4",
+       "dias": [
+        {
+         "date": "2026-12-13",
+         "n": 29
+        },
+        {
+         "date": "2027-01-17",
+         "n": 64
+        }
+       ]
+      }
      ]
     },
     {
@@ -615,6 +736,72 @@
        "n": 65,
        "title": "Razonamiento cuantitativo: lógica, patrones y resolución de problemas (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística",
+       "eje": "rc",
+       "file": "rc1",
+       "dias": [
+        {
+         "date": "2026-11-24",
+         "n": 10
+        },
+        {
+         "date": "2026-12-29",
+         "n": 45
+        }
+       ]
+      },
+      {
+       "id": "razonamiento-cuantitativo-probabilidad-e-interpr",
+       "title": "Razonamiento cuantitativo: probabilidad e interpretación de gráficas",
+       "eje": "rc",
+       "file": "rc2",
+       "dias": [
+        {
+         "date": "2026-11-30",
+         "n": 16
+        },
+        {
+         "date": "2027-01-04",
+         "n": 51
+        }
+       ]
+      },
+      {
+       "id": "razonamiento-cuantitativo-proporcionalidad-medid",
+       "title": "Razonamiento cuantitativo: proporcionalidad, medidas y conversiones",
+       "eje": "rc",
+       "file": "rc3",
+       "dias": [
+        {
+         "date": "2026-12-07",
+         "n": 23
+        },
+        {
+         "date": "2027-01-11",
+         "n": 58
+        }
+       ]
+      },
+      {
+       "id": "razonamiento-cuantitativo-logica-patrones-y-reso",
+       "title": "Razonamiento cuantitativo: lógica, patrones y resolución de problemas",
+       "eje": "rc",
+       "file": "rc5",
+       "dias": [
+        {
+         "date": "2026-12-14",
+         "n": 30
+        },
+        {
+         "date": "2027-01-18",
+         "n": 65
+        }
+       ]
+      }
      ]
     },
     {
@@ -665,6 +852,56 @@
        "n": 66,
        "title": "Competencias blandas: comunicación, negociación y mediación de conflictos (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "competencias-blandas-liderazgo-y-trabajo-en-equi",
+       "title": "Competencias blandas: liderazgo y trabajo en equipo",
+       "eje": "blandas",
+       "file": "blandas1",
+       "dias": [
+        {
+         "date": "2026-11-25",
+         "n": 11
+        },
+        {
+         "date": "2026-12-30",
+         "n": 46
+        }
+       ]
+      },
+      {
+       "id": "competencias-blandas-etica-y-ciudadania",
+       "title": "Competencias blandas: ética y ciudadanía",
+       "eje": "blandas",
+       "file": "blandas2",
+       "dias": [
+        {
+         "date": "2026-12-01",
+         "n": 17
+        },
+        {
+         "date": "2027-01-05",
+         "n": 52
+        }
+       ]
+      },
+      {
+       "id": "competencias-blandas-comunicacion-negociacion-y-",
+       "title": "Competencias blandas: comunicación, negociación y mediación de conflictos",
+       "eje": "blandas",
+       "file": "blandas3",
+       "dias": [
+        {
+         "date": "2026-12-15",
+         "n": 31
+        },
+        {
+         "date": "2027-01-19",
+         "n": 66
+        }
+       ]
+      }
      ]
     },
     {
@@ -693,6 +930,24 @@
        "date": "2027-01-08",
        "n": 55,
        "title": "Referentes de calidad: Estándares, Lineamientos y DBA de Ciencias Naturales (2.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "referentes-de-calidad-estandares-lineamientos-y-",
+       "title": "Referentes de calidad: Estándares, Lineamientos y DBA de Ciencias Naturales",
+       "eje": "cn-referentes",
+       "file": "cn-referentes",
+       "dias": [
+        {
+         "date": "2026-11-22",
+         "n": 8
+        },
+        {
+         "date": "2027-01-08",
+         "n": 55
+        }
+       ]
       }
      ]
     },
@@ -832,6 +1087,208 @@
        "n": 76,
        "title": "Sistemas nervioso y endocrino; homeostasis (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "celula-estructura-organelos-y-transporte-de-memb",
+       "title": "Célula: estructura, organelos y transporte de membrana",
+       "eje": "cn-vivo",
+       "file": "cn-celula",
+       "dias": [
+        {
+         "date": "2026-11-15",
+         "n": 1
+        },
+        {
+         "date": "2027-01-01",
+         "n": 48
+        }
+       ]
+      },
+      {
+       "id": "fotosintesis-y-respiracion-celular",
+       "title": "Fotosíntesis y respiración celular",
+       "eje": "cn-vivo",
+       "file": "cn-fotosintesis",
+       "dias": [
+        {
+         "date": "2026-11-16",
+         "n": 2
+        },
+        {
+         "date": "2027-01-03",
+         "n": 50
+        }
+       ]
+      },
+      {
+       "id": "genetica-mendeliana-y-cuadros-de-punnett",
+       "title": "Genética mendeliana y cuadros de Punnett",
+       "eje": "cn-vivo",
+       "file": "cn-genetica",
+       "dias": [
+        {
+         "date": "2026-11-17",
+         "n": 3
+        },
+        {
+         "date": "2027-01-04",
+         "n": 51
+        }
+       ]
+      },
+      {
+       "id": "ecosistemas-flujo-de-energia-cadenas-y-redes-tro",
+       "title": "Ecosistemas: flujo de energía, cadenas y redes tróficas",
+       "eje": "cn-vivo",
+       "file": "cn-ecosistemas",
+       "dias": [
+        {
+         "date": "2026-11-18",
+         "n": 4
+        },
+        {
+         "date": "2027-01-05",
+         "n": 52
+        }
+       ]
+      },
+      {
+       "id": "adn-arn-y-sintesis-de-proteinas",
+       "title": "ADN, ARN y síntesis de proteínas",
+       "eje": "cn-vivo",
+       "file": "cn-adn",
+       "dias": [
+        {
+         "date": "2026-11-23",
+         "n": 9
+        },
+        {
+         "date": "2027-01-10",
+         "n": 57
+        }
+       ]
+      },
+      {
+       "id": "division-celular-mitosis-y-meiosis",
+       "title": "División celular: mitosis y meiosis",
+       "eje": "cn-vivo",
+       "file": "cn-mitosis",
+       "dias": [
+        {
+         "date": "2026-11-25",
+         "n": 11
+        },
+        {
+         "date": "2027-01-12",
+         "n": 59
+        }
+       ]
+      },
+      {
+       "id": "evolucion-seleccion-natural-y-especiacion",
+       "title": "Evolución: selección natural y especiación",
+       "eje": "cn-vivo",
+       "file": "cn-evolucion",
+       "dias": [
+        {
+         "date": "2026-11-26",
+         "n": 12
+        },
+        {
+         "date": "2027-01-13",
+         "n": 60
+        }
+       ]
+      },
+      {
+       "id": "clasificacion-de-los-seres-vivos-y-biodiversidad",
+       "title": "Clasificación de los seres vivos y biodiversidad de Colombia",
+       "eje": "cn-vivo",
+       "file": "cn-clasificacion",
+       "dias": [
+        {
+         "date": "2026-11-30",
+         "n": 16
+        },
+        {
+         "date": "2027-01-17",
+         "n": 64
+        }
+       ]
+      },
+      {
+       "id": "sistemas-digestivo-y-circulatorio",
+       "title": "Sistemas digestivo y circulatorio",
+       "eje": "cn-vivo",
+       "file": "cn-digestivo",
+       "dias": [
+        {
+         "date": "2026-12-04",
+         "n": 20
+        },
+        {
+         "date": "2027-01-21",
+         "n": 68
+        }
+       ]
+      },
+      {
+       "id": "sistemas-respiratorio-y-excretor",
+       "title": "Sistemas respiratorio y excretor",
+       "eje": "cn-vivo",
+       "file": "cn-respiratorio",
+       "dias": [
+        {
+         "date": "2026-12-09",
+         "n": 25
+        },
+        {
+         "date": "2027-01-26",
+         "n": 73
+        }
+       ]
+      },
+      {
+       "id": "sistemas-nervioso-y-endocrino-homeostasis",
+       "title": "Sistemas nervioso y endocrino; homeostasis",
+       "eje": "cn-vivo",
+       "file": "cn-nervioso",
+       "dias": [
+        {
+         "date": "2026-12-13",
+         "n": 29
+        },
+        {
+         "date": "2027-01-29",
+         "n": 76
+        }
+       ]
+      },
+      {
+       "id": "reproduccion-humana-y-educacion-para-la-sexualid",
+       "title": "Reproducción humana y educación para la sexualidad",
+       "eje": "cn-vivo",
+       "file": "cn-reproduccion",
+       "dias": [
+        {
+         "date": "2026-12-17",
+         "n": 33
+        }
+       ]
+      },
+      {
+       "id": "microorganismos-salud-y-enfermedad",
+       "title": "Microorganismos, salud y enfermedad",
+       "eje": "cn-vivo",
+       "file": "cn-microorganismos",
+       "dias": [
+        {
+         "date": "2026-12-21",
+         "n": 37
+        }
+       ]
+      }
      ]
     },
     {
@@ -925,6 +1382,140 @@
        "n": 78,
        "title": "Soluciones: concentración y diluciones (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "materia-propiedades-mezclas-y-metodos-de-separac",
+       "title": "Materia: propiedades, mezclas y métodos de separación",
+       "eje": "cn-quimicos",
+       "file": "cn-materia",
+       "dias": [
+        {
+         "date": "2026-11-19",
+         "n": 5
+        },
+        {
+         "date": "2027-01-06",
+         "n": 53
+        }
+       ]
+      },
+      {
+       "id": "modelos-atomicos-y-tabla-periodica",
+       "title": "Modelos atómicos y tabla periódica",
+       "eje": "cn-quimicos",
+       "file": "cn-atomos",
+       "dias": [
+        {
+         "date": "2026-11-27",
+         "n": 13
+        },
+        {
+         "date": "2027-01-14",
+         "n": 61
+        }
+       ]
+      },
+      {
+       "id": "enlace-quimico-y-nomenclatura-inorganica",
+       "title": "Enlace químico y nomenclatura inorgánica",
+       "eje": "cn-quimicos",
+       "file": "cn-enlace",
+       "dias": [
+        {
+         "date": "2026-12-02",
+         "n": 18
+        },
+        {
+         "date": "2027-01-19",
+         "n": 66
+        }
+       ]
+      },
+      {
+       "id": "reacciones-quimicas-y-balanceo",
+       "title": "Reacciones químicas y balanceo",
+       "eje": "cn-quimicos",
+       "file": "cn-reacciones",
+       "dias": [
+        {
+         "date": "2026-12-06",
+         "n": 22
+        },
+        {
+         "date": "2027-01-22",
+         "n": 69
+        }
+       ]
+      },
+      {
+       "id": "estequiometria-y-reactivo-limite",
+       "title": "Estequiometría y reactivo límite",
+       "eje": "cn-quimicos",
+       "file": "cn-estequiometria",
+       "dias": [
+        {
+         "date": "2026-12-10",
+         "n": 26
+        },
+        {
+         "date": "2027-01-27",
+         "n": 74
+        }
+       ]
+      },
+      {
+       "id": "soluciones-concentracion-y-diluciones",
+       "title": "Soluciones: concentración y diluciones",
+       "eje": "cn-quimicos",
+       "file": "cn-soluciones",
+       "dias": [
+        {
+         "date": "2026-12-14",
+         "n": 30
+        },
+        {
+         "date": "2027-01-31",
+         "n": 78
+        }
+       ]
+      },
+      {
+       "id": "acidos-bases-y-ph",
+       "title": "Ácidos, bases y pH",
+       "eje": "cn-quimicos",
+       "file": "cn-acidos",
+       "dias": [
+        {
+         "date": "2026-12-18",
+         "n": 34
+        }
+       ]
+      },
+      {
+       "id": "gases-ideales",
+       "title": "Gases ideales",
+       "eje": "cn-quimicos",
+       "file": "cn-gases",
+       "dias": [
+        {
+         "date": "2026-12-22",
+         "n": 38
+        }
+       ]
+      },
+      {
+       "id": "quimica-organica-y-biomoleculas",
+       "title": "Química orgánica y biomoléculas",
+       "eje": "cn-quimicos",
+       "file": "cn-organica",
+       "dias": [
+        {
+         "date": "2026-12-25",
+         "n": 41
+        }
+       ]
+      }
      ]
     },
     {
@@ -1013,6 +1604,144 @@
        "n": 75,
        "title": "Fluidos: presión, Pascal y Arquímedes (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "cinematica-mru-mrua-y-caida-libre",
+       "title": "Cinemática: MRU, MRUA y caída libre",
+       "eje": "cn-fisicos",
+       "file": "cn-cinematica",
+       "dias": [
+        {
+         "date": "2026-11-29",
+         "n": 15
+        },
+        {
+         "date": "2027-01-15",
+         "n": 62
+        }
+       ]
+      },
+      {
+       "id": "leyes-de-newton-y-friccion",
+       "title": "Leyes de Newton y fricción",
+       "eje": "cn-fisicos",
+       "file": "cn-newton",
+       "dias": [
+        {
+         "date": "2026-12-03",
+         "n": 19
+        },
+        {
+         "date": "2027-01-20",
+         "n": 67
+        }
+       ]
+      },
+      {
+       "id": "trabajo-energia-potencia-y-conservacion",
+       "title": "Trabajo, energía, potencia y conservación",
+       "eje": "cn-fisicos",
+       "file": "cn-energia",
+       "dias": [
+        {
+         "date": "2026-12-07",
+         "n": 23
+        },
+        {
+         "date": "2027-01-24",
+         "n": 71
+        }
+       ]
+      },
+      {
+       "id": "fluidos-presion-pascal-y-arquimedes",
+       "title": "Fluidos: presión, Pascal y Arquímedes",
+       "eje": "cn-fisicos",
+       "file": "cn-fluidos",
+       "dias": [
+        {
+         "date": "2026-12-11",
+         "n": 27
+        },
+        {
+         "date": "2027-01-28",
+         "n": 75
+        }
+       ]
+      },
+      {
+       "id": "termodinamica-calor-temperatura-y-cambios-de-fas",
+       "title": "Termodinámica: calor, temperatura y cambios de fase",
+       "eje": "cn-fisicos",
+       "file": "cn-termo",
+       "dias": [
+        {
+         "date": "2026-12-15",
+         "n": 31
+        }
+       ]
+      },
+      {
+       "id": "ondas-y-sonido",
+       "title": "Ondas y sonido",
+       "eje": "cn-fisicos",
+       "file": "cn-ondas",
+       "dias": [
+        {
+         "date": "2026-12-20",
+         "n": 36
+        }
+       ]
+      },
+      {
+       "id": "optica-reflexion-refraccion-y-lentes",
+       "title": "Óptica: reflexión, refracción y lentes",
+       "eje": "cn-fisicos",
+       "file": "cn-optica",
+       "dias": [
+        {
+         "date": "2026-12-23",
+         "n": 39
+        }
+       ]
+      },
+      {
+       "id": "electricidad-y-circuitos",
+       "title": "Electricidad y circuitos",
+       "eje": "cn-fisicos",
+       "file": "cn-electricidad",
+       "dias": [
+        {
+         "date": "2026-12-27",
+         "n": 43
+        }
+       ]
+      },
+      {
+       "id": "ciencias-de-la-tierra-y-el-espacio",
+       "title": "Ciencias de la Tierra y el espacio",
+       "eje": "cn-fisicos",
+       "file": "cn-tierra",
+       "dias": [
+        {
+         "date": "2026-12-28",
+         "n": 44
+        }
+       ]
+      },
+      {
+       "id": "magnetismo-y-electromagnetismo",
+       "title": "Magnetismo y electromagnetismo",
+       "eje": "cn-fisicos",
+       "file": "cn-magnetismo",
+       "dias": [
+        {
+         "date": "2026-12-30",
+         "n": 46
+        }
+       ]
+      }
      ]
     },
     {
@@ -1079,6 +1808,92 @@
        "n": 72,
        "title": "Cambio climático y efecto invernadero (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "educacion-ambiental-prae-pnea-ley-1549-de-2012-y",
+       "title": "Educación ambiental: PRAE, PNEA, Ley 1549 de 2012 y CIDEA",
+       "eje": "cn-ambiental",
+       "file": "cn-ambiental",
+       "dias": [
+        {
+         "date": "2026-11-20",
+         "n": 6
+        },
+        {
+         "date": "2027-01-07",
+         "n": 54
+        }
+       ]
+      },
+      {
+       "id": "ciclos-biogeoquimicos-agua-carbono-y-nitrogeno",
+       "title": "Ciclos biogeoquímicos: agua, carbono y nitrógeno",
+       "eje": "cn-ambiental",
+       "file": "cn-ciclos",
+       "dias": [
+        {
+         "date": "2026-12-01",
+         "n": 17
+        },
+        {
+         "date": "2027-01-18",
+         "n": 65
+        }
+       ]
+      },
+      {
+       "id": "cambio-climatico-y-efecto-invernadero",
+       "title": "Cambio climático y efecto invernadero",
+       "eje": "cn-ambiental",
+       "file": "cn-clima",
+       "dias": [
+        {
+         "date": "2026-12-08",
+         "n": 24
+        },
+        {
+         "date": "2027-01-25",
+         "n": 72
+        }
+       ]
+      },
+      {
+       "id": "recurso-hidrico-suelo-y-conservacion",
+       "title": "Recurso hídrico, suelo y conservación",
+       "eje": "cn-ambiental",
+       "file": "cn-hidrico",
+       "dias": [
+        {
+         "date": "2026-12-16",
+         "n": 32
+        }
+       ]
+      },
+      {
+       "id": "residuos-solidos-economia-circular-y-energias-re",
+       "title": "Residuos sólidos, economía circular y energías renovables",
+       "eje": "cn-ambiental",
+       "file": "cn-residuos",
+       "dias": [
+        {
+         "date": "2026-12-24",
+         "n": 40
+        }
+       ]
+      },
+      {
+       "id": "gestion-del-riesgo-en-la-escuela",
+       "title": "Gestión del riesgo en la escuela",
+       "eje": "cn-ambiental",
+       "file": "cn-riesgo",
+       "dias": [
+        {
+         "date": "2026-12-29",
+         "n": 45
+        }
+       ]
+      }
      ]
     },
     {
@@ -1112,6 +1927,36 @@
        "date": "2027-01-11",
        "n": 58,
        "title": "Didáctica de las ciencias: indagación, trabajo práctico y bioseguridad (2.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "didactica-de-las-ciencias-indagacion-trabajo-pra",
+       "title": "Didáctica de las ciencias: indagación, trabajo práctico y bioseguridad",
+       "eje": "cn-didactica",
+       "file": "cn-didactica",
+       "dias": [
+        {
+         "date": "2026-11-24",
+         "n": 10
+        },
+        {
+         "date": "2027-01-11",
+         "n": 58
+        }
+       ]
+      },
+      {
+       "id": "competencias-cientificas-y-evaluacion-en-ciencia",
+       "title": "Competencias científicas y evaluación en Ciencias Naturales",
+       "eje": "cn-didactica",
+       "file": "cn-competencias",
+       "dias": [
+        {
+         "date": "2026-12-31",
+         "n": 47
+        }
+       ]
       }
      ]
     },
@@ -1222,6 +2067,140 @@
        "n": 75,
        "title": "Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion",
+       "title": "Decreto 1290 de 2009: evaluación y promoción",
+       "eje": "pedagogia",
+       "file": "d1290",
+       "dias": [
+        {
+         "date": "2026-11-19",
+         "n": 5
+        },
+        {
+         "date": "2026-12-24",
+         "n": 40
+        },
+        {
+         "date": "2027-01-28",
+         "n": 75
+        }
+       ]
+      },
+      {
+       "id": "competencias-funcionales-del-docente-resolucion-",
+       "title": "Competencias funcionales del docente: Resolución 003842 de 2022",
+       "eje": "pedagogia",
+       "file": "res3842",
+       "dias": [
+        {
+         "date": "2026-11-26",
+         "n": 12
+        },
+        {
+         "date": "2026-12-31",
+         "n": 47
+        }
+       ]
+      },
+      {
+       "id": "planeacion-de-clase-y-secuencias-didacticas",
+       "title": "Planeación de clase y secuencias didácticas",
+       "eje": "pedagogia",
+       "file": "planeacion",
+       "dias": [
+        {
+         "date": "2026-12-03",
+         "n": 19
+        },
+        {
+         "date": "2027-01-07",
+         "n": 54
+        }
+       ]
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y-",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA",
+       "eje": "pedagogia",
+       "file": "inclusiva",
+       "dias": [
+        {
+         "date": "2026-12-04",
+         "n": 20
+        },
+        {
+         "date": "2027-01-08",
+         "n": 55
+        }
+       ]
+      },
+      {
+       "id": "teorias-del-aprendizaje-y-ensenanza",
+       "title": "Teorías del aprendizaje y enseñanza",
+       "eje": "pedagogia",
+       "file": "teorias",
+       "dias": [
+        {
+         "date": "2026-12-10",
+         "n": 26
+        },
+        {
+         "date": "2027-01-14",
+         "n": 61
+        }
+       ]
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio",
+       "title": "Evaluación formativa, rúbricas y retroalimentación",
+       "eje": "pedagogia",
+       "file": "eval-formativa",
+       "dias": [
+        {
+         "date": "2026-12-11",
+         "n": 27
+        },
+        {
+         "date": "2027-01-15",
+         "n": 62
+        }
+       ]
+      },
+      {
+       "id": "proyectos-pedagogicos-transversales",
+       "title": "Proyectos pedagógicos transversales",
+       "eje": "pedagogia",
+       "file": "transversales",
+       "dias": [
+        {
+         "date": "2026-12-16",
+         "n": 32
+        },
+        {
+         "date": "2027-01-20",
+         "n": 67
+        }
+       ]
+      },
+      {
+       "id": "uso-pedagogico-de-las-tic-y-competencias-tic-doc",
+       "title": "Uso pedagógico de las TIC y competencias TIC docentes",
+       "eje": "pedagogia",
+       "file": "tic",
+       "dias": [
+        {
+         "date": "2026-12-17",
+         "n": 33
+        },
+        {
+         "date": "2027-01-21",
+         "n": 68
+        }
+       ]
+      }
      ]
     },
     {
@@ -1248,6 +2227,24 @@
        "date": "2027-01-12",
        "n": 59,
        "title": "Prueba psicotécnica y entrevista: competencias comportamentales (2.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "prueba-psicotecnica-y-entrevista-competencias-co",
+       "title": "Prueba psicotécnica y entrevista: competencias comportamentales",
+       "eje": "psico",
+       "file": "psico",
+       "dias": [
+        {
+         "date": "2026-12-08",
+         "n": 24
+        },
+        {
+         "date": "2027-01-12",
+         "n": 59
+        }
+       ]
       }
      ]
     },
@@ -1393,6 +2390,172 @@
        "n": 78,
        "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "leyes-desde-cero-constitucion-estado-social-de-d",
+       "title": "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa",
+       "eje": "norma",
+       "file": "leyes-cero",
+       "dias": [
+        {
+         "date": "2026-11-15",
+         "n": 1
+        },
+        {
+         "date": "2026-12-20",
+         "n": 36
+        },
+        {
+         "date": "2027-01-24",
+         "n": 71
+        }
+       ]
+      },
+      {
+       "id": "derecho-a-la-educacion-y-estructura-del-sector-e",
+       "title": "Derecho a la educación y estructura del sector educativo",
+       "eje": "norma",
+       "file": "constitucion",
+       "dias": [
+        {
+         "date": "2026-11-16",
+         "n": 2
+        },
+        {
+         "date": "2026-12-21",
+         "n": 37
+        },
+        {
+         "date": "2027-01-25",
+         "n": 72
+        }
+       ]
+      },
+      {
+       "id": "ley-115-de-1994-fines-niveles-areas-obligatorias",
+       "title": "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI",
+       "eje": "norma",
+       "file": "ley115",
+       "dias": [
+        {
+         "date": "2026-11-17",
+         "n": 3
+        },
+        {
+         "date": "2026-12-22",
+         "n": 38
+        },
+        {
+         "date": "2027-01-26",
+         "n": 73
+        }
+       ]
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002",
+       "eje": "norma",
+       "file": "dl1278",
+       "dias": [
+        {
+         "date": "2026-11-20",
+         "n": 6
+        },
+        {
+         "date": "2026-12-25",
+         "n": 41
+        },
+        {
+         "date": "2027-01-29",
+         "n": 76
+        }
+       ]
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013",
+       "eje": "norma",
+       "file": "convivencia",
+       "dias": [
+        {
+         "date": "2026-11-22",
+         "n": 8
+        },
+        {
+         "date": "2026-12-27",
+         "n": 43
+        },
+        {
+         "date": "2027-01-31",
+         "n": 78
+        }
+       ]
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec",
+       "title": "Ley 715 de 2001: competencias y funciones del rector",
+       "eje": "norma",
+       "file": "ley715",
+       "dias": [
+        {
+         "date": "2026-11-27",
+         "n": 13
+        },
+        {
+         "date": "2027-01-01",
+         "n": 48
+        }
+       ]
+      },
+      {
+       "id": "gobierno-escolar-y-manual-de-convivencia-decreto",
+       "title": "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994",
+       "eje": "norma",
+       "file": "gobierno-escolar",
+       "dias": [
+        {
+         "date": "2026-12-02",
+         "n": 18
+        },
+        {
+         "date": "2027-01-06",
+         "n": 53
+        }
+       ]
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006",
+       "eje": "norma",
+       "file": "ley1098",
+       "dias": [
+        {
+         "date": "2026-12-09",
+         "n": 25
+        },
+        {
+         "date": "2027-01-13",
+         "n": 60
+        }
+       ]
+      },
+      {
+       "id": "evaluacion-del-docente-periodo-de-prueba-desempe",
+       "title": "Evaluación del docente: periodo de prueba, desempeño y ascenso (Decreto Ley 1278)",
+       "eje": "norma",
+       "file": "eval-docente",
+       "dias": [
+        {
+         "date": "2026-12-18",
+         "n": 34
+        },
+        {
+         "date": "2027-01-22",
+         "n": 69
+        }
+       ]
+      }
      ]
     }
    ]
@@ -1433,6 +2596,28 @@
        "date": "2027-01-27",
        "n": 74,
        "title": "El concurso docente: etapas, pruebas, puntajes y SIMO (3.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "el-concurso-docente-etapas-pruebas-puntajes-y-si",
+       "title": "El concurso docente: etapas, pruebas, puntajes y SIMO",
+       "eje": "concurso",
+       "file": "concurso",
+       "dias": [
+        {
+         "date": "2026-11-18",
+         "n": 4
+        },
+        {
+         "date": "2026-12-23",
+         "n": 39
+        },
+        {
+         "date": "2027-01-27",
+         "n": 74
+        }
+       ]
       }
      ]
     },
@@ -1493,6 +2678,72 @@
        "n": 64,
        "title": "Lectura crítica: estructura del texto e intención comunicativa (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "lectura-critica-tesis-argumentos-e-inferencias",
+       "title": "Lectura crítica: tesis, argumentos e inferencias",
+       "eje": "lc",
+       "file": "lc1",
+       "dias": [
+        {
+         "date": "2026-11-23",
+         "n": 9
+        },
+        {
+         "date": "2026-12-28",
+         "n": 44
+        }
+       ]
+      },
+      {
+       "id": "lectura-critica-textos-discontinuos-y-falacias",
+       "title": "Lectura crítica: textos discontinuos y falacias",
+       "eje": "lc",
+       "file": "lc2",
+       "dias": [
+        {
+         "date": "2026-11-29",
+         "n": 15
+        },
+        {
+         "date": "2027-01-03",
+         "n": 50
+        }
+       ]
+      },
+      {
+       "id": "lectura-critica-comprension-y-reglas-del-lenguaj",
+       "title": "Lectura crítica: comprensión y reglas del lenguaje escrito",
+       "eje": "lc",
+       "file": "lc3",
+       "dias": [
+        {
+         "date": "2026-12-06",
+         "n": 22
+        },
+        {
+         "date": "2027-01-10",
+         "n": 57
+        }
+       ]
+      },
+      {
+       "id": "lectura-critica-estructura-del-texto-e-intencion",
+       "title": "Lectura crítica: estructura del texto e intención comunicativa",
+       "eje": "lc",
+       "file": "lc4",
+       "dias": [
+        {
+         "date": "2026-12-13",
+         "n": 29
+        },
+        {
+         "date": "2027-01-17",
+         "n": 64
+        }
+       ]
+      }
      ]
     },
     {
@@ -1552,6 +2803,72 @@
        "n": 65,
        "title": "Razonamiento cuantitativo: lógica, patrones y resolución de problemas (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "razonamiento-cuantitativo-porcentajes-proporcion",
+       "title": "Razonamiento cuantitativo: porcentajes, proporciones y estadística",
+       "eje": "rc",
+       "file": "rc1",
+       "dias": [
+        {
+         "date": "2026-11-24",
+         "n": 10
+        },
+        {
+         "date": "2026-12-29",
+         "n": 45
+        }
+       ]
+      },
+      {
+       "id": "razonamiento-cuantitativo-probabilidad-e-interpr",
+       "title": "Razonamiento cuantitativo: probabilidad e interpretación de gráficas",
+       "eje": "rc",
+       "file": "rc2",
+       "dias": [
+        {
+         "date": "2026-11-30",
+         "n": 16
+        },
+        {
+         "date": "2027-01-04",
+         "n": 51
+        }
+       ]
+      },
+      {
+       "id": "razonamiento-cuantitativo-proporcionalidad-medid",
+       "title": "Razonamiento cuantitativo: proporcionalidad, medidas y conversiones",
+       "eje": "rc",
+       "file": "rc3",
+       "dias": [
+        {
+         "date": "2026-12-07",
+         "n": 23
+        },
+        {
+         "date": "2027-01-11",
+         "n": 58
+        }
+       ]
+      },
+      {
+       "id": "razonamiento-cuantitativo-logica-patrones-y-reso",
+       "title": "Razonamiento cuantitativo: lógica, patrones y resolución de problemas",
+       "eje": "rc",
+       "file": "rc5",
+       "dias": [
+        {
+         "date": "2026-12-14",
+         "n": 30
+        },
+        {
+         "date": "2027-01-18",
+         "n": 65
+        }
+       ]
+      }
      ]
     },
     {
@@ -1602,6 +2919,56 @@
        "n": 66,
        "title": "Competencias blandas: comunicación, negociación y mediación de conflictos (2.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "competencias-blandas-liderazgo-y-trabajo-en-equi",
+       "title": "Competencias blandas: liderazgo y trabajo en equipo",
+       "eje": "blandas",
+       "file": "blandas1",
+       "dias": [
+        {
+         "date": "2026-11-25",
+         "n": 11
+        },
+        {
+         "date": "2026-12-30",
+         "n": 46
+        }
+       ]
+      },
+      {
+       "id": "competencias-blandas-etica-y-ciudadania",
+       "title": "Competencias blandas: ética y ciudadanía",
+       "eje": "blandas",
+       "file": "blandas2",
+       "dias": [
+        {
+         "date": "2026-12-01",
+         "n": 17
+        },
+        {
+         "date": "2027-01-05",
+         "n": 52
+        }
+       ]
+      },
+      {
+       "id": "competencias-blandas-comunicacion-negociacion-y-",
+       "title": "Competencias blandas: comunicación, negociación y mediación de conflictos",
+       "eje": "blandas",
+       "file": "blandas3",
+       "dias": [
+        {
+         "date": "2026-12-15",
+         "n": 31
+        },
+        {
+         "date": "2027-01-19",
+         "n": 66
+        }
+       ]
+      }
      ]
     },
     {
@@ -1635,6 +3002,28 @@
        "date": "2027-01-17",
        "n": 64,
        "title": "Componentes del área: Guía 30 (2008) y Orientaciones Curriculares de T&I (2022) (3.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "componentes-del-area-guia-30-2008-y-orientacione",
+       "title": "Componentes del área: Guía 30 (2008) y Orientaciones Curriculares de T&I (2022)",
+       "eje": "ti-referentes",
+       "file": "ti-componentes",
+       "dias": [
+        {
+         "date": "2026-11-22",
+         "n": 8
+        },
+        {
+         "date": "2026-12-20",
+         "n": 36
+        },
+        {
+         "date": "2027-01-17",
+         "n": 64
+        }
+       ]
       }
      ]
     },
@@ -1728,6 +3117,108 @@
        "n": 76,
        "title": "Energía: fuentes, transformación y uso eficiente (3.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "naturaleza-y-evolucion-de-la-tecnologia",
+       "title": "Naturaleza y evolución de la tecnología",
+       "eje": "ti-naturaleza",
+       "file": "ti-naturaleza",
+       "dias": [
+        {
+         "date": "2026-11-15",
+         "n": 1
+        },
+        {
+         "date": "2026-12-13",
+         "n": 29
+        },
+        {
+         "date": "2027-01-10",
+         "n": 57
+        }
+       ]
+      },
+      {
+       "id": "electricidad-y-electronica-basica",
+       "title": "Electricidad y electrónica básica",
+       "eje": "ti-naturaleza",
+       "file": "ti-electronica",
+       "dias": [
+        {
+         "date": "2026-11-18",
+         "n": 4
+        },
+        {
+         "date": "2026-12-16",
+         "n": 32
+        },
+        {
+         "date": "2027-01-13",
+         "n": 60
+        }
+       ]
+      },
+      {
+       "id": "representacion-de-la-informacion-datos-sistema-b",
+       "title": "Representación de la información: datos, sistema binario y codificación",
+       "eje": "ti-naturaleza",
+       "file": "ti-representacion-info",
+       "dias": [
+        {
+         "date": "2026-11-25",
+         "n": 11
+        },
+        {
+         "date": "2026-12-23",
+         "n": 39
+        },
+        {
+         "date": "2027-01-20",
+         "n": 67
+        }
+       ]
+      },
+      {
+       "id": "mecanismos-transmision-de-fuerza-potencia-y-movi",
+       "title": "Mecanismos: transmisión de fuerza, potencia y movimiento",
+       "eje": "ti-naturaleza",
+       "file": "ti-mecanismos",
+       "dias": [
+        {
+         "date": "2026-11-27",
+         "n": 13
+        },
+        {
+         "date": "2026-12-25",
+         "n": 41
+        },
+        {
+         "date": "2027-01-22",
+         "n": 69
+        }
+       ]
+      },
+      {
+       "id": "energia-fuentes-transformacion-y-uso-eficiente",
+       "title": "Energía: fuentes, transformación y uso eficiente",
+       "eje": "ti-naturaleza",
+       "file": "ti-energia",
+       "dias": [
+        {
+         "date": "2026-12-04",
+         "n": 20
+        },
+        {
+         "date": "2027-01-01",
+         "n": 48
+        },
+        {
+         "date": "2027-01-29",
+         "n": 76
+        }
+       ]
+      }
      ]
     },
     {
@@ -1814,6 +3305,104 @@
        "date": "2027-01-25",
        "n": 72,
        "title": "Materiales, herramientas, procesos de producción y normas de seguridad (3.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "hardware-y-arquitectura-del-computador",
+       "title": "Hardware y arquitectura del computador",
+       "eje": "ti-uso",
+       "file": "ti-hardware",
+       "dias": [
+        {
+         "date": "2026-11-17",
+         "n": 3
+        },
+        {
+         "date": "2026-12-15",
+         "n": 31
+        },
+        {
+         "date": "2027-01-12",
+         "n": 59
+        }
+       ]
+      },
+      {
+       "id": "redes-e-internet",
+       "title": "Redes e Internet",
+       "eje": "ti-uso",
+       "file": "ti-redes-internet",
+       "dias": [
+        {
+         "date": "2026-11-20",
+         "n": 6
+        },
+        {
+         "date": "2026-12-18",
+         "n": 34
+        },
+        {
+         "date": "2027-01-15",
+         "n": 62
+        }
+       ]
+      },
+      {
+       "id": "sistemas-operativos-software-y-herramientas-info",
+       "title": "Sistemas operativos, software y herramientas informáticas de uso común",
+       "eje": "ti-uso",
+       "file": "ti-so",
+       "dias": [
+        {
+         "date": "2026-11-23",
+         "n": 9
+        },
+        {
+         "date": "2026-12-21",
+         "n": 37
+        },
+        {
+         "date": "2027-01-18",
+         "n": 65
+        }
+       ]
+      },
+      {
+       "id": "materiales-herramientas-procesos-de-produccion-y",
+       "title": "Materiales, herramientas, procesos de producción y normas de seguridad",
+       "eje": "ti-uso",
+       "file": "ti-materiales",
+       "dias": [
+        {
+         "date": "2026-11-30",
+         "n": 16
+        },
+        {
+         "date": "2026-12-28",
+         "n": 44
+        },
+        {
+         "date": "2027-01-25",
+         "n": 72
+        }
+       ]
+      },
+      {
+       "id": "redes-comunicaciones-y-servicios-de-informacion",
+       "title": "Redes, comunicaciones y servicios de información",
+       "eje": "ti-uso",
+       "file": "ti-servicios",
+       "dias": [
+        {
+         "date": "2026-12-11",
+         "n": 27
+        },
+        {
+         "date": "2027-01-08",
+         "n": 55
+        }
+       ]
       }
      ]
     },
@@ -1932,6 +3521,144 @@
        "n": 75,
        "title": "Representación gráfica: bocetos, dibujos, planos y esquemas (3.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "algoritmos-y-pensamiento-computacional",
+       "title": "Algoritmos y pensamiento computacional",
+       "eje": "ti-problemas",
+       "file": "ti-algoritmos",
+       "dias": [
+        {
+         "date": "2026-11-16",
+         "n": 2
+        },
+        {
+         "date": "2026-12-14",
+         "n": 30
+        },
+        {
+         "date": "2027-01-11",
+         "n": 58
+        }
+       ]
+      },
+      {
+       "id": "programacion-variables-condicionales-y-ciclos",
+       "title": "Programación: variables, condicionales y ciclos",
+       "eje": "ti-problemas",
+       "file": "ti-programacion",
+       "dias": [
+        {
+         "date": "2026-11-19",
+         "n": 5
+        },
+        {
+         "date": "2026-12-17",
+         "n": 33
+        },
+        {
+         "date": "2027-01-14",
+         "n": 61
+        }
+       ]
+      },
+      {
+       "id": "proceso-de-diseno-tecnologico-y-solucion-de-prob",
+       "title": "Proceso de diseño tecnológico y solución de problemas",
+       "eje": "ti-problemas",
+       "file": "ti-diseno",
+       "dias": [
+        {
+         "date": "2026-11-24",
+         "n": 10
+        },
+        {
+         "date": "2026-12-22",
+         "n": 38
+        },
+        {
+         "date": "2027-01-19",
+         "n": 66
+        }
+       ]
+      },
+      {
+       "id": "programacion-como-estrategia-de-pensamiento-comp",
+       "title": "Programación como estrategia de pensamiento computacional: funciones y listas",
+       "eje": "ti-problemas",
+       "file": "ti-programacion-estrategia",
+       "dias": [
+        {
+         "date": "2026-11-26",
+         "n": 12
+        },
+        {
+         "date": "2026-12-24",
+         "n": 40
+        },
+        {
+         "date": "2027-01-21",
+         "n": 68
+        }
+       ]
+      },
+      {
+       "id": "sistemas-de-control-y-robotica-educativa",
+       "title": "Sistemas de control y robótica educativa",
+       "eje": "ti-problemas",
+       "file": "ti-control",
+       "dias": [
+        {
+         "date": "2026-12-01",
+         "n": 17
+        },
+        {
+         "date": "2026-12-29",
+         "n": 45
+        },
+        {
+         "date": "2027-01-26",
+         "n": 73
+        }
+       ]
+      },
+      {
+       "id": "representacion-grafica-bocetos-dibujos-planos-y-",
+       "title": "Representación gráfica: bocetos, dibujos, planos y esquemas",
+       "eje": "ti-problemas",
+       "file": "ti-grafica",
+       "dias": [
+        {
+         "date": "2026-12-03",
+         "n": 19
+        },
+        {
+         "date": "2026-12-31",
+         "n": 47
+        },
+        {
+         "date": "2027-01-28",
+         "n": 75
+        }
+       ]
+      },
+      {
+       "id": "aplicaciones-y-paginas-web-con-lenguajes-de-prog",
+       "title": "Aplicaciones y páginas web con lenguajes de programación",
+       "eje": "ti-problemas",
+       "file": "ti-web",
+       "dias": [
+        {
+         "date": "2026-12-08",
+         "n": 24
+        },
+        {
+         "date": "2027-01-05",
+         "n": 52
+        }
+       ]
+      }
      ]
     },
     {
@@ -2005,6 +3732,84 @@
        "n": 78,
        "title": "Tecnologías emergentes: inteligencia artificial, big data, nube e IoT (3.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "tecnologia-informatica-y-sociedad-impactos-etica",
+       "title": "Tecnología, informática y sociedad: impactos, ética y sostenibilidad",
+       "eje": "ti-sociedad",
+       "file": "ti-sociedad",
+       "dias": [
+        {
+         "date": "2026-11-29",
+         "n": 15
+        },
+        {
+         "date": "2026-12-27",
+         "n": 43
+        },
+        {
+         "date": "2027-01-24",
+         "n": 71
+        }
+       ]
+      },
+      {
+       "id": "ciudadania-digital-seguridad-informatica-y-derec",
+       "title": "Ciudadanía digital, seguridad informática y derechos digitales",
+       "eje": "ti-sociedad",
+       "file": "ti-ciudadania",
+       "dias": [
+        {
+         "date": "2026-12-02",
+         "n": 18
+        },
+        {
+         "date": "2026-12-30",
+         "n": 46
+        },
+        {
+         "date": "2027-01-27",
+         "n": 74
+        }
+       ]
+      },
+      {
+       "id": "tecnologias-emergentes-inteligencia-artificial-b",
+       "title": "Tecnologías emergentes: inteligencia artificial, big data, nube e IoT",
+       "eje": "ti-sociedad",
+       "file": "ti-emergentes",
+       "dias": [
+        {
+         "date": "2026-12-06",
+         "n": 22
+        },
+        {
+         "date": "2027-01-03",
+         "n": 50
+        },
+        {
+         "date": "2027-01-31",
+         "n": 78
+        }
+       ]
+      },
+      {
+       "id": "aspectos-legales-y-eticos-propiedad-intelectual-",
+       "title": "Aspectos legales y éticos: propiedad intelectual, licencias y datos personales",
+       "eje": "ti-sociedad",
+       "file": "ti-legales",
+       "dias": [
+        {
+         "date": "2026-12-10",
+         "n": 26
+        },
+        {
+         "date": "2027-01-07",
+         "n": 54
+        }
+       ]
+      }
      ]
     },
     {
@@ -2043,6 +3848,40 @@
        "date": "2027-01-06",
        "n": 53,
        "title": "Evaluación en Tecnología e Informática: competencias y evidencias de aprendizaje (2.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "didactica-de-la-t-i-movimiento-maker-stem-y-apre",
+       "title": "Didáctica de la T&I: Movimiento Maker, STEM+ y aprendizaje por proyectos",
+       "eje": "ti-didactica",
+       "file": "ti-didactica",
+       "dias": [
+        {
+         "date": "2026-12-07",
+         "n": 23
+        },
+        {
+         "date": "2027-01-04",
+         "n": 51
+        }
+       ]
+      },
+      {
+       "id": "evaluacion-en-tecnologia-e-informatica-competenc",
+       "title": "Evaluación en Tecnología e Informática: competencias y evidencias de aprendizaje",
+       "eje": "ti-didactica",
+       "file": "ti-evaluacion",
+       "dias": [
+        {
+         "date": "2026-12-09",
+         "n": 25
+        },
+        {
+         "date": "2027-01-06",
+         "n": 53
+        }
+       ]
       }
      ]
     },
@@ -2153,6 +3992,140 @@
        "n": 75,
        "title": "Decreto 1290 de 2009: evaluación y promoción (3.ª vuelta)"
       }
+     ],
+     "temas": [
+      {
+       "id": "decreto-1290-de-2009-evaluacion-y-promocion",
+       "title": "Decreto 1290 de 2009: evaluación y promoción",
+       "eje": "pedagogia",
+       "file": "d1290",
+       "dias": [
+        {
+         "date": "2026-11-19",
+         "n": 5
+        },
+        {
+         "date": "2026-12-24",
+         "n": 40
+        },
+        {
+         "date": "2027-01-28",
+         "n": 75
+        }
+       ]
+      },
+      {
+       "id": "competencias-funcionales-del-docente-resolucion-",
+       "title": "Competencias funcionales del docente: Resolución 003842 de 2022",
+       "eje": "pedagogia",
+       "file": "res3842",
+       "dias": [
+        {
+         "date": "2026-11-26",
+         "n": 12
+        },
+        {
+         "date": "2026-12-31",
+         "n": 47
+        }
+       ]
+      },
+      {
+       "id": "planeacion-de-clase-y-secuencias-didacticas",
+       "title": "Planeación de clase y secuencias didácticas",
+       "eje": "pedagogia",
+       "file": "planeacion",
+       "dias": [
+        {
+         "date": "2026-12-03",
+         "n": 19
+        },
+        {
+         "date": "2027-01-07",
+         "n": 54
+        }
+       ]
+      },
+      {
+       "id": "educacion-inclusiva-decreto-1421-de-2017-piar-y-",
+       "title": "Educación inclusiva: Decreto 1421 de 2017, PIAR y DUA",
+       "eje": "pedagogia",
+       "file": "inclusiva",
+       "dias": [
+        {
+         "date": "2026-12-04",
+         "n": 20
+        },
+        {
+         "date": "2027-01-08",
+         "n": 55
+        }
+       ]
+      },
+      {
+       "id": "teorias-del-aprendizaje-y-ensenanza",
+       "title": "Teorías del aprendizaje y enseñanza",
+       "eje": "pedagogia",
+       "file": "teorias",
+       "dias": [
+        {
+         "date": "2026-12-10",
+         "n": 26
+        },
+        {
+         "date": "2027-01-14",
+         "n": 61
+        }
+       ]
+      },
+      {
+       "id": "evaluacion-formativa-rubricas-y-retroalimentacio",
+       "title": "Evaluación formativa, rúbricas y retroalimentación",
+       "eje": "pedagogia",
+       "file": "eval-formativa",
+       "dias": [
+        {
+         "date": "2026-12-11",
+         "n": 27
+        },
+        {
+         "date": "2027-01-15",
+         "n": 62
+        }
+       ]
+      },
+      {
+       "id": "proyectos-pedagogicos-transversales",
+       "title": "Proyectos pedagógicos transversales",
+       "eje": "pedagogia",
+       "file": "transversales",
+       "dias": [
+        {
+         "date": "2026-12-16",
+         "n": 32
+        },
+        {
+         "date": "2027-01-20",
+         "n": 67
+        }
+       ]
+      },
+      {
+       "id": "uso-pedagogico-de-las-tic-y-competencias-tic-doc",
+       "title": "Uso pedagógico de las TIC y competencias TIC docentes",
+       "eje": "pedagogia",
+       "file": "tic",
+       "dias": [
+        {
+         "date": "2026-12-17",
+         "n": 33
+        },
+        {
+         "date": "2027-01-21",
+         "n": 68
+        }
+       ]
+      }
      ]
     },
     {
@@ -2179,6 +4152,24 @@
        "date": "2027-01-12",
        "n": 59,
        "title": "Prueba psicotécnica y entrevista: competencias comportamentales (2.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "prueba-psicotecnica-y-entrevista-competencias-co",
+       "title": "Prueba psicotécnica y entrevista: competencias comportamentales",
+       "eje": "psico",
+       "file": "psico",
+       "dias": [
+        {
+         "date": "2026-12-08",
+         "n": 24
+        },
+        {
+         "date": "2027-01-12",
+         "n": 59
+        }
+       ]
       }
      ]
     },
@@ -2323,6 +4314,172 @@
        "date": "2027-01-31",
        "n": 78,
        "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013 (3.ª vuelta)"
+      }
+     ],
+     "temas": [
+      {
+       "id": "leyes-desde-cero-constitucion-estado-social-de-d",
+       "title": "Leyes desde cero: Constitución, Estado social de derecho y jerarquía normativa",
+       "eje": "norma",
+       "file": "leyes-cero",
+       "dias": [
+        {
+         "date": "2026-11-15",
+         "n": 1
+        },
+        {
+         "date": "2026-12-20",
+         "n": 36
+        },
+        {
+         "date": "2027-01-24",
+         "n": 71
+        }
+       ]
+      },
+      {
+       "id": "derecho-a-la-educacion-y-estructura-del-sector-e",
+       "title": "Derecho a la educación y estructura del sector educativo",
+       "eje": "norma",
+       "file": "constitucion",
+       "dias": [
+        {
+         "date": "2026-11-16",
+         "n": 2
+        },
+        {
+         "date": "2026-12-21",
+         "n": 37
+        },
+        {
+         "date": "2027-01-25",
+         "n": 72
+        }
+       ]
+      },
+      {
+       "id": "ley-115-de-1994-fines-niveles-areas-obligatorias",
+       "title": "Ley 115 de 1994: fines, niveles, áreas obligatorias y PEI",
+       "eje": "norma",
+       "file": "ley115",
+       "dias": [
+        {
+         "date": "2026-11-17",
+         "n": 3
+        },
+        {
+         "date": "2026-12-22",
+         "n": 38
+        },
+        {
+         "date": "2027-01-26",
+         "n": 73
+        }
+       ]
+      },
+      {
+       "id": "estatuto-docente-decreto-ley-1278-de-2002",
+       "title": "Estatuto docente: Decreto Ley 1278 de 2002",
+       "eje": "norma",
+       "file": "dl1278",
+       "dias": [
+        {
+         "date": "2026-11-20",
+         "n": 6
+        },
+        {
+         "date": "2026-12-25",
+         "n": 41
+        },
+        {
+         "date": "2027-01-29",
+         "n": 76
+        }
+       ]
+      },
+      {
+       "id": "convivencia-escolar-ley-1620-de-2013-y-decreto-1",
+       "title": "Convivencia escolar: Ley 1620 de 2013 y Decreto 1965 de 2013",
+       "eje": "norma",
+       "file": "convivencia",
+       "dias": [
+        {
+         "date": "2026-11-22",
+         "n": 8
+        },
+        {
+         "date": "2026-12-27",
+         "n": 43
+        },
+        {
+         "date": "2027-01-31",
+         "n": 78
+        }
+       ]
+      },
+      {
+       "id": "ley-715-de-2001-competencias-y-funciones-del-rec",
+       "title": "Ley 715 de 2001: competencias y funciones del rector",
+       "eje": "norma",
+       "file": "ley715",
+       "dias": [
+        {
+         "date": "2026-11-27",
+         "n": 13
+        },
+        {
+         "date": "2027-01-01",
+         "n": 48
+        }
+       ]
+      },
+      {
+       "id": "gobierno-escolar-y-manual-de-convivencia-decreto",
+       "title": "Gobierno escolar y manual de convivencia: Decreto 1860 de 1994",
+       "eje": "norma",
+       "file": "gobierno-escolar",
+       "dias": [
+        {
+         "date": "2026-12-02",
+         "n": 18
+        },
+        {
+         "date": "2027-01-06",
+         "n": 53
+        }
+       ]
+      },
+      {
+       "id": "codigo-de-infancia-y-adolescencia-ley-1098-de-20",
+       "title": "Código de Infancia y Adolescencia: Ley 1098 de 2006",
+       "eje": "norma",
+       "file": "ley1098",
+       "dias": [
+        {
+         "date": "2026-12-09",
+         "n": 25
+        },
+        {
+         "date": "2027-01-13",
+         "n": 60
+        }
+       ]
+      },
+      {
+       "id": "evaluacion-del-docente-periodo-de-prueba-desempe",
+       "title": "Evaluación del docente: periodo de prueba, desempeño y ascenso (Decreto Ley 1278)",
+       "eje": "norma",
+       "file": "eval-docente",
+       "dias": [
+        {
+         "date": "2026-12-18",
+         "n": 34
+        },
+        {
+         "date": "2027-01-22",
+         "n": 69
+        }
+       ]
       }
      ]
     }
