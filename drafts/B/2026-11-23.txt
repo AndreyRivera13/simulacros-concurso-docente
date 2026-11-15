@@ -1,0 +1,241 @@
+## sistemas-operativos-software-y-herramientas-info
+Q: ¿Cuál es la función principal de un sistema operativo?
++ Administrar los recursos del hardware y ofrecer una interfaz para que el usuario ejecute programas.
+- Escribir documentos de texto y calcular datos en tablas.
+- Conectar el computador a internet mediante un proveedor de servicio.
+E: El sistema operativo gestiona CPU, memoria, almacenamiento y dispositivos, y sirve de intermediario con las aplicaciones. Procesar texto es función de una aplicación y la conexión depende de la red y del proveedor.
+
+Q: ¿Cuál de los siguientes es un sistema operativo?
++ Linux
+- Microsoft Excel
+- Google Chrome
+E: Linux es un sistema operativo (núcleo y distribuciones). Excel es una hoja de cálculo y Chrome es un navegador, ambos software de aplicación.
+
+Q: ¿Cuál de los siguientes es software de aplicación?
++ Un procesador de texto.
+- El núcleo (kernel) del sistema operativo.
+- Un controlador (driver) de la impresora.
+E: Los procesadores de texto sirven al usuario para tareas específicas. El kernel y los controladores hacen parte del software de sistema.
+
+Q: ¿Qué es un controlador (driver)?
++ Un programa que permite al sistema operativo comunicarse con un dispositivo de hardware.
+- Un dispositivo que controla la velocidad del procesador.
+- Una aplicación para copiar archivos entre computadores.
+E: Sin el controlador adecuado, el sistema operativo no sabe cómo usar el dispositivo (impresora, tarjeta de video, etc.).
+
+Q: ¿Qué caracteriza al software libre?
++ Permite usar, estudiar, modificar y distribuir el programa, normalmente con acceso al código fuente.
+- Es siempre gratuito pero no se puede modificar.
+- Es software que se puede usar sin licencia por tiempo ilimitado, aunque sea pirata.
+E: «Libre» se refiere a las libertades del usuario y no necesariamente al precio. Una copia pirata es ilegal y no es software libre.
+
+Q: Una institución educativa tiene presupuesto limitado y desea ofimática para sus estudiantes. ¿Qué opción es legal y viable?
++ Instalar una suite ofimática libre, como LibreOffice.
+- Copiar una suite comercial en todos los equipos sin licencias.
+- Prohibir el uso de procesadores de texto en las clases.
+E: Las suites libres cumplen la mayoría de las funciones y son legales. Copiar sin licencia infringe los derechos de autor.
+
+Q: ¿Qué extensión corresponde normalmente a un documento de hoja de cálculo de Microsoft Excel actual?
++ .xlsx
+- .docx
+- .pptx
+E: .xlsx es el formato de libro de Excel; .docx es de Word y .pptx de PowerPoint.
+
+Q: En un sistema de archivos, ¿qué es una carpeta (directorio)?
++ Un contenedor que organiza archivos y otras carpetas de forma jerárquica.
+- Un programa que comprime todos los archivos del equipo.
+- Una copia de seguridad automática de los archivos.
+E: Las carpetas estructuran el almacenamiento en forma de árbol; no comprimen ni respaldan por sí solas.
+
+Q: Un estudiante guardó su tarea y no recuerda dónde. ¿Qué acción es más eficiente para encontrarla?
++ Usar la búsqueda del sistema operativo por nombre o por fecha de modificación.
+- Reinstalar el sistema operativo.
+- Abrir todos los programas hasta encontrarla.
+E: La búsqueda por nombre, tipo o fecha es la herramienta diseñada para esto; reinstalar sería destructivo e innecesario.
+
+Q: ¿Para qué sirve principalmente una copia de seguridad (backup)?
++ Para recuperar la información si se pierde, se daña o se borra por error.
+- Para acelerar la velocidad de procesamiento del computador.
+- Para evitar que el computador se conecte a redes no seguras.
+E: El respaldo protege los datos ante fallos o borrados. No mejora el rendimiento ni sustituye al cortafuegos.
+
+Q: En una hoja de cálculo, la celda A1 contiene 10, A2 contiene 20 y A3 contiene 30. ¿Qué resultado da la fórmula =SUMA(A1:A3)?
++ 60
+- 30
+- 20
+E: El rango A1:A3 incluye las tres celdas y la suma es 10 + 20 + 30 = 60. En inglés la función se llama SUM.
+
+Q: En una hoja de cálculo, las celdas B1 a B4 contienen 4, 6, 8 y 10. ¿Qué resultado da =PROMEDIO(B1:B4)?
++ 7
+- 28
+- 8
+E: El promedio es (4 + 6 + 8 + 10) / 4 = 28 / 4 = 7. 28 es la suma y no el promedio.
+
+Q: Un docente copia la fórmula =A1*$B$1 de la celda C1 a la celda C2. ¿Cómo queda la fórmula en C2?
++ =A2*$B$1
+- =A2*$B$2
+- =A1*$B$1
+E: A1 es una referencia relativa y cambia a A2 al copiar hacia abajo; $B$1 es absoluta y no cambia.
+
+Q: Para resaltar automáticamente en una hoja de cálculo las notas inferiores a 3,0, ¿qué herramienta debe usar el docente?
++ El formato condicional.
+- La combinación de celdas.
+- La validación del tipo de archivo.
+E: El formato condicional aplica un formato cuando se cumple una regla. Combinar celdas solo une celdas.
+
+Q: ¿Qué función de una hoja de cálculo permitiría contar cuántos estudiantes tienen una nota mayor o igual a 3,0 en el rango C2:C31?
++ =CONTAR.SI(C2:C31;">=3")
+- =SUMA(C2:C31)
+- =PROMEDIO(C2:C31)
+E: CONTAR.SI cuenta las celdas que cumplen un criterio. SUMA y PROMEDIO calculan otros resultados. En algunas configuraciones el separador es coma.
+
+Q: En un procesador de texto, ¿para qué sirven los estilos de título (Título 1, Título 2, etc.)?
++ Para dar una estructura al documento y permitir generar automáticamente una tabla de contenido.
+- Para proteger el documento con contraseña.
+- Para cambiar el idioma de corrección ortográfica.
+E: Los estilos de título definen la jerarquía y alimentan el índice automático; no protegen ni cambian el idioma.
+
+Q: Una estudiante debe entregar un informe en un formato que cualquier computador pueda abrir sin modificar el diseño. ¿Qué formato es más adecuado?
++ PDF
+- DOCX editable con tipografías poco comunes
+- Un archivo de texto con tabulaciones
+E: El PDF conserva la presentación en distintos equipos. Un documento editable con tipografías raras puede verse distinto.
+
+Q: Un computador del aula presenta lentitud con muchos programas abiertos al mismo tiempo. ¿Qué recurso del hardware se está sobrecargando principalmente?
++ La memoria RAM.
+- La pantalla.
+- El teclado.
+E: Muchos programas en ejecución consumen RAM y CPU; si se agota, el sistema usa el disco y se vuelve lento. El teclado y la pantalla no limitan eso.
+
+Q: Un docente de Tecnología e Informática desea que sus estudiantes de 8.º busquen, procesen y comuniquen información sobre un problema de la comunidad. ¿Qué secuencia de herramientas es más adecuada?
++ Buscar en fuentes confiables, organizar los datos en una hoja de cálculo y presentar los resultados en un documento o presentación.
+- Copiar y pegar textos de varios sitios y entregarlos sin citar.
+- Entregar solo capturas de pantalla de los resultados del buscador.
+E: La Guía 30 plantea usar las herramientas informáticas para buscar, procesar y comunicar información; implica evaluar fuentes, organizar y comunicar, no copiar sin citar.
+
+Q: ¿Qué diferencia hay entre guardar un archivo y «guardar como»?
++ «Guardar como» permite elegir un nuevo nombre, formato o ubicación y conserva el archivo original.
+- «Guardar como» elimina el archivo original sin posibilidad de recuperarlo.
+- «Guardar» crea siempre una copia con otro formato.
+E: «Guardar» actualiza el archivo actual; «Guardar como» crea otro archivo con nombre, formato o ubicación distintos.
+
+## lectura-critica-tesis-argumentos-e-inferencias
+Q: En un texto argumentativo, ¿cuál es la tesis?
++ La idea central que el autor defiende y que busca que el lector acepte.
+- El dato más curioso o llamativo del texto.
+- La primera frase del primer párrafo, sin importar su contenido.
+E: La tesis es la postura que el autor sostiene; no necesariamente es la primera frase ni un dato.
+
+Q: «El transporte escolar gratuito disminuye la deserción en zonas rurales porque reduce el costo y el tiempo de desplazamiento de los estudiantes». ¿Cuál es la tesis del enunciado?
++ El transporte escolar gratuito disminuye la deserción en zonas rurales.
+- El costo y el tiempo de desplazamiento son altos en las zonas rurales.
+- Los estudiantes rurales abandonan la escuela por razones económicas.
+E: La tesis es la afirmación defendida; lo que sigue a «porque» es el argumento que la respalda.
+
+Q: En el enunciado anterior, ¿cuál es el argumento que sustenta la tesis?
++ El transporte reduce el costo y el tiempo de desplazamiento.
+- La deserción es un problema de las zonas rurales.
+- El transporte debe ser gratuito para todos los estudiantes del país.
+E: El argumento es la razón que da el autor tras «porque». Las otras opciones cambian o amplían la afirmación.
+
+Q: ¿Qué es una inferencia?
++ Una conclusión que se deduce de la información del texto sin que esté dicha de manera explícita.
+- Una repetición literal de una frase del texto.
+- Una opinión personal sin relación con lo que dice el texto.
+E: Inferir es construir significado a partir de pistas del texto; copiar o inventar no es inferir.
+
+Q: «Al llegar al salón, Camila vio los pupitres desordenados, el tablero sin borrar y varios cuadernos en el suelo; suspiró y buscó la escoba». ¿Qué se puede inferir?
++ Que Camila se disponía a ordenar el salón.
+- Que Camila llegó tarde a clase.
+- Que los estudiantes están realizando un examen.
+E: Las pistas (desorden, suspiro, escoba) permiten inferir que va a limpiar. Los demás datos no tienen apoyo en el texto.
+
+Q: «Muchas personas creen que la lectura es una actividad aburrida; sin embargo, los lectores frecuentes describen sus lecturas como fuente de placer y de aprendizaje». ¿Qué función cumple «sin embargo»?
++ Introduce un contraste con lo dicho antes.
+- Añade una causa de lo afirmado antes.
+- Introduce un ejemplo del enunciado anterior.
+E: «Sin embargo» es un conector adversativo que opone dos ideas.
+
+Q: ¿Qué tipo de conector es «por consiguiente»?
++ Consecutivo: introduce una conclusión derivada de lo anterior.
+- Adversativo: introduce una idea que se opone a la anterior.
+- Aditivo: añade una idea sin relación causal.
+E: «Por consiguiente», «por tanto» y «en consecuencia» marcan una consecuencia lógica.
+
+Q: ¿Cuál es la diferencia entre un hecho y una opinión?
++ Un hecho se puede verificar con evidencia; una opinión expresa una valoración personal.
+- Un hecho es siempre positivo; una opinión siempre es negativa.
+- Un hecho se escribe en tercera persona y una opinión siempre en primera.
+E: Los hechos son verificables; las opiniones expresan juicios. La forma gramatical no los distingue.
+
+Q: ¿Cuál de las siguientes frases expresa una opinión?
++ «La tarea de Matemáticas es demasiado larga para estudiantes de sexto».
+- «La tarea de Matemáticas tiene diez ejercicios».
+- «La tarea de Matemáticas se entrega el viernes».
+E: «Demasiado larga» es una valoración. Los otros enunciados pueden verificarse.
+
+Q: «Todos los estudiantes que usan el celular en clase sacan malas notas; por lo tanto, el celular causa el bajo rendimiento». ¿Cuál es el principal problema del razonamiento?
++ Confunde una relación observada con una causa y generaliza sin evidencia suficiente.
+- Usa un lenguaje demasiado técnico para el lector.
+- No tiene una conclusión explícita.
+E: Una correlación no demuestra causalidad y «todos» exige evidencia amplia; el texto sí tiene conclusión explícita.
+
+Q: ¿Qué supuesto implícito tiene el razonamiento «Si el colegio prohíbe los celulares, los estudiantes se concentrarán más»?
++ Que los celulares son la principal causa de la falta de concentración.
+- Que los estudiantes no tienen otros recursos para estudiar.
+- Que las normas del colegio siempre se cumplen sin excepción.
+E: La conclusión solo se sostiene si se asume que el celular es la causa principal de la distracción; el supuesto no está dicho en el texto.
+
+Q: Un autor critica una política pública presentando solo los datos negativos y omitiendo los positivos. ¿Cómo se denomina este recurso?
++ Argumentación sesgada o parcial.
+- Argumentación por analogía.
+- Argumentación por definición.
+E: Presentar solo la evidencia que favorece una postura es una argumentación sesgada.
+
+Q: En un párrafo, ¿cuál es la mejor estrategia para identificar la idea principal?
++ Buscar la idea de la que dependen y que explican las demás oraciones.
+- Escoger la oración más larga del párrafo.
+- Elegir siempre la última oración.
+E: La idea principal es la que organiza las demás; su posición y longitud varían.
+
+Q: «La biblioteca escolar recibió 200 libros nuevos. Esto permitió que los estudiantes de básica primaria cuenten con textos actualizados y que los docentes diversifiquen sus actividades de lectura». ¿Qué intención predomina?
++ Informar sobre un hecho y sus efectos.
+- Convencer al lector de donar libros.
+- Narrar una anécdota personal.
+E: El texto presenta un hecho y sus consecuencias sin pedir una acción ni contar una historia.
+
+Q: Un texto afirma: «Los videojuegos son nocivos». Para evaluar si el argumento es sólido, ¿qué debe revisar el lector?
++ Si la afirmación se apoya en evidencias verificables y fuentes confiables.
+- Si el autor escribió con mucha seguridad.
+- Si el texto es más largo que otros sobre el mismo tema.
+E: La solidez depende de la evidencia y de las fuentes, no del tono ni de la extensión.
+
+Q: «Si reducimos el número de estudiantes por grupo, el docente podrá dar atención personalizada». ¿Qué tipo de relación establece el enunciado?
++ Una relación condicional entre una acción y su posible resultado.
+- Una relación de oposición entre dos hechos.
+- Una relación de ejemplificación de una idea general.
+E: La estructura «si… entonces…» expresa una condición y su consecuencia.
+
+Q: Un estudiante afirma: «El autor dice que se deben eliminar las tareas». El texto dice: «Es necesario reducir las tareas repetitivas y reemplazarlas por proyectos». ¿Cuál es el error del estudiante?
++ Generalizó y alteró lo dicho por el autor, quien propone reducir las tareas repetitivas, no eliminarlas todas.
+- Citó textualmente las palabras del autor.
+- Dedujo una idea que el autor no mencionó, pero que es coherente con el texto.
+E: Una lectura crítica distingue lo que el texto dice de lo que el lector supone o exagera.
+
+Q: Un docente presenta dos textos con posturas opuestas sobre el uso de uniformes y pide a los estudiantes decidir cuál argumenta mejor. ¿Qué criterio es más pertinente?
++ La calidad y la pertinencia de los argumentos y la evidencia que presenta cada texto.
+- Cuál de los textos es más extenso.
+- Cuál texto coincide con la opinión del estudiante.
+E: La evaluación crítica se basa en razones y evidencias, no en la extensión ni en las preferencias personales.
+
+Q: «Los estudiantes de la jornada de la tarde llegan más cansados; en consecuencia, rinden menos». ¿Cuál es una forma de comprobar si esta afirmación es válida?
++ Comparar el rendimiento de ambas jornadas considerando otros factores, como el nivel de los grupos.
+- Aceptarla porque el docente lo ha observado en su salón.
+- Descartarla porque el cansancio no se puede medir.
+E: Se verifica con datos comparables y controlando otras variables; la experiencia aislada no basta y el cansancio puede estudiarse.
+
+Q: ¿Qué función cumple un ejemplo dentro de un texto argumentativo?
++ Ilustrar o respaldar un argumento para hacerlo más comprensible o convincente.
+- Reemplazar la tesis del autor.
+- Introducir un tema sin relación con el resto del texto.
+E: Los ejemplos concretan y apoyan los argumentos; no sustituyen la tesis ni cambian de tema.

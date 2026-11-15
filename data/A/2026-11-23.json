@@ -1,0 +1,423 @@
+{
+ "version": "A",
+ "date": "2026-11-23",
+ "n": 9,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "adn-arn-y-sintesis-de-proteinas",
+   "title": "ADN, ARN y síntesis de proteínas",
+   "track": "Disciplinar: Ciencias Naturales y Ed. Ambiental",
+   "questions": [
+    {
+     "q": "¿Cuál es la composición de un nucleótido de ADN?",
+     "options": [
+      "Un grupo fosfato, el azúcar desoxirribosa y una base nitrogenada.",
+      "Un grupo fosfato, el azúcar ribosa y una base nitrogenada.",
+      "Un aminoácido, un azúcar y una base nitrogenada."
+     ],
+     "answer": 0,
+     "explanation": "El ADN contiene desoxirribosa; la ribosa es propia del ARN y los aminoácidos son las unidades de las proteínas, no de los ácidos nucleicos."
+    },
+    {
+     "q": "En una molécula de ADN de doble hebra, ¿qué bases se aparean entre sí?",
+     "options": [
+      "Adenina con timina y citosina con guanina.",
+      "Adenina con uracilo y citosina con guanina.",
+      "Adenina con citosina y timina con guanina."
+     ],
+     "answer": 0,
+     "explanation": "El apareamiento es complementario: A-T (dos puentes de hidrógeno) y C-G (tres). El uracilo no hace parte del ADN sino del ARN."
+    },
+    {
+     "q": "Si en una molécula de ADN de doble hebra el 30 % de las bases es adenina, ¿qué porcentaje de citosina tendrá?",
+     "options": [
+      "30 %",
+      "20 %",
+      "40 %"
+     ],
+     "answer": 1,
+     "explanation": "Si A = 30 %, T = 30 %; quedan 40 % para C y G, que son iguales, es decir 20 % cada una."
+    },
+    {
+     "q": "¿Qué base nitrogenada está presente en el ARN pero no en el ADN?",
+     "options": [
+      "Citosina.",
+      "Uracilo.",
+      "Timina."
+     ],
+     "answer": 1,
+     "explanation": "El ARN reemplaza la timina por uracilo. La citosina está en ambos ácidos nucleicos."
+    },
+    {
+     "q": "¿Qué diferencia estructural general existe entre el ADN y el ARN?",
+     "options": [
+      "El ADN es de una sola hebra y el ARN siempre es de doble hebra.",
+      "El ADN y el ARN son de doble hebra, pero solo el ARN tiene fosfato.",
+      "El ADN suele ser de doble hebra y el ARN suele ser de una sola hebra."
+     ],
+     "answer": 2,
+     "explanation": "Ambos tienen fosfato. Lo habitual es ADN bicatenario y ARN monocatenario, aunque el ARN puede plegarse sobre sí mismo."
+    },
+    {
+     "q": "Un docente explica que la replicación del ADN es semiconservativa. ¿Qué significa esto?",
+     "options": [
+      "Cada molécula hija conserva una hebra original y contiene una hebra nueva.",
+      "Una molécula hija conserva las dos hebras originales y la otra es toda nueva.",
+      "Cada molécula hija está formada solo por hebras nuevas."
+     ],
+     "answer": 0,
+     "explanation": "En la replicación semiconservativa, cada doble hélice hija combina una hebra parental y una recién sintetizada."
+    },
+    {
+     "q": "¿Qué enzima une los nucleótidos nuevos durante la replicación del ADN?",
+     "options": [
+      "La helicasa.",
+      "La ADN polimerasa.",
+      "La ARN polimerasa."
+     ],
+     "answer": 1,
+     "explanation": "La ADN polimerasa agrega nucleótidos complementarios a la hebra molde. La helicasa solo separa las hebras y la ARN polimerasa participa en la transcripción."
+    },
+    {
+     "q": "Una hebra molde de ADN tiene la secuencia 3'-TACGGA-5'. ¿Cuál es la secuencia del ARNm transcrito (leída de 5' a 3')?",
+     "options": [
+      "5'-ATGCCT-3'",
+      "5'-UACGGA-3'",
+      "5'-AUGCCU-3'"
+     ],
+     "answer": 2,
+     "explanation": "El ARNm es complementario al molde y usa uracilo: T→A, A→U, C→G, G→C, lo que da AUGCCU. No contiene timina y no es copia del molde."
+    },
+    {
+     "q": "¿En qué consiste la transcripción?",
+     "options": [
+      "En la duplicación completa del ADN antes de la división celular.",
+      "En la síntesis de una proteína a partir de un ARNm.",
+      "En la síntesis de una molécula de ARN a partir de un segmento de ADN."
+     ],
+     "answer": 2,
+     "explanation": "La transcripción copia la información de un gen en ARN. La síntesis de proteínas es la traducción y la duplicación del ADN es la replicación."
+    },
+    {
+     "q": "En una célula eucariota, ¿dónde ocurre principalmente la transcripción?",
+     "options": [
+      "En los ribosomas del citoplasma.",
+      "En el núcleo.",
+      "En el aparato de Golgi."
+     ],
+     "answer": 1,
+     "explanation": "El ADN eucariota está en el núcleo, donde la ARN polimerasa sintetiza el ARN. La traducción sí ocurre en los ribosomas."
+    },
+    {
+     "q": "¿Cuál es la función del ARN de transferencia (ARNt)?",
+     "options": [
+      "Formar la estructura del ribosoma junto con proteínas.",
+      "Llevar la información del gen desde el núcleo hasta el citoplasma.",
+      "Transportar aminoácidos al ribosoma y reconocer los codones mediante su anticodón."
+     ],
+     "answer": 2,
+     "explanation": "El ARNt acopla cada aminoácido con su codón. Formar ribosomas es función del ARNr y llevar la información es función del ARNm."
+    },
+    {
+     "q": "¿Qué es un codón?",
+     "options": [
+      "Una secuencia de tres nucleótidos del ARNm que codifica un aminoácido o una señal de parada.",
+      "Un aminoácido que se une a un ARN de transferencia.",
+      "Una secuencia de tres nucleótidos del ADN que se replica como unidad."
+     ],
+     "answer": 0,
+     "explanation": "El código genético se lee en tripletes de ARNm llamados codones. Los aminoácidos son lo que ellos especifican, no el codón mismo."
+    },
+    {
+     "q": "¿Qué significa que el código genético sea «degenerado» o redundante?",
+     "options": [
+      "Que un mismo codón puede codificar varios aminoácidos distintos.",
+      "Que el código se daña con facilidad cuando hay mutaciones.",
+      "Que varios codones distintos pueden codificar el mismo aminoácido."
+     ],
+     "answer": 2,
+     "explanation": "Hay 64 codones posibles y solo 20 aminoácidos, por lo que varios codones codifican el mismo aminoácido, pero cada codón especifica uno solo."
+    },
+    {
+     "q": "¿Qué señala el codón AUG durante la traducción?",
+     "options": [
+      "El inicio de la síntesis y la incorporación de metionina.",
+      "La unión de la ARN polimerasa al ADN.",
+      "El final de la síntesis de la proteína."
+     ],
+     "answer": 0,
+     "explanation": "AUG es el codón de inicio y codifica metionina. Los codones de parada son UAA, UAG y UGA. La ARN polimerasa se une al promotor en el ADN."
+    },
+    {
+     "q": "Un ARNm contiene la secuencia 5'-AUG UUU GGC-3'. Con la tabla del código genético, UUU = fenilalanina y GGC = glicina. ¿Qué cadena de aminoácidos se forma?",
+     "options": [
+      "Fenilalanina – glicina – metionina.",
+      "Metionina – fenilalanina – glicina.",
+      "Metionina – glicina – fenilalanina."
+     ],
+     "answer": 1,
+     "explanation": "La traducción lee los codones en orden desde el AUG: Met (AUG), Phe (UUU) y Gly (GGC)."
+    },
+    {
+     "q": "¿En qué organelo se lleva a cabo la traducción?",
+     "options": [
+      "En los lisosomas.",
+      "En el nucleolo.",
+      "En los ribosomas."
+     ],
+     "answer": 2,
+     "explanation": "Los ribosomas leen el ARNm y unen aminoácidos con enlaces peptídicos. Los lisosomas digieren materiales y el nucleolo participa en la formación de subunidades ribosomales."
+    },
+    {
+     "q": "Una mutación cambia un nucleótido de un gen, pero el aminoácido codificado sigue siendo el mismo. ¿Cómo se denomina esta mutación?",
+     "options": [
+      "Mutación silenciosa.",
+      "Mutación sin sentido.",
+      "Mutación por cambio del marco de lectura."
+     ],
+     "answer": 0,
+     "explanation": "Gracias a la redundancia del código, algunos cambios no alteran el aminoácido. La mutación sin sentido genera un codón de parada prematuro."
+    },
+    {
+     "q": "La inserción de un solo nucleótido en el medio de un gen suele tener efectos graves en la proteína. ¿Por qué?",
+     "options": [
+      "Porque desplaza el marco de lectura y cambia todos los codones siguientes.",
+      "Porque elimina la molécula de ARN transferencia de la célula.",
+      "Porque impide que el ADN se replique en la fase S."
+     ],
+     "answer": 0,
+     "explanation": "Los codones se leen de tres en tres; añadir un nucleótido corre la lectura y altera la secuencia de aminoácidos a partir del punto de inserción."
+    },
+    {
+     "q": "Una estudiante dice que «las células del corazón y las de la piel tienen genes diferentes, por eso cumplen funciones distintas». ¿Cuál es la corrección más adecuada?",
+     "options": [
+      "Tienen ADN distinto porque pierden los genes que no usan durante el desarrollo.",
+      "Tienen el mismo ADN, pero expresan genes diferentes, por lo que sintetizan proteínas distintas.",
+      "Tienen el mismo ADN y las mismas proteínas, y lo que cambia es el tamaño de la célula."
+     ],
+     "answer": 1,
+     "explanation": "En los organismos pluricelulares casi todas las células somáticas tienen el mismo genoma; la diferenciación resulta de la expresión génica diferencial."
+    },
+    {
+     "q": "Para que los estudiantes de grado 9.º comprendan el flujo de la información genética, ¿qué actividad es más pertinente?",
+     "options": [
+      "Que copien del texto escolar las definiciones de ADN, ARN y proteína.",
+      "Que modelen con fichas la transcripción y la traducción de un gen sencillo y comparen los resultados con una mutación.",
+      "Que memoricen la tabla del código genético completa sin aplicarla."
+     ],
+     "answer": 1,
+     "explanation": "El modelado permite aplicar el concepto (ADN→ARN→proteína) y analizar las consecuencias de una mutación, en línea con el enfoque por competencias; la memorización aislada no desarrolla comprensión."
+    }
+   ]
+  },
+  {
+   "id": "competencias-blandas-liderazgo-y-trabajo-en-equi",
+   "title": "Competencias blandas: liderazgo y trabajo en equipo",
+   "track": "Conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "Un docente líder en una institución educativa se caracteriza principalmente por:",
+     "options": [
+      "Influir positivamente en la comunidad educativa, motivar y orientar a otros hacia metas compartidas.",
+      "Imponer sus decisiones y exigir obediencia sin escuchar a los demás.",
+      "Evitar toda responsabilidad para no entrar en conflictos con sus colegas."
+     ],
+     "answer": 0,
+     "explanation": "El liderazgo educativo es influencia positiva y orientación hacia objetivos comunes; la imposición y la evasión no son liderazgo."
+    },
+    {
+     "q": "Un grupo de docentes tiene opiniones distintas sobre cómo evaluar un proyecto de área. ¿Cuál es la acción más adecuada para el trabajo en equipo?",
+     "options": [
+      "Dialogar, escuchar las propuestas y acordar criterios comunes que se registren por escrito.",
+      "Que cada docente evalúe como prefiera para evitar discusiones.",
+      "Que decida el docente con más antigüedad sin consultar al resto."
+     ],
+     "answer": 0,
+     "explanation": "El trabajo en equipo exige comunicación y acuerdos explícitos. Evaluar cada quien a su modo impide coherencia y decidir por antigüedad ignora los aportes."
+    },
+    {
+     "q": "¿Cuál de las siguientes es una característica de un equipo de trabajo eficaz?",
+     "options": [
+      "Ausencia total de diferencias de opinión entre los integrantes.",
+      "Un único integrante que asume todas las tareas importantes.",
+      "Objetivos compartidos, roles claros y corresponsabilidad en los resultados."
+     ],
+     "answer": 2,
+     "explanation": "Los equipos eficaces tienen metas comunes, roles definidos y responsabilidad compartida; las diferencias bien gestionadas enriquecen el trabajo."
+    },
+    {
+     "q": "Una docente nueva propone una estrategia de laboratorio y un colega con más experiencia la descalifica en público. ¿Qué actitud profesional es la más apropiada para la docente?",
+     "options": [
+      "Retirar su propuesta y no volver a participar en las reuniones.",
+      "Mantener el respeto, pedir los argumentos y proponer revisar juntos la estrategia en una reunión de área.",
+      "Responder con críticas públicas al colega para defender su autoridad."
+     ],
+     "answer": 1,
+     "explanation": "La asertividad y el respeto permiten gestionar el desacuerdo sin agredir ni retirarse; las otras opciones deterioran el clima laboral."
+    },
+    {
+     "q": "¿Qué es la empatía en el contexto escolar?",
+     "options": [
+      "La capacidad de comprender las emociones y la situación de otra persona y responder con respeto.",
+      "La capacidad de ocultar las propias emociones ante la comunidad educativa.",
+      "La capacidad de aceptar todas las peticiones de los estudiantes sin establecer normas."
+     ],
+     "answer": 0,
+     "explanation": "La empatía implica comprender al otro; no equivale a ser permisivo ni a reprimir emociones."
+    },
+    {
+     "q": "Un rector observa que los docentes de la sede rural están desmotivados por falta de materiales. ¿Qué acción refleja liderazgo?",
+     "options": [
+      "Posponer el tema hasta que los docentes lo planteen formalmente por escrito varias veces.",
+      "Escuchar sus necesidades, gestionar recursos con la secretaría de educación y comunicar los avances.",
+      "Pedirles que continúen sin quejarse porque es parte del trabajo."
+     ],
+     "answer": 1,
+     "explanation": "El líder identifica necesidades, gestiona y comunica; ignorarlas o postergarlas debilita la confianza y el compromiso."
+    },
+    {
+     "q": "¿Qué significa la comunicación asertiva?",
+     "options": [
+      "Decir lo que se piensa sin importar si ofende a los demás.",
+      "Evitar manifestar desacuerdos para no generar conflicto.",
+      "Expresar ideas y sentimientos de manera clara y respetuosa, sin agredir ni callar."
+     ],
+     "answer": 2,
+     "explanation": "La asertividad es el punto medio entre la agresividad y la pasividad: se defiende la propia posición respetando al otro."
+    },
+    {
+     "q": "Dos docentes del mismo grado se disputan el uso del laboratorio en la misma hora. ¿Qué estrategia de resolución de conflictos es más adecuada?",
+     "options": [
+      "Acudir directamente al proceso disciplinario antes de dialogar.",
+      "Que uno ceda siempre porque es el más nuevo en la institución.",
+      "Negociar un horario rotativo que atienda las necesidades de ambos grupos."
+     ],
+     "answer": 2,
+     "explanation": "La negociación busca acuerdos beneficiosos para ambas partes; imponer cesiones permanentes o escalar sin dialogar no resuelve el problema de fondo."
+    },
+    {
+     "q": "En un proyecto institucional, un integrante no cumple con las tareas acordadas y el equipo se retrasa. ¿Qué es lo más adecuado?",
+     "options": [
+      "Conversar con él para entender las causas, reasignar tareas si es necesario y establecer compromisos claros.",
+      "Asumir su trabajo en silencio para no generar tensión.",
+      "Reportarlo de inmediato como incumplido sin hablar con él."
+     ],
+     "answer": 0,
+     "explanation": "El diálogo y los compromisos explícitos favorecen la corresponsabilidad; asumir en silencio perpetúa el problema y reportar sin hablar rompe la confianza."
+    },
+    {
+     "q": "¿Cuál es una práctica de liderazgo pedagógico dentro de un área?",
+     "options": [
+      "Reservar las buenas estrategias para destacarse frente a los demás.",
+      "Compartir estrategias de enseñanza y retroalimentar de forma constructiva la práctica de los colegas.",
+      "Evitar que otros docentes visiten sus clases."
+     ],
+     "answer": 1,
+     "explanation": "El liderazgo pedagógico fomenta el aprendizaje entre pares; la competencia y el aislamiento van en contravía de la comunidad de aprendizaje."
+    },
+    {
+     "q": "Un docente recibe una crítica constructiva sobre su planeación. ¿Cuál es la actitud más coherente con una competencia de desarrollo profesional?",
+     "options": [
+      "Escuchar, analizar los comentarios y ajustar la planeación cuando sean pertinentes.",
+      "Aceptarla sin analizar para evitar conflicto.",
+      "Descartarla porque cuestiona su experiencia."
+     ],
+     "answer": 0,
+     "explanation": "La apertura a la retroalimentación sustentada es clave para el mejoramiento; rechazarla o aceptarla sin reflexión no promueve el aprendizaje."
+    },
+    {
+     "q": "Para promover la participación de los padres de familia en la convivencia escolar, ¿qué acción es más coherente con el liderazgo del docente?",
+     "options": [
+      "Convocarlos, escuchar sus inquietudes y definir acuerdos de corresponsabilidad con el colegio.",
+      "Informarles únicamente cuando su hijo comete una falta grave.",
+      "Pedirles que no intervengan para evitar interferencias en el aula."
+     ],
+     "answer": 0,
+     "explanation": "La Ley 1620 de 2013 reconoce la corresponsabilidad de la familia, la escuela y el Estado en la convivencia; esto exige participación efectiva y no solo informes de sanción."
+    },
+    {
+     "q": "Un docente trabaja en equipo con colegas de Matemáticas y Lenguaje en un proyecto sobre el cuidado de una quebrada. ¿Qué ventaja principal tiene este trabajo?",
+     "options": [
+      "Reduce el trabajo, porque cada docente deja de planear su propia área.",
+      "Evita que los estudiantes tengan que evaluar el impacto de su trabajo.",
+      "Integra saberes de las áreas y permite que los estudiantes aborden el problema desde varias perspectivas."
+     ],
+     "answer": 2,
+     "explanation": "El trabajo interdisciplinar enriquece la comprensión del problema; no sustituye la planeación de cada área ni elimina la evaluación."
+    },
+    {
+     "q": "¿Cuál es la mejor manera de manejar el estrés en situaciones de alta carga laboral, en el ejercicio docente?",
+     "options": [
+      "Asumir más tareas para demostrar compromiso.",
+      "Organizar prioridades, pedir apoyo cuando se necesite y mantener hábitos de autocuidado.",
+      "Dejar de atender las responsabilidades que generen tensión."
+     ],
+     "answer": 1,
+     "explanation": "La autogestión incluye planificar, pedir ayuda y cuidar la salud; sobrecargarse o evadir deterioran el desempeño y el bienestar."
+    },
+    {
+     "q": "En una reunión, una docente nota que un compañero casi nunca habla. ¿Qué acción favorece la inclusión del equipo?",
+     "options": [
+      "Asignarle solo tareas de apoyo sin consultarlo.",
+      "Invitarlo a opinar de manera respetuosa y valorar sus aportes.",
+      "Dejar que continúe en silencio para no presionarlo."
+     ],
+     "answer": 1,
+     "explanation": "La participación equitativa fortalece al equipo; ignorar o limitar a un integrante reduce la riqueza de las decisiones."
+    },
+    {
+     "q": "Un docente descubre que un colega comete un error en el registro de notas que perjudica a un estudiante. ¿Qué actuación refleja la ética profesional?",
+     "options": [
+      "Callar para no afectar la relación con su compañero.",
+      "Corregir el registro directamente sin avisar a nadie.",
+      "Informar al colega con respeto y, si no se corrige, comunicarlo a la instancia correspondiente."
+     ],
+     "answer": 2,
+     "explanation": "La ética profesional implica proteger los derechos de los estudiantes, con respeto y siguiendo conductos regulares; ocultar o modificar sin avisar vulnera la transparencia."
+    },
+    {
+     "q": "¿Qué rasgo corresponde a un liderazgo democrático en la escuela?",
+     "options": [
+      "Las decisiones las toma una sola persona sin consulta.",
+      "Se toman decisiones consultando a los afectados y se asumen responsabilidades compartidas.",
+      "No se establecen reglas para evitar restringir la libertad."
+     ],
+     "answer": 1,
+     "explanation": "El liderazgo democrático promueve participación y corresponsabilidad; el autoritarismo y el laissez-faire extremo son estilos distintos."
+    },
+    {
+     "q": "Un grupo de estudiantes de 10.º no logra ponerse de acuerdo en un trabajo colaborativo. Como docente, ¿qué estrategia fortalece su capacidad de trabajo en equipo?",
+     "options": [
+      "Dividir el grupo en trabajos individuales para evitar los conflictos.",
+      "Asignar roles rotativos, definir criterios de evaluación del proceso y acompañar la reflexión sobre la experiencia.",
+      "Calificar solo el producto final y dejarlos resolver solos las diferencias."
+     ],
+     "answer": 1,
+     "explanation": "Los roles claros y la reflexión sobre el proceso desarrollan la cooperación; evitar el trabajo conjunto o ignorar el proceso no enseña a colaborar."
+    },
+    {
+     "q": "¿Qué papel debe cumplir el docente cuando es testigo de una situación de discriminación entre estudiantes?",
+     "options": [
+      "Intervenir, proteger a quienes se vean afectados y activar los protocolos de convivencia de la institución.",
+      "Tratar el tema solo si el afectado lo denuncia formalmente.",
+      "Esperar a que los estudiantes resuelvan el problema por sí mismos."
+     ],
+     "answer": 0,
+     "explanation": "La Ley 1620 de 2013 reconoce el deber de la comunidad educativa de actuar frente a situaciones que afecten la convivencia; no hay que esperar una denuncia formal para intervenir."
+    },
+    {
+     "q": "Una docente líder quiere que su área adopte una nueva estrategia de enseñanza por indagación. Algunos colegas dudan. ¿Cuál es la acción más adecuada?",
+     "options": [
+      "Imponerla por decisión propia para evitar demoras.",
+      "Abandonar la propuesta ante la primera objeción.",
+      "Presentar evidencias de sus beneficios, escuchar las objeciones y probarla primero en un piloto compartido."
+     ],
+     "answer": 2,
+     "explanation": "El liderazgo para el cambio combina evidencia, escucha y experimentación conjunta; imponer genera resistencia y abandonar muestra falta de persistencia."
+    }
+   ]
+  }
+ ]
+}

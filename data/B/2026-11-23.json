@@ -1,0 +1,423 @@
+{
+ "version": "B",
+ "date": "2026-11-23",
+ "n": 9,
+ "kind": "estudio",
+ "difficulty": "Intermedio",
+ "topics": [
+  {
+   "id": "sistemas-operativos-software-y-herramientas-info",
+   "title": "Sistemas operativos, software y herramientas informáticas de uso común",
+   "track": "Disciplinar: Tecnología e Informática",
+   "questions": [
+    {
+     "q": "¿Cuál es la función principal de un sistema operativo?",
+     "options": [
+      "Conectar el computador a internet mediante un proveedor de servicio.",
+      "Administrar los recursos del hardware y ofrecer una interfaz para que el usuario ejecute programas.",
+      "Escribir documentos de texto y calcular datos en tablas."
+     ],
+     "answer": 1,
+     "explanation": "El sistema operativo gestiona CPU, memoria, almacenamiento y dispositivos, y sirve de intermediario con las aplicaciones. Procesar texto es función de una aplicación y la conexión depende de la red y del proveedor."
+    },
+    {
+     "q": "¿Cuál de los siguientes es un sistema operativo?",
+     "options": [
+      "Linux",
+      "Microsoft Excel",
+      "Google Chrome"
+     ],
+     "answer": 0,
+     "explanation": "Linux es un sistema operativo (núcleo y distribuciones). Excel es una hoja de cálculo y Chrome es un navegador, ambos software de aplicación."
+    },
+    {
+     "q": "¿Cuál de los siguientes es software de aplicación?",
+     "options": [
+      "El núcleo (kernel) del sistema operativo.",
+      "Un procesador de texto.",
+      "Un controlador (driver) de la impresora."
+     ],
+     "answer": 1,
+     "explanation": "Los procesadores de texto sirven al usuario para tareas específicas. El kernel y los controladores hacen parte del software de sistema."
+    },
+    {
+     "q": "¿Qué es un controlador (driver)?",
+     "options": [
+      "Un programa que permite al sistema operativo comunicarse con un dispositivo de hardware.",
+      "Un dispositivo que controla la velocidad del procesador.",
+      "Una aplicación para copiar archivos entre computadores."
+     ],
+     "answer": 0,
+     "explanation": "Sin el controlador adecuado, el sistema operativo no sabe cómo usar el dispositivo (impresora, tarjeta de video, etc.)."
+    },
+    {
+     "q": "¿Qué caracteriza al software libre?",
+     "options": [
+      "Es siempre gratuito pero no se puede modificar.",
+      "Es software que se puede usar sin licencia por tiempo ilimitado, aunque sea pirata.",
+      "Permite usar, estudiar, modificar y distribuir el programa, normalmente con acceso al código fuente."
+     ],
+     "answer": 2,
+     "explanation": "«Libre» se refiere a las libertades del usuario y no necesariamente al precio. Una copia pirata es ilegal y no es software libre."
+    },
+    {
+     "q": "Una institución educativa tiene presupuesto limitado y desea ofimática para sus estudiantes. ¿Qué opción es legal y viable?",
+     "options": [
+      "Prohibir el uso de procesadores de texto en las clases.",
+      "Copiar una suite comercial en todos los equipos sin licencias.",
+      "Instalar una suite ofimática libre, como LibreOffice."
+     ],
+     "answer": 2,
+     "explanation": "Las suites libres cumplen la mayoría de las funciones y son legales. Copiar sin licencia infringe los derechos de autor."
+    },
+    {
+     "q": "¿Qué extensión corresponde normalmente a un documento de hoja de cálculo de Microsoft Excel actual?",
+     "options": [
+      ".docx",
+      ".pptx",
+      ".xlsx"
+     ],
+     "answer": 2,
+     "explanation": ".xlsx es el formato de libro de Excel; .docx es de Word y .pptx de PowerPoint."
+    },
+    {
+     "q": "En un sistema de archivos, ¿qué es una carpeta (directorio)?",
+     "options": [
+      "Un programa que comprime todos los archivos del equipo.",
+      "Un contenedor que organiza archivos y otras carpetas de forma jerárquica.",
+      "Una copia de seguridad automática de los archivos."
+     ],
+     "answer": 1,
+     "explanation": "Las carpetas estructuran el almacenamiento en forma de árbol; no comprimen ni respaldan por sí solas."
+    },
+    {
+     "q": "Un estudiante guardó su tarea y no recuerda dónde. ¿Qué acción es más eficiente para encontrarla?",
+     "options": [
+      "Usar la búsqueda del sistema operativo por nombre o por fecha de modificación.",
+      "Reinstalar el sistema operativo.",
+      "Abrir todos los programas hasta encontrarla."
+     ],
+     "answer": 0,
+     "explanation": "La búsqueda por nombre, tipo o fecha es la herramienta diseñada para esto; reinstalar sería destructivo e innecesario."
+    },
+    {
+     "q": "¿Para qué sirve principalmente una copia de seguridad (backup)?",
+     "options": [
+      "Para acelerar la velocidad de procesamiento del computador.",
+      "Para evitar que el computador se conecte a redes no seguras.",
+      "Para recuperar la información si se pierde, se daña o se borra por error."
+     ],
+     "answer": 2,
+     "explanation": "El respaldo protege los datos ante fallos o borrados. No mejora el rendimiento ni sustituye al cortafuegos."
+    },
+    {
+     "q": "En una hoja de cálculo, la celda A1 contiene 10, A2 contiene 20 y A3 contiene 30. ¿Qué resultado da la fórmula =SUMA(A1:A3)?",
+     "options": [
+      "60",
+      "30",
+      "20"
+     ],
+     "answer": 0,
+     "explanation": "El rango A1:A3 incluye las tres celdas y la suma es 10 + 20 + 30 = 60. En inglés la función se llama SUM."
+    },
+    {
+     "q": "En una hoja de cálculo, las celdas B1 a B4 contienen 4, 6, 8 y 10. ¿Qué resultado da =PROMEDIO(B1:B4)?",
+     "options": [
+      "8",
+      "28",
+      "7"
+     ],
+     "answer": 2,
+     "explanation": "El promedio es (4 + 6 + 8 + 10) / 4 = 28 / 4 = 7. 28 es la suma y no el promedio."
+    },
+    {
+     "q": "Un docente copia la fórmula =A1*$B$1 de la celda C1 a la celda C2. ¿Cómo queda la fórmula en C2?",
+     "options": [
+      "=A2*$B$1",
+      "=A2*$B$2",
+      "=A1*$B$1"
+     ],
+     "answer": 0,
+     "explanation": "A1 es una referencia relativa y cambia a A2 al copiar hacia abajo; $B$1 es absoluta y no cambia."
+    },
+    {
+     "q": "Para resaltar automáticamente en una hoja de cálculo las notas inferiores a 3,0, ¿qué herramienta debe usar el docente?",
+     "options": [
+      "La combinación de celdas.",
+      "El formato condicional.",
+      "La validación del tipo de archivo."
+     ],
+     "answer": 1,
+     "explanation": "El formato condicional aplica un formato cuando se cumple una regla. Combinar celdas solo une celdas."
+    },
+    {
+     "q": "¿Qué función de una hoja de cálculo permitiría contar cuántos estudiantes tienen una nota mayor o igual a 3,0 en el rango C2:C31?",
+     "options": [
+      "=PROMEDIO(C2:C31)",
+      "=CONTAR.SI(C2:C31;\">=3\")",
+      "=SUMA(C2:C31)"
+     ],
+     "answer": 1,
+     "explanation": "CONTAR.SI cuenta las celdas que cumplen un criterio. SUMA y PROMEDIO calculan otros resultados. En algunas configuraciones el separador es coma."
+    },
+    {
+     "q": "En un procesador de texto, ¿para qué sirven los estilos de título (Título 1, Título 2, etc.)?",
+     "options": [
+      "Para cambiar el idioma de corrección ortográfica.",
+      "Para dar una estructura al documento y permitir generar automáticamente una tabla de contenido.",
+      "Para proteger el documento con contraseña."
+     ],
+     "answer": 1,
+     "explanation": "Los estilos de título definen la jerarquía y alimentan el índice automático; no protegen ni cambian el idioma."
+    },
+    {
+     "q": "Una estudiante debe entregar un informe en un formato que cualquier computador pueda abrir sin modificar el diseño. ¿Qué formato es más adecuado?",
+     "options": [
+      "DOCX editable con tipografías poco comunes",
+      "Un archivo de texto con tabulaciones",
+      "PDF"
+     ],
+     "answer": 2,
+     "explanation": "El PDF conserva la presentación en distintos equipos. Un documento editable con tipografías raras puede verse distinto."
+    },
+    {
+     "q": "Un computador del aula presenta lentitud con muchos programas abiertos al mismo tiempo. ¿Qué recurso del hardware se está sobrecargando principalmente?",
+     "options": [
+      "La memoria RAM.",
+      "El teclado.",
+      "La pantalla."
+     ],
+     "answer": 0,
+     "explanation": "Muchos programas en ejecución consumen RAM y CPU; si se agota, el sistema usa el disco y se vuelve lento. El teclado y la pantalla no limitan eso."
+    },
+    {
+     "q": "Un docente de Tecnología e Informática desea que sus estudiantes de 8.º busquen, procesen y comuniquen información sobre un problema de la comunidad. ¿Qué secuencia de herramientas es más adecuada?",
+     "options": [
+      "Entregar solo capturas de pantalla de los resultados del buscador.",
+      "Buscar en fuentes confiables, organizar los datos en una hoja de cálculo y presentar los resultados en un documento o presentación.",
+      "Copiar y pegar textos de varios sitios y entregarlos sin citar."
+     ],
+     "answer": 1,
+     "explanation": "La Guía 30 plantea usar las herramientas informáticas para buscar, procesar y comunicar información; implica evaluar fuentes, organizar y comunicar, no copiar sin citar."
+    },
+    {
+     "q": "¿Qué diferencia hay entre guardar un archivo y «guardar como»?",
+     "options": [
+      "«Guardar como» permite elegir un nuevo nombre, formato o ubicación y conserva el archivo original.",
+      "«Guardar» crea siempre una copia con otro formato.",
+      "«Guardar como» elimina el archivo original sin posibilidad de recuperarlo."
+     ],
+     "answer": 0,
+     "explanation": "«Guardar» actualiza el archivo actual; «Guardar como» crea otro archivo con nombre, formato o ubicación distintos."
+    }
+   ]
+  },
+  {
+   "id": "lectura-critica-tesis-argumentos-e-inferencias",
+   "title": "Lectura crítica: tesis, argumentos e inferencias",
+   "track": "Leyes y conocimiento general del concurso",
+   "questions": [
+    {
+     "q": "En un texto argumentativo, ¿cuál es la tesis?",
+     "options": [
+      "La primera frase del primer párrafo, sin importar su contenido.",
+      "El dato más curioso o llamativo del texto.",
+      "La idea central que el autor defiende y que busca que el lector acepte."
+     ],
+     "answer": 2,
+     "explanation": "La tesis es la postura que el autor sostiene; no necesariamente es la primera frase ni un dato."
+    },
+    {
+     "q": "«El transporte escolar gratuito disminuye la deserción en zonas rurales porque reduce el costo y el tiempo de desplazamiento de los estudiantes». ¿Cuál es la tesis del enunciado?",
+     "options": [
+      "El costo y el tiempo de desplazamiento son altos en las zonas rurales.",
+      "El transporte escolar gratuito disminuye la deserción en zonas rurales.",
+      "Los estudiantes rurales abandonan la escuela por razones económicas."
+     ],
+     "answer": 1,
+     "explanation": "La tesis es la afirmación defendida; lo que sigue a «porque» es el argumento que la respalda."
+    },
+    {
+     "q": "En el enunciado anterior, ¿cuál es el argumento que sustenta la tesis?",
+     "options": [
+      "El transporte reduce el costo y el tiempo de desplazamiento.",
+      "El transporte debe ser gratuito para todos los estudiantes del país.",
+      "La deserción es un problema de las zonas rurales."
+     ],
+     "answer": 0,
+     "explanation": "El argumento es la razón que da el autor tras «porque». Las otras opciones cambian o amplían la afirmación."
+    },
+    {
+     "q": "¿Qué es una inferencia?",
+     "options": [
+      "Una conclusión que se deduce de la información del texto sin que esté dicha de manera explícita.",
+      "Una opinión personal sin relación con lo que dice el texto.",
+      "Una repetición literal de una frase del texto."
+     ],
+     "answer": 0,
+     "explanation": "Inferir es construir significado a partir de pistas del texto; copiar o inventar no es inferir."
+    },
+    {
+     "q": "«Al llegar al salón, Camila vio los pupitres desordenados, el tablero sin borrar y varios cuadernos en el suelo; suspiró y buscó la escoba». ¿Qué se puede inferir?",
+     "options": [
+      "Que Camila llegó tarde a clase.",
+      "Que los estudiantes están realizando un examen.",
+      "Que Camila se disponía a ordenar el salón."
+     ],
+     "answer": 2,
+     "explanation": "Las pistas (desorden, suspiro, escoba) permiten inferir que va a limpiar. Los demás datos no tienen apoyo en el texto."
+    },
+    {
+     "q": "«Muchas personas creen que la lectura es una actividad aburrida; sin embargo, los lectores frecuentes describen sus lecturas como fuente de placer y de aprendizaje». ¿Qué función cumple «sin embargo»?",
+     "options": [
+      "Añade una causa de lo afirmado antes.",
+      "Introduce un contraste con lo dicho antes.",
+      "Introduce un ejemplo del enunciado anterior."
+     ],
+     "answer": 1,
+     "explanation": "«Sin embargo» es un conector adversativo que opone dos ideas."
+    },
+    {
+     "q": "¿Qué tipo de conector es «por consiguiente»?",
+     "options": [
+      "Adversativo: introduce una idea que se opone a la anterior.",
+      "Consecutivo: introduce una conclusión derivada de lo anterior.",
+      "Aditivo: añade una idea sin relación causal."
+     ],
+     "answer": 1,
+     "explanation": "«Por consiguiente», «por tanto» y «en consecuencia» marcan una consecuencia lógica."
+    },
+    {
+     "q": "¿Cuál es la diferencia entre un hecho y una opinión?",
+     "options": [
+      "Un hecho es siempre positivo; una opinión siempre es negativa.",
+      "Un hecho se escribe en tercera persona y una opinión siempre en primera.",
+      "Un hecho se puede verificar con evidencia; una opinión expresa una valoración personal."
+     ],
+     "answer": 2,
+     "explanation": "Los hechos son verificables; las opiniones expresan juicios. La forma gramatical no los distingue."
+    },
+    {
+     "q": "¿Cuál de las siguientes frases expresa una opinión?",
+     "options": [
+      "«La tarea de Matemáticas se entrega el viernes».",
+      "«La tarea de Matemáticas tiene diez ejercicios».",
+      "«La tarea de Matemáticas es demasiado larga para estudiantes de sexto»."
+     ],
+     "answer": 2,
+     "explanation": "«Demasiado larga» es una valoración. Los otros enunciados pueden verificarse."
+    },
+    {
+     "q": "«Todos los estudiantes que usan el celular en clase sacan malas notas; por lo tanto, el celular causa el bajo rendimiento». ¿Cuál es el principal problema del razonamiento?",
+     "options": [
+      "Confunde una relación observada con una causa y generaliza sin evidencia suficiente.",
+      "Usa un lenguaje demasiado técnico para el lector.",
+      "No tiene una conclusión explícita."
+     ],
+     "answer": 0,
+     "explanation": "Una correlación no demuestra causalidad y «todos» exige evidencia amplia; el texto sí tiene conclusión explícita."
+    },
+    {
+     "q": "¿Qué supuesto implícito tiene el razonamiento «Si el colegio prohíbe los celulares, los estudiantes se concentrarán más»?",
+     "options": [
+      "Que los celulares son la principal causa de la falta de concentración.",
+      "Que los estudiantes no tienen otros recursos para estudiar.",
+      "Que las normas del colegio siempre se cumplen sin excepción."
+     ],
+     "answer": 0,
+     "explanation": "La conclusión solo se sostiene si se asume que el celular es la causa principal de la distracción; el supuesto no está dicho en el texto."
+    },
+    {
+     "q": "Un autor critica una política pública presentando solo los datos negativos y omitiendo los positivos. ¿Cómo se denomina este recurso?",
+     "options": [
+      "Argumentación por definición.",
+      "Argumentación sesgada o parcial.",
+      "Argumentación por analogía."
+     ],
+     "answer": 1,
+     "explanation": "Presentar solo la evidencia que favorece una postura es una argumentación sesgada."
+    },
+    {
+     "q": "En un párrafo, ¿cuál es la mejor estrategia para identificar la idea principal?",
+     "options": [
+      "Buscar la idea de la que dependen y que explican las demás oraciones.",
+      "Elegir siempre la última oración.",
+      "Escoger la oración más larga del párrafo."
+     ],
+     "answer": 0,
+     "explanation": "La idea principal es la que organiza las demás; su posición y longitud varían."
+    },
+    {
+     "q": "«La biblioteca escolar recibió 200 libros nuevos. Esto permitió que los estudiantes de básica primaria cuenten con textos actualizados y que los docentes diversifiquen sus actividades de lectura». ¿Qué intención predomina?",
+     "options": [
+      "Informar sobre un hecho y sus efectos.",
+      "Narrar una anécdota personal.",
+      "Convencer al lector de donar libros."
+     ],
+     "answer": 0,
+     "explanation": "El texto presenta un hecho y sus consecuencias sin pedir una acción ni contar una historia."
+    },
+    {
+     "q": "Un texto afirma: «Los videojuegos son nocivos». Para evaluar si el argumento es sólido, ¿qué debe revisar el lector?",
+     "options": [
+      "Si el texto es más largo que otros sobre el mismo tema.",
+      "Si el autor escribió con mucha seguridad.",
+      "Si la afirmación se apoya en evidencias verificables y fuentes confiables."
+     ],
+     "answer": 2,
+     "explanation": "La solidez depende de la evidencia y de las fuentes, no del tono ni de la extensión."
+    },
+    {
+     "q": "«Si reducimos el número de estudiantes por grupo, el docente podrá dar atención personalizada». ¿Qué tipo de relación establece el enunciado?",
+     "options": [
+      "Una relación de oposición entre dos hechos.",
+      "Una relación condicional entre una acción y su posible resultado.",
+      "Una relación de ejemplificación de una idea general."
+     ],
+     "answer": 1,
+     "explanation": "La estructura «si… entonces…» expresa una condición y su consecuencia."
+    },
+    {
+     "q": "Un estudiante afirma: «El autor dice que se deben eliminar las tareas». El texto dice: «Es necesario reducir las tareas repetitivas y reemplazarlas por proyectos». ¿Cuál es el error del estudiante?",
+     "options": [
+      "Dedujo una idea que el autor no mencionó, pero que es coherente con el texto.",
+      "Citó textualmente las palabras del autor.",
+      "Generalizó y alteró lo dicho por el autor, quien propone reducir las tareas repetitivas, no eliminarlas todas."
+     ],
+     "answer": 2,
+     "explanation": "Una lectura crítica distingue lo que el texto dice de lo que el lector supone o exagera."
+    },
+    {
+     "q": "Un docente presenta dos textos con posturas opuestas sobre el uso de uniformes y pide a los estudiantes decidir cuál argumenta mejor. ¿Qué criterio es más pertinente?",
+     "options": [
+      "La calidad y la pertinencia de los argumentos y la evidencia que presenta cada texto.",
+      "Cuál de los textos es más extenso.",
+      "Cuál texto coincide con la opinión del estudiante."
+     ],
+     "answer": 0,
+     "explanation": "La evaluación crítica se basa en razones y evidencias, no en la extensión ni en las preferencias personales."
+    },
+    {
+     "q": "«Los estudiantes de la jornada de la tarde llegan más cansados; en consecuencia, rinden menos». ¿Cuál es una forma de comprobar si esta afirmación es válida?",
+     "options": [
+      "Aceptarla porque el docente lo ha observado en su salón.",
+      "Comparar el rendimiento de ambas jornadas considerando otros factores, como el nivel de los grupos.",
+      "Descartarla porque el cansancio no se puede medir."
+     ],
+     "answer": 1,
+     "explanation": "Se verifica con datos comparables y controlando otras variables; la experiencia aislada no basta y el cansancio puede estudiarse."
+    },
+    {
+     "q": "¿Qué función cumple un ejemplo dentro de un texto argumentativo?",
+     "options": [
+      "Introducir un tema sin relación con el resto del texto.",
+      "Ilustrar o respaldar un argumento para hacerlo más comprensible o convincente.",
+      "Reemplazar la tesis del autor."
+     ],
+     "answer": 1,
+     "explanation": "Los ejemplos concretan y apoyan los argumentos; no sustituyen la tesis ni cambian de tema."
+    }
+   ]
+  }
+ ]
+}
